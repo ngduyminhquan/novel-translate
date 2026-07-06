@@ -1,0 +1,339 @@
+--- PAGE 92 ---
+BONUS STAGE?
+My wounds from that frog healed up nicely when I leveled up, so my
+exploration has resumed.
+Before long, I find my first prey of the day. Now, this is a monster I’ve
+never seen before.
+It has tons of legs, like a centipede.
+Well, might as well Appraise it first.
+<Elroe ferect: Status Appraisal Failed>
+Hmm? Failed? Aw, man, it doesn’t show the level.
+So Appraisal can fail, then. I didn’t know that.
+Not like it makes much of a difference at the moment, anyway.
+The frog I fought earlier noticed me, but this centipede hasn’t.
+This is my chance for a real surprise attack!
+Speedily yet stealthily, I sneak up behind my opponent.
+Swish, swish, swish… Hello there, time to die!
+My ambush is perfectly successful.
+In fact, my victory is so complete that it’s almost anticlimactic.
+I completely bind the creature with my thread. Then, I drive my
+venomous fangs into it to finish the job.
+The centipede looks unappetizing, and sure enough, eating it is totally
+gross.
+On top of that, it must have a weird poison or something, because I feel
+kinda sick after eating it.
+My body has gone weirdly stiff.
+Man, since being reincarnated as a spider, I haven’t eaten a single meal
+that could be considered tasty by any stretch of the imagination.
+I know it’s a luxury, but I really want to eat delicious food again.
+
+--- PAGE 93 ---
+Ahh… I wonder if there’s any cup ramen lying around somewhere…
+Probably not, huh. Giving up on that, I continue my exploration.
+<Proficiency has reached the required level. Skill [Appraisal LV 3] has become [Appraisal LV 4].>
+Oh, my Appraisal skill finally leveled up.
+Recently, I’ve stopped feeling quite so sick from Appraising a bunch of
+things at once, so that’s nice.
+Now, what new info will I get this time?
+<Small lesser taratect       LV 6       Nameless>
+Huh? It didn’t change at all?
+Wait, no. Underneath my species name are a few colored lines.
+From the top, they’re green, blue, yellow, and red, with the latter two
+stuck to each other like a single thick line.
+What’s this?
+<HP Bar>
+<MP Bar>
+<SP Bar>
+When I Appraise the bars, I discover that the first two lines are the hit
+points that represent my life force and the points representing my magical
+power, respectively.
+I still don’t really understand what the “SP” bar is, though.
+Appraising it again, I learn that it’s Stamina Points.
+Maybe it’s a physical analogue to magical power that decreases as I move
+or something?
+Hmm? But why are there two gauges?
+The yellow bar on top is full, while the bottom red gauge is reduced by
+about a third.
+What’s the difference between these two? I don’t get it.
+But it’ll be good to keep an eye on my HP, so if possible, I want to
+Appraise myself continuously.
+I try to do so. Hmm, maybe it’s kind of like this?
+Okay. I think it’s actually working.
+Now, as long as I don’t deliberately cancel the Appraisal, I’ll be able to
+check my HP at any time. That’s pretty damn convenient.
+Then again, seeing your own health is handy and all, but wouldn’t being
+
+--- PAGE 94 ---
+able to know an opponent’s HP, MP, and stuff be even better?
+If I know how much HP an opponent has left, I can guess how much
+longer it’ll take to beat them, and if I know when they’re about to run out of
+MP, victory would be as good as mine.
+Having even a part of the enemy’s information would be a huge
+advantage in a fight.
+Does this mean this skill has finally become cheat-code-level useful?
+Heh-heh-heh. I knew it! This is why I acquired the seemingly useless
+Appraisal skill!
+It’s certainly not like I had no clue any of this would happen!
+Yeah, let’s go with that!
+Okay, anyway, back to exploring. Oh, hey, another monster.
+<Elroe ferect       LV 2: Status Appraisal Failed>
+I take it all back. This stupid skill is useless. Why fail me when it matters
+most…?
+Sigh. I’m an idiot for getting my hopes up.
+At any rate, I should probably do something about the centipede monster I
+found.
+Hmm. But this time, I don’t seem to be in a good position for a surprise
+attack…
+It seems like it hasn’t spotted me yet, but it’s facing this way.
+Oh, I just had a great idea!
+Sneakily, I start climbing on the wall. Having a spider body is super-
+convenient at times like this. I keep moving until I reach the top.
+Oof, clinging to the ceiling upside down is a little rough. But as long as I
+brace my legs, it isn’t too bad.
+Just like that, I continue scuttling along the roof. Hang in there, legs!
+Hmm? My stamina gauge is decreasing?
+Well, I have to focus on my strategy at the moment, since I’ve just arrived
+over the centipede.
+Nice, nice. It hasn’t noticed that I’m right above it.
+I attach a thread to the ceiling, then descend straight down toward my
+prey.
+Then I leap on top of it.
+The centipede monster flies into a panic, but it’s too late.
+Hope you like getting wrapped up in thread! And, chomp! Bwa-ha-ha!
+
+--- PAGE 95 ---
+Operation “Whoa! Look out above!” was a huge success!
+All right, time for another hard-earned meal.
+Hmm.
+As I eat, I think back to the stamina gauge situation from a second ago.
+While I was holding on to the ceiling, it was the yellow upper gauge that
+decreased.
+It had gone down very slowly as I braced my legs.
+But now it’s fully recovered. Hmm?
+<Proficiency has reached the required level. Acquired skill [Paralysis Resistance LV 1].>
+Whoa! So the centipede could cause paralysis?
+If I hadn’t defeated this guy with a surprise attack, that could’ve turned
+out way worse!
+I better be more careful with them from now on.
+Hmm? Hmmm?
+The red lower stamina gauge seems to be recovering little by little…
+It was about a third empty before, but now it’s going back up.
+Why? Did I do something that would make my stamina recover?
+…Oh yeah: I’m eating. Aha! So that’s it! Now I get it.
+In other words, the red gauge displays my total stored physical energy.
+So maybe the yellow upper gauge is stamina that I use moment to
+moment, then?
+To test it out, I try dashing around at full speed for a bit.
+The yellow gauge empties in the blink of an eye. As soon as it runs out,
+my strength is exhausted.
+Huff…huff…
+Geez, how stupid was that, running around right after eating? My stomach
+hurts. Oof.
+But that proved it.
+The yellow bar displays immediately available power. When that drops to
+zero, I get short of breath.
+But since that stamina is consumed instantaneously, it recovers quickly,
+too.
+By the time I catch my breath in reality, the stamina gauge has steadily
+recovered.
+
+--- PAGE 96 ---
+The red gauge below that represents my total physical strength. This one
+also went down a bit when I ran a moment ago.
+If the red bar runs out, I’m probably in trouble.
+Like, I might not be able to move anymore or something. I’d rather avoid
+that scenario, thank you very much.
+Food and nourishment seem to restore it, so I just have to be mindful of
+how much I have left.
+Swish, swish, swish… Fwump! Spin, spin, spin. Chomp!
+Thanks for the meal.
+<Experience has reached the required level. Individual small lesser taratect has increased from LV
+6 to LV 7.>
+<All basic attributes have increased.>
+<Skill proficiency level-up bonus acquired.>
+<Skill points acquired.>
+Hey, I leveled up again.
+Too bad none of my skills went up this time, but that’s all right.
+Oh, more prey.
+Swish, swish, swish…
+<Proficiency has reached the required level. Acquired skill [Stealth LV 1].>
+Fwump! Spin, spin, spin. Chomp!
+Thanks for the meal.
+Hmm? Wait, was there something new in the latest announcement? I think
+the Divine Voice (temp.) said something just now.
+Huh? Skill? Stealth? Does that make it harder for enemies to notice me?
+Oh hey, more food.
+Swish, swish, swish… Fwump! Spin, spin, spin. Chomp!
+<Condition satisfied. Acquired title [Assassin].>
+<Acquired skills [Stealth LV 1] [Shadow Magic LV 1] as a result of Title [Assassin].>
+<Skill [Stealth LV 1] has been integrated into [Stealth LV 1].>
+Thanks for the meal.
+Hmm? I heard something again. A title? Come to think of it, this was the
+
+--- PAGE 97 ---
+first time I’ve gotten any titles since Kin Eater and Foul Feeder.
+Assassin, huh? It feels like I’m becoming more ninja-like by the minute.
+Whoopsie, dinnertime.
+Swish, swish, swish… Fwump! Spin, spin, spin. Chomp!
+<Condition satisfied. Acquired title [Monster Slayer].>
+<Acquired skills [Strength LV 1] [Solidity LV 1] as a result of Title [Monster Slayer].>
+Thanks for the meal.
+Ooh? I heard something again.
+Monster Slayer? Well, yeah, I’ve been doing nothing but laying monsters
+low the whole time I’ve been in this dungeon. A little late for a title like that,
+no?
+Maybe it’s that sort of system? The type where you get a title for killing a
+certain number of monsters?
+Hmm.
+Wha—?! Yet another victim!
+Swish, swish, swish… Fwump! Spin, spin, spin. Chomp!
+Thanks for the meal.
+<Proficiency has reached the required level. Acquired skill [Overeating LV 1].>
+Again? This sure is a busy day.
+Wait, what do you mean, overeating? What kind of a skill name is that?
+Does it have a negative effect or something?
+……Okay, wait just a minute.
+I’ve been ignoring it all up until now, but doesn’t it seem like that voice
+has been doing its thing a lot today?
+Yeah, that thing always does its thing ’cause it does the thing to the thing.
+Okay. I should probably calm down for a second.
+I’ve leveled up.
+Cool. It was bound to happen sooner or later, with all the hunting I’ve
+been doing.
+I got a Stealth skill.
+That’s fine, too. I’m not sure how useful it’ll be, but it sure beats nothing,
+and I’ll take whatever I can get.
+I received a title.
+
+--- PAGE 98 ---
+Isn’t that strange? No, getting a title is a good thing, right? Decent, at
+least?
+But two came in a row, right? What were they?
+Uh, let’s see…
+Assassin and Monster Slayer. They both sound awfully violent. Well, that
+isn’t any different from any of the titles I already have, huh? A little late to
+gripe about that now.
+So, Assassin sounds like a ninja, right?
+Same for the skills that come with it, Stealth and Shadow Magic.
+Shadow Magic… Does that mean I can go in and out of shadows and
+stuff?
+There ought to be some spells to help me hide in the shadows and
+assassinate things, at least.
+But either way, I don’t know how to use it. I told you, I don’t know how
+this magic system works!
+Ugh, can I get a manual already?
+I don’t know what Monster Slayer is supposed to be about, either.
+What now? Strength and Solidity? Those are such vague skill names that I
+have no idea what they do, either.
+Hmm? Thinking about it logically, maybe they enhance my stats like
+attack and defense power or something?
+Either that, or they’re supplementary skills that temporarily raise stats for
+a fixed period of time.
+The former would be fine, but if it’s the latter, I have no idea how to use
+it. I try just thinking the skill names like I do with Appraisal, but nothing
+seems to happen. I guess my only option is to leave well enough alone, then.
+So what was that last part? Overeating?
+Seriously, is that a negative skill?
+Who says something like that to a girl, anyway? You wanna pick a fight
+with me, Divine Voice (temp.)?
+Are you calling me fat?! I’m not! Absolutely not! I just get a little chubby
+right after eating sometimes, that’s all! It goes right back to normal after a
+good night’s sleep! Feast your eyes on these legs, would ya?! They’re so
+slender, they might break at any moment! Human beings only wish they
+could have stick legs like these! And yet you dare to call me fat?! Aside from
+right after a meal, I’m super-skinny, thank you very much!
+
+--- PAGE 99 ---
+Huff…huff…
+…Well, that was pointless.
+Nobody really called me fat in my previous life, anyway, so I might’ve
+overreacted a bit.
+If anything, they made fun of me for being skin and bones…
+But anyway, today is actually a big day for breakthroughs, huh?
+I haven’t gotten this many skills and bonuses at once before. Maybe I
+could keep on raking them in like this.
+What, is that too optimistic? Yeaaaah, probably.
+My labyrinth exploration is going smoothly.
+In fact, I’m on the verge of bursting into laughter.
+This seems to be centipede territory, considering they’re everywhere.
+These guys are great for grinding EXP. Their senses must be awfully dull
+or something, because they never pick up on my surprise attacks. As long as I
+come at them from behind or above, my victory is practically guaranteed.
+Thanks to that, I’m beating them effortlessly.
+Since I’ve been eating so many centipedes, my Paralysis Resistance skill
+is already level 3.
+I also improved the efficiency of my hunting with various experiments
+and developed something I call a mobile web. All that means is that I carry
+around a small spiderweb. But if I prepare one before getting into a fight, I
+can wrap up my prey without having to make thread in the middle of battle,
+so it’s pretty handy.
+I tried other things, too, like making clothes or detecting enemies with my
+silk, but those all ended in failure.
+I can’t wear clothes to begin with, and while it isn’t impossible to use
+thread to sense enemies, it takes so much concentration that I wind up getting
+distracted and missing what’s happening right in front of me, so I ended up
+scrapping the idea.
+Since I have such a large food supply in the form of centipedes, I could
+afford to do my fruitless experiments.
+Today, as usual, I’m hard at work hunting. Hoo, boy. Is this centipede
+heaven or what?
+I hum a nasally little tune as I explore. Well, really I’m just imagining
+
+--- PAGE 100 ---
+music in my head; I can’t actually hum. In fact, do I even have a nose? Well,
+no use worrying about that.
+Oh? The path is broken? Doesn’t look impassable, though.
+This labyrinth isn’t just huge; it also doesn’t have any dead ends as far as I
+can tell.
+The path I’ve been following for a while now just keeps on going, without
+any blockage.
+This is good, since it means I probably can’t get cornered if something is
+chasing me, but when I consider that all the passages in this maze might go
+on this long, I feel like heaving a hopeless sigh.
+The break in the path ahead of me is due to some kind of cliff.
+In the middle of the interrupted road, I can see a wide, empty space.
+Have I finally passed out of this narrow maze zone?
+If so, what kind of place is next? Nothing like the spider hell I first came
+from, I hope.
+I peek over the edge of the cliff cautiously.
+<Elroe ferect       LV 2: Status Appraisal Failed>
+<Elroe ferect       LV 2: Status Appraisal Failed>
+<Elroe ferect       LV 2: Status Appraisal Failed>
+<Elroe ferect       LV 2: Status Appraisal Failed>
+<Elroe ferect       LV 2: Status Appraisal Failed>
+<Elroe ferect       LV 2: Status Appraisal Failed>
+And so on and so forth.
+<Proficiency has reached the required level. Skill [Appraisal LV 4] has become [Appraisal LV 5].>
+Geh! My head!
+The information from my Appraisal floods my brain, making it ache as if
+someone smashed a hammer into it.
+Whew, felt like I was going to faint for a moment. That was close.
+I guess if you Appraise too much at once, the excessive information
+literally hurts.
+It makes sense that that could knock you out.
+……Wait. Enough information that I almost lost consciousness?
+Nervously, I peer down over the cliff again.
+Really, it’s only about three feet high.
+
+--- PAGE 101 ---
+Right below, there’s a wide, spacious area.
+But despite its size, the area doesn’t actually feel particularly roomy.
+That’s because it’s teeming with centipedes.
+Wha—?! What the hell is this?! Centipedes, centipedes, centipedes, as far
+as the eye can see!
+Oof, that’s disgusting. I feel like I’m gonna be sick.
+Huh?
+What are you all looking at, Mr. Centipedes? Me? C’mon, what would
+you be interested in me for?
+……Okay, I’d better book it. Fly like the wind! I turn around and sprint
+back the way I came.
+Patter-patter-patter-patter-patter!!!
+Eeeeek! They’re chasing meee?!
+I’m sorry I got carried away! Please, let’s just call it even!
+My yellow stamina gauge is empty. Ugh, it hurts. But I’ll die if I stop
+now!
+I have to run for my life if I want to survive!
+With the yellow bar gone, the red one begins to slowly decrease.
+In the end, I run until about half of the red gauge is depleted, when I’ve
+finally managed to lose the centipede army.
+Man, I thought I was seriously gonna die back there.
