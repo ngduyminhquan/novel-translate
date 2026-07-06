@@ -27,7 +27,7 @@
 | 7 | Filimõs Harrifenas | Filimõs Harrifenas | Tên kiếp sau của cô Oka (Elf) |
 | 8 | Sue / Suriya | Sue / Suriya | Em gái cùng cha khác mẹ của Schlain |
 | 9 | Fei / Feirune / Mirei Shinohara | Fei / Feirune / Shinohara Mirei | Tái sinh thành Quang Phi Long |
-| 10 | Hugo Bando Vandwald | Hugo Bando Vandwald | Tái sinh thành thái tử đế quốc |
+| 10 | Hugo Baint Renxandt / Hugo Bando Vandwald | Hugo Baint Renxandt | Tên kiếp sau của Kengo Natsume (Thái tử Đế quốc Renxandt) |
 | 11 | Yuri Uren | Yuri Uren | Tái sinh thành thánh nữ |
 | 12 | Julius | Julius | Anh trai Schlain (Anh hùng hiện tại) |
 | 13 | Leston | Leston | Hoàng huynh của Schlain |
@@ -36,6 +36,10 @@
 | 16 | Goyef | Goyef | Người dẫn đường Mê cung Lớn Elroe |
 | 17 | Okina Baba | Baba Okina | Tác giả tiểu thuyết |
 | 18 | Tsukasa Kiryu | Tsukasa Kiryu | Họa sĩ minh họa tiểu thuyết |
+| 19 | Yuika Hasebe | Hasebe Yuika | Học sinh tái sinh (Ứng cử viên Thánh nữ) |
+| 20 | Yaana | Yaana | Thánh nữ đồng hành của Anh hùng Julius |
+| 21 | Jeskan | Jeskan | Cựu mạo hiểm giả trong tổ đội Julius |
+| 22 | Hawkin | Hawkin | Cựu tặc trong tổ đội Julius |
 
 ---
 
@@ -49,6 +53,8 @@
 | 4 | Keren County | Hạt Keren | Địa danh | Lãnh địa biên giới |
 | 5 | Daztrudia | Lục địa Daztrudia | Lục địa | Lục địa tập trung nhiều quốc gia loài người |
 | 6 | Kasanagara | Lục địa Kasanagara | Lục địa | Lục địa lớn nhất thế giới |
+| 7 | Holy Kingdom of Alleius | Thánh quốc Alleius | Quốc gia | Thánh quốc trung tâm giáo phái Thần ngôn |
+| 8 | Renxandt Empire | Đế quốc Renxandt | Quốc gia | Quốc gia quân phiệt loài người lớn nhất ở Kasanagara |
 
 ---
 
@@ -79,8 +85,8 @@
 | 21 | Stronghold | Kiên cố | Kỹ năng thụ động | Tiến hóa từ Cứng cáp (Solidity), tăng cực đại phòng ngự cộng thêm khi tăng cấp |
 | 22 | Skanda | Thần tốc (Skanda) | Kỹ năng thụ động | Tiến hóa từ Tốc độ, tăng cực đại tốc độ cộng thêm khi tăng cấp |
 | 23 | Vision Expansion | Mở rộng Tầm nhìn | Kỹ năng thụ động | Tăng rộng trường quan sát của cá thể |
-| 24 | Magic Perception | Cảm nhận ma pháp | Kỹ năng thụ động | Cảm nhận dòng chảy ma lực xung quanh |
-| 25 | Magic Operation | Thao tác ma pháp | Kỹ năng thụ động | Điều khiển dòng chảy ma lực bên trong cơ thể |
+| 24 | Magic Perception | Cảm nhận Ma lực | Kỹ năng thụ động | Cảm nhận dòng chảy ma lực xung quanh |
+| 25 | Magic Operation | Thao tác Ma lực | Kỹ năng thụ động | Điều khiển dòng chảy ma lực bên trong cơ thể |
 | 26 | Telepathy | Thần giao cách cảm | Kỹ năng chủ động | Giao tiếp thông qua sóng tư duy phi ngôn ngữ |
 | 27 | Pain Nullification | Vô hiệu Đau | Kỹ năng thụ động | Cấp tối đa của Kháng Đau, hoàn toàn vô hiệu hóa cảm giác đau |
 | 28 | Pain Mitigation | Giảm Đau | Kỹ năng thụ động | Phái sinh từ Vô hiệu Đau, giúp cơ thể bớt đau buốt |
@@ -107,6 +113,76 @@
 | 49 | Herculean Strength | Cự lực | Kỹ năng thụ động | Dạng tiến hóa của Sức mạnh (Strength), gia tăng mạnh sức mạnh vật lý |
 | 50 | Sturdy | Vững chãi | Kỹ năng thụ động | Dạng tiến hóa của Cứng cáp (Solidity), gia tăng mạnh phòng ngự vật lý |
 | 51 | Magic Mass | Ma lượng | Kỹ năng thụ động | Tăng lượng cực đại MP của cá thể |
+| 52 | Abyss Magic | Ma pháp Vực sâu | Ma pháp | Ma pháp hắc ám cấp độ cao nhất |
+| 53 | Hades | Hades | Kỹ năng chủ động | Chiêu thức triệu gọi Hades |
+| 54 | Hell Gate | Địa Ngục Môn | Ma pháp | Phép thuật hệ Vực sâu cấp 1 |
+| 55 | Hell of Unbelief | Địa ngục Vô tín | Ma pháp | Phép thuật hệ Vực sâu cấp 2 |
+| 56 | Hell of Lust | Địa ngục Ái dục | Ma pháp | Phép thuật hệ Vực sâu cấp 3 |
+| 57 | Hell of Gluttony | Địa ngục Phàm ăn | Ma pháp | Phép thuật hệ Vực sâu cấp 4 |
+| 58 | Hell of Greed | Địa ngục Tham lam | Ma pháp | Phép thuật hệ Vực sâu cấp 5 |
+| 59 | Hell of Wrath | Địa ngục Phẫn nộ | Ma pháp | Phép thuật hệ Vực sâu cấp 6 |
+| 60 | Hell of Heresy | Địa ngục Dị giáo | Ma pháp | Phép thuật hệ Vực sâu cấp 7 |
+| 61 | Hell of Violence | Địa ngục Bạo lực | Ma pháp | Phép thuật hệ Vực sâu cấp 8 |
+| 62 | Hell of Fraud | Địa ngục Gian trá | Ma pháp | Phép thuật hệ Vực sâu cấp 9 |
+| 63 | Hell of Treachery | Địa ngục Phản bội | Ma pháp | Phép thuật hệ Vực sâu cấp 10 |
+| 64 | Prediction | Dự đoán | Kỹ năng thụ động | Gia tăng khả năng tư duy khi dự đoán |
+| 65 | Parallel Thinking | Tư duy Song song | Kỹ năng thụ động | Cho phép suy nghĩ nhiều luồng độc lập cùng lúc |
+| 66 | Arithmetic Processing | Xử lý Tính toán | Kỹ năng thụ động | Tăng cường khả năng xử lý tính toán của trí óc |
+| 67 | Auditory Enhancement | Tăng cường Thính giác | Kỹ năng thụ động | Tăng cường thính lực của tai |
+| 68 | Olfactory Enhancement | Tăng cường Khứu giác | Kỹ năng thụ động | Tăng cường khứu giác |
+| 69 | Tactile Enhancement | Tăng cường Xúc giác | Kỹ năng thụ động | Tăng cường xúc giác toàn thân |
+| 70 | Visual Enhancement | Tăng cường Thị giác | Kỹ năng thụ động | Tăng cường tầm nhìn |
+| 71 | Spatial Maneuvering | Cơ động Không gian | Kỹ năng chủ động | Cho phép nhảy nhót loăng quăng và chuyển động trên không trung |
+| 72 | Destruction Enhancement | Tăng cường Hủy diệt | Kỹ năng thụ động | Gia tăng lực tấn công và sức hủy diệt vật lý nói chung |
+| 73 | Cutting Enhancement | Tăng cường Cắt | Kỹ năng thụ động | Gia tăng lực tấn công của các đòn đánh dạng chém |
+| 74 | Energy Conferment | Truyền Năng lượng | Kỹ năng chủ động | Khả năng truyền năng lượng hoặc SP cho mục tiêu |
+| 75 | Light Field | Quang Vực | Ma pháp | Quang Ma pháp cấp 10, bao phủ phạm vi rộng bằng ánh sáng và gây sát thương |
+| 76 | Holy Light Beam | Thánh Quang Pháo | Ma pháp | Thánh Quang Ma pháp cấp 7, bắn ra chùm sáng mạnh theo đường thẳng |
+| 77 | Light Barrier | Quang Mạc | Ma pháp | Quang Ma pháp tạo ra lớp khiên chắn ánh sáng phòng ngự |
+| 78 | Thought Acceleration | Gia tốc Tư duy | Kỹ năng thụ động | Đẩy nhanh quá trình tư duy, làm chậm nhận thức thời gian |
+| 79 | Foresight | Tiên kiến | Kỹ năng thụ động | Cho phép nhìn thấy tương lai có thể xảy ra ở dạng ảnh chồng chéo |
+| 80 | Threadsmanship | Tơ nghệ | Kỹ năng thụ động | Cải thiện khả năng xử lý và điều khiển tơ nhện nói chung |
+| 81 | Protection | Bảo hộ | Kỹ năng thụ động | Gia tăng khả năng tự vệ và giảm sát thương nhận vào |
+| 82 | Water Magic | Thủy Ma pháp | Ma pháp | Ma pháp điều khiển thuộc tính nước |
+| 83 | Earth Magic | Thổ Ma pháp | Ma pháp | Ma pháp điều khiển thuộc tính đất |
+| 84 | Water Ball | Thủy Cầu | Ma pháp | Phép thuật hệ Thủy cấp 1, bắn ra quả cầu nước |
+| 85 | Heat Wrap | Quấn Nhiệt | Kỹ năng chủ động | Khả năng bao phủ cơ thể bằng nhiệt để tăng tốc độ di chuyển |
+| 86 | Dragon Scales | Long Lân | Kỹ năng thụ động | Cho phép mọc vảy rồng giúp tăng thủ vật lý và giảm uy lực ma pháp |
+| 87 | Probability Correction | Hiệu chỉnh Xác suất | Kỹ năng thụ động | Kỹ năng điều chỉnh xác suất có lợi cho người sở hữu |
+| 88 | High-Speed Swimming | Bơi tốc độ cao | Kỹ năng chủ động | Giúp di chuyển với tốc độ cao dưới chất lỏng (nước, dung nham) |
+| 89 | Flame Breath | Hơi thở Lửa | Kỹ năng chủ động | Phun ngọn lửa bao phủ phạm vi rộng lớn |
+| 90 | Solidity | Cứng cáp | Kỹ năng thụ động | Tăng chỉ số phòng ngự vật lý |
+| 91 | Life Exchange | Trao đổi Sinh mệnh | Kỹ năng chủ động | Hồi phục HP bằng cách tiêu hao thể lực SP |
+| 92 | Rot Attack | Hủ thực Công kích | Kỹ năng chủ động | Tấn công mang thuộc tính phân hủy/héo tàn cực kỳ nguy hiểm |
+| 93 | Silence | Vô thanh | Kỹ năng chủ động | Triệt tiêu hoàn toàn âm thanh do người sở hữu phát ra |
+| 94 | Utility Thread | Tơ Đa Năng | Kỹ năng chủ động | Kỹ năng dệt tơ nâng cấp có thể tự do tùy biến thuộc tính |
+| 95 | Perseverance | Kiên trì | Kỹ năng thụ động | Kỹ năng Ruler, tiêu hao MP để duy trì 1 HP bất chấp sát thương nhận vào |
+| 96 | Heresy Nullification | Vô hiệu Dị giáo | Kỹ năng thụ động | Vô hiệu hóa hoàn toàn mọi đòn tấn công trực tiếp vào linh hồn |
+| 97 | Conviction | Phán xét | Kỹ năng chủ động | Gây sát thương không thể kháng cự tỷ lệ thuận với tội lỗi của mục tiêu |
+| 98 | Wisdom | Trí Tuệ | Kỹ năng đặc biệt | Kỹ năng Ruler do quản trị viên D kiến tạo |
+| 99 | Height of Occultism | Cực đỉnh Thần bí | Kỹ năng thụ động | Tự động tối đa hóa các chỉ số liên quan đến thuật thức ma pháp |
+| 100 | Celestial Power | Thiên lực | Kỹ năng thụ động | Cộng thêm 1.000 điểm hiệu chỉnh vào các chỉ số MP, ma pháp và kháng tính |
+| 101 | Gorge | Bão Thực | Kỹ năng thụ động | Tiến hóa từ Phàm ăn, cho phép tích trữ năng lượng dư thừa cho HP, MP, SP |
+| 102 | Acceleration | Gia tốc | Kỹ năng thụ động | Tiến hóa từ Bộc phát lực, tăng tỉ lệ phát triển tốc độ khi lên cấp |
+| 103 | Durability | Ngoan cường | Kỹ năng thụ động | Tiến hóa từ Bền bỉ, tăng tỉ lệ phát triển sức bền khi lên cấp |
+| 104 | Telescopic Sight | Thị giác Viễn vọng | Kỹ năng chủ động/thụ động | Phóng to hình ảnh các vật thể ở xa |
+| 105 | Evil Eye | Tà Nhãn | Kỹ năng | Dòng kỹ năng gây hiệu ứng qua tầm nhìn |
+| 106 | Cursed Evil Eye | Nguyền Rủa Tà Nhãn | Kỹ năng chủ động | Gây sát thương thuộc tính nguyền rủa và làm suy yếu chỉ số mục tiêu |
+| 107 | Poison Shot | Độc Đạn | Ma pháp | Phép thuật hệ Độc cấp 2, bắn ra quả cầu độc |
+| 108 | Poison Touch | Độc Xúc | Ma pháp | Phép thuật hệ Độc cấp 1, gây sát thương độc khi chạm vào (gây hại cho cả người dùng) |
+| 109 | Poison Resist | Thuật Kháng Độc | Ma pháp | Phép thuật hệ Độc cấp 3, tạm thời tăng khả năng kháng độc |
+| 110 | Parallel Minds | Phân thân Tư duy | Kỹ năng thụ động | Tiến hóa từ Tư duy Song song, phân tách tâm trí thành các phân khu độc lập |
+| 111 | Imperial Scales | Long Lân Đế Vương | Kỹ năng thụ động | Phiên bản nâng cấp của Long Lân, tăng thủ và làm chệch cấu trúc ma pháp |
+| 112 | Light Attack | Quang Công Kích | Kỹ năng | Đòn tấn công mang thuộc tính ánh sáng |
+| 113 | Desire | Dục Vọng | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
+| 114 | Wrath | Phẫn Nộ | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
+| 115 | Usurp | Cướp Đoạt | Kỹ năng | Cướp đoạt chỉ số/kỹ năng của mục tiêu |
+| 116 | Crude | Thô Bạo | Kỹ năng | Kỹ năng tăng cường sát thương thô bạo |
+
+
+
+
+
 
 ---
 
@@ -160,6 +236,43 @@
 | 44 | Monster Slaughterer | Kẻ tàn sát quái vật | Danh hiệu | Danh hiệu nâng cấp của Kẻ diệt quái vật (Monster Slayer) |
 | 45 | Small poison taratect | Tiểu Taratect Độc | Chủng tộc quái vật | Dạng tiến hóa chuyên hóa về độc tố của loài nhện Taratect |
 | 46 | Labyrinth guide | Người dẫn đường mê cung | Thuật ngữ | Nghề dẫn đường chuyên nghiệp trong Mê cung Lớn Elroe |
+| 47 | Ruler of Pride | Kẻ Thống Trị Kiêu Hãnh | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Kiêu hãnh |
+| 48 | Elroe Mowajitz | Mowajitz Elroe | Quái vật | Quái vật dạng chó sói đầu hươu sinh sống trong mê cung |
+| 49 | Gunerush Elroe | Gunerush Elroe | Quái vật | Loài Hỏa Long cấp thấp sinh sống ở Tầng Trung |
+| 50 | Earth Dragon Kagna | Địa Long Kagna | Quái vật | Loài địa long khổng lồ, đô con cư ngụ tại Tầng Trung |
+| 51 | The Nightmare’s Vestige | Tàn tích của Cơn Ác Mộng | Quái vật | Con quái vật nhện đột biến được đồn đại là do Cơn Ác Mộng của Mê cung để lại |
+| 52 | The Nightmare of the Labyrinth | Cơn Ác Mộng của Mê cung | Thuật ngữ / Quái vật | Con nhện khổng lồ xuất hiện khoảng 10 năm trước tàn sát vô số người |
+| 53 | Elroe guneseven | Guneseven Elroe | Quái vật | Loài Hỏa Long cấp thấp dạng cá trê sinh sống ở Tầng Trung |
+| 54 | Poison Technique User | Người dùng Độc thuật | Danh hiệu | Danh hiệu đạt được khi sử dụng độc tố để chiến đấu và chế tạo |
+| 55 | Ruling Class Privileges | Đặc quyền Kẻ thống trị | Thuật ngữ | Quyền hạn đặc biệt được cấp cho những kẻ sở hữu danh hiệu Thống trị |
+| 56 | Elroe gunerave | Gunerave Elroe | Quái vật | Loài Hỏa Long cấp thấp dạng lươn sinh sống ở Tầng Trung |
+| 57 | Earth Wyrm | Địa Phi Long | Quái vật | Loài phi long thuộc tính Thổ sinh sống trong Mê cung Lớn |
+| 58 | Lesser Earth Dragon | Địa Long Cấp thấp | Quái vật | Phiên bản địa long thứ cấp / nhỏ tuổi |
+| 59 | Ruler of Perseverance | Kẻ Thống Trị Kiên Trì | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Kiên trì |
+| 60 | Foul Feeder | Kẻ Ăn Uế Tạp | Danh hiệu | Danh hiệu nhận được khi ăn những thứ độc hại hoặc không ăn được |
+| 61 | Kin Eater | Kẻ Ăn Đồng Loại | Danh hiệu | Danh hiệu nhận được khi ăn thịt sinh vật cùng loài |
+| 62 | Zoa Ele | Zoa Ele | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ nhánh sát thủ, bị coi là điềm xấu |
+| 63 | Word of God | Thần ngôn | Thuật ngữ | Giọng nói hệ thống vang lên trong đầu sinh vật khi nhận kỹ năng hoặc lên cấp |
+| 64 | Followers of the Word of God | Thần Ngôn Giáo | Thuật ngữ | Một trong những tôn giáo lớn nhất của con người tôn thờ Thần ngôn |
+| 65 | Ruler of Wisdom | Kẻ Thống Trị Trí Tuệ | Danh hiệu | Danh hiệu dành cho kẻ sở hữu kỹ năng Trí Tuệ |
+| 66 | Ruler's Authority | Quyền hạn kẻ thống trị | Thuật ngữ | Quyền lực đặc biệt cho phép can thiệp sâu vào hệ thống hoặc linh hồn |
+| 67 | Ruler-Exclusive Skill | Kỹ năng độc quyền của kẻ thống trị | Thuật ngữ | Kỹ năng chỉ có thể được kích hoạt bởi Kẻ thống trị |
+| 68 | Arachne | Arachne | Chủng tộc quái vật | Nhánh tiến hóa nhện bán nhân (nửa thân trên là người, nửa thân dưới là nhện) |
+| 69 | Goddess religion | Nữ Thần Giáo | Thuật ngữ | Tôn giáo tôn thờ Nữ thần của thế giới này |
+| 70 | false idol / false god | ngụy thần | Thuật ngữ | Vị thần giả tạo trong đức tin của một tôn giáo khác |
+| 71 | Humanification | Nhân hóa | Thuật ngữ | Khả năng biến hình từ quái vật thành dạng người |
+| 72 | Paralyzing Evil Eye | Tê Liệt Tà Nhãn | Kỹ năng chủ động | Tà Nhãn gây trạng thái tê liệt |
+| 73 | Wyrm Slayer | Kẻ diệt Phi Long | Danh hiệu | Danh hiệu khi diệt nhiều quái vật hệ phi long |
+| 74 | Fearbringer | Kẻ gieo rắc kinh hoàng | Danh hiệu | Danh hiệu nhận được khi gieo rắc sợ hãi cho người khác |
+| 75 | Abyss Magic | Ma pháp Vực sâu | Ma pháp | Ma pháp tối thượng hủy diệt linh hồn |
+| 76 | Marionette threads | Tơ Rối | Kỹ năng chủ động | Kỹ năng dùng tơ nhện siêu mảnh để điều khiển vật thể/sinh vật |
+| 77 | Holy Light Magic | Thánh Quang Ma Pháp | Ma pháp | Ma pháp thuộc tính ánh sáng thánh chế ngự bóng tối |
+| 78 | evil god | tà thần | Thuật ngữ | Thực thể thần thánh mang thuộc tính tà ác, gây hỗn loạn hoặc mua vui |
+
+
+
+
+
 
 ---
 
@@ -169,6 +282,7 @@
 |---|-----------|------------|-----------|---------|
 | 1 | I think, therefore I am | Tôi tư duy, nên tôi tồn tại | Triết học / Suy nghĩ của Nhện | Độc thoại nội tâm |
 | 2 | Sweet freedom! | Tự do muôn năm! / Tự do ngọt ngào! | Cảm xúc của Nhện | Khi phá trứng chui ra |
+| 3 | Oedipus complex | Phức cảm Oedipus | Tâm lý học / Đùa giỡn | Trêu chọc của Hyrince về việc Julius quá bám mẹ |
 
 ---
 
@@ -176,4 +290,4 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-06
-- **Tổng thuật ngữ**: 125
+- **Tổng thuật ngữ**: 227

@@ -1,0 +1,523 @@
+--- PAGE 107 ---
+ SPIDER VS FIRE WYRM
+That catfish was delicious. What a feast.
+My Taste Enhancement skill even rose to level 7.
+I guess I was really focused on eating, huh?
+But you can’t blame me!
+Everything I’ve eaten until now has been disgusting!
+Obviously, I want to savor it when I get to eat something good!
+In addition, Overeating rose to level 8.
+I still have plenty of stock left, but since it probably increases the amount
+I can conserve, there’s certainly no disadvantage to raising that.
+Plus, I’m curious to reach level 10 and find out what the derivative or
+evolved version of Overeating might be.
+It’s a very convenient skill as it is, so my hopes are high.
+There’s something else I’m concerned about, though.
+That would be the Pride skill.
+Pride is one of the seven deadly sins.
+And there’s also a deadly sin called Gluttony.
+Overeating. Gluttony. They’re rather close in meaning.
+I can’t help but be leery.
+What if the evolved form of Overeating is Gluttony?
+The effects of Pride are almost disturbingly powerful, and if Overeating
+evolves into Gluttony, it’s possible it would have similar effects as another
+skill from the “deadly sins” series.
+In that case, I’d feel as anxious about it as I do about Pride.
+Well, it’s still only level 8. No point in worrying about that yet.
+Besides, it’s gonna level up whether I want it to or not, so it’s not like
+worrying will do me any good anyway.
+
+--- PAGE 108 ---
+Well then, guess it’s time to keep exploring and search for more catfish.
+Catfiiiish!
+I wander around the Middle Stratum on the lookout for catfish.
+However, I don’t see a single one.
+Hmm. I guess if they’re submerged in the magma, I wouldn’t notice them.
+The first time I ran into one, it just so happened to be peeking out of the
+flow, after all.
+If they normally run deep, they’ll be hard to find.
+If you ask me, I should have a useful skill for enemy detection by now.
+Thinking back, it does seem like I’ve been able to pick things up more
+accurately than you’d expect with mere intuition.
+I mean, I’ve never once been caught off guard by a surprise attack, and
+whenever I feel like I’m in danger, I’m usually right.
+This is just a guess, but I think it’s probably just my natural instincts as a
+spider.
+I’m probably detecting stuff like the flow of air without even realizing it.
+In that case, it makes sense that I didn’t notice there was a catfish so close
+before.
+If my senses rely on the flow of air, then of course I can’t detect threats
+that are underneath magma.
+I may not be able to sense surprise attacks coming from underwater or
+underground, either.
+In which case, being near the magma is dangerous.
+If something suddenly jumps out and drags me in, that’ll be the end of the
+story right there.
+Plus, it’s risky being near magma in general anyway, so I’ve been trying
+to avoid it.
+From now on, I’ll have to stand far enough away that I’ll be safe even if a
+monster appears.
+You know, like right now.
+If I had to sum up the creature that just leaped out of the magma, I’d call
+it… Hmm, an eel?
+Yeah. An eel-like monster with scales and limbs.
+<Elroe gunerave LV 2  
+
+--- PAGE 109 ---
+Status: HP: 1,001/1,001 (green) MP: 511/511 (blue)
+ SP: 899/899 (yellow)       : 971/971 (red) +57
+ Average Offensive Ability: 893 Average Defensive Ability: 821
+ Average Magical Ability: 454 Average Resistance Ability: 433
+ Average Speed Ability: 582  
+Skills:    
+[Fire Wyrm LV 4] [Dragon Scales LV 5] [Fire Enhancement LV
+1]
+[Hit LV 10]
+[Evasion LV 1] [Probability Correction
+LV 1]
+[High-Speed Swimming
+LV 2]
+[Heat Nullification]
+[Life LV 3] [Instantaneous LV 1] [Persistent LV 3] [Strength LV 1]
+[Solidity LV 1]  [Overeating LV 5]
+>
+Uh-oh. This eel is really strong.
+<Elroe gunerave: An average wyrm monster that lives in the Great Elroe Labyrinth, Middle
+Stratum. Omnivorous, but has a preference for eating other monsters.>
+It’s this strong, and it’s only “average”?
+Actually, judging by its skills, I wonder if this eel is also part of the
+catfish’s evolutionary line?
+No, now’s not the time to worry about that sort of thing.
+The eel is about fifty feet away.
+It’s already noticed me and has totally locked on.
+I have the higher speed stat, but its other stats totally leave mine in the
+dust.
+Worst of all, its red stamina gauge completely outweighs mine, even
+considering my Overeating stocks.
+Even if I can outrun it, there’s a good chance it’d catch up to me when my
+stamina runs out.
+Hopefully, it loses interest before that happens, but…
+My yellow stamina is low anyway, so I can only maintain my top speed
+for short bursts.
+Once my instantaneous stamina runs out, I’ll get short of breath, so I
+might get caught that way, too.
+Can I get away?
+
+--- PAGE 110 ---
+Just as the question occurs to me, my vision of the eel splits in two.
+Foresight must be activating.
+The blurred version of the eel looks like it’s about to spit something out.
+Moments later, the real thing does the same, expelling a fireball.
+So the basic tactics are the same.
+But this blast is even faster and larger than the ones the sea horse and
+catfish made!
+I move out of the way in a hurry.
+Thought Acceleration is working, but the missile’s velocity is so high I
+can barely tell.
+It lands right where I’d been standing a moment before with a boom.
+Even with the help of Foresight and Thought Acceleration, I was just
+barely able to avoid it.
+What the heck? I thought I’d gotten away more quickly than that.
+<Probability Correction: Adds a positive correction to any skills with power related to
+probability>
+So it’s this skill’s fault. Maybe it increases the eel’s accuracy rate.
+In which case, it could be hard to keep evading even for me.
+I may be in serious trouble here.
+I dodge another fireball.
+The next one flies at me, though, before I can recover.
+At this rate, escaping won’t even be an option.
+The aftershock of the explosion shaves off a little HP.
+If I move at top speed, I can definitely dodge these, but my yellow gauge
+will drain rapidly.
+If I’m constantly sprinting, my yellow stamina bar will deplete before I
+can blink, leaving me short of breath.
+Then I’ll be finished.
+Foresight and Thought Acceleration help me predict the path of the
+flaming missiles and avoid them.
+But the eel can anticipate my movements, too, and corrects the trajectory
+of its shots.
+Who will outwit who? It’s like a high-speed, high-stakes game of chess.
+The big difference is that while the eel doesn’t lose much if it misses, I’ll
+die if I make a single misstep.
+
+--- PAGE 111 ---
+<Proficiency has reached the required level. Skill [Thought Acceleration LV 1] has become
+[Thought Acceleration LV 2].>
+<Proficiency has reached the required level. Skill [Foresight LV 1] has become [Foresight LV
+2].>
+I’m extremely grateful for my skills leveling up at a time like this.
+The velocity of the incoming fireballs seems to slow down just a tad.
+That said, my perception of my own movement speed slows down, too, so
+I have to be careful.
+I evade more fireballs.
+Then, thanks to Foresight, I see the eel try something different.
+It still looks like it’s going to exhale something, but it’s sucking down
+way more air than before.
+Time to let loose that peak speed I’ve been holding back.
+I dash past the monster at a clip that blurs the scenery around me.
+Behind me, powerful flames burn everything to a crisp.
+<Flame Breath: Spews flames over a wide range>
+This is a move that can be used when the Fire Wyrm skill reaches level 4.
+I didn’t get hit directly, but my back feels scorched by convection alone.
+My HP decreases bit by bit.
+At this rate, things’ll only get worse, and if I take a direct hit even once,
+I’m done for.
+But I can’t come up with a single plan.
+All I can do right now is keep bobbing and weaving and wait for my
+chance.
+The feeling that my life is being slowly taken from me has me hot under
+the collar, no pun intended.
+Another fireball flies toward me.
+Between the eel’s level-10 Hit skill and Probability Correction, its aim is
+incredibly accurate.
+If I didn’t have Evasion, Thought Acceleration, and Foresight on my side,
+I doubt I could dodge it.
+<Proficiency has reached the required level. Skill [Evasion LV 5] has become [Evasion LV
+6].>
+
+--- PAGE 112 ---
+All right! It’s not enough to turn the whole situation around, but I’ll take
+whatever advantage I can get.
+I check the eel’s remaining MP as I avoid the fireball.
+It’s definitely gone down, but it still has over half remaining.
+Since Flame Breath has such a wide range, it seems to use a lot more MP
+than Fireball.
+That’s great and all, since it means it can’t shoot that one after the other,
+but I kinda hope it tries to preserve its MP by not using it at all.
+There’s no guarantee that Foresight will save me every time, so I’m not
+sure if I can keep avoiding it.
+I’ll have to keep as close an eye as possible on the eel.
+Before I finish that thought, Foresight shows me the image of the eel
+charging another Flame Breath.
+I dash off at top speed once again.
+But this time, instead of firing it straight forward, the eel swings its head
+sideways and sweeps the ground with fire!
+Flame Breath already has a huge attack range, so now it’s spreading
+ridiculously far.
+Crap! It grazed me a little.
+Even though it barely touched me, my HP goes down by 10.
+Part of my back and one of my hind legs got hit.
+The leg is in a bit of pain, but I can still move it fine, I think.
+Still, this might slow me down a little bit. Shoot.
+<Proficiency has reached the required level. Skill [Fire Resistance LV 1] has become [Fire
+Resistance LV 2].>
+At this point, my stubborn Fire Resistance skill level finally goes up.
+Great timing.
+With higher Fire Resistance, my HP Auto-Recovery rate should exceed
+the rate of heat damage.
+The amount of recovery will probably be minuscule, but it’s a world of
+difference from having none at all.
+I check the eel’s MP.
+Good. It’s less than half now.
+The rate of MP consumption seems to be about 10 for Fireball and 50 for
+
+--- PAGE 113 ---
+Flame Breath.
+But even with half its MP gone, I’d guess the eel could still use Flame
+Breath about four more times if it wants to.
+That’s not good.
+I move to put some distance between myself and the monster.
+Trying to prevent that, the eel launches a fireball as it follows me.
+Just as I intended.
+I doubt it can charge that Flame Breath while moving.
+If I keep juking around and goad it into spitting more fireballs, it’ll
+eventually run out of MP.
+If I can hold out until then, I should get a chance to strike back, hopefully.
+For now, I keep evading.
+I’m constantly doing my best to get as far away as I can, but avoiding
+getting hit takes top priority.
+I carefully choose my escape routes so I won’t get cornered by the
+magma.
+One wrong step, and I’m toast.
+It’s like I’m on a tightrope.
+<Proficiency has reached the required level. Skill [HP Auto-Recovery LV 5] has become [HP
+Auto-Recovery LV 6].>
+YES!
+My skills keep leveling up, probably because I’m so concentrated on this
+battle.
+Fire Resistance and HP Auto-Recovery are the two skills I’ve been hoping
+to level up, and now it’s happening!
+I celebrate for only an instant. But that instant is nearly fatal.
+The eel initiates Flame Breath.
+This is completely unexpected. Foresight didn’t even warn me.
+There’s no way I can dodge this.
+The breath erupts from the eel’s mouth.
+Immediately, I kick off the ground with all my might, jumping into the
+air.
+The stream of fire scorches my legs.
+
+--- PAGE 114 ---
+Fighting back the pain, I use Energy Conferment while extending a thread
+toward the ceiling.
+Energy Conferment consumes red SP to strengthen things.
+With this skill, I can spin some thread capable of withstanding the heat of
+the Middle Stratum for a short period.
+Still, it’ll only last a limited time, so I quickly pull on the thread to raise
+myself to the ceiling.
+Then I cut the silk before it burns.
+<Proficiency has reached the required level. Skill [Spatial Maneuvering LV 4] has become
+[Spatial Maneuvering LV 5].>
+I stare down at the eel from the ceiling.
+It glares at me from the magma.
+It’s great I escaped to the ceiling and all, but overall, this situation is still
+untenable.
+When I’m sticking to the ceiling, I inevitably move more slowly than
+when I’m on the ground.
+I already had my hands full avoiding the eel’s attacks on terra firma.
+There’s no way I can keep it up on the ceiling.
+I have to get back down ASAP, or I’ll get shot down instead.
+However, the eel isn’t in such great shape, either.
+Its MP has gone down considerably.
+Looks like it could summon three more Flame Breaths or sixteen more
+Fireballs.
+Compared with when we started, that’s pretty low.
+But it’s still more than enough to knock me off my perch.
+Will I make it back down to the floor, or will it nail me first?
+This is no time to be stingy with my skills.
+Mental Warfare, activate!
+Mental Warfare is a skill that consumes red SP to temporarily increase
+physical stats.
+Red stamina is my lifeline, so I’ve never activated this before. But in this
+situation, I can’t be reluctant about spending SP.
+I set off right away, aiming for the nearest wall.
+But apparently, the eel anticipated this.
+
+--- PAGE 115 ---
+It launches a fireball as if to hedge me in, seemingly knowing exactly
+where I wanted to go.
+This would be tough to dodge while clinging to the ceiling.
+I’ll have to stop worrying about my red stamina bar for now.
+I avoid the approaching fireball with the highest speed I can muster.
+My best option is to push through Mental Warfare and hope that SP
+Reduced Consumption and SP Recovery Speed will offset the loss.
+I have to get to the wall before my yellow gauge runs out.
+It keeps firing, and I keep dodging.
+However, this is making it difficult to get close enough to the wall.
+While I’m busy with acrobatics, my yellow stamina bar keeps dwindling.
+Crap. If I run out, it’ll be even harder to stick to the ceiling.
+I have to avoid that outcome at all costs.
+But it’s no use. The eel’s flawless aim prevents me from getting
+anywhere.
+Finally, the yellow gauge runs out.
+Fatigue immediately assails my body. Before I can think, another fireball
+homes in on me relentlessly.
+Damn! I can tell that I won’t be able to dodge it, so I deliberately release
+by grip, leaping into empty space.
+The fireball explodes in my immediate vicinity, the blast brushing against
+my body.
+I manage to prevent myself from going into a tailspin, drawing on Energy
+Conferment again.
+The reinforced thread shoots out, adhering to the wall, and I instantly
+scuttle along it.
+Another shot passes through the space I’d just evacuated.
+Swinging through the air like a pendulum, I narrowly avoid falling in the
+magma and manage to land on the ground.
+Without so much as a beat, another fireball flies at me.
+I use the momentum of my landing to roll out of its way.
+This is rough. As punishment for continuing to move even after my
+yellow gauge expired, my breath is ragged and my exhausted body aches.
+I force myself to ignore it with the powers of Pain Nullification and Pain
+Mitigation…
+…because I can see the eel is about to unleash another Flame Breath.
+
+--- PAGE 116 ---
+Whipping my spent body into action, I take off at maximum velocity.
+The edges of my vision fill with red flames. The heat approaching from
+behind is palpable.
+I keep running, trying to shake it off.
+Somehow, I’ve avoided the Flame Breath.
+<Proficiency has reached the required level. Skill [Evasion LV 6] has become [Evasion LV
+7].>
+I let out the air I was unconsciously holding in my lungs.
+My yellow stamina gauge starts to recover.
+There’ll be no more fireballs now.
+The eel is finally out of MP.
+With no more means of attacking from a distance, the eel slithers onto
+land.
+As it turns out, its head is the only eel-like thing about it.
+The rest of its body bears an uncanny resemblance to a Chinese dragon.
+Even with its MP gone, its eyes are still fixed on me.
+This thing has definitely decided I’m its enemy.
+At first, it felt like it might’ve just decided to crush me because I was a bit
+of an eyesore, but somewhere along the way, its fireballs took on a more
+serious tone.
+By the time it started using Flame Breath, it was definitely coming at me
+for all it was worth.
+Seems it didn’t care for having its attacks continuously dodged.
+Even if I ran away now, I doubt it’d let me go.
+Its MP might be gone, but its SP is still going strong.
+My stamina, on the other hand, has been whittled down considerably.
+Since I kept moving after my yellow bar ran out, my red stamina bar has
+gone down too much for comfort, too.
+I still have my surplus from Overeating, so it’s not like I’m completely
+immobile or anything, but if it comes down to a battle of stamina between us,
+the eel will definitely be the winner.
+I can’t run.
+That leaves me with one choice. I have to fight and win.
+Based solely on the numerical values of our stats, I don’t stand a chance.
+
+--- PAGE 117 ---
+But numbers aren’t everything.
+If there’s one thing I’ve learned in my battles here, it’s that skills are the
+biggest deciding factor, for better or for worse.
+I mean, considering the huge difference in our stats, it’s a miracle I’ve
+survived at all.
+And the source of that “miracle” has to be my set of skills.
+It’s only because I’ve been exploiting them to their fullest that I’ve been
+able to compensate for the inherent difference in our strength and even forced
+the eel onto land.
+The gap in our stats is definitely huge, but it’s not enough to decide the
+battle.
+If I play my cards right, I can still traverse the gulf.
+Not to mention, I can see all of the eel’s skills, too.
+Since it’s out of MP now, the only ones I have to worry about are the
+combination of Hit, Evasion, and Probability Correction.
+That, and the defensive power granted by Dragon Scales, the last level-3
+ability granted by Fire Wyrm.
+The final threat is the sheer physical size of the eel’s massive body.
+That alone is enough to make it a formidable enemy.
+But I still have a few tricks up my sleeve. Namely, my strongest means of
+attack: Deadly Poison.
+The target’s defense means precious little in the face of my powerful
+venom.
+It can erode even Dragon Scales, eating away at the flesh beneath.
+In the end, my skills are all I can rely on.
+That’s the only area where I outperform the eel.
+Although, even that’s debatable depending on how well I use them.
+Both of us are lacking in the defense department.
+This’ll be a sudden-death match, where whoever lands an attack first
+wins.
+Which means my winning move would be…
+The ground-based second round begins without a bell.
+The eel’s long body coils back and forth.
+After our exchanges thus far, it seems quite wary of me.
+
+--- PAGE 118 ---
+This eel is pretty smart compared with most other monsters, though not as
+smart as those monkeys.
+Which only makes my job harder.
+<Proficiency has reached the required level. Skill [Thought Acceleration LV 2] has become
+[Thought Acceleration LV 3].>
+<Proficiency has reached the required level. Skill [Foresight LV 2] has become [Foresight LV
+3].>
+The eel moves as if in time with the Divine Voice (temp.).
+Body unfurling, it lashes at me with its tail.
+I dodge it, of course, but the beast’s attack doesn’t end there.
+The tail sweeps sideways, zeroing in on me again.
+I edge farther back to avoid it.
+This time, the eel’s head comes at me instead, swapping places with the
+tail.
+That’s exactly what I was waiting for.
+As the world moves around me somewhat slowly thanks to Thought
+Acceleration, I fix my eyes on the eel’s approaching mouth.
+Just as I judge that it’s about to get too close for me to dodge, I activate
+Poison Synthesis.
+Then I immediately evacuate.
+It’s the same strategy I used against the catfish. However, it has a huge
+effect.
+The poison goes down the eel’s throat, just as I planned.
+Its HP rapidly decreases.
+In agony, the eel’s body whips around violently.
+I retreat beyond the reach of its writhing.
+In the end, if both sides are strong enough to kill the other with a single
+blow, the winner will be whoever lands an attack first.
+Which means the one who comes up with the better strategy to land that
+blow wins.
+That, and my evasive ability surpasses the eel’s accuracy.
+Even with level-10 Hit and Probability Correction, it couldn’t outdo my
+combination of Evasion, Thought Acceleration, and Foresight.
+
+--- PAGE 119 ---
+So as soon as the eel was lured ashore, my odds of winning skyrocketed.
+Still, it’s not over yet.
+Despite all my talk about a single deathblow, that one attack probably
+won’t be enough to kill it.
+Even the catfish didn’t die after one attack, so there’s no way that would
+work on an even stronger species.
+Besides, the eel still has another skill on its side.
+Its HP is rapidly recovering right before my eyes.
+<Life Exchange: Recovers HP by consuming SP>
+It’s a level-3 ability from the Fire Wyrm skill.
+It consumes SP, and HP is recovered by a corresponding amount.
+Although it can’t recover fully because of the amount of SP it has, it’s still
+enough to resist my Deadly Poison.
+On top of that, as I evaluate the eel’s Appraisal results, it gains Poison
+Resistance level 1 and HP Auto-Recovery level 1.
+The poison in its body is still eating away its HP little by little, but the
+peak of the damage has passed already.
+Still, it’s not like I’m just gonna stand here and watch the thing revive
+itself.
+I make the sturdiest thread I can and wrap it around the eel’s body.
+It’ll burn up right away, but that doesn’t matter.
+All I need is to immobilize it for even a moment.
+Luckily, I manage to do exactly that.
+In that instant, I target the eel’s face and activate Poison Synthesis in rapid
+succession.
+Globs of poison strike liberally.
+The eel tears through the restraints and thrashes wildly.
+But the poison has already seeped into its eyes and mouth, draining its HP
+mercilessly.
+The rate of damage is far too high for its new Auto-Recovery skill to
+counteract.
+And it’s far too powerful for its new Poison Resistance skill to combat,
+either.
+A shield whipped up on a moment’s notice can hardly withstand
+weaponry I’ve been perfecting my entire life as a spider.
+Without enough SP left to spend on recovery, the attack proves too much
+
+--- PAGE 120 ---
+for the eel.
+<Experience has reached the required level. Individual small poison taratect has increased
+from LV 7 to LV 8.>
+<All basic attributes have increased.>
+<Skill proficiency level-up bonus acquired.>
+<Proficiency has reached the required level. Skill [Parallel Thinking LV 4] has become
+[Parallel Thinking LV 5].>
+<Proficiency has reached the required level. Skill [SP Recovery Speed LV 2] has become [SP
+Recovery Speed LV 3].>
+<Skill points acquired.>
+<Experience has reached the required level. Individual small poison taratect has increased
+from LV 8 to LV 9.>
+<All basic attributes have increased.>
+<Skill proficiency level-up bonus acquired.>
+<Proficiency has reached the required level. Skill [Instantaneous LV 8] has become
+[Instantaneous LV 9].>
+<Proficiency has reached the required level. Skill [Persistent LV 8] has become [Persistent LV
+9].>
+<Skill points acquired.>
+<Experience has reached the required level. Individual small poison taratect has increased
+from LV 9 to LV 10.>
+<All basic attributes have increased.>
+<Skill proficiency level-up bonus acquired.>
+<Proficiency has reached the required level. Skill [Arithmetic Processing LV 6] has become
+[Arithmetic Processing LV 7].>
+<Proficiency has reached the required level. Skill [Vision Enhancement LV 8] has become
+[Vision Enhancement LV 9].>
+<Proficiency has reached the required level. Skill [Life LV 8] has become [Life LV 9].>
+<Skill points acquired.>
+<Condition satisfied. Individual small poison taratect can now evolve.>
+<There are multiple options for evolution. Please choose from the following.
+
+--- PAGE 121 ---
+• Poison taratect
+• Zoa Ele
+>
+Ooh, evolution.
+Wait, evolution?! Already?! Isn’t this a little soon?! Last time with the
+monkeys seemed really fast, too!
+Well, I can worry about that later.
+For the moment, I want to savor my victory.
+I wooon!
+Whoo-hoooo! I won, I won! That eel was super-strong, and I beat it!
+Amazing, right?! Am I hella strong or what?!
+Heh. Heh-heh.
+I fought head-on, barely even used my thread, but I still won.
+That means I’m not weak anymore, right? I’m sooo strong!
+Yahoooo!
+That eel was a formidable enemy. It was no joke. A real fight to the death.
+But in the end, victory is mine!
+I’m number one! Heh-heh-heh-heh.
+I did it! The winner is me! Ha-ha-ha!
+
+--- PAGE 122 ---
+
