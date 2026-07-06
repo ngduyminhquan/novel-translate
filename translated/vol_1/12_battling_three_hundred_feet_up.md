@@ -172,10 +172,16 @@ Tôi ló đầu ra khỏi tảng đá để nhìn xuống phía dưới.
 
 `<Anogratch       LV 3: Thẩm định trạng thái thất bại>`
 
-`<Anogratch LV 8
-Status: HP: 165/168 (lục) MP: 38/38 (lam)
- SP: 127/127 (vàng)       : 109/118 (đỏ)
- Thẩm định trạng thái thất bại >`
+`<Anogratch LV 8>`
+
+| Chỉ số | Giá trị |
+| :--- | :--- |
+| **HP** | 165/168 (lục) |
+| **MP** | 38/38 (lam) |
+| **SP (vàng)** | 127/127 |
+| **SP (đỏ)** | 109/118 (đỏ) |
+
+`<Thẩm định trạng thái thất bại>`
 
 `<Anogratch       LV 5: Thẩm định trạng thái thất bại>`...
 

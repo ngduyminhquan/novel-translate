@@ -60,12 +60,19 @@ Giả định rằng cấp độ tối đa thực sự là 10, thì nó chắc h
 
 Tôi nín thở kiểm tra kết quả tự Thẩm định của mình.
 
-`<Tiểu Taratect LV 2 Không tên
-Trạng thái: HP: 36/36 (xanh lá) MP: 36/36 (xanh lam)
- SP: 36/36 (vàng)       : 34/36 (đỏ)
- Sức công kích trung bình: 19 Sức phòng ngự trung bình: 19
- Sức ma pháp trung bình: 18 Sức kháng trung bình: 18
- Tốc độ trung bình: 348 >`
+`<Tiểu Taratect LV 2 | Không tên>`
+
+| Chỉ số | Giá trị |
+| :--- | :--- |
+| **HP** | 36/36 (xanh lá) |
+| **MP** | 36/36 (xanh lam) |
+| **SP (vàng)** | 36/36 |
+| **SP (đỏ)** | 34/36 |
+| **Sức công kích trung bình** | 19 |
+| **Sức phòng ngự trung bình** | 19 |
+| **Sức ma pháp trung bình** | 18 |
+| **Sức kháng trung bình** | 18 |
+| **Tốc độ trung bình** | 348 |
 
 ...Cái... gì... thế... này...?!
 

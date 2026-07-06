@@ -184,37 +184,23 @@ Bảng trạng thái của tôi hiện lên một cách dễ dàng đến không
 
 ### --- TRANG 42 ---
 
-`<Nhân tộc LV 1        Tên Schlain Zagan Analeit
-Chỉ số: HP: 35/35 (lục) MP: 348/348 (lam)
- SP: 35/35 (vàng)        : 35/35 (đỏ)
- Sức tấn công trung bình: 20
-(chi tiết)
-Sức phòng ngự trung bình: 20
-(chi tiết)
- Sức mạnh ma pháp trung bình: 314
-(chi tiết)
-Khả năng kháng tính trung bình: 299
-(chi tiết)
- Tốc độ trung bình: 20
-(chi tiết)
- 
-Kỹ năng: Điểm kỹ năng: 100.000 Danh hiệu: Không
-[Cảm nhận ma lực LV 8] [Thao tác ma lực LV 8] [Ma đấu pháp LV 6]
-[Ban tặng ma lực LV 5]
-[Tấn công ma pháp LV 3] [Tốc độ hồi phục MP LV 7] [Tốc độ hồi phục MP LV 7]
-[Giảm tiêu hao MP LV 2]
-[Kiếm thuật LV 3] [Tăng cường phá hủy LV 2] [Ý chí chiến đấu LV 2]
-[Ban tặng năng lượng LV 1]
-[Tập trung LV 5] [Chính xác LV 1] [Né tránh LV 1]
-[Tăng cường thị giác LV 4]
-[Tăng cường thính giác LV 7] [Tăng cường khứu giác LV 2] [Tăng cường vị giác LV 1]
-[Tăng cường xúc giác LV 1]
-[Kiên cường LV 5] [Khối lượng ma pháp LV 8] [Bộc phát LV 5]
-[Bền bỉ LV 5]
-[Sức mạnh LV 5] [Cứng cáp LV 5] [Luyện kim thuật LV 8]
-[Bảo hộ LV 7]
-[Chạy nhanh LV 5] [Thần bảo hộ] [n% I = W]  
-   >`
+`<Nhân tộc LV 1 | Tên: Schlain Zagan Analeit>`
+
+| Chỉ số | Giá trị |
+| :--- | :--- |
+| **HP** | 35/35 (lục) |
+| **MP** | 348/348 (lam) |
+| **SP (vàng)** | 35/35 |
+| **SP (đỏ)** | 35/35 |
+| **Sức tấn công trung bình** | 20 (chi tiết) |
+| **Sức phòng ngự trung bình** | 20 (chi tiết) |
+| **Sức mạnh ma pháp trung bình** | 314 (chi tiết) |
+| **Khả năng kháng tính trung bình** | 299 (chi tiết) |
+| **Tốc độ trung bình** | 20 (chi tiết) |
+
+`<Kỹ năng: | Điểm kỹ năng: 100.000 | Danh hiệu: Không>`
+
+[Cảm nhận ma lực LV 8] [Thao tác ma lực LV 8] [Ma đấu pháp LV 6] [Ban tặng ma lực LV 5] [Tấn công ma pháp LV 3] [Tốc độ hồi phục MP LV 7] [Tốc độ hồi phục MP LV 7] [Giảm tiêu hao MP LV 2] [Kiếm thuật LV 3] [Tăng cường phá hủy LV 2] [Ý chí chiến đấu LV 2] [Ban tặng năng lượng LV 1] [Tập trung LV 5] [Chính xác LV 1] [Né tránh LV 1] [Tăng cường thị giác LV 4] [Tăng cường thính giác LV 7] [Tăng cường khứu giác LV 2] [Tăng cường vị giác LV 1] [Tăng cường xúc giác LV 1] [Kiên cường LV 5] [Khối lượng ma pháp LV 8] [Bộc phát LV 5] [Bền bỉ LV 5] [Sức mạnh LV 5] [Cứng cáp LV 5] [Luyện kim thuật LV 8] [Bảo hộ LV 7] [Chạy nhanh LV 5] [Thần bảo hộ] [n% I = W]
 
 Tôi có thể nhìn thấy bảng trạng thái của mình.
 

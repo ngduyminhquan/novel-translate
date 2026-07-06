@@ -622,12 +622,19 @@ Nói thế chứ, kỹ năng này vẫn mới chỉ cấp độ 5, nên không p
 
 Bây giờ tôi đã tăng cấp rồi, tôi nghĩ mình nên xem các chỉ số của mình đã thay đổi bao nhiêu.
 
-`<Tiểu Taratect LV 3 Không tên
-Trạng thái: HP: 38/38 (xanh lá) MP: 38/38 (xanh lam)
- SP: 38/38 (vàng)       : 38/38 (đỏ)
- Sức công kích trung bình: 21 Sức phòng ngự trung bình: 21
- Sức ma pháp trung bình: 19 Sức kháng trung bình: 19
- Tốc độ trung bình: 369 >`
+`<Tiểu Taratect LV 3 | Không tên>`
+
+| Chỉ số | Giá trị |
+| :--- | :--- |
+| **HP** | 38/38 (xanh lá) |
+| **MP** | 38/38 (xanh lam) |
+| **SP (vàng)** | 38/38 |
+| **SP (đỏ)** | 38/38 |
+| **Sức công kích trung bình** | 21 |
+| **Sức phòng ngự trung bình** | 21 |
+| **Sức ma pháp trung bình** | 19 |
+| **Sức kháng trung bình** | 19 |
+| **Tốc độ trung bình** | 369 |
 
 Ồ hô hô.
 
