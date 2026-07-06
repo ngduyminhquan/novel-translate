@@ -4,6 +4,12 @@
 
 ---
 
+### --- TRANG 210 ---
+
+![Minh họa: Kumoko đối đầu với loài quái vật phun lửa trong Tầng Hỏa](../../source/images/vol_1/ch11_illustration_01.jpg)
+
+---
+
 ### --- TRANG 217 ---
 
 Aaaa, mệt quá đi mất. Tôi sắp không thể mở mắt nổi nữa rồi.
@@ -702,6 +708,8 @@ Mọi chuyện vẫn chưa hoàn toàn kết thúc, nhưng ít nhất tôi đã 
 ---
 
 ### --- TRANG 232 ---
+
+![Minh họa: Kumoko bám trên vách đá chống chọi với bầy khỉ quái dị Anogratch](../../source/images/vol_1/ch12_illustration_01.jpg)
 
 ---
 

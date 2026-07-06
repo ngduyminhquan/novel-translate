@@ -57,6 +57,7 @@ Khi người dùng yêu cầu dịch một tiểu thuyết mới:
    ```
    <novel_name>/
    ├── source/          ← Văn bản gốc tiếng Anh
+   │   └── images/      ← Ảnh được extract từ file nguồn
    ├── translated/      ← Bản dịch tiếng Việt
    ├── context/         ← Các file ngữ cảnh
    │   ├── glossary.md
@@ -98,16 +99,17 @@ Khi người dùng yêu cầu dịch một tiểu thuyết mới:
 **TRƯỚC KHI DỊCH MỖI ĐOẠN, BẮT BUỘC PHẢI:**
 
 ```
-┌──────────────────────────────────────────────────┐
-│  ⚠️ CHECKLIST TRƯỚC KHI DỊCH MỖI ĐOẠN          │
-│                                                   │
-│  □ Đọc context/glossary.md                       │
-│  □ Đọc context/characters.md                     │
-│  □ Đọc context/relationships.md                  │
-│  □ Đọc progress.md (xem đoạn trước đã dịch gì)  │
-│  □ Đọc lại 1-2 đoạn dịch trước đó (nếu có)      │
-│    để nối tiếp văn phong                          │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  ⚠️ CHECKLIST TRƯỚC KHI DỊCH MỖI ĐOẠN              │
+│                                                       │
+│  □ Đọc context/glossary.md                           │
+│  □ Đọc context/characters.md                         │
+│  □ Đọc context/relationships.md                      │
+│  □ Đọc progress.md (xem đoạn trước đã dịch gì)      │
+│  □ Đọc lại 1-2 đoạn dịch trước đó (nếu có)          │
+│    để nối tiếp văn phong                              │
+│  □ Kiểm tra file nguồn có ảnh không → extract nếu có │
+└──────────────────────────────────────────────────────┘
 ```
 
 **Trong khi dịch:**
@@ -135,18 +137,81 @@ Khi người dùng yêu cầu dịch một tiểu thuyết mới:
 **SAU KHI DỊCH XONG MỖI ĐOẠN:**
 
 ```
-┌──────────────────────────────────────────────────┐
-│  ✅ CHECKLIST SAU KHI DỊCH MỖI ĐOẠN             │
-│                                                   │
-│  □ Cập nhật glossary.md (thuật ngữ mới)          │
-│  □ Cập nhật characters.md (nhân vật mới/thay đổi)│
-│  □ Cập nhật relationships.md (quan hệ mới)       │
-│  □ Cập nhật progress.md (đánh dấu hoàn thành)    │
-│  □ Đọc lại bản dịch 1 lần để rà soát             │
-└──────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────┐
+│  ✅ CHECKLIST SAU KHI DỊCH MỖI ĐOẠN                  │
+│                                                        │
+│  □ Cập nhật glossary.md (thuật ngữ mới)               │
+│  □ Cập nhật characters.md (nhân vật mới/thay đổi)     │
+│  □ Cập nhật relationships.md (quan hệ mới)            │
+│  □ Cập nhật progress.md (đánh dấu hoàn thành)         │
+│  □ Chèn link ảnh vào file dịch (nếu chapter có ảnh)   │
+│  □ Đọc lại bản dịch 1 lần để rà soát                  │
+└───────────────────────────────────────────────────────┘
 ```
 
-### 3.3 Xử Lý Khi Gặp Tình Huống Đặc Biệt
+### 3.3 Xử Lý Ảnh Trong File Nguồn
+
+Khi file nguồn (EPUB, DOCX, PDF, v.v.) chứa ảnh minh họa, bản đồ, hoặc hình ảnh nhân vật:
+
+#### 3.3.1 Quy Trình Extract Ảnh
+
+1. **Phát hiện ảnh**: Khi đọc file nguồn, kiểm tra xem có ảnh nhúng hay không
+2. **Extract ảnh**: Trích xuất tất cả ảnh từ file nguồn
+3. **Lưu vào thư mục `source/images/`**:
+   - Tổ chức theo volume/chapter:
+     ```
+     source/images/
+     ├── vol_1/
+     │   ├── ch01_illustration_01.jpg
+     │   ├── ch01_map.png
+     │   ├── ch05_character_intro.jpg
+     │   └── cover.jpg
+     ├── vol_2/
+     │   └── ...
+     └── shared/           ← Ảnh dùng chung (bản đồ thế giới, v.v.)
+         └── world_map.png
+     ```
+
+4. **Quy tắc đặt tên ảnh**:
+   | Loại ảnh | Quy tắc đặt tên | Ví dụ |
+   |----------|-----------------|-------|
+   | Ảnh bìa | `cover.jpg` | `vol_1/cover.jpg` |
+   | Minh họa chapter | `ch{XX}_illustration_{NN}.jpg` | `ch03_illustration_01.jpg` |
+   | Bản đồ | `ch{XX}_map.png` hoặc `world_map.png` | `ch01_map.png` |
+   | Ảnh nhân vật | `ch{XX}_character_{tên}.jpg` | `ch05_character_kumoko.jpg` |
+   | Ảnh khác | Mô tả ngắn gọn bằng tiếng Anh | `ch10_battle_scene.jpg` |
+
+#### 3.3.2 Chèn Ảnh Vào File Dịch
+
+Khi dịch chapter có ảnh, chèn link ảnh vào đúng vị trí tương ứng trong file dịch:
+
+```markdown
+<!-- Ví dụ chèn ảnh minh họa trong file translated -->
+
+![Minh họa: Kumoko đối đầu với rồng đất](../../source/images/vol_1/ch12_illustration_01.jpg)
+
+Nàng nhện nhỏ bé đứng trước con quái vật khổng lồ...
+```
+
+**Lưu ý khi chèn ảnh:**
+- Dùng **đường dẫn tương đối** từ file dịch đến thư mục `source/images/`
+- Thêm **caption bằng tiếng Việt** mô tả nội dung ảnh (alt text)
+- Đặt ảnh ở **đúng vị trí** như trong nguyên tác (trước/sau đoạn văn tương ứng)
+- Nếu ảnh có text tiếng Anh (ví dụ: bản đồ có chú thích), ghi chú dịch bên dưới ảnh
+
+#### 3.3.3 Xử Lý Các Định Dạng File Nguồn
+
+| Định dạng | Cách extract ảnh |
+|-----------|------------------|
+| **EPUB** | Giải nén file `.epub` (thực chất là ZIP) → ảnh nằm trong thư mục `images/` hoặc `OEBPS/images/` |
+| **DOCX** | Giải nén file `.docx` (thực chất là ZIP) → ảnh nằm trong `word/media/` |
+| **PDF** | Dùng công cụ như `pdfimages` hoặc thư viện Python (`PyMuPDF`, `pdf2image`) để extract |
+| **HTML** | Download ảnh từ các thẻ `<img>` |
+| **TXT/MD** | Không có ảnh nhúng, bỏ qua bước này |
+
+---
+
+### 3.4 Xử Lý Khi Gặp Tình Huống Đặc Biệt
 
 #### Nhân vật mới xuất hiện:
 1. Đọc lại `context/characters.md` và `context/relationships.md`
@@ -266,9 +331,11 @@ Khi bắt đầu dịch một đoạn mới, sử dụng quy trình sau:
 3. Đọc file: context/relationships.md
 4. Đọc file: progress.md
 5. Đọc đoạn nguồn cần dịch
-6. Dịch đoạn
-7. Rà soát bản dịch
-8. Cập nhật các file context nếu cần
-9. Cập nhật progress.md
-10. Lưu bản dịch vào translated/
+6. Kiểm tra & extract ảnh từ file nguồn (nếu có) → lưu vào source/images/
+7. Dịch đoạn
+8. Chèn link ảnh vào file dịch ở đúng vị trí (nếu chapter có ảnh)
+9. Rà soát bản dịch
+10. Cập nhật các file context nếu cần
+11. Cập nhật progress.md
+12. Lưu bản dịch vào translated/
 ```

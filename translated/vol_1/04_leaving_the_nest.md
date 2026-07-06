@@ -4,6 +4,12 @@
 
 ---
 
+### --- TRANG 64 ---
+
+![Minh họa: Kumoko và quả trứng cứng đầu](../../source/images/vol_1/ch03_illustration_01.jpg)
+
+---
+
 ### --- TRANG 65 ---
 
 Nếu muốn đập vỡ quả trứng, và nếu muốn sinh tồn, tôi sẽ phải trở nên mạnh mẽ hơn nữa.

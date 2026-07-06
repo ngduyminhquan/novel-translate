@@ -4,6 +4,12 @@
 
 ---
 
+### --- TRANG 76 ---
+
+![Minh họa: Shun đặt tên cho rồng đất mới nở là Fei](../../source/images/vol_1/s03_illustration_01.jpg)
+
+---
+
 ### --- TRANG 77 ---
 
 Lạch bạch, lạch bạch. Chân tôi trĩu nặng dần.

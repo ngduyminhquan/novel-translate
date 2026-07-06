@@ -312,7 +312,7 @@ Và giống như tôi, cô ấy sở hữu các chỉ số cao đến kinh ngạ
 
 ### --- TRANG 45 ---
 
-*(Trang trống)*
+![Minh họa: Shun đứng trên bục đặt tay lên Đá Thẩm định để kiểm tra bảng trạng thái](../../source/images/vol_1/s02_illustration_01.jpg)
 
 ---
 

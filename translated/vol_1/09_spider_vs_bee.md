@@ -878,6 +878,12 @@ Nỗi sợ hãi tồi tệ nhất của tôi đã trở thành sự thật rồi
 
 ---
 
+### --- TRANG 163 ---
+
+![Minh họa: Kumoko sử dụng Sao Mai Nhện tấn công bầy ong Finjicote](../../source/images/vol_1/ch09_illustration_01.jpg)
+
+---
+
 ### --- TRANG 164 ---
 
 Tôi phải làm gì bây giờ đây?!
