@@ -28,19 +28,19 @@ Phụ hoàng cất giọng trầm buồn khi tôi bước vào phòng.
 
 Dù số lần tôi thực sự gặp mặt ông chỉ đếm trên đầu ngón tay, tôi vẫn có thể nhận ra giọng điệu của ông hôm nay nặng nề hơn bình thường rất nhiều.
 
-Nó còn trang nghiêm hơn cả buổi lễ Thẩm Định năm xưa.
+Nó còn trang nghiêm hơn cả buổi lễ Thẩm định năm xưa.
 
-“Trước hết, hãy để ta Thẩm Định con để xác nhận xem con thực sự có được danh hiệu Anh hùng hay không.”
+“Trước hết, hãy để ta Thẩm định con để xác nhận xem con thực sự có được danh hiệu Anh hùng hay không.”
 
 “Vâng, thưa phụ hoàng.”
 
-Phụ hoàng đang cầm trên tay viên Đá Thẩm Định cùng loại với viên được sử dụng trong buổi lễ năm đó.
+Phụ hoàng đang cầm trên tay viên Đá Thẩm định cùng loại với viên được sử dụng trong buổi lễ năm đó.
 
 Ngay khi tôi đồng ý, tôi cảm nhận được một cảm giác khó chịu bắt đầu chạy dọc khắp cơ thể, giống như bị ai đó liếm láp từ đầu đến chân vậy.
 
 Đây chính là cảm giác khó chịu tôi từng trải qua khi lần đầu tiên gặp cô giáo.
 
-Hẳn đây là cảm giác không mấy dễ chịu khi bị người khác Thẩm Định.
+Hẳn đây là cảm giác không mấy dễ chịu khi bị người khác Thẩm định.
 
 “...Con thực sự có nó rồi.”
 

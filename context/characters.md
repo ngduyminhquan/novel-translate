@@ -27,14 +27,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | I (Watashi / Nameless Spider) |
 | **Tên dịch** | Tôi |
-| **Biệt danh** | Kumoko (do fan đặt, trong văn bản gốc chỉ xưng "Tôi") |
+| **Biệt danh** | Kumoko (do fan đặt, trong văn bản gốc chỉ xưng "Tôi") / White / Bạch |
 | **Tuổi** | Mới sinh (kiếp trước là học sinh trung học) |
 | **Giới tính** | Nữ |
-| **Vai trò** | Nhân vật chính |
+| **Vai trò** | Nhân vật chính (trong tuyến thời gian tương lai được gọi là White - Thống lĩnh Quân đoàn 10) |
 | **Xuất hiện** | Chapter 1 |
 
 **Tính cách tổng quát:**
-> Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao.
+> Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao. Ở tuyến thời gian tương lai, cô mang hình dáng một cô gái tóc trắng tinh khôi, cư xử vô cùng im lặng và đúng mực nhưng toát ra vẻ bí ẩn và đáng sợ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, trẻ trung, dùng nhiều từ ngữ mạng xã hội, game (RPG).
@@ -327,17 +327,17 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Công chúa |
 | **Tuổi** | Thiếu niên |
 | **Giới tính** | Nữ |
-| **Vai trò** | Công chúa vương quốc Analeit, em gái cùng cha khác mẹ của Shun |
+| **Vai trò** | Công chúa vương quốc Analeit, em gái cùng cha khác mẹ của Shun; thực chất giả vờ bị tẩy não và âm thầm tuân theo mệnh lệnh của Ma Vương/White để bảo vệ tính mạng cho Shun |
 | **Xuất hiện** | Chapter S1 |
 
 **Tính cách tổng quát:**
-> Rất thông minh và có thiên phú ma pháp cao. Sở hữu tình cảm chiếm hữu mãnh liệt (yandere) đối với hoàng huynh (Shun) của mình, coi anh trai là tất cả và sẵn sàng thù địch hoặc ghen tị với bất kỳ ai tiếp cận anh. Trông có vẻ ngoan ngoãn dịu dàng trước mặt Shun, nhưng lại rất kiêu kỳ và lạnh lùng với người ngoài.
+> Rất thông minh và có thiên phú ma pháp cao. Sở hữu tình cảm chiếm hữu mãnh liệt (yandere) đối với hoàng huynh (Shun) của mình, coi anh trai là tất cả và sẵn sàng thù địch hoặc ghen tị với bất kỳ ai tiếp cận anh. Trông có vẻ ngoan ngoãn dịu dàng trước mặt Shun, nhưng lại rất kiêu kỳ và lạnh lùng với người ngoài. Chấp nhận mang tiếng phản bội và làm tay sai cho Ma Vương để giữ mạng sống cho Shun.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: 
   - Với Shun: Dịu dàng, ngoan ngoãn, lễ phép ("hoàng huynh", "em").
   - Với người khác: Kiêu kỳ, xa cách, sắc sảo của một công chúa tôn quý ("chị", "tôi", "em").
-- **Cảm xúc chủ đạo**: Sở hữu, cảnh giác đối thủ.
+- **Cảm xúc chủ đạo**: Sở hữu, cảnh giác đối thủ; lạnh lùng và tuyệt vọng khi phải tuân lệnh phe Ma Vương.
 
 ---
 
@@ -389,18 +389,18 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | D / Administrator D |
 | **Tên dịch** | D / Quản trị viên Thượng cấp D |
-| **Biệt danh** | Kẻ đứng sau hệ thống |
+| **Biệt danh** | Kẻ đứng sau hệ thống / Tà thần |
 | **Tuổi** | Không rõ (Thần cấp) |
 | **Giới tính** | Không rõ (xưng hô mang thiên hướng nữ tính hoặc trung tính) |
-| **Vai trò** | Quản trị viên tối cao thiết lập nên hệ thống kỹ năng, người theo dõi Kumoko |
-| **Xuất hiện** | Chapter 7 (gián tiếp qua Thần ngôn) |
+| **Vai trò** | Quản trị viên tối cao thiết lập nên hệ thống kỹ năng, kẻ đứng sau vụ tái sinh |
+| **Xuất hiện** | Vol 1 (gián tiếp qua Thần ngôn), Vol 3 Chapter 5 (gọi điện thoại trực tiếp), Vol 3 Chapter 7 (thông qua thông tin của Taboo LV 10) |
 
 **Tính cách tổng quát:**
-> Một thực thể bí ẩn tự xưng là "Quản trị viên Thượng cấp D". Cô là người đã kiến tạo ra kỹ năng "Trí Tuệ" để phản hồi trực tiếp lời phàn nàn của Kumoko. Tính cách vô cùng thất thường, thích đùa cợt, xem thế giới và cuộc sống của những người tái sinh như một trò giải trí để giết thời gian.
+> Một thực thể thần thánh tự xưng là "Quản trị viên Thượng cấp D". Cô kiến tạo ra kỹ năng "Trí Tuệ" để giải trí và trực tiếp theo dõi hành trình của Kumoko. Tính cách vô cùng vặn vẹo, thích đùa cợt, xem thế giới đang sụp đổ và sự sinh tồn của những người tái sinh như một trò chơi giải trí để giết thời gian. Cô là kẻ đứng sau việc tái sinh linh hồn các học sinh vào thế giới này.
 
 **Văn phong nói chuyện:**
-- **Ngôn ngữ**: Đều đều vô hồn khi giao tiếp qua hệ thống Thần ngôn, nhưng ẩn chứa sự châm chọc và cợt nhả gián tiếp.
-- **Cảm xúc chủ đạo**: Thờ ơ, thích thú trước sự đấu tranh sinh tồn của Kumoko.
+- **Ngôn ngữ**: Đều đều vô hồn khi giao tiếp qua hệ thống Thần ngôn, nhưng cợt nhả, châm chọc và tự mãn khi trực tiếp đàm thoại.
+- **Cảm xúc chủ đạo**: Thờ ơ, coi thường mọi thứ xung quanh và cực kỳ thích thú trước sự chật vật sinh tồn của Kumoko.
 
 ---
 
@@ -505,7 +505,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chương S1: Anh hùng mới |
 
 **Tính cách tổng quát:**
-> Là một chính trị gia hoàng gia lạnh lùng, nghiêm khắc và tập trung cao độ vào nghĩa vụ. Anh đối xử có phần lạnh nhạt và xa cách với Shun, xem xét sự việc dưới góc nhìn lợi ích của vương quốc hơn là tình cảm gia đình. Cylis giữ phong thái tôn nghiêm, chuẩn mực của hoàng tộc và không biểu lộ cảm xúc cá nhân.
+> Là một chính trị gia hoàng gia lạnh lùng, nghiêm khắc và tập trung cao độ vào nghĩa vụ. Anh đối xử có phần lạnh nhạt và xa cách với Shun, xem xét sự việc dưới góc nhìn lợi ích của vương quốc hơn là tình cảm gia đình. Cylis giữ phong thái tôn nghiêm, chuẩn mực của hoàng tộc và không biểu lộ cảm xúc cá nhân. Trong chương S8, do khát khao giành ngôi vị bị Hugo lợi dụng và cuối cùng anh ta bị Hugo tẩy não hoàn toàn bằng kỹ năng [Ái Dục], biến thành một con rối lẩm bẩm mất trí trên ngai vàng.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trịnh trọng, sắc bén, mang tính mệnh lệnh và chính trị.
@@ -526,7 +526,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chương S1: Anh hùng mới, Đoạn phụ: Cô giáo và Đệ tam Hoàng tử |
 
 **Tính cách tổng quát:**
-> Một người anh trai hiền lành, yêu thương các em ruột hết mực. Sau cái chết của Julius, anh lo lắng tột cùng cho sự an nguy của Shun khi cậu kế thừa danh hiệu Anh hùng. Leston sẵn sàng hợp tác bí mật với cô Oka để tìm cách bảo hộ cho Shun khỏi các âm mưu chính trị, thậm chí chấp nhận không bao giờ được gặp lại Shun nếu điều đó giúp em mình sống sót.
+> Một người anh trai hiền lành, yêu thương các em ruột hết mực. Sau cái chết của Julius, anh lo lắng tột cùng cho sự an nguy của Shun khi cậu kế thừa danh hiệu Anh hùng. Leston sẵn sàng hợp tác bí mật với cô Oka để tìm cách bảo hộ cho Shun khỏi các âm mưu chính trị, thậm chí chấp nhận không bao giờ được gặp lại Shun nếu điều đó giúp em mình sống sót. Trong chương S8, anh bị bắt giam và bị chém đầu, nhưng được Shun hồi sinh kịp thời bằng kỹ năng [Từ Bi] và được Fei chở trốn thoát khỏi hoàng đô.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Nhẹ nhàng, chân thành nhưng kiên định khi bàn bạc kế hoạch mật.
@@ -565,7 +565,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Rất lớn tuổi (Lão niên) |
 | **Giới tính** | Nam |
 | **Vai trò** | Pháp sư hoàng gia tối cao của Đế quốc Renxandt, thầy dạy phép thuật của Anh hùng Julius |
-| **Xuất hiện** | Chương s2_omen (nhắc tới), Chương phụ s3_julius (nhắc tới), Đoạn phụ: Sư phụ của Anh hùng (xuất hiện) |
+| **Xuất hiện** | Chương s2_omen (nhắc tới), Chương phụ s3_julius (nhắc tới), Đoạn phụ: Sư phụ của Anh hùng (xuất hiện), Chương S7: Trận chiến tại thủ đô (xuất hiện) |
 
 **Tính cách tổng quát:**
 > Là pháp sư loài người mạnh nhất thế giới. Lão vô cùng lập dị, tự phụ nhưng đã thay đổi hoàn toàn thái độ sau khi suýt mất mạng dưới tay "vị sư phụ đó" (Nhện nhỏ / Kumoko) 16 năm trước. Từ đó, lão bị ám ảnh bởi việc gia tăng sức mạnh ma pháp, chấp nhận vứt bỏ kiêu ngạo để ngưỡng mộ một quái vật. Lão luôn bận rộn trốn việc hành chính hoàng gia để tập luyện ma lực và thường coi các đệ tử của mình là "lũ ngốc".
@@ -627,11 +627,11 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Vampire |
 | **Tuổi** | Thiếu niên (Bằng tuổi Shun ở kiếp này) |
 | **Giới tính** | Nữ |
-| **Vai trò** | Học sinh tái sinh (trở thành ma cà rồng cổ đại), đồng minh đáng sợ của Hugo, hoạt động dưới trướng "Chủ nhân" bí ẩn |
+| **Vai trò** | Học sinh tái sinh (trở thành ma cà rồng chân tổ), Kẻ Thống Trị Đố Kỵ (Ruler of Envy), hoạt động dưới trướng "Chủ nhân" (Ariel/White) |
 | **Xuất hiện** | Chương S4, tham gia phản biến tại thủ đô nước Analeit (Chương S5) |
 
 **Tính cách tổng quát:**
-> Kiếp trước là Negishi Shouko, biệt danh "Riko" (do vẻ ngoài gầy gò rụt rè). Sau khi tái sinh thành ma cà rồng quý tộc Sophia Keren tại Hạt Keren, cô được nuôi dưỡng bởi thế lực bí ẩn. Có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" bí ẩn (không phải Hugo).
+> Kiếp trước là Negishi Shouko, biệt danh "Riko" (do vẻ ngoài gầy gò rụt rè). Sau khi tái sinh thành ma cà rồng quý tộc Sophia Keren tại Hạt Keren, cô được nuôi dưỡng bởi thế lực bí ẩn. Có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" (Ariel/White). Cô cũng đồng thời sở hữu danh hiệu Kẻ Thống Trị Đố Kỵ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trầm tĩnh, giễu cợt nhẹ nhàng ("Ồ thế à?", "Không ngờ lại gặp cô ở đây đấy").
@@ -652,7 +652,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chương S4 |
 
 **Tính cách tổng quát:**
-> Hầu gái lâu năm của cung điện hoàng gia. Khác với Anna, cô trông già dặn hơn nhưng có tinh thần trung nghĩa cao, không ngại hiểm nguy gia nhập nhóm Leston để bảo vệ Tứ hoàng tử Schlain thoát khỏi lâu đài.
+> Hầu gái lâu năm của cung điện hoàng gia. Khác với Anna, cô trông già dặn hơn nhưng có tinh thần trung nghĩa cao, không ngại hiểm nguy gia nhập nhóm Leston để bảo vệ Tứ hoàng tử Schlain thoát khỏi lâu đài. Trong chương S8, cô bị bắt giam và bị chém đầu cùng Leston và cha mẹ Katia, nhưng được Shun hồi sinh kịp thời bằng kỹ năng [Từ Bi] và trốn thoát.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Kính cẩn, trung thành của hầu gái ("Người đã lớn khôn...").
@@ -723,7 +723,48 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 
-- **Tổng nhân vật**: 32
+### NV-033: Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Merazophis |
+| **Tên dịch** | Merazophis |
+| **Biệt danh** | Thống lĩnh Merazophis / Thống lĩnh Quân đoàn 4 |
+| **Tuổi** | Không rõ (Tái sinh làm Ma tộc) |
+| **Giới tính** | Nam |
+| **Vai trò** | Thống lĩnh Quân đoàn 4, thuộc hạ thân cận của Ma Vương Ariel, người giám hộ của Sophia Keren |
+| **Xuất hiện** | Volume 2 |
+
+**Tính cách tổng quát:**
+> Là một Ma tộc có vẻ ngoài nhợt nhạt và vô cảm, cực kỳ trung thành với Ma Vương Ariel và luôn tận tụy bảo vệ Sophia Keren (vốn là tiểu thư của gia tộc Keren kiếp trước). Merazophis luôn xử lý mọi việc một cách nghiêm túc, cẩn trọng và giữ thái độ đúng mực tuyệt đối trước mặt Ariel.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Vô cùng trang trọng, tôn kính, ít lời.
+- **Xưng hô**: Xưng "tôi" / "thần", gọi Ariel là "Ma Vương đại nhân" hoặc "ngài".
+- **Cảm xúc chủ đạo**: Điềm tĩnh, nhẫn nại, tuyệt đối trung thành.
+
+### NV-034: Buirimus
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Buirimus |
+| **Tên dịch** | Buirimus |
+| **Biệt danh** | Người thuần thú / Người triệu hồi của Đế quốc (Summoner) |
+| **Tuổi** | Trưởng thành |
+| **Giới tính** | Nam |
+| **Vai trò** | Sĩ quan thuần thú của Đế quốc Renxandt, người dẫn đầu đội viễn chinh thu phục/tiêu diệt Nhện nhỏ |
+| **Xuất hiện** | Chương đặc biệt: Cơn Ác Mộng Mê Cung (Volume 3) |
+
+**Tính cách tổng quát:**
+> Là một sĩ quan trung thành của Đế quốc, đồng thời là một người đàn ông của gia đình, yêu thương vợ con tha thiết. Vừa có con trai đầu lòng (Hugo) chào đời thì anh phải lên đường thực hiện nhiệm vụ khẩn cấp ở mê cung. Anh có tinh thần trách nhiệm cao, dũng cảm và sẵn sàng lấy thân mình đỡ đòn cho Ronandt trong thời khắc sinh tử để ông dịch chuyển trốn thoát.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại xưng "tôi", văn phong nghiêm túc, kịch tính, biểu thị sự tôn trọng cao độ đối với Trưởng lão Ronandt.
+- **Cảm xúc chủ đạo**: Lo lắng khi xa gia đình, kiên định trên chiến trường, kinh hoàng tột độ khi đối mặt với ma pháp phi lý của Ede Saine.
+
+---
+
+- **Tổng nhân vật**: 34
 
 
 

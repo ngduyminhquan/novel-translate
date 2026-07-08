@@ -95,8 +95,8 @@ graph TD
 | **Nhện gọi Mẹ** | Mẹ / Nhện khổng lồ / Nó |
 | **Mẹ gọi Nhện** | (Không có giao tiếp ngôn ngữ, chỉ xem là thức ăn nhẹ) |
 | **Nhện xưng** | Ta / Tôi (khi độc thoại) |
-| **Trạng thái** | Nhện con bỏ chạy ngay lập tức khi thấy mẹ ăn thịt đồng loại |
-| **Ghi chú** | Đây là bài học sinh tồn đầu tiên của Nhện về thế giới tàn khốc |
+| **Trạng thái** | Thù địch sâu sắc; Mẹ cố gắng kích hoạt kỹ năng kiểm soát tâm trí đối với Nhện nhỏ qua mối liên kết huyết thống. Nhện nhỏ phát hiện ra và cử các [Phân thân Tư duy] tiến hành "hack" ngược lại, tấn công và gặm nhấm linh hồn của Mẹ từ xa trong một trận chiến linh hồn kịch liệt. |
+| **Ghi chú** | Mẹ phái một đội quân Taratect tinh nhuệ (gồm cả Taratect Thượng cổ và Vĩ đại) đến tiêu diệt Nhện nhỏ ở thế giới thực để ngăn cản việc bị hack linh hồn, nhưng bầy nhện đã bị cô dụ vào bẫy dung nham và tiêu diệt hoàn toàn. |
 
 ---
 
@@ -275,12 +275,12 @@ graph TD
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Đối tượng giải trí và Người theo dõi/Quản trị viên |
-| **Nhện gọi D** | Quản trị viên D / Kẻ rình mò / Admin |
+| **Nhện gọi D** | Quản trị viên D / Kẻ rình mò / Admin / Tên khốn / Tà thần |
 | **D gọi Nhện** | Cá thể Zoa Ele (hoặc qua Thần ngôn) |
 | **Nhện xưng** | Tôi (Watashi) |
 | **D xưng** | D / Quản trị viên Thượng cấp D |
-| **Trạng thái** | Nhện cực kỳ đề phòng và sợ hãi quyền năng của D nhưng vẫn bướng bỉnh muốn sống vinh quang; D theo dõi và kiến tạo kỹ năng để chọc ghẹo Nhện |
-| **Ghi chú** | Mối quan hệ một chiều qua màn hình giám sát của quản trị viên |
+| **Trạng thái** | Sau khi kỹ năng [Cấm kỵ] đạt LV 10 (Chương 7), Nhện biết được D chính là kẻ đã tái sinh mình vào thế giới sắp sụp đổ này để làm trò giải trí. Nhện cực kỳ tức giận (nhận kỹ năng [Phẫn Nộ LV 1]) và căm ghét tính cách vặn vẹo của D, nhưng đành phải tạm thời nương theo kế hoạch của D để sinh tồn và tìm cách tích lũy thực lực thoát khỏi thế giới này. |
+| **Ghi chú** | Mối quan hệ chuyển từ đề phòng một chiều sang thù ghét/bực bội sâu sắc từ phía Nhện. |
 
 ---
 
@@ -365,7 +365,7 @@ graph TD
 | **Cylis gọi Shun** | Schlain / Shun |
 | **Shun xưng** | Tôi |
 | **Cylis xưng** | Ta / Tôi |
-| **Trạng thái** | Xa cách, lạnh lùng; Cylis tập trung vào nghĩa vụ hoàng tộc và chính trị, Shun không cảm thấy gắn kết |
+| **Trạng thái** | Bi kịch; Cylis gài bẫy Shun và giết hại vua cha, nhưng cuối cùng bị Hugo tẩy não thành phế nhân. Shun xót thương nhưng bỏ lại anh ta để tẩu thoát. |
 | **Ghi chú** | Cylis luôn tỏ vẻ nghiêm khắc và lạnh nhạt với Shun |
 
 ---
@@ -478,7 +478,7 @@ graph TD
 | **Cylis gọi Hugo** | Hugo |
 | **Hugo xưng** | Ta / Tôi |
 | **Cylis xưng** | Ta / Tôi |
-| **Trạng thái** | Cylis muốn cướp ngai vàng vì Vua cha định truyền ngôi cho Shun; Hugo muốn trả thù Shun và cô Oka. Họ kết cấu để làm phản và đổ tội cho Shun. |
+| **Trạng thái** | Đồng minh phản biến nhưng bị phản bội; Hugo lợi dụng tham vọng của Cylis rồi dùng [Ái Dục] tẩy não hủy hoại hoàn toàn tâm trí anh ta ngay khi đại sự thành. |
 
 ---
 
@@ -520,11 +520,11 @@ graph TD
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Đối tượng theo dõi và Quản trị viên thế giới |
-| **Nhện gọi Hắc** | Gã áo đen / Người đàn ông màu đen / Gã kia |
-| **Hắc gọi Nhện** | (Chưa trực tiếp giao tiếp thành công ở chương này do bất đồng ngôn ngữ) |
+| **Nhện gọi Hắc** | Quản trị viên Gyuristodief / Gã áo đen / Người đàn ông màu đen / Gã kia |
+| **Hắc gọi Nhện** | (Chưa trực tiếp giao tiếp thành công do bất đồng ngôn ngữ) |
 | **Nhện xưng** | Tôi (Watashi) / Ta (khi độc thoại) |
 | **Hắc xưng** | - |
-| **Trạng thái** | Nhện cảm giác áp đảo cực lớn và sợ hãi không thể đánh bại gã, nhưng cũng cảm thấy một sự thân thuộc và một chút bực bội kỳ lạ. Hắc đến để điều tra sự xáo trộn (nhận kỹ năng Trí Tuệ) nhưng bị D ngăn cản. |
+| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10] (Chương 7), Nhện nhận ra người đàn ông da ngăm đen này chính là Quản trị viên Gyuristodief. Nhện nhận thức được rằng Gyuristodief bảo vệ quy tắc thế giới và sẽ không cho phép cô tàn sát con người/quái vật vô tội vạ để cày cấp, và ông ta sẽ không để D ngăn cản mình lần nữa nếu cô đi quá giới hạn. |
 
 ---
 
@@ -580,9 +580,162 @@ graph TD
 
 ---
 
+### QH-040: Shun ↔ Ronandt
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cựu sư phụ của hoàng huynh và Vị Anh hùng mới |
+| **Shun gọi Ronandt** | Trưởng lão Ronandt / Sư phụ của hoàng huynh |
+| **Ronandt gọi Shun** | Em trai của Julius / Anh hùng mới / Các người |
+| **Shun xưng** | Tôi |
+| **Ronandt xưng** | Ta / Lão già này |
+| **Trạng thái** | Ronandt phục kích từ xa và thử thách nhóm Shun tại hoàng thành bằng các đòn phép uy lực lớn. Lão đánh giá nhóm "đủ điểm đỗ" và giả vờ rút lui thả cho đi vì tôn trọng tình nghĩa với Julius. Shun bàng hoàng trước sức mạnh ma pháp và không gian áp đảo của Ronandt nhưng thầm cảm kích vì được tha mạng, đồng thời hạ quyết tâm rèn luyện để vượt qua. |
+| **Ghi chú** | Cuộc chạm trán giúp Shun nhận ra khoảng cách thực lực to lớn giữa mình và các pháp sư hàng đầu thế giới. |
+
+### QH-041: Ronandt ↔ Sophia
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh tạm thời tại Đế quốc (Sophia thao túng Hugo, Ronandt tạm thời đi theo Hugo) nhưng thực chất đề phòng lẫn nhau |
+| **Ronandt gọi Sophia** | Đứa con gái nhỏ bé / Sophia / Con bé / Con nhóc xấc xược |
+| **Sophia gọi Ronandt** | Ông / Trưởng lão Ronandt |
+| **Ronandt xưng** | Ta / Lão già này |
+| **Sophia xưng** | Tôi |
+| **Trạng thái** | Sophia cảnh báo và đe dọa sẽ nghiền nát Ronandt nếu lão giở trò cản trở kế hoạch của Chủ nhân (Ariel). Ronandt nhận thức rõ khoảng cách sức mạnh áp đảo của Sophia và sự nguy hiểm của cô, đồng thời đề phòng cô. Lão tự cảm thấy sợ hãi trước sức mạnh phi nhân loại của cô ta và chọn cách tạm thời án binh bất động. |
+| **Ghi chú** | Cuộc đối thoại diễn ra sau khi Ronandt chạm trán và cố ý thả nhóm Shun đi (Chương S7). |
+
+---
+
+### QH-042: Tôi (Nhện) ↔ Địa Long Alaba
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cội nguồn chấn thương tâm lý đã vượt qua |
+| **Tôi gọi Alaba** | Alaba / Địa Long Alaba |
+| **Alaba gọi Tôi** | (Không có giao tiếp ngôn ngữ trực tiếp) |
+| **Tôi xưng** | Ta / Tôi (khi độc thoại) |
+| **Trạng thái** | Nhện nhỏ đã chủ động khiêu chiến và chiến thắng Alaba tại Tầng Dưới bằng chiến thuật mài mòn làm cạn kiệt chỉ số SP nhờ kỹ năng dòng Ruler [Lười Biếng]. Alaba đã chiến đấu kiên cường đến cùng và chấp nhận thất bại một cách tôn nghiêm bằng cách chủ động tắt hết kỹ năng của mình trước cái chết. Nhện nhỏ đã vượt qua được nỗi sợ hãi nguyên thủy, nhưng hành động chấp nhận cái chết kiêu hãnh của Alaba đã để lại một dư vị cay đắng và tồi tệ cho cô. |
+| **Ghi chú** | Quyết chiến đỉnh điểm trong Chương 11 Tập 3. Đánh dấu mốc quan trọng khi Nhện nhỏ chính thức vượt qua chấn thương tâm lý lớn nhất để vươn lên tầm cao mới. |
+
+---
+
+### QH-043: Ariel ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Quân chủ và thuộc hạ cấp dưới thân cận |
+| **Ariel gọi Merazophis** | Ngươi / Merazophis |
+| **Merazophis gọi Ariel** | Ma Vương đại nhân / Ngài |
+| **Ariel xưng** | Ta |
+| **Merazophis xưng** | Tôi / Thần |
+| **Trạng thái** | Merazophis tuyệt đối trung thành và tuân lệnh Ariel. Ariel tin cậy giao phó những nhiệm vụ quan trọng cho cậu ta cùng nhóm Sophia. |
+
+---
+
+### QH-044: Sophia ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ tớ gắn bó từ kiếp trước, chỗ dựa tinh thần duy nhất |
+| **Sophia gọi Merazophis** | Mera |
+| **Merazophis gọi Sophia** | Tiểu thư (Miss / Lady Sophia) |
+| **Sophia xưng** | Tôi |
+| **Merazophis xưng** | Tôi / Mera |
+| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi cả hai cùng tái sinh thành ma tộc ma cà rồng, mối quan hệ này càng thêm sâu sắc, vừa là chủ tớ trung nghĩa vừa là chỗ dựa tinh thần vô song trên thế giới mới đầy thù địch. |
+
+### QH-045: Buirimus ↔ Ronandt
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Sĩ quan và Trưởng pháp sư hoàng gia của Đế quốc Renxandt |
+| **Buirimus gọi Ronandt** | Trưởng lão Ronandt / Ngài |
+| **Ronandt gọi Buirimus** | Ngươi / Buirimus |
+| **Buirimus xưng** | Tôi |
+| **Ronandt xưng** | Ta |
+| **Trạng thái** | Buirimus tôn trọng thực lực tối cường của Ronandt nhưng ngao ngán trước tính khí lập dị, tự ý của ông. Ronandt hứa bảo đảm an toàn cho Buirimus. Trong trận chiến với Ede Saine, Buirimus lấy thân mình đỡ đòn chí mạng cho Ronandt để ông kịp kích hoạt [Dịch chuyển] cứu cả hai. |
+
+---
+
+### QH-046: Buirimus ↔ Tôi (Nhện)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ đi săn (Người thuần thú) và Con mồi (Cơn Ác Mộng Mê Cung) |
+| **Buirimus gọi Nhện** | Con quái vật nhện / Con Ede Saine / Cơn ác mộng |
+| **Nhện gọi Buirimus** | Người loài người / Kẻ triệu hồi |
+| **Trạng thái** | Buirimus nhận lệnh thu phục hoặc tiêu diệt Nhện nhỏ ở Mê cung Elroe. Cuộc chạm trán kết thúc trong thảm kịch khi toàn bộ binh lính và thú triệu hồi của Buirimus bị Nhện tiêu diệt chớp nhoáng, còn bản thân ông bị bắn nát nửa thân người, gieo rắc nỗi khiếp sợ vĩnh viễn về "Cơn Ác Mộng". |
+
+---
+
+### QH-047: Shun ↔ Anna
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ tớ (Hầu gái kiêm hộ vệ và Cậu chủ/Điện hạ) |
+| **Shun gọi Anna** | Anna / Cô Anna |
+| **Anna gọi Shun** | Điện hạ Schlain / Cậu chủ |
+| **Shun xưng** | Tôi / Anh |
+| **Anna xưng** | Tôi / Em |
+| **Trạng thái** | Anna là hầu gái trung thành kiêm hộ vệ cho Shun và Sue từ nhỏ. Sau khi được giải thoát khỏi thuật tẩy não cực đoan của Hugo nhờ ma pháp của Shun, cô lâm vào tình trạng trầm cảm, tự dằn vặt bản thân vì những lỗi lầm vô ý đã phạm phải và muốn đi theo đoàn để chuộc lỗi. Shun luôn lo lắng cho tình trạng tâm lý của cô và muốn tự mình trông nom cô. |
+| **Ghi chú** | Anna là một bán Elf có quá khứ bị xua đuổi khỏi làng Elf, khiến chuyến hành trình trở lại làng Elf của cô ẩn chứa nhiều căng thẳng. |
+
+---
+
+### QH-048: Sophia ↔ Sue
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp cưỡng ép (cùng phe dưới trướng Ma Vương/White) |
+| **Sophia gọi Sue** | Sue / Cô em gái nhỏ (Little Sister) / Cô / Cô bé thân mến (my dear) |
+| **Sue gọi Sophia** | Sophia / Cô / Chó săn của thần (god's hunting dog) |
+| **Sophia xưng** | Tôi |
+| **Sue xưng** | Tôi |
+| **Trạng thái** | Sophia trêu chọc và chế giễu việc Sue giả vờ bị tẩy não để phản bội người anh trai yêu dấu nhằm bảo vệ anh ta; Sue vô cùng thù ghét và khinh miệt Sophia nhưng buộc phải tuân theo mệnh lệnh của Chủ nhân (Ariel/White). |
+| **Ghi chú** | Sue coi Sophia là "chó săn của thần" và kẻ thù, trong khi Sophia lấy làm thú vị trước vẻ mặt tuyệt vọng của Sue khi nhận ra mình đã phản bội anh trai. |
+
+---
+
+### QH-049: Balto ↔ White (NV-001)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Quan chức ma tộc và Thống lĩnh bí ẩn / Quản trị viên giả định |
+| **Balto gọi White** | White |
+| **White gọi Balto** | (Không giao tiếp trực tiếp) |
+| **Balto xưng** | Tôi (trong độc thoại) / Dạ (nếu có nói chuyện lịch sự) |
+| **White xưng** | (Không nói chuyện trực tiếp với Balto) |
+| **Trạng thái** | Balto e ngại bản chất kỳ dị, bí ẩn của White, đánh giá cô cư xử rất đúng mực nhưng toát ra vẻ đáng sợ. Balto phỏng đoán cô là một Quản trị viên đứng sau thao túng thế giới. |
+
+---
+
+### QH-050: Balto ↔ Gyuristodief (Black / NV-030)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Quan chức ma tộc và Thống lĩnh bí ẩn / Quản trị viên |
+| **Balto gọi Hắc** | Hắc (Black) |
+| **Hắc gọi Balto** | (Không giao tiếp trực tiếp) |
+| **Balto xưng** | Tôi (trong độc thoại) |
+| **Hắc xưng** | (Không nói chuyện trực tiếp với Balto) |
+| **Trạng thái** | Balto đề phòng sâu sắc sự bí ẩn và áp đảo đến từ Hắc. Phỏng đoán ông ta là một Quản trị viên cùng phe với White. |
+
+---
+
+### QH-051: Ariel ↔ White (NV-001)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh tối cao / Thủ lĩnh và thuộc hạ thân cận nhất |
+| **Ariel gọi White** | White / Shiraori |
+| **White gọi Ariel** | Ariel / Ma Vương |
+| **Ariel xưng** | Ta / Tớ |
+| **White xưng** | Tôi |
+| **Trạng thái** | Ariel thu phục và đưa White vào làm Thống lĩnh Quân đoàn 10. Hai người có mối liên kết chặt chẽ và sâu sắc, Ariel rất tin tưởng giao phó nhiệm vụ quan trọng cho nhóm White. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-08
-- **Tổng cặp quan hệ**: 39
-
+- **Tổng cặp quan hệ**: 51

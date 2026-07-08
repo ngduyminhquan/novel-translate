@@ -48,6 +48,9 @@
 | 28 | Klevea | Klevea | Hầu gái cũ của Shun và Sue |
 | 29 | D / Administrator D | D / Quản trị viên D | Quản trị viên tối cao đứng sau hệ thống |
 | 30 | Gyuristodief / Black | Gyuristodief / Quản trị viên Hắc | Quản trị viên cấp cao của thế giới |
+| 31 | Merazophis | Merazophis | Thống lĩnh Quân đoàn 4 dưới quyền Ma Vương |
+| 32 | Balto | Balto | Tướng lĩnh ma tộc, phụ tá đắc lực quản lý hành chính cho Ma Vương |
+| 33 | White / Shiraori | White / Bạch | Thống lĩnh Quân đoàn 10, danh phận tương lai của Nhện nhỏ |
 
 ---
 
@@ -213,6 +216,16 @@
 | 140 | Wind Magic | Phong ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính gió |
 | 141 | Divinity Expansion | [Mở rộng Thần giới] | Kỹ năng thụ động | Kỹ năng mở rộng trường thần giới |
 | 142 | Flight | [Phi hành] | Kỹ năng chủ động/thụ động | Khả năng bay lượn trên bầu trời |
+| 143 | Satiation | [No Nê] | Kỹ năng | Giúp dự trữ thức ăn dư thừa dưới dạng năng lượng (HP, MP, SP) |
+| 144 | Mirror Shield | [Khiên Gương] | Ma pháp | Một phép thuật phản đòn của Thánh Quang Ma pháp giúp phản xạ hoặc làm chệch hướng đòn tấn công |
+| 145 | Wyrm Barrier | [Phi Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp giúp giảm uy lực ma pháp đối phương tương tự như vảy phi long |
+| 146 | Wyrm Scales | [Phi Long Lân] | Kỹ năng thụ động | Vảy phi long giúp giảm sát thương ma pháp và vật lý |
+| 147 | Mercy | [Từ Bi] | Kỹ năng | Kỹ năng Ruler thuộc dòng Thất Đại Tội giúp hồi sinh người chết |
+| 148 | Concealment | [Che giấu] | Kỹ năng chủ động | Giúp che giấu các chỉ số và kỹ năng khỏi Thẩm định |
+| 149 | Presence Perception | [Cảm nhận Hiện diện] | Kỹ năng thụ động | Giúp cảm nhận sự hiện diện của các sinh thể xung quanh |
+| 150 | Terrain Wall | [Tường Địa hình] | Ma pháp | Phép thuật tạo tường chắn bằng đất thuộc Ma pháp Địa hình |
+| 151 | Terrain Spear | [Thương Địa hình] | Ma pháp | Phép thuật tạo thương tấn công bằng đất thuộc Ma pháp Địa hình |
+| 152 | Large-Scale Teleport | [Dịch chuyển Quy mô lớn] | Ma pháp | Phép thuật dịch chuyển một nhóm lớn đối tượng từ xa |
 
 ---
 
@@ -269,7 +282,7 @@
 | 47 | Ruler of Pride | Kẻ Thống Trị Kiêu Hãnh | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Kiêu hãnh |
 | 48 | Elroe Mowajitz | Mowajitz Elroe | Quái vật | Quái vật dạng chó sói đầu hươu sinh sống trong mê cung |
 | 49 | Gunerush Elroe | Gunerush Elroe | Quái vật | Loài Hỏa Long cấp thấp sinh sống ở Tầng Trung |
-| 50 | Earth Dragon Kagna | Địa Long Kagna | Quái vật | Loài địa long khổng lồ, đô con cư ngụ tại Tầng Trung |
+| 50 | Earth Dragon Kagna | Địa Long Kagna | Quái vật | Loài địa long khổng lồ, đô con cư ngụ tại Tầng Dưới |
 | 51 | The Nightmare’s Vestige | Tàn tích của Cơn Ác Mộng | Quái vật | Con quái vật nhện đột biến được đồn đại là do Cơn Ác Mộng của Mê cung để lại |
 | 52 | The Nightmare of the Labyrinth | Cơn Ác Mộng của Mê cung | Thuật ngữ / Quái vật | Con nhện khổng lồ xuất hiện khoảng 10 năm trước tàn sát vô số người |
 | 53 | Elroe guneseven | Guneseven Elroe | Quái vật | Loài Hỏa Long cấp thấp dạng cá trê sinh sống ở Tầng Trung |
@@ -319,6 +332,32 @@
 | 97 | Puppet Taratect | Taratect Rối (Nhện Rối) | Chủng tộc quái vật | Chủng tộc nhện rối của Ma Vương Ariel (được nhóm Shun gọi là ninja) |
 | 98 | Spatial Storage item | vật phẩm Lưu trữ Không gian | Vật phẩm / Ma cụ | Vật phẩm hoặc ma cụ dùng để lưu trữ đồ đạc trong không gian nén |
 | 99 | Divinity Field | Trường Thần giới | Thuật ngữ | Nơi sâu thẳm nhất trong linh hồn của một sinh vật sống |
+| 100 | Orthocadinaht | Orthocadinaht | Chủng tộc quái vật | Chủng tộc nhện tiến hóa chuyên về ma pháp, sở hữu trí tuệ cao |
+| 101 | Dried Krikta Fruit | Quả Krikta sấy khô | Vật phẩm | Quả sấy khô có vị ngọt giúp hồi phục một lượng nhỏ MP |
+| 102 | Earth Dragon Gehre | Địa Long Gehre | Quái vật | Loài địa long thon gọn, sắc sảo và cực kỳ nhanh nhẹn cư ngụ tại Tầng Dưới |
+| 103 | Elroe Baraggish | Baraggish Elroe | Quái vật | Quái vật rắn khổng lồ, dạng tiến hóa từ loài rắn ở Tầng Trên cư ngụ tại Tầng Dưới |
+| 104 | Arch Taratect | Taratect Thượng cổ | Chủng tộc quái vật | Chủng tộc nhện khổng lồ đứng đầu taratect, lớn thứ hai sau Queen Taratect |
+| 105 | Telekinesis | Niệm lực | Kỹ năng chủ động | Kỹ năng dịch chuyển vật thể bằng ý nghĩ |
+| 106 | Probability Super-Correction | Hiệu chỉnh Xác suất siêu cấp | Kỹ năng thụ động | Dạng tiến hóa siêu cấp của Hiệu chỉnh Xác suất, tăng mạnh tỷ lệ thành công |
+| 107 | Magic Divinity | Ma Thần Đấu Pháp | Kỹ năng chủ động | Dạng tiến hóa siêu cấp của Ma đấu pháp, tăng chỉ số ma pháp cực lớn |
+| 108 | Repellent Evil Eye | Xích Lực Tà Nhãn | Kỹ năng chủ động | Dạng tiến hóa của Trọng Lực Tà Nhãn, có thể đẩy hoặc kéo mục tiêu tùy ý |
+| 109 | Black Magic | Hắc Ma pháp | Ma pháp | Phép thuật bóng tối cấp cao tiến hóa từ Ma pháp Hắc ám |
+| 110 | Black Bullet | Hắc Đạn | Ma pháp | Phép tấn công bắn ra quả cầu đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Sốc |
+| 111 | Black Spear | Hắc Thương | Ma pháp | Phép tấn công bắn ra ngọn thương đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Đâm |
+| 112 | Dark Bullet | Hắc ám Đạn | Ma pháp | Phép tấn công cơ bản bắn ra quả cầu hắc ám thuộc Ma pháp Hắc ám |
+| 113 | Spider Thread | Tơ Nhện | Kỹ năng chủ động | Kỹ năng phun tơ nhện đặc trưng của chủng tộc taratect |
+| 114 | Appraisal Blocked | Thẩm định bị chặn | Trạng thái hệ thống | Trạng thái hiển thị khi đối tượng ngăn cản Thẩm định |
+| 115 | Kirekock | Kirekock | Quái vật | Quái vật dạng chim (thú triệu hồi của Buirimus) |
+| 116 | Rock Turtle | Rock Turtle | Quái vật | Quái vật dạng rùa đá (thú triệu hồi của Buirimus) |
+| 117 | Feveroot | Feveroot | Quái vật | Quái vật dạng hổ lửa (thú triệu hồi của Buirimus) |
+| 118 | Suiten | Suiten | Quái vật | Quái vật dạng Thủy Phi Long (thú triệu hồi của Buirimus) |
+| 119 | General Finjicote | Finjicote Đại tướng | Quái vật | Cấp bậc tiến hóa cấp cao tiếp theo của High Finjicote |
+| 120 | Water Dragon | Thủy Long | Quái vật | Loài rồng biển khổng lồ thống trị đại dương |
+| 121 | Ruler of Envy | Kẻ Thống Trị Đố Kỵ | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Đố kỵ |
+| 122 | Earth Dragon | Địa Long | Quái vật | Loài rồng đất kiêu hãnh cư ngụ tại Tầng Dưới |
+| 123 | Earth Dragon Alaba | Địa Long Alaba | Quái vật | Con Địa Long huyền thoại tại Tầng Dưới, nỗi ám ảnh nguyên thủy của Nhện nhỏ |
+| 124 | wyrm | phi long | Quái vật / Phân loại | Loài quái vật giống rồng nhưng cấp bậc thấp hơn rồng thực sự |
+| 125 | samurai | samurai | Thuật ngữ văn hóa | Chiến binh kiêu hãnh của Nhật Bản cổ, được Ariel ví với sự kiêu hãnh của loài Địa Long |
 
 ---
 
@@ -337,4 +376,4 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-08
-- **Tổng thuật ngữ**: 275
+- **Tổng thuật ngữ**: 303

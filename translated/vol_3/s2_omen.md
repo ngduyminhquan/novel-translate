@@ -238,7 +238,7 @@ Tôi không biết tại sao cô ấy lại đột ngột rơi vào trạng thá
 
 Nhưng chuyện này đã xảy ra ngay khi tôi trở thành Anh hùng và được triệu hồi về hoàng cung.
 
-Khi tôi dùng Thẩm Định, thông tin hiện ra chỉ vỏn vẹn là "Trứng Phi Long". Tôi thậm chí còn không biết liệu Fei có còn sống ở bên trong hay không.
+Khi tôi dùng Thẩm định, thông tin hiện ra chỉ vỏn vẹn là "Trứng Phi Long". Tôi thậm chí còn không biết liệu Fei có còn sống ở bên trong hay không.
 
 Mặc dù vậy, tôi không dám đập vỡ lớp vỏ đó.
 

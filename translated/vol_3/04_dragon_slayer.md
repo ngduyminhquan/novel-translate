@@ -312,7 +312,7 @@ Và chính chiếc lưỡi hái đó đã chém vào hỏa long với tất cả
 
 `<Kỹ năng [Sức mạnh Phi Long LV 3] đã được tích hợp vào [Long Lực LV 1].>`
 
-Giọng Nói Thần Thánh (tạm gọi) vang lên, và các chỉ số biến mất khỏi màn hình Thẩm Định của hỏa long, tên của nó đổi thành “Xác Hỏa Long”.
+Giọng Nói Thần Thánh (tạm gọi) vang lên, và các chỉ số biến mất khỏi màn hình Thẩm định của hỏa long, tên của nó đổi thành “Xác Hỏa Long”.
 
 Chỉ khi nhìn thấy điều đó, tôi mới thực sự thở phào nhẹ nhõm.
 
@@ -344,7 +344,7 @@ Nhìn quanh khu vực, tôi thấy mặt đất trong bán kính ba trăm feet x
 
 Nơi bóng tối tụ hội và bị hút vào ở cuối phép thuật đã biến thành một cái hố đặc biệt sâu.
 
-Nhìn chăm chú vào cái miệng hố bằng [Thẩm Định], tôi thấy nó sâu đến mức vượt ra ngoài phạm vi phát hiện của tôi.
+Nhìn chăm chú vào cái miệng hố bằng [Thẩm định], tôi thấy nó sâu đến mức vượt ra ngoài phạm vi phát hiện của tôi.
 
 Cái này thông từ Tầng Trung xuống thẳng Tầng Dưới luôn hả?
 
