@@ -89,7 +89,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chapter S1 |
 
 **Tính cách tổng quát:**
-> Kiếp trước là bạn thân của Shun. Tái sinh dưới hình dạng tiểu thư quý tộc xinh đẹp nhưng linh hồn vẫn là nam. Cô luôn mâu thuẫn giữa bản sắc giới tính cũ và cơ thể mới. Rất thông minh, sắc sảo và thực tế.
+> Kiếp trước là bạn thân của Shun. Tái sinh dưới hình dạng tiểu thư quý tộc xinh đẹp nhưng ban đầu linh hồn vẫn mang bản sắc nam giới. Cô từng mâu thuẫn sâu sắc giữa bản sắc giới tính cũ và cơ thể mới. Rất thông minh, sắc sảo và thực tế. Sau biến cố đảo chính và trận chiến với Shun (Chương phụ K1), phần linh hồn nam tính của kiếp trước (Ooshima Kanata) đã hoàn toàn tan biến khi cô được Shun cứu mạng, khiến cô chính thức chấp nhận bản sắc nữ giới và tình cảm dành cho Shun dưới tư cách Karnatia Seri Anabald.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Khi ở nơi công cộng: thanh lịch, quý phái. Khi nói chuyện riêng với Shun: xuề xòa, thân mật như hai thằng con trai.
@@ -134,14 +134,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Julius Zagan Analeit |
 | **Tên dịch** | Julius |
-| **Biệt danh** | Anh hùng |
+| **Biệt danh** | Cựu Anh hùng (Đã tử trận) |
 | **Tuổi** | Thanh niên |
 | **Giới tính** | Nam |
-| **Vai trò** | Nhân vật phụ quan trọng (Anh trai Shun, Anh hùng hiện tại) |
-| **Xuất hiện** | Chapter J1 |
+| **Vai trò** | Anh trai Shun, Anh hùng đương nhiệm trước khi hi sinh |
+| **Xuất hiện** | Chapter J1 (Xuất hiện trực tiếp), Chương S3 (Tử trận qua lời kể) |
 
 **Tính cách tổng quát:**
-> Một vị Anh hùng chính trực, vị tha và vô cùng dũng cảm. Anh luôn gánh vác trách nhiệm bảo vệ nhân loại khỏi ma tộc trên vai, hết lòng yêu thương gia đình (đặc biệt là Shun) và trân trọng các đồng đội trong tổ đội của mình.
+> Một vị Anh hùng chính trực, vị tha và vô cùng dũng cảm. Anh luôn gánh vác trách nhiệm bảo vệ nhân loại khỏi ma tộc trên vai, hết lòng yêu thương gia đình (đặc biệt là Shun) và trân trọng các đồng đội trong tổ đội của mình. Đã hi sinh dưới tay "cô bé màu trắng" bằng một đòn [Hủ thực Công kích].
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trang trọng, lịch sự, nhã nhặn nhưng đầy khí chất lãnh đạo.
@@ -156,18 +156,18 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Hyrince Quardt |
 | **Tên dịch** | Hyrince |
-| **Biệt danh** | Kỵ sĩ khiên |
+| **Biệt danh** | Kỵ sĩ khiên / Người mang khiên |
 | **Tuổi** | Thanh niên |
 | **Giới tính** | Nam |
-| **Vai trò** | Nhân vật phụ (Bạn thuở nhỏ và là khiên thịt vững chắc của Julius) |
-| **Xuất hiện** | Chapter J1 |
+| **Vai trò** | Bạn thuở nhỏ của Julius, là người duy nhất sống sót trong đội nhờ Lông vũ Phượng hoàng; hiện tại là người mang khiên cho vị Anh hùng mới (Shun) |
+| **Xuất hiện** | Chapter J1 (Đồng hành cùng Julius), Chương S3 (Trở về vương quốc và gia nhập đội của Shun) |
 
 **Tính cách tổng quát:**
-> Là người bạn thân thiết lâu năm của Julius. Anh là một người thực tế, thẳng thắn, cởi mở, hay nói đùa để giảm bớt căng thẳng nhưng trong trận chiến là một người vô cùng đáng tin cậy.
+> Là người bạn thân thiết lâu năm của Julius. Anh là một người thực tế, thẳng thắn, cởi mở, hay nói đùa để giảm bớt căng thẳng nhưng trong trận chiến là một người vô cùng đáng tin cậy. Mang gánh nặng tội lỗi của người duy nhất sống sót, anh quyết định bảo vệ Shun thay cho Julius.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, thoải mái, thân mật.
-- **Đặc điểm**: Thích đùa cợt, thỉnh thoảng trêu chọc Julius hay các đồng đội khác.
+- **Đặc điểm**: Thích đùa cợt, thỉnh thoảng trêu chọc Julius; khi đối thoại với Shun thể hiện sự nghiêm túc và tôn trọng hơn sau khi thề trung thành.
 
 ---
 
@@ -488,11 +488,243 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 
-## Ghi Chú
 
-- **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-06
-- **Tổng nhân vật**: 21
+
+---
+
+### NV-022: Cylis (Đệ nhất Hoàng tử nước Analeit)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Cylis |
+| **Tên dịch** | Cylis |
+| **Biệt danh** | Đệ nhất Hoàng tử |
+| **Tuổi** | Trưởng thành |
+| **Giới tính** | Nam |
+| **Vai trò** | Anh cả của Schlain (Shun), chịu trách nhiệm chính trị và đối ngoại của hoàng gia Analeit |
+| **Xuất hiện** | Chương S1: Anh hùng mới |
+
+**Tính cách tổng quát:**
+> Là một chính trị gia hoàng gia lạnh lùng, nghiêm khắc và tập trung cao độ vào nghĩa vụ. Anh đối xử có phần lạnh nhạt và xa cách với Shun, xem xét sự việc dưới góc nhìn lợi ích của vương quốc hơn là tình cảm gia đình. Cylis giữ phong thái tôn nghiêm, chuẩn mực của hoàng tộc và không biểu lộ cảm xúc cá nhân.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trịnh trọng, sắc bén, mang tính mệnh lệnh và chính trị.
+- **Cảm xúc chủ đạo**: Nghiêm nghị, xa cách, điềm tĩnh.
+
+---
+
+### NV-023: Leston (Đệ tam Hoàng tử nước Analeit)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Leston |
+| **Tên dịch** | Leston |
+| **Biệt danh** | Đệ tam Hoàng tử |
+| **Tuổi** | Trưởng thành |
+| **Giới tính** | Nam |
+| **Vai trò** | Hoàng huynh của Schlain (Shun), đồng minh mật thiết cùng bảo vệ cậu |
+| **Xuất hiện** | Chương S1: Anh hùng mới, Đoạn phụ: Cô giáo và Đệ tam Hoàng tử |
+
+**Tính cách tổng quát:**
+> Một người anh trai hiền lành, yêu thương các em ruột hết mực. Sau cái chết của Julius, anh lo lắng tột cùng cho sự an nguy của Shun khi cậu kế thừa danh hiệu Anh hùng. Leston sẵn sàng hợp tác bí mật với cô Oka để tìm cách bảo hộ cho Shun khỏi các âm mưu chính trị, thậm chí chấp nhận không bao giờ được gặp lại Shun nếu điều đó giúp em mình sống sót.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Nhẹ nhàng, chân thành nhưng kiên định khi bàn bạc kế hoạch mật.
+- **Cảm xúc chủ đạo**: Lo lắng, ấm áp, tận tụy.
+
+---
+
+### NV-024: Vua nước Analeit
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | King of Analeit / Father |
+| **Tên dịch** | Vua nước Analeit / Phụ hoàng |
+| **Biệt danh** | Quốc vương / Phụ hoàng |
+| **Tuổi** | Lớn tuổi |
+| **Giới tính** | Nam |
+| **Vai trò** | Quốc vương trị vì Analeit, cha của Julius, Cylis, Leston, Schlain và Sue |
+| **Xuất hiện** | Chương S1: Anh hùng mới |
+
+**Tính cách tổng quát:**
+> Một vị vua anh minh nhưng đang phải gánh chịu nỗi đau mất đi con trai Julius. Ông tôn trọng các luật lệ hệ thống (nhận thức được việc Shun kế thừa Anh hùng là do hệ thống lựa chọn chứ không thể thay đổi) và lo sợ cho tương lai của vương quốc lẫn sinh mạng của Shun. Dù mang trọng trách quốc gia trên vai, ông vẫn thể hiện tình yêu thương thầm kín của người cha dành cho các con.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Uy nghiêm của quân vương nhưng xen lẫn sự mệt mỏi và đau thương của người cha mất con ("Ta hiểu...", "Hoàng nhi của ta...").
+- **Cảm xúc chủ đạo**: Nghiêm trang, u sầu, từ tốn.
+
+---
+
+### NV-025: Ronandt (Trưởng lão Ronandt)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Ronandt Orozoi / Elder Ronandt |
+| **Tên dịch** | Ronandt / Trưởng lão Ronandt |
+| **Biệt danh** | Trưởng Pháp sư Hoàng gia / Pháp sư loài người mạnh nhất |
+| **Tuổi** | Rất lớn tuổi (Lão niên) |
+| **Giới tính** | Nam |
+| **Vai trò** | Pháp sư hoàng gia tối cao của Đế quốc Renxandt, thầy dạy phép thuật của Anh hùng Julius |
+| **Xuất hiện** | Chương s2_omen (nhắc tới), Chương phụ s3_julius (nhắc tới), Đoạn phụ: Sư phụ của Anh hùng (xuất hiện) |
+
+**Tính cách tổng quát:**
+> Là pháp sư loài người mạnh nhất thế giới. Lão vô cùng lập dị, tự phụ nhưng đã thay đổi hoàn toàn thái độ sau khi suýt mất mạng dưới tay "vị sư phụ đó" (Nhện nhỏ / Kumoko) 16 năm trước. Từ đó, lão bị ám ảnh bởi việc gia tăng sức mạnh ma pháp, chấp nhận vứt bỏ kiêu ngạo để ngưỡng mộ một quái vật. Lão luôn bận rộn trốn việc hành chính hoàng gia để tập luyện ma lực và thường coi các đệ tử của mình là "lũ ngốc".
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Khi độc thoại nội tâm: xưng "ta", sử dụng đại từ tự nhiên, trầm ngâm suy nghĩ. Khi đối thoại: dùng giọng bề trên của một bậc thầy, xưng "ta", gọi người khác là "ngươi", "đồ ngốc" (fools).
+- **Cảm xúc chủ đạo**: Nghiêm khắc, trào phúng, đôi khi đầy u sầu và hối tiếc khi nghĩ về những người đệ tử đã mất (như Julius).
+
+---
+
+### NV-026: Aurel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Aurel |
+| **Tên dịch** | Aurel |
+| **Biệt danh** | Đệ tử của Ronandt |
+| **Tuổi** | Thiếu nữ / Trẻ tuổi |
+| **Giới tính** | Nữ |
+| **Vai trò** | Đệ tử kiêm cận vệ/người hầu cận của Ronandt ở Đế quốc Renxandt, bạn thuở nhỏ của Julius |
+| **Xuất hiện** | Đoạn phụ: Sư phụ của Anh hùng |
+
+**Tính cách tổng quát:**
+> Một thiếu nữ xuất thân từ gia đình quý tộc cấp thấp, được Ronandt nhận làm đồ đệ vì có tài năng. Cô có tính cách thẳng thắn, thực tế, hay cằn nhằn và cự cãi với vị sư phụ lập dị của mình. Dù rất tôn kính Ronandt về mặt ma pháp, cô không ngần ngại gọi lão là "ông già", ép lão làm việc văn phòng, thậm chí nhấc bổng lão lên vác đi khi lão trốn việc.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Thân mật, thoải mái nhưng vẫn gọi "Sư phụ" và xưng "con" (ở bản dịch Việt để thể hiện tình nghĩa thầy trò), tuy nhiên đôi khi gọi lão là "ông già" (old man) đầy ngỗ ngược.
+- **Cảm xúc chủ đạo**: Cằn nhằn, bất lực nhưng quan tâm đến sức khỏe và nghĩa vụ của sư phụ.
+
+---
+
+### NV-027: Potimas Harrifenas
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Potimas Harrifenas |
+| **Tên dịch** | Potimas Harrifenas |
+| **Biệt danh** | Tộc trưởng tộc Elf / Đại sứ thiện chí |
+| **Tuổi** | Cổ xưa (Tồn tại hàng ngàn năm) |
+| **Giới tính** | Nam |
+| **Vai trò** | Tộc trưởng tộc Elf, nhân vật phản diện quan trọng đằng sau nhiều âm mưu |
+| **Xuất hiện** | Nhắc đến ở chương phụ Leston & Oka, bị Sophia chặt đầu tại thủ đô nước Analeit (Chương S5) |
+
+**Tính cách tổng quát:**
+> Một thực thể cực kỳ ích kỷ, tàn nhẫn, kiêu ngạo và coi thường tất cả các sinh mệnh khác (bao gồm cả nhân tộc và ma tộc) là loài hạ đẳng. Ông ta chỉ quan tâm đến lợi ích cá nhân, sự phát triển công nghệ và việc đạt được sự bất tử. Xem con gái mình (cô Oka) và những người tái sinh khác như những con cờ có giá trị lợi dụng cao.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, lạnh lùng, kẻ cả, không biểu lộ cảm xúc.
+- **Cảm xúc chủ đạo**: Thờ ơ, tự cao tự đại, luôn tính toán lợi ích.
+
+---
+
+### NV-028: Sophia (Sophia Keren)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sophia / Sophia Keren |
+| **Tên dịch** | Sophia |
+| **Biệt danh** | Vampire |
+| **Tuổi** | Thiếu niên (Bằng tuổi Shun ở kiếp này) |
+| **Giới tính** | Nữ |
+| **Vai trò** | Học sinh tái sinh (trở thành ma cà rồng cổ đại), đồng minh đáng sợ của Hugo, hoạt động dưới trướng "Chủ nhân" bí ẩn |
+| **Xuất hiện** | Chương S4, tham gia phản biến tại thủ đô nước Analeit (Chương S5) |
+
+**Tính cách tổng quát:**
+> Kiếp trước là Negishi Shouko, biệt danh "Riko" (do vẻ ngoài gầy gò rụt rè). Sau khi tái sinh thành ma cà rồng quý tộc Sophia Keren tại Hạt Keren, cô được nuôi dưỡng bởi thế lực bí ẩn. Có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" bí ẩn (không phải Hugo).
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trầm tĩnh, giễu cợt nhẹ nhàng ("Ồ thế à?", "Không ngờ lại gặp cô ở đây đấy").
+- **Cảm xúc chủ đạo**: Điềm tĩnh, thờ ơ trước Hugo và những kẻ xung quanh, tự tin vào sức mạnh của mình.
+
+---
+
+### NV-029: Klevea
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Klevea |
+| **Tên dịch** | Klevea |
+| **Biệt danh** | Hầu gái cũ |
+| **Tuổi** | Trung niên |
+| **Giới tính** | Nữ |
+| **Vai trò** | Cựu hầu gái hoàng gia phục vụ Shun và Sue, trung thành gia nhập phe Leston để cứu Shun |
+| **Xuất hiện** | Chương S4 |
+
+**Tính cách tổng quát:**
+> Hầu gái lâu năm của cung điện hoàng gia. Khác với Anna, cô trông già dặn hơn nhưng có tinh thần trung nghĩa cao, không ngại hiểm nguy gia nhập nhóm Leston để bảo vệ Tứ hoàng tử Schlain thoát khỏi lâu đài.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Kính cẩn, trung thành của hầu gái ("Người đã lớn khôn...").
+
+---
+
+### NV-030: Gyuristodief (Quản trị viên Hắc / Black)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Gyuristodief / Black |
+| **Tên dịch** | Gyuristodief / Quản trị viên Hắc (hoặc Hắc Sắc Quản trị viên) |
+| **Biệt danh** | Hắc y nhân |
+| **Tuổi** | Không rõ (Thần cấp) |
+| **Giới tính** | Nam |
+| **Vai trò** | Quản trị viên cấp cao của thế giới này, xuất hiện trước Nhện sau khi cô đánh bại Hỏa Long Rend |
+| **Xuất hiện** | Chương 5 (Volume 3) |
+
+**Tính cách tổng quát:**
+> Là một trong các Quản trị viên của thế giới, mang vẻ ngoài là một người đàn ông mặc giáp đen bó sát toàn thân, tóc đen và đôi mắt sắc đỏ ma mị. Hắn không biểu lộ ý thù địch rõ ràng với Nhện nhỏ nhưng mang lại cho cô áp lực kinh hoàng đến mức Thẩm Định hiện dòng chữ `<Không thể Thẩm định>`. Hắn là bạn của D và có thỏa thuận ngầm với các thế lực khác.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Nói ngôn ngữ của dị giới (Nhện nhỏ không hiểu), không biết tiếng Nhật nên không thể trực tiếp giao tiếp với cô cho đến khi D ném điện thoại xuống.
+- **Cảm xúc chủ đạo**: Nghiêm túc, điềm tĩnh, bất ngờ và bối rối trước sự can thiệp của D.
+
+---
+
+### NV-031: Fei (Feirune / Mirei Shinohara)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Feirune / Mirei Shinohara |
+| **Tên dịch** | Fei / Feirune / Shinohara Mirei |
+| **Biệt danh** | Quang Phi Long / Cựu Địa Phi Long |
+| **Tuổi** | Thiếu niên (Bằng tuổi Shun ở kiếp này) |
+| **Giới tính** | Nữ |
+| **Vai trò** | Bạn học tái sinh của Shun, linh thú khế ước của Anh hùng |
+| **Xuất hiện** | Xuất hiện từ tập 1 dưới dạng quả trứng, sau đó nở thành Địa Phi Long không cánh màu đen. Tiến hóa thành Quang Phi Long màu trắng có cánh ở chương S5 tập 3 |
+
+**Tính cách tổng quát:**
+> Kiếp trước là Shinohara Mirei, kẻ từng bắt nạt Wakaba Hiiro (Kumoko). Sau khi tái sinh thành một con phi long và nở ra từ quả trứng được Shun nuôi dưỡng, cô cảm thấy hối hận về những việc làm ở kiếp trước và quyết định sống tốt hơn ở kiếp này. Cô rất tinh nghịch, hay đùa, trung thành và luôn bảo vệ Shun hết mình.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Giao tiếp bằng Thần giao cách cảm khi ở dạng phi long. Xưng hô thân mật "cậu" - "tớ", gọi Shun là "Shun".
+- **Cảm xúc chủ đạo**: Vui vẻ, năng động nhưng nghiêm túc khi bảo vệ Shun.
+
+---
+
+### NV-032: Ninja (Nhẫn giả / Puppet Taratects)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Ninja / Puppet Taratects |
+| **Tên dịch** | Ninja / Nhẫn giả |
+| **Biệt danh** | Kẻ mặc đồ đen |
+| **Tuổi** | Không rõ |
+| **Giới tính** | Nữ (Dưới dạng hình nhân rối) |
+| **Vai trò** | Thuộc hạ thân cận dưới trướng Ma Vương Ariel, hành động cùng Sophia |
+| **Xuất hiện** | Chương S5 |
+
+**Tính cách tổng quát:**
+> Là các thực thể hình nhân rối (Puppet Taratect) do Ma Vương Ariel điều khiển hoặc phái đi hỗ trợ Sophia. Dưới góc nhìn của nhóm Shun, chúng trông giống như những ninja áo đen có thực lực cao cường. Chúng cực kỳ tuân thủ mệnh lệnh của "Chủ nhân" (Ariel) và có thái độ nghiêm túc, cứng nhắc đối lập với sự tùy hứng của Sophia.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, nghiêm túc, lạnh lùng, thẳng thắn.
+- **Xưng hô**: Xưng "tôi", gọi Sophia là "cô". Gọi Ariel là "Chủ nhân" (Master).
+- **Cảm xúc chủ đạo**: Nghiêm nghị, tuân thủ kỷ luật tuyệt đối.
+
+---
+
+- **Tổng nhân vật**: 32
+
 
 
 

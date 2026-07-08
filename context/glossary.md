@@ -40,6 +40,14 @@
 | 20 | Yaana | Yaana | Thánh nữ đồng hành của Anh hùng Julius |
 | 21 | Jeskan | Jeskan | Cựu mạo hiểm giả trong tổ đội Julius |
 | 22 | Hawkin | Hawkin | Cựu tặc trong tổ đội Julius |
+| 23 | Cylis | Cylis | Đệ nhất Hoàng tử của Vương quốc Analeit, anh cả của Shun |
+| 24 | King of Analeit / Father | Vua nước Analeit / Phụ hoàng | Vua vương quốc Analeit |
+| 25 | Ronandt / Elder Ronandt | Ronandt / Trưởng lão Ronandt | Pháp sư loài người mạnh nhất còn sống |
+| 26 | Aurel | Aurel | Đệ tử kiêm cận vệ của Trưởng lão Ronandt |
+| 27 | Sophia / Sophia Keren | Sophia / Sophia Keren | Học sinh tái sinh (Vampire) |
+| 28 | Klevea | Klevea | Hầu gái cũ của Shun và Sue |
+| 29 | D / Administrator D | D / Quản trị viên D | Quản trị viên tối cao đứng sau hệ thống |
+| 30 | Gyuristodief / Black | Gyuristodief / Quản trị viên Hắc | Quản trị viên cấp cao của thế giới |
 
 ---
 
@@ -55,6 +63,7 @@
 | 6 | Kasanagara | Lục địa Kasanagara | Lục địa | Lục địa lớn nhất thế giới |
 | 7 | Holy Kingdom of Alleius | Thánh quốc Alleius | Quốc gia | Thánh quốc trung tâm giáo phái Thần ngôn |
 | 8 | Renxandt Empire | Đế quốc Renxandt | Quốc gia | Quốc gia quân phiệt loài người lớn nhất ở Kasanagara |
+| 9 | Fort Kusorion | Pháo đài Kusorion | Địa danh | Pháo đài lớn của loài người chống ma tộc |
 
 ---
 
@@ -178,11 +187,32 @@
 | 114 | Wrath | Phẫn Nộ | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
 | 115 | Usurp | Cướp Đoạt | Kỹ năng | Cướp đoạt chỉ số/kỹ năng của mục tiêu |
 | 116 | Crude | Thô Bạo | Kỹ năng | Kỹ năng tăng cường sát thương thô bạo |
-
-
-
-
-
+| 117 | Intimidation | Uy Áp | Kỹ năng | Kỹ năng đe dọa, gieo rắc nỗi sợ cho kẻ địch |
+| 118 | Spatial Magic | Ma pháp Không gian | Ma pháp | Ma pháp tác động lên cấu trúc không gian |
+| 119 | Fear Resistance | Kháng Sợ Hãi | Kỹ năng thụ động | Giảm bớt nỗi sợ hãi trước những kẻ thù đáng sợ |
+| 120 | Far Talk / Fartalk | Viễn Thoại | Kỹ năng chủ động | Kỹ năng dùng ma pháp để đàm thoại từ xa |
+| 121 | Summoning | Triệu Hồi | Kỹ năng chủ động | Kỹ năng dùng ma lực triệu hồi linh thú |
+| 122 | Flame Wrap | Quấn Lửa | Kỹ năng chủ động | Kỹ năng bao phủ cơ thể bằng lửa để tăng cường thể chất |
+| 123 | Imperial Scales | Long Lân Đế Vương | Kỹ năng thụ động | Lớp vảy rồng giúp giảm đáng kể sát thương ma pháp và vật lý |
+| 124 | Inferno Breath | Hơi thở Hỏa Ngục | Kỹ năng chủ động | Đòn phun lửa diện rộng hủy diệt của Hỏa Long |
+| 125 | High-Speed Swimming | Bơi tốc độ cao | Kỹ năng thụ động | Tăng tốc độ bơi lội, đặc biệt là trong dung nham |
+| 126 | Lust | [Ái Dục] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội của Hugo |
+| 127 | Hypnosis | [Thôi miên] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 128 | Brainwashed | [Tẩy não] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 129 | Charmed | [Mê hoặc] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 130 | Heavy Evil Eye | [Trọng Lực Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gia tăng trọng lực lên mục tiêu |
+| 131 | Sloth | [Lười Biếng] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội |
+| 132 | Jinx Evil Eye | [Chú Oán Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gây sát thương nguyền rủa và chuyển HP, MP, SP đối thủ sang người dùng |
+| 133 | Inert Evil Eye | [Ngưng Trệ Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn áp đặt hiệu ứng tựa đóng băng thời gian |
+| 134 | Clairvoyance | [Thiên Lý Nhãn] | Kỹ năng | Cải thiện Thị giác Viễn vọng và thêm hiệu ứng nhìn xuyên thấu |
+| 135 | Medicine Synthesis | [Tổng hợp Thuốc] | Kỹ năng chủ động | Tự chế tạo các loại thuốc hồi phục hoặc hỗ trợ |
+| 136 | Healing Magic | [Ma pháp Trị liệu] | Ma pháp | Ma pháp giúp chữa trị vết thương và phục hồi thể trạng |
+| 137 | Dark Magic | [Ma pháp Hắc ám] | Ma pháp | Phép thuật bóng tối cấp độ cao hơn Ma pháp Bóng tối |
+| 138 | Presence Detection | [Phát hiện Hiện diện] | Kỹ năng chủ động | Cảnh báo hoặc cảm nhận sự hiện diện của các sinh thể xung quanh |
+| 139 | Light Magic | Quang ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính ánh sáng |
+| 140 | Wind Magic | Phong ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính gió |
+| 141 | Divinity Expansion | [Mở rộng Thần giới] | Kỹ năng thụ động | Kỹ năng mở rộng trường thần giới |
+| 142 | Flight | [Phi hành] | Kỹ năng chủ động/thụ động | Khả năng bay lượn trên bầu trời |
 
 ---
 
@@ -268,15 +298,32 @@
 | 76 | Marionette threads | Tơ Rối | Kỹ năng chủ động | Kỹ năng dùng tơ nhện siêu mảnh để điều khiển vật thể/sinh vật |
 | 77 | Holy Light Magic | Thánh Quang Ma Pháp | Ma pháp | Ma pháp thuộc tính ánh sáng thánh chế ngự bóng tối |
 | 78 | evil god | tà thần | Thuật ngữ | Thực thể thần thánh mang thuộc tính tà ác, gây hỗn loạn hoặc mua vui |
-
-
-
-
-
+| 79 | Fire Wyrm | Hỏa Phi Long | Quái vật | Loài phi long phun lửa sống ở Tầng Trung |
+| 80 | Fire Dragon | Hỏa Long | Quái vật | Loài rồng phun lửa cấp cao hơn Hỏa Phi Long |
+| 81 | Queen Taratect | Taratect Nữ Vương | Chủng tộc quái vật | Loài nhện khổng lồ huyền thoại đứng đầu Taratect |
+| 82 | Wyrm Egg | Trứng Phi Long | Thuật ngữ | Trứng chứa phi long đang ngủ hoặc chuẩn bị nở |
+| 83 | Fort Okun | Pháo đài Okun | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
+| 84 | Fort Dazarro | Pháo đài Dazarro | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
+| 85 | Fire Dragon Rend | Hỏa Long Rend | Quái vật | Con Hỏa Long chặn đánh Nhện nhỏ ở Tầng Trung |
+| 86 | Phoenix Feather | Lông vũ Phượng hoàng | Vật phẩm / Ma cụ | Vật phẩm đặc biệt giúp người sở hữu tạm thời trở nên vô địch |
+| 87 | Saint | Thánh nữ | Danh hiệu / Danh mục | Người đồng hành cùng Anh hùng đại diện cho Giáo hội |
+| 88 | Tank | Kẻ chịu đòn / Chống chịu | Thuật ngữ | Vị trí thu hút sát thương, bảo vệ tổ đội trong chiến đấu |
+| 89 | Shield bearer | Người mang khiên | Thuật ngữ / Danh hiệu | Người chuyên sử dụng khiên bảo vệ đồng đội |
+| 90 | court mage | pháp sư hoàng gia | Thuật ngữ | Pháp sư phục vụ trong cung điện hoàng tộc |
+| 91 | head court mage | trưởng pháp sư hoàng gia | Thuật ngữ | Pháp sư đứng đầu hệ thống pháp sư hoàng gia của một quốc gia |
+| 92 | Seven Deadly Sins-class | Lớp Thất Đại Tội | Thuật ngữ | Nhóm kỹ năng Ruler độc quyền mạnh nhất hệ thống |
+| 93 | royal divine sword | thần kiếm hoàng gia | Vật phẩm / Ma cụ | Thanh kiếm truyền đời trao cho Anh hùng của hoàng gia Analeit |
+| 94 | Ede Saine | Ede Saine | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ Zoa Ele, mang ý nghĩa là kẻ kề cận cái chết |
+| 95 | Chakram | Chakram | Vật phẩm / Vũ khí | Vũ khí ném dạng tròn sắc bén |
+| 96 | white wyrm | phi long trắng | Chủng tộc quái vật | Dạng rồng trắng có cánh tiến hóa mới của Fei |
+| 97 | Puppet Taratect | Taratect Rối (Nhện Rối) | Chủng tộc quái vật | Chủng tộc nhện rối của Ma Vương Ariel (được nhóm Shun gọi là ninja) |
+| 98 | Spatial Storage item | vật phẩm Lưu trữ Không gian | Vật phẩm / Ma cụ | Vật phẩm hoặc ma cụ dùng để lưu trữ đồ đạc trong không gian nén |
+| 99 | Divinity Field | Trường Thần giới | Thuật ngữ | Nơi sâu thẳm nhất trong linh hồn của một sinh vật sống |
 
 ---
 
 ## 5. Thành Ngữ / Cụm Từ Đặc Biệt
+
 
 | # | Tiếng Anh | Tiếng Việt | Ngữ cảnh | Ghi chú |
 |---|-----------|------------|-----------|---------|
@@ -289,5 +336,5 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-06
-- **Tổng thuật ngữ**: 227
+- **Cập nhật lần cuối**: 2026-07-08
+- **Tổng thuật ngữ**: 275

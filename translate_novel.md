@@ -134,6 +134,9 @@ Khi người dùng yêu cầu dịch một tiểu thuyết mới:
    - Đơn vị đo lường → giữ nguyên hoặc chuyển đổi (tùy bối cảnh)
    - Tên riêng → theo quy tắc đã ghi trong glossary
 
+5. **Xử lý bảng trạng thái (Status Screen)**:
+   - Chuyển đổi toàn bộ các bảng trạng thái dính dòng sang định dạng bảng Markdown (Markdown Table) chuẩn mực và đẹp mắt.
+
 **SAU KHI DỊCH XONG MỖI ĐOẠN:**
 
 ```

@@ -54,8 +54,8 @@ graph TD
 | **Katia gọi Shun** | Shun |
 | **Shun xưng** | Tôi / Tớ / Tao (khi nói chuyện thân mật riêng tư) |
 | **Katia xưng** | Tôi / Tớ / Tao (do kiếp trước là nam nên khi nói riêng tư vẫn xưng hô thô lỗ như bạn thân) |
-| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối |
-| **Ghi chú** | Ở nơi công cộng, họ dùng lễ nghi quý tộc (Ta - Các hạ / Hoàng tử - Tiểu thư) |
+| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối; tình cảm nữ tính của Katia bắt đầu trỗi dậy và chấp nhận sâu sắc sau khi được Shun bế cứu mạng. |
+| **Ghi chú** | Ở nơi công cộng, họ dùng lễ nghi quý tộc (Ta - Các hạ / Hoàng tử - Tiểu thư). Sau sự kiện ở chương phụ K1, phần linh hồn nam tính của Katia hoàn toàn biến mất, khiến cách xưng hô riêng tư và thái độ của cô đối với Shun dần trở nên nữ tính hơn. |
 
 ---
 
@@ -326,13 +326,263 @@ graph TD
 
 ---
 
+---
+
+### QH-021: Leston ↔ Cô Oka
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh bí mật cùng bảo vệ Shun |
+| **Leston gọi Cô Oka** | Cô / Cô Oka |
+| **Cô Oka gọi Leston** | Anh / Hoàng tử Leston |
+| **Leston xưng** | Tôi |
+| **Cô Oka xưng** | Tôi |
+| **Trạng thái** | Leston tôn trọng tấm lòng vì học sinh của cô Oka; hai người hợp tác thu thập thông tin tình báo |
+| **Ghi chú** | Mối liên lạc bí mật sau khi Shun thừa kế danh hiệu Anh hùng |
+
+---
+
+### QH-022: Shun ↔ Leston
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Anh em cùng cha khác mẹ |
+| **Shun gọi Leston** | Anh Leston / Hoàng huynh Leston |
+| **Leston gọi Shun** | Shun |
+| **Shun xưng** | Tôi |
+| **Leston xưng** | Anh |
+| **Trạng thái** | Leston là người anh trai Shun thân thiết thứ hai sau Julius; anh ôm Shun chia sẻ nỗi đau mất Julius |
+| **Ghi chú** | Leston rất hiền lành và thương yêu các em của mình |
+
+---
+
+### QH-023: Shun ↔ Cylis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Anh em cùng cha khác mẹ |
+| **Shun gọi Cylis** | Anh cả Cylis / Hoàng huynh Cylis |
+| **Cylis gọi Shun** | Schlain / Shun |
+| **Shun xưng** | Tôi |
+| **Cylis xưng** | Ta / Tôi |
+| **Trạng thái** | Xa cách, lạnh lùng; Cylis tập trung vào nghĩa vụ hoàng tộc và chính trị, Shun không cảm thấy gắn kết |
+| **Ghi chú** | Cylis luôn tỏ vẻ nghiêm khắc và lạnh nhạt với Shun |
+
+---
+
+### QH-024: Shun ↔ Phụ hoàng (Vua Analeit)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cha con hoàng tộc |
+| **Shun gọi Phụ hoàng** | Phụ hoàng / Cha |
+| **Phụ hoàng gọi Shun** | Schlain / Con |
+| **Shun xưng** | Con |
+| **Phụ hoàng xưng** | Ta |
+| **Trạng thái** | Kính trọng, nghiêm nghị; Phụ hoàng đặt trách nhiệm lên vai Shun nhưng vẫn dành sự quan tâm dịu dàng của người cha |
+| **Ghi chú** | Phụ hoàng vô cùng đau buồn trước cái chết của Julius và lo lắng cho gánh nặng của Shun |
+
+---
+
+### QH-025: Shun ↔ Hyrince
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người quen cũ, bạn thuở nhỏ của hoàng huynh Julius |
+| **Shun gọi Hyrince** | Anh Hyrince |
+| **Hyrince gọi Shun** | Shun / Nhị hoàng tử Schlain / Hoàng tử Schlain |
+| **Shun xưng** | Tôi |
+| **Hyrince xưng** | Tôi |
+| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới. |
+| **Ghi chú** | Quan hệ chuyển từ người quen cũ thành đồng đội chung chí hướng kế thừa ý chí của Julius. |
+
+---
+
+### QH-026: Shun ↔ Fei
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học tái sinh, linh thú khế ước (chủ tớ) |
+| **Shun gọi Fei** | Fei |
+| **Fei gọi Shun** | Shun |
+| **Shun xưng** | Tôi / Tớ |
+| **Fei xưng** | Tôi / Tớ |
+| **Trạng thái** | Bạn bè bình đẳng bất chấp khế ước chủ tớ; Shun coi trọng Fei và lo lắng sâu sắc khi Fei đột ngột hóa thành quả trứng khổng lồ |
+
+---
+
+### QH-027: Ronandt ↔ Aurel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Sư phụ và đệ tử (Thầy trò) |
+| **Ronandt gọi Aurel** | Ngươi / Đệ tử ngốc nghếch (foolish disciple) |
+| **Aurel gọi Ronandt** | Sư phụ / Ông già (old man) |
+| **Ronandt xưng** | Ta |
+| **Aurel xưng** | Con (hoặc tôi) |
+| **Trạng thái** | Thân thiết nhưng đầy sự cằn nhằn, cãi cọ hài hước. Aurel thường cằn nhằn về sự lười biếng, trốn việc hành chính của Ronandt; cô không ngần ngại vác lão đi làm việc. Ronandt ngoài miệng luôn gọi cô là "kẻ ngốc" nhưng trong lòng thừa nhận tài năng và tính nhạy bén của cô. |
+| **Ghi chú** | Mối quan hệ thầy trò phá cách nhất của Đế quốc. |
+
+---
+
+### QH-028: Ronandt ↔ Julius
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Sư phụ và đệ tử (Julius từng học ma pháp với Ronandt) |
+| **Ronandt gọi Julius** | Julius / Đứa đệ tử ngốc nghếch / Anh hùng |
+| **Julius gọi Ronandt** | Sư phụ (Ronandt-sama) |
+| **Ronandt xưng** | Ta |
+| **Julius xưng** | Tôi / Con |
+| **Trạng thái** | Ronandt coi Julius là đứa đệ tử ngốc nghếch bị danh hiệu Anh hùng che mắt, ôm ước mơ ngây thơ cứu thế giới rồi chết trẻ. Dù cằn nhằn và chê bai sự ngốc nghếch của Julius, Ronandt thực chất vô cùng đau xót trước sự hy sinh của anh và hối tiếc vì không thể dạy anh cách tự bảo vệ mình tốt hơn. |
+| **Ghi chú** | Trận chiến ở pháo đài đã cướp đi Julius, để lại nỗi buồn sâu sắc cho Ronandt. |
+
+---
+
+### QH-029: Ronandt ↔ Tôi (Nhện)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người chứng kiến và Quái vật huyền thoại (Ronandt tôn xưng Nhện là "sư phụ") |
+| **Ronandt gọi Nhện** | Vị sư phụ đó (That master) / Người đó / Thực thể đó |
+| **Nhện gọi Ronandt** | Ông già loài người (sau này gặp trực tiếp) |
+| **Ronandt xưng** | Ta |
+| **Nhện xưng** | Ta / Tôi |
+| **Trạng thái** | 16 năm trước (theo trục thời gian loài người), Ronandt chạm trán Nhện nhỏ trong Mê cung Lớn Elroe và suýt chết. Nhìn thấy ma pháp tối thượng của Nhện, Ronandt hoàn toàn bị thuyết phục và tôn sùng cô như một vị thần ma pháp, từ bỏ mọi kiêu ngạo của bản thân để học hỏi từ xa. |
+| **Ghi chú** | Cuộc gặp gỡ này đã thay đổi hoàn toàn cuộc đời và tư duy ma pháp của Ronandt. |
+
+---
+
+### QH-030: Potimas ↔ Cô Oka (Filimõs)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cha con kiếp này (về mặt sinh học) |
+| **Potimas gọi Cô Oka** | Filimõs |
+| **Cô Oka gọi Potimas** | Cha / Ngài Potimas |
+| **Potimas xưng** | Ta |
+| **Cô Oka xưng** | Con / Tôi |
+| **Trạng thái** | Xa cách, thực dụng. Potimas xem cô Oka như một công cụ đắc lực để giám sát thế giới và những người tái sinh; cô Oka vừa muốn dựa vào tộc lực của Potimas để bảo vệ học sinh, vừa vô cùng đề phòng sự tàn nhẫn và âm mưu của cha mình. |
+| **Ghi chú** | Mối quan hệ chứa đựng nhiều toan tính chính trị đằng sau vẻ ngoài cha con tộc Elf. |
+
+---
+
+---
+
+### QH-031: Hugo ↔ Cylis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh phản phản biến / Lợi dụng lẫn nhau |
+| **Hugo gọi Cylis** | Cylis / Các hạ |
+| **Cylis gọi Hugo** | Hugo |
+| **Hugo xưng** | Ta / Tôi |
+| **Cylis xưng** | Ta / Tôi |
+| **Trạng thái** | Cylis muốn cướp ngai vàng vì Vua cha định truyền ngôi cho Shun; Hugo muốn trả thù Shun và cô Oka. Họ kết cấu để làm phản và đổ tội cho Shun. |
+
+---
+
+### QH-032: Hugo ↔ Sue (bị tẩy não)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ tẩy não và Con rối |
+| **Hugo gọi Sue** | Sue |
+| **Sue gọi Hugo** | (Không rõ, nhưng cô ấy nghe lệnh tuyệt đối vì "tình yêu đích thực" giả tạo) |
+| **Trạng thái** | Sue bị Hugo sử dụng kỹ năng đặc biệt [Ái Dục] để tẩy não, ép cô tự sát hại cha mình và vu khống Shun. Xưng xấp với Shun cũng chuyển sang lạnh lùng, khinh bỉ. |
+
+---
+
+### QH-033: Hugo ↔ Sophia
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh bảo vệ lẫn nhau (nhưng thực chất Sophia ở vị thế cao hơn) |
+| **Hugo gọi Sophia** | Sophia |
+| **Sophia gọi Hugo** | Cậu / Hugo |
+| **Hugo xưng** | Tao / Ta |
+| **Sophia xưng** | Tôi |
+| **Trạng thái** | Sophia đứng ra chặn ma pháp của cô Oka để bảo vệ Hugo, nhưng cô ta khinh thường thực lực của Hugo và giễu cợt cậu ta. Sophia không hề bị Hugo tẩy não. |
+
+---
+
+### QH-034: Hugo ↔ Anna (bị tẩy não)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ tẩy não và Nạn nhân |
+| **Trạng thái** | Anna bị Hugo tẩy não nhằm phục kích Shun ngay khi cô gặp lại Shun tại biệt thự. |
+
+---
+
+### QH-035: Tôi (Nhện) ↔ Gyuristodief (Quản trị viên Hắc)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối tượng theo dõi và Quản trị viên thế giới |
+| **Nhện gọi Hắc** | Gã áo đen / Người đàn ông màu đen / Gã kia |
+| **Hắc gọi Nhện** | (Chưa trực tiếp giao tiếp thành công ở chương này do bất đồng ngôn ngữ) |
+| **Nhện xưng** | Tôi (Watashi) / Ta (khi độc thoại) |
+| **Hắc xưng** | - |
+| **Trạng thái** | Nhện cảm giác áp đảo cực lớn và sợ hãi không thể đánh bại gã, nhưng cũng cảm thấy một sự thân thuộc và một chút bực bội kỳ lạ. Hắc đến để điều tra sự xáo trộn (nhận kỹ năng Trí Tuệ) nhưng bị D ngăn cản. |
+
+---
+
+### QH-036: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn bè / Đồng cấp Quản trị viên |
+| **Hắc gọi D** | D |
+| **D gọi Hắc** | Người bạn kia của tôi / Hắc |
+| **Hắc xưng** | - |
+| **D xưng** | D / Tôi |
+| **Trạng thái** | Hắc bất ngờ và phải tuân theo sự can thiệp của D khi cô ra lệnh cho hắn không được làm phiền Nhện nhỏ; D giới thiệu Hắc là "người bạn kia của tôi" và đuổi hắn đi qua cuộc gọi điện thoại. |
+
+---
+
+### QH-037: Shun ↔ Fei
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học tái sinh, linh thú khế ước và chủ nhân |
+| **Shun gọi Fei** | Fei |
+| **Fei gọi Shun** | Shun |
+| **Shun xưng** | Tớ / Tôi |
+| **Fei xưng** | Tớ (Watashi) |
+| **Trạng thái** | Fei là linh thú khế ước của Shun, luôn đồng hành cùng cậu. Sau khi tiến hóa thành Quang Phi Long (Chương S5), Fei đã cứu thoát nhóm Shun khỏi vòng vây của Sophia và bọn ninja. Họ xưng hô thân mật "cậu" - "tớ" kiểu bạn học cũ. |
+
+---
+
+### QH-038: Sophia ↔ Cô Oka
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Học sinh tái sinh và Cô giáo kiếp trước, kẻ địch kiếp này |
+| **Sophia gọi Cô Oka** | Cô Oka |
+| **Cô Oka gọi Sophia** | Sophia / Negi... (Negishi Shouko) |
+| **Sophia xưng** | Tôi |
+| **Cô Oka xưng** | Cô / Ta |
+| **Trạng thái** | Cô Oka cố gắng gọi Sophia bằng tên cũ ở kiếp trước (Negi...) nhưng bị Sophia cắt ngang và cấm gọi. Sophia thể hiện thái độ giễu cợt nhưng cũng tôn trọng giao ước với "Chủ nhân" là không làm hại cô Oka, chỉ "tự vệ". Cô Oka bàng hoàng khi biết Sophia đã chặt đầu Potimas và tự tay giết người không ghê tay. |
+
+---
+
+### QH-039: Sophia ↔ Ninja (Nhẫn giả)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp / Cùng phe cánh dưới quyền Ma Vương |
+| **Sophia gọi Ninja** | Cô |
+| **Ninja gọi Sophia** | Cô |
+| **Sophia xưng** | Tôi |
+| **Ninja xưng** | Tôi |
+| **Trạng thái** | Sophia tùy hứng và thích hành động theo ý mình (tự ý đấu với Shun để thử sức); Ninja nghiêm túc chấp hành mệnh lệnh và thường xuyên nhắc nhở, dọa báo cáo Sophia với Chủ nhân. Họ bộc lộ sự bực dọc qua lại như bạn bè/đồng nghiệp đồng trang lứa. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-06
-- **Tổng cặp quan hệ**: 20
-
-
-
-
+- **Cập nhật lần cuối**: 2026-07-08
+- **Tổng cặp quan hệ**: 39
 
