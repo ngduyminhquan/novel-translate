@@ -1,6 +1,6 @@
 # Lời bạt của tác giả
 
-Xin chào tất cả mọi người. Lại là tôi, Okina Baba, người có lẽ, có thể, và hy vọng là được các bạn yêu quý đây.
+Xin chào tất cả mọi người. Lại là tôi, Baba Okina, người có lẽ, có thể, và hy vọng là được các bạn yêu quý đây.
 
 Không thể nào! Ý các bạn là có đủ những linh hồn dũng cảm ngoài kia đã mua tập một để giúp tập hai này được xuất bản sao?!
 

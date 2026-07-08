@@ -399,10 +399,10 @@ Mọi chuyện diễn ra quá dễ dàng đến mức hụt hẫng, nhưng dù v
 
 Tuyệt vời thật đấy. Tôi hơi bị xúc động rồi đấy nhé.
 Có điều Độc Đạn xem ra không mạnh cho lắm.
-Dù sao thì nó đâu có sử dụng Deadly Spider Poison của tôi.
+Dù sao thì nó đâu có sử dụng Kịch Độc Nhện của tôi.
 Có vẻ như thay vì sử dụng độc tố của tôi, phép thuật Ma pháp Độc này tự tạo ra và bắn ra loại độc của riêng nó.
-Trái ngược với Deadly Spider Poison của tôi, nó sử dụng một công thức độc tố được phát triển riêng cho phép thuật này.
-Nhưng ngay cả với sức tấn công ma pháp điên rồ của tôi, nó vẫn không mạnh bằng Deadly Spider Poison của tôi.
+Trái ngược với Kịch Độc Nhện của tôi, nó sử dụng một công thức độc tố được phát triển riêng cho phép thuật này.
+Nhưng ngay cả với sức tấn công ma pháp điên rồ của tôi, nó vẫn không mạnh bằng Kịch Độc Nhện của tôi.
 Nếu tôi sử dụng nhiều ma lực hơn, tôi có thể làm nó mạnh lên, nhưng trong trường hợp đó, tôi thà dùng Tổng hợp Độc cho nhanh.
 Nên dù tôi có phép thuật này thật, nó có lẽ sẽ không mấy khi được dùng tới…
 Được rồi, tiếp theo tôi sẽ thử nghiệm phép thuật hệ độc level 1, Độc Xúc.
@@ -444,7 +444,7 @@ Kiểu như, làm sao chuyện đó có thể xảy ra chứ?
 Cực đỉnh Thần bí đáng lẽ phải là kỹ năng ma pháp đỉnh nhất tồn tại, đúng như tên gọi của nó.
 Và ngay cả với kỹ năng đó, tôi vẫn không thể làm được sao?
 Nếu nó không hoạt động đối với tôi, thì làm sao có ai trên đời này có thể sử dụng được Ma pháp Vực sâu chứ?
-And nếu nó khó dựng đến thế này, thì nó có sức ảnh hưởng kinh hoàng đến mức nào chứ?
+Và nếu nó khó dựng đến thế này, thì nó có sức ảnh hưởng kinh hoàng đến mức nào chứ?
 Có tác dụng gì cơ chứ nếu ngay cả phép thuật level 1 cũng quá khó để bất kỳ ai thực hiện được?
 Vậy nên nếu bạn sử dụng phép thuật level 10, Địa Ngục Phản Bội, liệu nó sẽ hủy diệt cả thế giới hay gì chứ?
 Ha ha, tôi chắc chắn chuyện đó không phải thế đâu. Đúng không? Không thể nào… đúng không?
@@ -512,17 +512,17 @@ Giờ nó đã tiến hóa thành Bão Thực, giới hạn trên đã tăng lê
 Chắc là do bản tính ghét lãng phí của một người Nhật Bản đã khiến tôi cảm thấy mình cần phải tiêu thụ lượng SP một khi không thể tích trữ thêm được nữa.
 Đó là lý do tại sao tôi luôn cố gắng tiêu hao nhiều SP nhất có thể bằng các chuyển động thông thường của mình.
 Cụ thể là bằng cách nhảy nhót hoặc chạy huỳnh huỵch khi di chuyển về phía trước.
-Bằng cách làm này, tôi cũng tích lũy được độ thuần thục cho các kỹ năng như Skanda.
+Bằng cách làm này, tôi cũng tích lũy được độ thuần thục cho các kỹ năng như Thần tốc.
 Kết quả là cả kỹ năng đó và một số kỹ năng khác đều đã tăng cấp.
 Bộc phát lực và Bền bỉ cũng thăng cấp theo cách đó, và cuối cùng đạt mức tối đa.
 Chúng lần lượt tiến hóa thành Gia tốc và Ngoan cường, giúp nhân thêm một hệ số vào tỉ lệ tăng trưởng của các chỉ số tương ứng.
 Với chuyện đó, giờ đây tôi đã có đống hiệu chỉnh cộng (+) cho tất cả các chỉ số của mình mỗi khi lên cấp.
-Mặc dù các chỉ số liên quan đến ma pháp của tôi vốn đã tăng trưởng nhanh một cách điên rồ nhờ có Trí Tuệ rồi, và tôi cũng đã cực kỳ nhanh nhẹn nhờ có Skanda.
+Mặc dù các chỉ số liên quan đến ma pháp của tôi vốn đã tăng trưởng nhanh một cách điên rồ nhờ có Trí Tuệ rồi, và tôi cũng đã cực kỳ nhanh nhẹn nhờ có Thần tốc.
 Hừm. Đáng lẽ tôi phải là kiểu vật lý tốc độ cao cơ, nhưng nhìn vào các chỉ số, trông tôi lại giống kiểu ma pháp tốc độ cao hơn.
 Giáo sư Trí Tuệ là lý do chính cho chuyện đó, nhưng tôi không thể khẳng định chắc chắn liệu mình đã thực sự trở thành một chuyên gia ma pháp lúc này hay chưa.
 Ý tôi là, dù tất cả các kỹ năng liên quan đến ma pháp của tôi đều đã tốt lên…
-…chúng vẫn không mạnh bằng Deadly Spider Poison của tôi.
-Nên khi bước vào một trận chiến sinh tử thực sự, Deadly Spider Poison vẫn là con bài tẩy chính của tôi trong khi ma pháp chỉ đóng vai trò hỗ trợ là chính.
+…chúng vẫn không mạnh bằng Kịch Độc Nhện của tôi.
+Nên khi bước vào một trận chiến sinh tử thực sự, Kịch Độc Nhện vẫn là con bài tẩy chính của tôi trong khi ma pháp chỉ đóng vai trò hỗ trợ là chính.
 Tôi thực sự chẳng thể làm gì khác được về chuyện đó.
 Suy cho cùng, Tơ Nhện và Độc Nhện của tôi chính là hai lý do lớn nhất giúp tôi đi được đến tận đây ngay từ đầu mà.
 Nếu ma pháp đột nhiên xuất hiện và vượt mặt chúng dễ dàng như thế, tôi sẽ cảm thấy như thể mọi nỗ lực và công sức của mình bấy lâu nay đổ sông đổ bể hết vậy.

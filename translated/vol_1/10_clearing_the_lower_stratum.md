@@ -242,13 +242,13 @@ Nói một cách cụ thể hơn, một con nhện khổng lồ đột ngột xu
 
 Hử? Khoan đã... cái gì cơ?
 
-`<Greater Taratect       LV 18: Thẩm định trạng thái thất bại>`
+`<Taratect Vĩ đại       LV 18: Thẩm định trạng thái thất bại>`
 
 Oa, tuyệt thật. Đó chính là hình thái siêu tiến hóa của tôi kìa.
 
 Thật luôn đấy à?
 
-`<Greater Taratect: Dạng tiến hóa của loài quái vật dạng nhện Taratect. Loài ăn thịt sở hữu độc tố cực mạnh trong răng nanh.>`
+`<Taratect Vĩ đại: Dạng tiến hóa của loài quái vật dạng nhện Taratect. Loài ăn thịt sở hữu độc tố cực mạnh trong răng nanh.>`
 
 Ồ. Vậy là nếu tôi tiếp tục tiến hóa, cuối cùng tôi sẽ trở nên giống như thế sao?
 
@@ -440,11 +440,11 @@ Dù sao thì một con quái vật có độc cũng có thể được coi là b
 
 Được rồi, kiểm tra phía trước, an toàn! Kiểm tra phía sau, an toàn! Không có chủng tộc nguy hiểm nào trong tầm mắt cả! Tốt, tốt lắm.
 
-`<Elroe Randanel       LV 8: Thẩm định trạng thái thất bại>`
+`<Randanel Elroe       LV 8: Thẩm định trạng thái thất bại>`
 
-`<Elroe Randanel       LV 7: Thẩm định trạng thái thất bại>`
+`<Randanel Elroe       LV 7: Thẩm định trạng thái thất bại>`
 
-`<Elroe Randanel       LV 7: Thẩm định trạng thái thất bại>`
+`<Randanel Elroe       LV 7: Thẩm định trạng thái thất bại>`
 
 Phía trước tôi là một trong những bộ ba quái vật thân thiết đó. Lũ này thực sự luôn di chuyển theo nhóm ba con bất kể chuyện gì xảy ra.
 

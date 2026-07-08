@@ -226,7 +226,7 @@ Xột xoạt, xột xoạt, xột xoạt... Phập! Quay, quay, quay. Ngoạm!
 
 Cảm ơn vì bữa ăn.
 
-`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể tiểu taratect thứ cấp đã tăng từ LV 6 lên LV 7.>`
+`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể Tiểu Taratect Thứ cấp đã tăng từ LV 6 lên LV 7.>`
 
 `<Tất cả các chỉ số cơ bản đều tăng lên.>`
 

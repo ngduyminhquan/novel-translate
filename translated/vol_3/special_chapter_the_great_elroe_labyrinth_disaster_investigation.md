@@ -44,7 +44,7 @@ Vì thế, Vương quốc Ohts đang gặp rắc rối đã yêu cầu đồng m
 
 Dù về mặt lý thuyết là một liên minh, nhưng thực tế thì Ohts giống như một quốc gia chư hầu của Renxandt.
 
-Ohts is a small kingdom whose only source of income is the Great Elroe Labyrinth. -> Ohts là một vương quốc nhỏ với nguồn thu nhập duy nhất là Mê cung Lớn Elroe.
+Ohts là một vương quốc nhỏ với nguồn thu nhập duy nhất là Mê cung Lớn Elroe.
 
 Binh lực yếu kém, lãnh thổ nhỏ hẹp.
 

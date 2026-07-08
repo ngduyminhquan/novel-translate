@@ -110,7 +110,7 @@ Tôi không thể nhịn cười trước lời nhận xét thản nhiên của 
 
 Jeskan lắc đầu đáp lại lời đùa giỡn của tôi.
 
-“Không có cửa đâu. Tơ Taratect dường như được tạo ra bởi một kỹ năng. Ngay cả khi cậu có mổ xẻ cái xác, cậu cũng chẳng tìm thấy sợi tơ nào cả đâu.”
+“Không có cửa đâu. tơ Taratect dường như được tạo ra bởi một kỹ năng. Ngay cả khi cậu có mổ xẻ cái xác, cậu cũng chẳng tìm thấy sợi tơ nào cả đâu.”
 
 “Thật sao? Tớ không biết chuyện đó đấy.”
 

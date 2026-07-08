@@ -162,7 +162,7 @@ Giờ thì, thông tin mới nào sẽ xuất hiện ở cấp độ kỹ năng 
 
 Nhưng nghiêm túc đấy, cấp độ của kỹ năng này phải cao đến mức nào thì mới thực sự hữu ích đây? Haizz.
 
-Dẫu vậy, tôi vẫn phải tự hỏi... Chủng tộc của tôi, "tiểu taratect thứ cấp", mạnh đến mức nào so với các quái vật khác trong hầm ngục này nhỉ?
+Dẫu vậy, tôi vẫn phải tự hỏi... Chủng tộc của tôi, "Tiểu Taratect Thứ cấp", mạnh đến mức nào so với các quái vật khác trong hầm ngục này nhỉ?
 
 Suy nghĩ vẩn vơ này dẫn đến một phản hồi không ngờ tới.
 
@@ -380,7 +380,7 @@ Phải. Trải qua trận chiến thực tế đầu tiên khiến tôi nhận r
 
 Tôi yếuuuuuu quá đi mất!
 
-Tôi không nghĩ đây chỉ là vấn đề của riêng tôi; tôi có cảm giác tiểu taratect thứ cấp không phải là một chủng tộc mạnh mẽ cho lắm về tổng thể.
+Tôi không nghĩ đây chỉ là vấn đề của riêng tôi; tôi có cảm giác Tiểu Taratect Thứ cấp không phải là một chủng tộc mạnh mẽ cho lắm về tổng thể.
 
 Thì, dù sao nó cũng là chủng tộc "thứ cấp" mà. Việc tôi có sức tấn công thấp và phòng ngự mỏng manh là điều hợp lý thôi. Tốc độ của tôi có vẻ khá ổn, ít nhất là vậy, nhưng nó vẫn không đủ để né tránh loạt mưa phun độc đó trong vài lần đầu.
 
@@ -480,7 +480,7 @@ Xem ra có ai đó đã nghe thấy lời cầu nguyện của tôi, vì con bas
 
 Ừm, xem ra tôi vẫn có thể đi lại được, dù hơi vụng về.
 
-`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể tiểu taratect thứ cấp đã tăng từ LV 5 lên LV 6.>`
+`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể Tiểu Taratect Thứ cấp đã tăng từ LV 5 lên LV 6.>`
 
 Ồ? Oa! Thời điểm thần thánh làm sao!
 

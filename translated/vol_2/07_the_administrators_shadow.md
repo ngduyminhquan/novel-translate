@@ -542,7 +542,7 @@ Rõ, thưa sếp! Lên đường thôi anh em!
 
 Tôi lập tức lẻn đến gần kẻ địch.
 
-Vì tôi không thể sử dụng một bên lưỡi hái sau đòn Hủ thực Công kích tự sát vừa rồi, tôi sẽ chỉ đơn giản là tẩm quất cho nó một trận bằng Deadly Spider Poison bằng cách sử dụng Tổng hợp Độc.
+Vì tôi không thể sử dụng một bên lưỡi hái sau đòn Hủ thực Công kích tự sát vừa rồi, tôi sẽ chỉ đơn giản là tẩm quất cho nó một trận bằng Kịch Độc Nhện bằng cách sử dụng Tổng hợp Độc.
 
 HP của con quái vật tụt không phanh trong nháy mắt. Như thường lệ, độc của tôi mạnh đến mức đáng sợ.
 

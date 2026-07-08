@@ -10,7 +10,7 @@
 
 Dưới sự dẫn đường của người hướng dẫn, ông Goyef, chúng tôi tiếp tục tiến bước qua Mê cung Lớn Elroe.
 
-Lý do cho chuyến hành trình lần này là một báo cáo về sự xuất hiện của một con taratect bất thường — chủng loài quái vật dạng nhện.
+Lý do cho chuyến hành trình lần này là một báo cáo về sự xuất hiện của một con Taratect bất thường — chủng loài quái vật dạng nhện.
 
 Nhiệm vụ của chúng tôi là săn lùng nó. Tuy nhiên...
 
@@ -90,7 +90,7 @@ Tạm gác lại những chuyện phiếm, chúng tôi sẵn sàng chiến đấ
 
 Một sinh vật trông giống hươu xuất hiện, sở hữu chiếc sừng sắc bén trông như một lưỡi đao.
 
-“Elroe Mowajitz. Độ nguy hiểm cấp C. Hãy cẩn thận sừng và ngọn lửa của chúng!”
+“Mowajitz Elroe. Độ nguy hiểm cấp C. Hãy cẩn thận sừng và ngọn lửa của chúng!”
 
 Ông Goyef hét lớn đưa ra nhận định nhanh.
 
@@ -228,6 +228,6 @@ Nếu nó di chuyển đi nơi khác, việc hoàn thành nhiệm vụ này sẽ
 
 “Hy vọng nó không chạy đi đâu.”
 
-“Đúng vậy. Đặc biệt là vì khu vực phát hiện ra sinh vật đó rất gần với Tầng Trung. Nếu nó trốn vào đó, chúng ta dĩ nhiên sẽ không thể đuổi theo được. Nơi đó không phải là nơi dành cho con người đặt chân vào. Mà dù sao thì loài taratect cũng rất sợ lửa, nên việc nghĩ rằng có một con dám tiến vào Tầng Trung quả thực là điều hết sức nực cười.”
+“Đúng vậy. Đặc biệt là vì khu vực phát hiện ra sinh vật đó rất gần với Tầng Trung. Nếu nó trốn vào đó, chúng ta dĩ nhiên sẽ không thể đuổi theo được. Nơi đó không phải là nơi dành cho con người đặt chân vào. Mà dù sao thì loài Taratect cũng rất sợ lửa, nên việc nghĩ rằng có một con dám tiến vào Tầng Trung quả thực là điều hết sức nực cười.”
 
 Tôi gật đầu đồng tình với Goyef, rồi chúng tôi tiếp tục rảo bước hướng về phía điểm đích.

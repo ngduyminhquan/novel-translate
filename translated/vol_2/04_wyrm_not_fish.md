@@ -206,7 +206,7 @@ Tôi phun thêm độc vào thẳng mặt sinh vật đang giãy giụa đó.
 
 Sau một cú co giật cuối cùng, con cá trê ngừng cử động.
 
-`<Kinh nghiệm đã đạt mức yêu cầu. Cá thể tiểu taratect độc đã tăng từ LV 6 lên LV 7.>`
+`<Kinh nghiệm đã đạt mức yêu cầu. Cá thể Tiểu Taratect Độc đã tăng từ LV 6 lên LV 7.>`
 
 `<Tất cả các chỉ số cơ bản đều tăng.>`
 
@@ -604,7 +604,7 @@ Mau mau xuất hiện đi chứ. Mau ra đây để tôi ăn thịt nào.
 
 Hừ. Quả nhiên là mấy thứ khác lại xuất hiện vào những lúc thế này.
 
-`<Gunerush Elroe LV 8 | Trạng thái: HP: 170/170 (green) MP: 161/161 (blue) SP: 158/158 (yellow) : 156/167 (red) | Sức tấn công trung bình: 87 Sức phòng ngự trung bình: 84 Sức ma pháp trung bình: 84 Kháng tính trung bình: 81 Tốc độ trung bình: 91 | Kỹ năng: [Hỏa Phi Long LV 1] [Đánh trúng LV 4] [Bơi lội LV 4] [Vô hiệu Nhiệt] >`
+`<Gunerush Elroe LV 8 | Trạng thái: HP: 170/170 (lục) MP: 161/161 (lam) SP: 158/158 (vàng) : 156/167 (đỏ) | Sức tấn công trung bình: 87 Sức phòng ngự trung bình: 84 Sức ma pháp trung bình: 84 Kháng tính trung bình: 81 Tốc độ trung bình: 91 | Kỹ năng: [Hỏa Phi Long LV 1] [Đánh trúng LV 4] [Bơi lội LV 4] [Vô hiệu Nhiệt] >`
 
 Có tổng cộng ba con cá ngựa.
 

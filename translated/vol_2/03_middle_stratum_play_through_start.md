@@ -409,7 +409,7 @@ Tăng cường Cắt cũng tương tự như vậy, chỉ là giới hạn ở c
 
 Con cá ngựa thứ hai bò lên khỏi dung nham vào thời điểm cực kỳ hoàn hảo, thế nên tôi kết liễu nó bằng phương thức y hệt.
 
-`<Kinh nghiệm đã đạt mức yêu cầu. Cá thể tiểu taratect độc đã tăng từ LV 5 lên LV 6.>`
+`<Kinh nghiệm đã đạt mức yêu cầu. Cá thể Tiểu Taratect Độc đã tăng từ LV 5 lên LV 6.>`
 
 `<Tất cả các chỉ số cơ bản đều tăng.>`
 

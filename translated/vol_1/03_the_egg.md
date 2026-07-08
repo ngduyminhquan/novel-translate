@@ -396,7 +396,7 @@ Ngay vào khoảnh khắc kỹ năng tăng cấp, con ếch đang giãy giụa c
 
 Ồ, nhưng điều đó chắc có nghĩa là việc tăng cấp kỹ năng đã làm tăng độc tính của tôi lên. Tuyệt vời!
 
-`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể tiểu taratect thứ cấp đã tăng từ LV 1 lên LV 2.>`
+`<Điểm kinh nghiệm đã đạt mức yêu cầu. Cá thể Tiểu Taratect Thứ cấp đã tăng từ LV 1 lên LV 2.>`
 
 ---
 

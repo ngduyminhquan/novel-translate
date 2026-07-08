@@ -246,7 +246,7 @@ Tiến hóa ở trong này chắc là sẽ an toàn thôi.
 
 Được rồi, thử thôi nào.
 
-`<Cá thể tiểu taratect độc sẽ tiến hóa thành Zoa Ele.>`
+`<Cá thể Tiểu Taratect Độc sẽ tiến hóa thành Zoa Ele.>`
 
 ### --- TRANG 134 ---
 

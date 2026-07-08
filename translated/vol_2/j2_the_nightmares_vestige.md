@@ -8,7 +8,7 @@
 
 ### --- TRANG 71 ---
 
-Vài ngày sau khi tiến vào Mê cung Lớn Elroe, cuối cùng chúng tôi cũng tới được nơi mà một nhà mạo hiểm báo cáo đã nhìn thấy một con taratect dị thường.
+Vài ngày sau khi tiến vào Mê cung Lớn Elroe, cuối cùng chúng tôi cũng tới được nơi mà một nhà mạo hiểm báo cáo đã nhìn thấy một con Taratect dị thường.
 
 Từ đây, chúng tôi nhờ sự trợ giúp của Goyef để tìm kiếm khu vực xung quanh nhằm phát hiện và tiêu diệt mục tiêu.
 
@@ -72,7 +72,7 @@ Một con nhện nghiền nát con người như cỏ rác.
 
 Và cũng là con quái vật đầu tiên dạy cho tôi biết thế nào là nỗi đau của thất bại.
 
-Mục tiêu lần này của chúng tôi là Tàn tích của Cơn Ác Mộng, một con taratect đột biến — được cho là do Cơn Ác Mộng để lại, mạnh hơn cả một con wyrm cấp cao hay thậm chí là một con rồng.
+Mục tiêu lần này của chúng tôi là Tàn tích của Cơn Ác Mộng, một con Taratect đột biến — được cho là do Cơn Ác Mộng để lại, mạnh hơn cả một con wyrm cấp cao hay thậm chí là một con rồng.
 
 Nghe nói nó đã tấn công một nhóm mạo hiểm giả và tiêu diệt phần lớn bọn họ, đó là lý do chúng tôi được phái đến đây để tiêu diệt nó.
 
@@ -112,7 +112,7 @@ Nhưng con quái vật nguy hiểm nhất ở đây chắc chắn chính là Tà
 
 “Anh sẽ lo lũ Taratect Vĩ đại! Mọi người còn lại, hãy tập trung tiêu diệt Tàn tích của Cơn Ác Mộng!”
 
-Tôi hét lớn ra lệnh khi lao về phía những con greater taratect đang tiến lại gần.
+Tôi hét lớn ra lệnh khi lao về phía những con Taratect Vĩ đại đang tiến lại gần.
 
 Jeskan nhắm chiếc xích liêm của mình về phía Tàn tích của Cơn Ác Mộng.
 
@@ -128,11 +128,11 @@ Con dao ném chỉ đơn thuần nảy ra khỏi bề mặt đá của vách han
 
 Giọng Hawkin hơi lạc đi, nhưng tôi không thể trách ông ấy được.
 
-Tốt nhất là tôi nên nhanh chóng kết liễu lũ greater taratect rồi quay lại hỗ trợ mọi người.
+Tốt nhất là tôi nên nhanh chóng kết liễu lũ Taratect Vĩ đại rồi quay lại hỗ trợ mọi người.
 
 Thanh kiếm của tôi ngập tràn ánh sáng thánh khiết.
 
-Lũ Taratect Vĩ đại phun tơ dưới chân tôi, cố gắng làm chậm bước tiến.
+lũ Taratect Vĩ đại phun tơ dưới chân tôi, cố gắng làm chậm bước tiến.
 
 Lưỡi kiếm tỏa sáng của tôi dễ dàng cắt đứt chúng.
 
@@ -144,7 +144,7 @@ Con quái vật cố dùng chân trước để đỡ, nhưng thanh kiếm của
 
 Chất dịch phun ra từ cơ thể con nhện đầu tiên khi nó ngã xuống.
 
-Con Taratect Vĩ đại thứ hai lập tức phản công, nhảy vọt qua cái xác khổng lồ.
+con Taratect Vĩ đại thứ hai lập tức phản công, nhảy vọt qua cái xác khổng lồ.
 
 ### --- TRANG 74 ---
 
@@ -188,7 +188,7 @@ Trong những khoảnh khắc ngắn ngủi này, trận chiến diễn ra giằ
 
 Tôi chỉ dành ra một giây để đánh giá tình hình chiến đấu của họ.
 
-Con Taratect Vĩ đại coi đây là sơ hở và lao tới.
+con Taratect Vĩ đại coi đây là sơ hở và lao tới.
 
 Cặp răng nanh độc khổng lồ của nó bổ nhào xuống tôi.
 

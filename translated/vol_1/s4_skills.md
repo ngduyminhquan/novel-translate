@@ -100,7 +100,7 @@ Tuy nhiên, những thay đổi đó không hề rõ rệt như khi tăng cấp 
 
 Có nhiều lợi ích khác nhau khi một kỹ năng đạt đến cấp độ 10: Kỹ năng đó có thể tiến hóa, hoặc bạn có thể nhận được các kỹ năng phụ khác. Nhưng cấp độ kỹ năng càng cao, lượng độ thuần thục cần thiết để nâng cấp nó càng nhiều, nên việc đưa một kỹ năng lên cấp độ 10 là khá khó khăn.
 
-“Nếu cậu có thể tiến hóa các kỹ năng đó lên đến mức Ngoan cường, Kiên cố, Skanda và tương tự, cách các chỉ số của cậu tăng lên cũng sẽ thay đổi theo. Đạt đến thời điểm đó là lý tưởng nhất. Nhưng ít nhất, chúng ta cũng nên đạt đến các giai đoạn sơ bộ của những kỹ năng đó.”
+“Nếu cậu có thể tiến hóa các kỹ năng đó lên đến mức Ngoan cường, Kiên cố, Thần tốc và tương tự, cách các chỉ số của cậu tăng lên cũng sẽ thay đổi theo. Đạt đến thời điểm đó là lý tưởng nhất. Nhưng ít nhất, chúng ta cũng nên đạt đến các giai đoạn sơ bộ của những kỹ năng đó.”
 
 “Hợp lý đấy. Nhưng tớ ngạc nhiên là không có kỹ năng nào giúp cải thiện khả năng kiếm điểm kinh nghiệm hay độ thuần thục cả.”
 

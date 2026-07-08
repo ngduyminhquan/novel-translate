@@ -298,15 +298,15 @@ Tôi không muốn mạo hiểm mạng sống của mình chỉ để làm một
 
 ### --- TRANG 17 ---
 
-Dù sao thì tôi cũng đang có hai lựa chọn tiến hóa: taratect và tiểu taratect độc.
+Dù sao thì tôi cũng đang có hai lựa chọn tiến hóa: Taratect và Tiểu Taratect Độc.
 
 Hửm, nên chọn cái nào đây ta?
 
-Vì từ "tiểu" trong tên hiện tại của tôi không có trong tùy chọn tiến hóa "taratect", tôi đoán lựa chọn đó sẽ biến tôi thành một con nhện to xác hơn.
+Vì từ "tiểu" trong tên hiện tại của tôi không có trong tùy chọn tiến hóa "Taratect", tôi đoán lựa chọn đó sẽ biến tôi thành một con nhện to xác hơn.
 
-Lần đầu tiên tiến hóa, tôi từng có lựa chọn nâng từ "tiểu taratect thứ cấp" lên "taratect thứ cấp", nên hoàn toàn có thể suy đoán rằng tôi sẽ chỉ to ra nếu chọn nhánh này.
+Lần đầu tiên tiến hóa, tôi từng có lựa chọn nâng từ "Tiểu Taratect Thứ cấp" lên "Taratect Thứ cấp", nên hoàn toàn có thể suy đoán rằng tôi sẽ chỉ to ra nếu chọn nhánh này.
 
-Vấn đề thực sự nằm ở tùy chọn "tiểu taratect độc".
+Vấn đề thực sự nằm ở tùy chọn "Tiểu Taratect Độc".
 
 Vì nó thêm chữ "độc", chắc chắn nó sẽ cường hóa khả năng chuyên về độc tố của tôi đúng không?
 
@@ -322,7 +322,7 @@ Cái gì đây?
 
 Tôi thử Thẩm định kép nó xem sao.
 
-`<Các nhánh tiến hóa khả dụng: Taratect HOẶC tiểu taratect độc>`
+`<Các nhánh tiến hóa khả dụng: Taratect HOẶC Tiểu Taratect Độc>`
 
 Ồ! Thẩm định ơi, cưng nói thật đấy hả?!
 
@@ -334,9 +334,9 @@ Kỹ năng Thẩm định càng ngày càng trở nên hữu dụng đến mức
 
 Dù thế nào đi nữa, tôi phải tìm hiểu các lựa chọn của mình ngay lập tức.
 
-`<Taratect: Chủng tộc trưởng thành tiêu chuẩn của loài quái vật dạng nhện taratect. Một loài ăn thịt sở hữu răng nanh chứa độc tố.>`
+`<Taratect: Chủng tộc trưởng thành tiêu chuẩn của loài quái vật dạng nhện Taratect. Một loài ăn thịt sở hữu răng nanh chứa độc tố.>`
 
-`<Tiểu taratect độc: Chủng tộc non trẻ quý hiếm thuộc loài quái vật dạng nhện taratect. Sở hữu độc tố cực kỳ mạnh mẽ.>`
+`<Tiểu Taratect Độc: Chủng tộc non trẻ quý hiếm thuộc loài quái vật dạng nhện Taratect. Sở hữu độc tố cực kỳ mạnh mẽ.>`
 
 Được rồi. Quyết định thế đi. Chắc chắn phải chọn con đường Độc rồi.
 
