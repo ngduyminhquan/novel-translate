@@ -35,6 +35,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao. Ở tuyến thời gian tương lai, cô mang hình dáng một cô gái tóc trắng tinh khôi, cư xử vô cùng im lặng và đúng mực nhưng toát ra vẻ bí ẩn và đáng sợ.
+> *Sự kiện Volume 4:* Bị Ma Vương Ariel truy đuổi và thổi bay thành tro bụi ngoài mê cung nhưng sống sót nhờ kỹ năng [Bất tử]. Trôi nổi trên biển đối phó với Thủy Long, sau đó quay lại Mê cung Lớn Elroe để tiêu diệt bớt quân lực của Mẹ. Trong chương 10, cô dụ thành công 6 con nhện rối (Puppet Taratect) vào một căn phòng nhỏ hình mái vòm, niêm phong lối ra bằng Thổ Ma pháp rồi xả lượng nước biển khổng lồ chứa trong [Lưu trữ Không gian] để dìm chết toàn bộ chúng. Ở chương 11, cô lội ngược dòng tiêu diệt hoàn toàn Mẹ bằng các Phân thân Tư duy và một cuộc chạm trán trực tiếp, qua đó thăng lên cấp 24 của chủng tộc nhện tối thượng Zana Horowa, tích hợp các kỹ năng mạnh mẽ của Mẹ. Tuy nhiên, mối liên kết tinh thần bị đứt cũng khiến Phân thân Tư duy (não thể xác) của cô bị kẹt lại bên trong linh hồn của Ariel.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, trẻ trung, dùng nhiều từ ngữ mạng xã hội, game (RPG).
@@ -285,11 +286,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Ma Vương đại nhân |
 | **Tuổi** | Không rõ (tồn tại rất lâu đời) |
 | **Giới tính** | Nữ |
-| **Vai trò** | Ma Vương hiện tại, nhân vật phản diện tối cao |
-| **Xuất hiện** | Chapter J2 (gián tiếp/cuối chương) |
+| **Vai trò** | Ma Vương hiện tại, nhân vật phản diện tối cao; tổ tiên của loài Taratect |
+| **Xuất hiện** | Chapter J2 (gián tiếp), Chương 7 (xuất hiện trực tiếp trước Nhện nhỏ), Chương 8 (truy lùng Nhện nhỏ) |
 
 **Tính cách tổng quát:**
-> Tinh nghịch, thoải mái, nói chuyện có phần trẻ con và tự nhiên ("y'know?"), nhưng đằng sau sự nhí nhảnh đó là một sức mạnh khủng khiếp vô địch thiên hạ và sự tàn nhẫn khi cần thiết.
+> Tinh nghịch, thoải mái, nói chuyện có phần trẻ con và tự nhiên ("y'know?"), nhưng đằng sau sự nhí nhảnh đó là một sức mạnh khủng khiếp vô địch thiên hạ và sự tàn nhẫn khi cần thiết. Cô thuộc chủng tộc Taratect Thủy Tổ (Origin taratect), là tổ tiên của tất cả các loài taratect và là chủ nhân tối cao của Mẹ (Queen Taratect). Sở hữu chỉ số trung bình lên đến hơn 90.000 (cộng thêm 99.999), vượt xa mọi thực thể thông thường trong hệ thống.
+> *Sự kiện Volume 4:* Sau khi nhận được tín hiệu cầu cứu của Mẹ, cô đã lập tức đến ngoài mê cung và phẩy tay đập tan xác Nhện nhỏ chỉ bằng một đòn duy nhất. Sau đó, cô phát hiện ra Nhện nhỏ vẫn còn sống nhờ các Phân thân Tư duy vẫn tiếp tục tấn công Mẹ. Khi Mẹ bị tiêu diệt hoàn toàn ở chương 11, mối liên kết tâm linh bị đứt đột ngột nhưng một Phân thân Tư duy (não thể xác) của Nhện nhỏ đã bị kẹt lại bên trong linh hồn Ariel, tiếp tục giằng xé và ăn mòn cô từ bên trong, khiến cô đau đớn dữ dội. Trong đoạn phụ Ma Vương, Ariel cùng White hành quân hướng về làng Elf trên lưng một con Taratect Thượng cổ, ấp ủ kế hoạch tiêu diệt Potimas Harrifenas và quét sạch tộc Elf để phục thù cho những âm mưu hèn hạ của chúng từ xa xưa.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Thân mật, thoải mái, đôi khi hơi nhí nhảnh hoặc dùng giọng điệu đùa cợt kiểu trẻ con nhưng đầy uy lực.
@@ -438,7 +440,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Interlude: Lời thở dài của trợ lý Ma Vương |
 
 **Tính cách tổng quát:**
-> Ngoại hình trông giống như một bé gái khoảng 10-12 tuổi nhưng lại sở hữu sức mạnh áp đảo có thể đè bẹp tất cả các thống lĩnh quân đoàn ma vương cộng lại. Cô có tính cách trẻ con, nghịch ngợm, thích bắt nạt thuộc hạ (đặc biệt là Kogou và Bloe) nhưng khi cần thiết thì cực kỳ hung bạo, sẵn sàng đe dọa sử dụng Ma pháp Vực sâu để trừng phạt những kẻ phản kháng. Cô đang lên kế hoạch khơi mào cuộc chiến sinh tử chống lại loài người.
+> Ngoại hình trông giống như một bé gái khoảng 10-12 tuổi nhưng lại sở hữu sức mạnh áp đảo có thể đè bẹp tất cả các thống lĩnh quân đoàn ma vương cộng lại. Cô có tính cách trẻ con, nghịch ngợm, thích bắt nạt thuộc hạ (đặc biệt là Kogou và Bloe) nhưng khi cần thiết thì cực kỳ hung bạo, sẵn sàng đe dọa sử dụng Ma pháp Vực sâu để trừng phạt những kẻ phản kháng. Cô đang lên kế hoạch khơi mào cuộc chiến sinh tử chống lại loài người. Sau sự kiện chương 11, linh hồn cô bị ảnh hưởng nghiêm trọng do một Phân thân Tư duy (não thể xác) của Nhện nhỏ bị kẹt lại bên trong và liên tục ăn mòn tâm trí cô. Trong đoạn phụ Ma Vương, cô đích thân chỉ huy quân đội hướng về làng Elf, lập mưu kết hợp cùng quân Đế quốc và Taratect Nữ Vương để nuốt trọn ngôi làng và dứt điểm kẻ thù Potimas Harrifenas.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Suồng sã, cợt nhả, trẻ con nhưng đầy áp lực và ẩn chứa sát khí ("này các chàng trai", "sử dụng Ma pháp Vực sâu đấy nhé", "chúng ta bắt đầu chiến tranh chứ?").
@@ -606,11 +608,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Tộc trưởng tộc Elf / Đại sứ thiện chí |
 | **Tuổi** | Cổ xưa (Tồn tại hàng ngàn năm) |
 | **Giới tính** | Nam |
-| **Vai trò** | Tộc trưởng tộc Elf, nhân vật phản diện quan trọng đằng sau nhiều âm mưu |
-| **Xuất hiện** | Nhắc đến ở chương phụ Leston & Oka, bị Sophia chặt đầu tại thủ đô nước Analeit (Chương S5) |
+| **Vai trò** | Tộc trưởng tộc Elf, nhân vật phản diện quan trọng đằng sau nhiều âm mưu; sở hữu các phương thức né tránh cái chết bí ẩn giúp tái sinh sau khi bị chém đầu |
+| **Xuất hiện** | Nhắc đến ở chương phụ Leston & Oka, bị Sophia chặt đầu tại thủ đô nước Analeit (Chương S5), bất ngờ tái xuất tại Làng Elf (Chương S8) |
 
 **Tính cách tổng quát:**
-> Một thực thể cực kỳ ích kỷ, tàn nhẫn, kiêu ngạo và coi thường tất cả các sinh mệnh khác (bao gồm cả nhân tộc và ma tộc) là loài hạ đẳng. Ông ta chỉ quan tâm đến lợi ích cá nhân, sự phát triển công nghệ và việc đạt được sự bất tử. Xem con gái mình (cô Oka) và những người tái sinh khác như những con cờ có giá trị lợi dụng cao.
+> Một thực thể cực kỳ ích kỷ, tàn nhẫn, kiêu ngạo và coi thường tất cả các sinh mệnh khác (bao gồm cả nhân tộc và ma tộc) là loài hạ đẳng. Ông ta chỉ quan tâm đến lợi ích cá nhân, sự phát triển công nghệ và việc đạt được sự bất tử. Xem con gái mình (cô Oka) và những người tái sinh khác như những con cờ có giá trị lợi dụng cao. Việc ông ta sống lại sau khi bị chém đầu cho thấy ông ta sở hữu những bí thuật hoặc công nghệ vượt xa hiểu biết thông thường.
+> *Sự kiện Volume 4:* Sau khi bị Sophia chém đầu tại thủ đô nước Analeit, ông ta đã tái xuất nguyên vẹn tại Làng Elf (Chương S8). Trong đoạn phụ Tộc trưởng tộc Elf, khi phát hiện quân đội Ma Vương Ariel đang di chuyển phía sau quân Đế quốc tiến về phía làng Elf, ông ta đã ra lệnh kích hoạt toàn bộ hệ thống vũ khí cơ giới cổ đại "Gloria" để nghênh chiến bằng tất cả thực lực của tộc Elf, quyết tâm giải quyết dứt điểm mối ân oán xưa kia với Ariel. Đồng thời, ông ta lạnh lùng từ bỏ toàn bộ giá trị lợi dụng của nhóm Anh hùng và những người tái sinh khác, mặc kệ họ tự sinh tự diệt ở bất cứ đâu.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trang trọng, lạnh lùng, kẻ cả, không biểu lộ cảm xúc.
@@ -628,10 +631,10 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Thiếu niên (Bằng tuổi Shun ở kiếp này) |
 | **Giới tính** | Nữ |
 | **Vai trò** | Học sinh tái sinh (trở thành ma cà rồng chân tổ), Kẻ Thống Trị Đố Kỵ (Ruler of Envy), hoạt động dưới trướng "Chủ nhân" (Ariel/White) |
-| **Xuất hiện** | Chương S4, tham gia phản biến tại thủ đô nước Analeit (Chương S5) |
+| **Xuất hiện** | Chương S4, tham gia phản biến tại thủ đô nước Analeit (Chương S5), Chương cuối (xuất hiện dưới dạng trẻ sơ sinh được Nhện nhỏ cứu và Thẩm định) |
 
 **Tính cách tổng quát:**
-> Kiếp trước là Negishi Shouko, biệt danh "Riko" (do vẻ ngoài gầy gò rụt rè). Sau khi tái sinh thành ma cà rồng quý tộc Sophia Keren tại Hạt Keren, cô được nuôi dưỡng bởi thế lực bí ẩn. Có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" (Ariel/White). Cô cũng đồng thời sở hữu danh hiệu Kẻ Thống Trị Đố Kỵ.
+> Kiếp trước là Negishi Shouko, biệt danh "Rihoko" (do vẻ ngoài gầy gò u ám giống ma). Sau khi tái sinh thành ma cà rồng chân tổ Sophia Keren tại Hạt Keren, cô được Nhện nhỏ tình cờ cứu thoát khỏi bọn cướp khi còn là trẻ sơ sinh trong xe ngựa. Nhện nhỏ đã Thẩm định cô và phát hiện danh tính người tái sinh Negishi Shouko cùng bảng chỉ số cực khủng của một ma cà rồng sơ sinh. Khi lớn lên, cô có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" (Ariel/White). Cô cũng đồng thời sở hữu danh hiệu Kẻ Thống Trị Đố Kỵ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trầm tĩnh, giễu cợt nhẹ nhàng ("Ồ thế à?", "Không ngờ lại gặp cô ở đây đấy").
@@ -764,10 +767,442 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 
-- **Tổng nhân vật**: 34
+### NV-035: Basgath
 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Basgath |
+| **Tên dịch** | Basgath |
+| **Biệt danh** | Lão già dẫn đường |
+| **Tuổi** | Người già (đã nghỉ hưu) |
+| **Giới tính** | Nam |
+| **Vai trò** | Người dẫn đường mê cung kỳ cựu đã nghỉ hưu (cha của Goyef) |
+| **Xuất hiện** | Chương S1 |
 
+**Tính cách tổng quát:**
+> Là một người dẫn đường mê cung kỳ cựu và dày dạn kinh nghiệm. Ông có tính cách bộc trực, thẳng thắn, ngang tàng và không sợ bất kỳ thế lực nào, kể cả Đế quốc. Ông luôn coi trọng sự an toàn và phán đoán của người dẫn đường trong mê cung hơn bất kỳ quy tắc lịch sự thông thường nào. Dù bề ngoài thô ráp và hay uống rượu, ông là một người dẫn đường vô cùng tài năng và đáng tin cậy.
 
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Bình dân, bộc trực, thô ráp, đôi khi hơi ngang tàng và pha chút mỉa mai.
+- **Xưng hô**: Xưng "ta" hoặc "lão già này", gọi Goyef (con trai) là "mày", gọi nhóm của Shun là "các cậu / các người / mấy đứa".
+- **Cảm xúc chủ đạo**: Mạnh mẽ, dứt khoát, kiên định và thỉnh thoảng tỏ ra ấm áp khi thấu hiểu khó khăn của người trẻ.
+
+---
+
+### NV-036: Agner
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Agner |
+| **Tên dịch** | Agner |
+| **Biệt danh** | Thống lĩnh Quân đoàn 1 (Đã tử trận) |
+| **Giới tính** | Nam |
+| **Vai trò** | Thống lĩnh Quân đoàn 1 của quân đội Ma Vương, đã bị Ariel thanh trừng ngầm bằng Taratect Nữ Vương vì tội cấu kết với Elf |
+| **Xuất hiện** | Nhắc đến trong cuộc họp ma tộc Tập 4 |
+
+**Tính cách tổng quát:**
+> Là một cựu binh dày dạn kinh nghiệm, phục vụ qua nhiều thế hệ Ma Vương. Ông có năng lực xuất sắc và sự kiên định của một quân nhân kiểu mẫu. Để bảo vệ giống loài ma tộc khỏi sự diệt vong trong cuộc chiến vô nghĩa, ông đã bí mật thỏa hiệp với tộc Elf, dẫn đến cái chết dưới sự thanh trừng không khoan nhượng của Ariel.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Chuẩn mực, súc tích, ngắn gọn của một quân nhân.
+- **Cảm xúc chủ đạo**: Nghiêm túc, trách nhiệm.
+
+---
+
+### NV-037: Sanatoria
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sanatoria |
+| **Tên dịch** | Sanatoria |
+| **Biệt danh** | Thống lĩnh Quân đoàn 2 |
+| **Giới tính** | Nữ |
+| **Vai trò** | Thống lĩnh Quân đoàn 2 của quân đội Ma Vương, succubus xảo quyệt, thủ lĩnh ngầm của phe làm phản chống Ariel |
+| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2, Tập 4 |
+
+**Tính cách tổng quát:**
+> Một nữ ma tộc succubus vô cùng quyến rũ, sắc sảo và xảo quyệt. Cô luôn tính toán thực tế và nhận thấy đi theo Ma Vương Ariel sẽ chỉ dẫn đến sự hủy diệt cho ma tộc. Sau cái chết của Agner, cô tiếp tục liên hệ với tộc Elf, giữ nguyên thực lực của Quân đoàn 2 để mưu đồ đảo chính lật đổ Ma Vương. Cô nhầm tưởng Ma Vương yếu thế vì chưa bao giờ tự mình ra trận.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Thanh lịch, quyến rũ, ngọt ngào nhưng ẩn chứa âm mưu và toan tính.
+- **Cảm xúc chủ đạo**: Tự tin, xảo quyệt, sắc sảo.
+
+---
+
+### NV-038: Kogou
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Kogou |
+| **Tên dịch** | Kogou |
+| **Biệt danh** | Thống lĩnh Quân đoàn 3 |
+| **Giới tính** | Nam |
+| **Vai trò** | Thống lĩnh Quân đoàn 3 của quân đội Ma Vương, đồng phạm làm phản dưới sự thuyết phục của Sanatoria |
+| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2, Tập 4 |
+
+**Tính cách tổng quát:**
+> Một gã ma tộc to xác, sở hữu thực lực cận chiến rất cao nhưng tính cách lại hiền lành, nhút nhát và đặc biệt chán ghét chiến tranh. Vì sự ngây thơ và mong muốn tránh đổ máu, ông dễ dàng bị Sanatoria thuyết phục tham gia vào kế hoạch làm phản chống lại Ariel.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Ấp úng, rụt rè, không tự tin ("Th-thực ra...", "Ừm...").
+- **Cảm xúc chủ đạo**: Lo lắng, sợ sệt.
+
+---
+
+### NV-039: Huey
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Huey |
+| **Tên dịch** | Huey |
+| **Biệt danh** | Thống lĩnh Quân đoàn 6 (Đã tử trận) |
+| **Giới tính** | Nam |
+| **Vai trò** | Thống lĩnh Quân đoàn 6 của quân đội Ma Vương, đã tử trận dưới ma pháp của Ronandt |
+| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2 |
+
+**Tính cách tổng quát:**
+> Thống lĩnh trẻ tuổi có ngoại hình và tính cách tương đối trẻ con nhưng năng lực và trí tuệ rất xứng đáng với vị trí của mình. Cậu ta rất thân thiết với Sanatoria. Trong trận chiến pháo đài loài người, quân đoàn của cậu đụng độ với pháp sư mạnh nhất nhân loại - Ronandt, và Huey đã bị hạ gục trực tiếp bởi ma pháp của Ronandt.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trẻ trung nhưng có sự chín chắn khi cần thiết.
+- **Cảm xúc chủ đạo**: Nhiệt huyết, hơi bốc đồng.
+
+---
+
+### NV-040: Anna
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Anna |
+| **Tên dịch** | Anna |
+| **Biệt danh** | — |
+| **Tuổi** | Thanh niên |
+| **Giới tính** | Nữ |
+| **Vai trò** | Hầu gái kiêm cận vệ trung thành của Shun; một bán Elf có năng lực ma pháp xuất sắc nhưng thể chất yếu |
+| **Xuất hiện** | Xuất hiện từ Volume 1, đồng hành cùng Shun đi qua mê cung trong Volume 4 |
+
+**Tính cách tổng quát:**
+> Vô cùng tận tụy, hết lòng trung thành với Shun. Là một bán Elf, cô có năng lực ma pháp xuất chúng nhưng thể chất lại khá yếu ớt so với các chiến binh cấp cao khác trong nhóm. Anna luôn chịu áp lực tâm lý đè nặng vì sợ bản thân làm vướng chân cả nhóm, dẫn đến việc bị hội chứng sợ mê cung trong chuyến hành trình qua Mê cung Lớn Elroe.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Vô cùng cung kính, lịch sự.
+- **Cách xưng hô**: Gọi Shun là "Điện hạ Schlain" hoặc "Cậu chủ", xưng "tôi" hoặc "em".
+- **Cảm xúc chủ đạo**: Lo lắng, tự trách, khép nép nhưng kiên định khi cần thiết.
+
+---
+
+### NV-041: Basgath
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Basgath |
+| **Tên dịch** | Basgath |
+| **Biệt danh** | — |
+| **Tuổi** | Người già |
+| **Giới tính** | Nam |
+| **Vai trò** | Người dẫn đường mê cung kỳ cựu đã nghỉ hưu (cha của Goyef), dẫn đường cho nhóm Shun |
+| **Xuất hiện** | Volume 4 Chương S2, S3 |
+
+**Tính cách tổng quát:**
+> Một người dẫn đường mê cung dạn dày sương gió, giàu kinh nghiệm thực tế sống sót ở Mê cung Lớn Elroe. Ông có tính cách bộc trực, thẳng thắn, có phần thô ráp nhưng rất chuyên nghiệp và có trách nhiệm với khách hàng. Basgath có quan điểm thực tế: biết tự lượng sức mình, không ngần ngại khuyên người khác chạy trốn kẻ địch mạnh thay vì chết vô ích vì lòng kiêu hãnh. Ông cũng chính là người đầu tiên phát hiện ra Cơn Ác Mộng của Mê cung 10 năm trước.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Bình dân, thô mộc, dân dã, thường nói to khỏe khoắn.
+- **Cách xưng hô**: Xưng "ta" (lão già này), gọi Shun là "cậu / cậu nhóc" (boy), gọi cả nhóm là "các cậu / mấy đứa".
+- **Cảm xúc chủ đạo**: Thực tế, phóng khoáng, đôi khi nghiêm túc đầy trải nghiệm.
+
+---
+
+### NV-042: Taratect Rối (Puppet Taratect)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Puppet Taratect |
+| **Tên dịch** | Taratect Rối (Nhện Rối) |
+| **Biệt danh** | Ninja (nhóm Shun gọi) |
+| **Giới tính** | Vô tính |
+| **Vai trò** | Quân bài tẩy kiêm hộ vệ đặc biệt của Ma Vương Ariel; quân tiên phong truy lùng Nhện nhỏ |
+| **Xuất hiện** | Volume 4 Chương 4 (Kumoko chạm trán), sau này xuất hiện trong tuyến thời gian của Shun |
+
+**Tính cách tổng quát:**
+> Là một chủng tộc nhện nhân tạo được tạo ra bởi Ma Vương Ariel. Ngoại hình trông giống một con ma-nơ-canh bằng gỗ/đất sét nhẵn nhụi, không có mặt mũi, các khớp xương hình cầu vô cơ, thực chất bên trong rỗng và chứa đầy tơ nhện với một con nhện Taratect siêu nhỏ đóng vai trò "não bộ" ở trung tâm. Sở hữu sáu tay cầm sáu kiếm chiến đấu cực kỳ điêu luyện, tốc độ phản xạ và chỉ số vượt trên 10.000. Chúng tuyệt đối trung thành, hoạt động như những cỗ máy sát thủ vô cảm không biết đau đớn hay sợ hãi.
+
+**Văn phong nói chuyện:**
+- Không nói chuyện (Vô thanh). Hành động hoàn toàn im lặng, lạnh lùng và chuẩn xác.
+
+---
+
+### NV-043: Địa Long Ekisa (Earth Dragon Ekisa)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Earth Dragon Ekisa |
+| **Tên dịch** | Địa Long Ekisa |
+| **Biệt danh** | — |
+| **Tuổi** | — |
+| **Giới tính** | Vô tính (hoặc không xác định) |
+| **Vai trò** | Một con Địa Long cấp 2 chặn đường nhóm Shun ở Tầng Trên Mê cung Lớn |
+| **Xuất hiện** | Volume 4 Chương S4 |
+
+**Tính cách tổng quát:**
+> Là một con Địa Long có lòng kiêu hãnh cực kỳ cao giống như tất cả các loài rồng khác. Nó chiến đấu ngoan cường cho đến hơi thở cuối cùng, thà chết chứ quyết không hèn nhát bỏ chạy hay chịu khuất phục trước đối thủ.
+
+**Văn phong nói chuyện:**
+- Không có ngôn ngữ nói hay thần giao cách cảm với loài người. Chỉ phát ra tiếng gầm đầy uy phong trong trận chiến.
+
+---
+
+### NV-044: Tàn tích của Cơn Ác Mộng (Nightmare's Vestige)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Nightmare's Vestige |
+| **Tên dịch** | Tàn tích của Cơn Ác Mộng |
+| **Biệt danh** | Nhện con của Cơn Ác Mộng |
+| **Tuổi** | Khoảng 10 tuổi (sinh ra sau sự kiện Cơn Ác Mộng Mê cung) |
+| **Giới tính** | Vô tính |
+| **Vai trò** | Những con nhện đột biến canh giữ Mê cung Lớn Elroe, là phân thân/con cái của Cơn Ác Mộng |
+| **Xuất hiện** | Volume 4 Chương S4 |
+
+**Tính cách tổng quát:**
+> Vô cùng lạnh lùng, hành động chuẩn xác và có tổ chức. Chúng tôn thờ "Chủ nhân" (Master) và "Kẻ thống trị" (Ruler). Chúng không chủ động tấn công trừ khi bị coi là mối đe dọa hoặc bị khiêu khích. Bản chất vô cùng đáng sợ nhưng đối với người chuyển sinh, chúng có thái độ kỳ lạ (cho qua vì nhận diện là người quen hoặc quyến thuộc của chủ nhân).
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Sử dụng Thần giao cách cảm (Telepathy) để truyền tải suy nghĩ.
+- **Văn phong**: Nói những câu cực ngắn, lặp đi lặp lại các từ khóa đơn giản, mang tính chất chất vấn hệ thống hoặc xác minh danh tính.
+- **Từ khóa thường dùng**: "Chủ nhân", "Người tái sinh", "Quy Nhến", "Địch ý? Không địch ý?", "Thông qua".
+
+---
+
+### NV-045: Quản trị viên D (Administrator D / Tà thần D)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | D / Administrator D |
+| **Tên dịch** | D / Quản trị viên D / Tà thần D |
+| **Biệt danh** | Kẻ tự xưng tà thần |
+| **Tuổi** | Không rõ (Thần cấp tối cao) |
+| **Giới tính** | Nữ (hình dáng nữ sinh trung học trên Trái Đất) |
+| **Vai trò** | Quản trị viên tối cao thiết lập nên hệ thống của thế giới này, người đứng sau vụ tái sinh của cả lớp học |
+| **Xuất hiện** | Xuất hiện qua điện thoại thông minh ở Chương 5 Tập 4 (trước đó chỉ gửi tin nhắn hoặc được nhắc tới) |
+
+**Tính cách tổng quát:**
+> Là thực thể vô cùng mạnh mẽ, tự xưng là "tà thần" (evil god). Cô vô cùng lười biếng, thích trốn việc sang Trái Đất chơi game, ăn khoai tây chiên và xem kịch hay. Mọi hành động của cô, bao gồm việc cứu mạng và cho cả lớp học đầu thai, thực chất đều phục vụ cho mục đích giải trí và tiêu khiển cá nhân. Cô có tông giọng đều đều monotone, thích đùa cợt kiểu hăm dọa (như dọa kích hoạt nút tự hủy nhện). Rất hứng thú với sự nỗ lực sống sót của Nhện nhỏ và mong chờ cô chạm tới thế giới của các vị thần.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Đều đều, monotone, điềm tĩnh nhưng đầy tính châm biếm, kẻ cả của một thực thể tối cao.
+- **Cách xưng hô**: Xưng "D" hoặc "tôi", gọi Nhện nhỏ là "cô".
+- **Cảm xúc chủ đạo**: Thản nhiên, đùa cợt tàn nhẫn, luôn coi mọi biến cố là trò tiêu khiển.
+
+---
+
+### NV-046: Wald (Sir Wald / Ngài Wald)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Wald / Sir Wald |
+| **Tên dịch** | Wald / Ngài Wald |
+| **Biệt danh** | Chú chó trung thành |
+| **Tuổi** | Trưởng thành |
+| **Giới tính** | Nam |
+| **Vai trò** | Đồng đội kiêm người bạn đồng hành của Sophia và Sue; hiện túc trực bên cạnh Hugo để giám sát hắn |
+| **Xuất hiện** | Nhánh S (Volume 4) |
+
+**Tính cách tổng quát:**
+> Là một ma tộc đi theo Sophia Keren. Anh ta vô cùng kiêu ngạo nhưng lại có lòng trung thành mù quáng và tình cảm đơn phương đối với Sophia. Rất bận tâm đến việc thể hiện bản thân trước mặt cô, coi thất bại bị phi long thiêu cháy ở trận chiến trước là nỗi nhục nhã cá nhân ê chề. Anh ta luôn cố gắng bù đắp sai lầm bằng cách làm việc cật lực và lăng xăng như một chú chó trung thành để nâng cao giá trị của mình trong mắt Sophia.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Thể hiện sự nghiêm túc, cật lực khi làm việc để chứng tỏ bản thân; cung kính trước Sophia.
+
+---
+
+### NV-047: Hayashi Kouta
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Hayashi Kouta |
+| **Tên dịch** | Hayashi Kouta |
+| **Biệt danh** | — |
+| **Giới tính** | Nam |
+| **Vai trò** | Người tái sinh (Đã tử trận) |
+| **Xuất hiện** | Volume 4 Chương S7 (được nhắc tới là đã chết) |
+
+**Tính cách tổng quát / Ghi chú:**
+> Bạn cùng lớp kiếp trước của Shun. Shun hầu như không còn nhớ nổi khuôn mặt của cậu ấy do ít tương tác. Đã chết ở thế giới mới trước khi cô Oka kịp tìm thấy và bảo hộ.
+
+---
+
+### NV-048: Kogure Naofumi
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Kogure Naofumi |
+| **Tên dịch** | Kogure Naofumi |
+| **Biệt danh** | — |
+| **Giới tính** | Nam |
+| **Vai trò** | Người tái sinh (Đã tử trận) |
+| **Xuất hiện** | Volume 4 Chương S7 (được nhắc tới là đã chết) |
+
+**Tính cách tổng quát / Ghi chú:**
+> Bạn cùng lớp kiếp trước của Shun và là người thân nhất với Shun trong số bốn học sinh đã chết. Cậu ấy là một học sinh cực kỳ mít ướt, dễ hoảng sợ và bật khóc nức nở trước bất kỳ chuyện gì (như khi bị gọi phát biểu hoặc khi bị thầy giáo tịch thu máy chơi game). Đã chết ở thế giới mới.
+
+---
+
+### NV-049: Sakurazaki Issei
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sakurazaki Issei |
+| **Tên dịch** | Sakurazaki Issei |
+| **Biệt danh** | Icchi (Fei gọi) |
+| **Giới tính** | Nam |
+| **Vai trò** | Người tái sinh (Đã tử trận) |
+| **Xuất hiện** | Volume 4 Chương S7 (được nhắc tới là đã chết) |
+
+**Tính cách tổng quát / Ghi chú:**
+> Bạn thuở nhỏ của Natsume (Hugo). Kiếp trước cậu luôn đi bên cạnh kiềm chế và ngăn cản tính cách bạo lực của Natsume. Sự ra đi của cậu ở thế giới mới được Fei phỏng đoán là một trong những lý do khiến Hugo mất đi điểm tựa tinh thần duy nhất và trở nên điên loạn như hiện tại.
+
+---
+
+### NV-050: Wakaba Hiiro
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Wakaba Hiiro |
+| **Tên dịch** | Wakaba Hiiro |
+| **Biệt danh** | — |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh (Được cho là đã chết) |
+| **Xuất hiện** | Volume 4 Chương S7 (được nhắc tới là đã chết) |
+
+**Tính cách tổng quát / Ghi chú:**
+> Nữ sinh hướng nội lập dị, ít nói và cô độc nhất lớp ở kiếp trước nhưng sở hữu vẻ đẹp vô cùng nổi bật, vượt trội hơn cả Shinohara Mirei (Fei). Từng bị Fei bắt nạt đơn phương do đố kỵ và được Katia tỏ tình nhưng từ chối. Trong hồ sơ của cô Oka, cô được ghi nhận là đã chết trong vụ nổ lớp học (thực chất cô là thực thể tối cao D, nhưng nhóm Shun vẫn tin rằng cô đã chết).
+
+---
+
+### NV-051: Kudo Sachi
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Kudo Sachi / Sachi Kudo |
+| **Tên dịch** | Kudo Sachi |
+| **Biệt danh** | Lớp trưởng (Class rep) |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh; cựu lớp trưởng kiếp trước, hiện sống tại khu bảo hộ đặc biệt của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S9 |
+
+**Tính cách tổng quát:**
+> Là lớp trưởng ở kiếp trước. Cô rất nổi bật trong lớp nhờ tính tình bộc trực và vô cùng nghiêm khắc về các nội quy, quy tắc, vì vậy cô cũng có khá nhiều kẻ thù (thường xuyên bất hòa với Shinohara Mirei/Fei vì thói bừa bãi, vô kỷ luật của Fei). Ở thế giới mới, cô có thái độ cực kỳ lạnh lùng và căm ghét cô Oka vì một lý do bí mật chưa tiết lộ, coi cô Oka là "nhân vật phản diện" hoặc "kẻ xấu" và tuyên bố cô Oka không được chào đón tại đây.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Cộc lốc, thẳng thừng, nghiêm túc.
+- **Xưng hô**: Xưng "tôi" khi nói chuyện với cô Oka (thái độ lạnh nhạt, ghét bỏ), xưng "tớ" - "cậu" khi nói chuyện với bạn học cũ (Shun, Katia, Fei).
+
+---
+
+### NV-052: Iijima Aiko (Ai)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Iijima Aiko / Ai |
+| **Tên dịch** | Iijima Aiko (Ai) |
+| **Biệt danh** | Ai-chan |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh; bạn thân của Shinohara Mirei (Fei) kiếp trước, hiện sống tại khu bảo hộ đặc biệt của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S9 |
+
+**Tính cách tổng quát:**
+> Kiếp trước cô thuộc nhóm nữ sinh nổi bật và điệu đà do Fei (Mirei) làm trung tâm. Rất thân thiện, vui tươi và hướng ngoại. Cô vô cùng mừng rỡ khi gặp lại Fei sau hơn 10 năm xa cách ở thế giới mới.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trẻ trung, năng động, thân thiện.
+- **Xưng hô**: Xưng "tớ" - "cậu".
+
+---
+
+### NV-053: Tonooka Himiko (Himi)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Tonooka Himiko / Himi |
+| **Tên dịch** | Tonooka Himiko (Himi) |
+| **Biệt danh** | Himi-chan |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh; bạn thân của Shinohara Mirei (Fei) kiếp trước, hiện sống tại khu bảo hộ đặc biệt của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S9 |
+
+**Tính cách tổng quát:**
+> Kiếp trước thuộc nhóm bạn thân của Fei. Tương tự như Aiko, cô vô cùng cởi mở, hướng ngoại và phấn khích khi được hội ngộ với Fei ở làng Elf.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trẻ trung, ríu rít, thân thiện.
+- **Xưng hô**: Xưng "tớ" - "cậu".
+
+---
+
+### NV-054: Kenichi Ogiwara (Ogi)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Kenichi Ogiwara / Ogi |
+| **Tên dịch** | Ogiwara Kenichi (Ogi) |
+| **Biệt danh** | Ogi |
+| **Giới tính** | Nam |
+| **Vai trò** | Người tái sinh; bạn thân cùng câu lạc bộ bóng đá của Shun và Hugo kiếp trước, hiện sống tại khu bảo hộ đặc biệt của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S10 |
+
+**Tính cách tổng quát:**
+> Là bạn thân trong câu lạc bộ bóng đá của Shun kiếp trước. Cậu có tính cách vô cùng thân thiện, cởi mở và hay cười một cách ngốc nghếch (goofy smile). Cậu rất hoang mang và lúng túng khi gặp lại Katia (Kanata cũ) trong hình dáng một mỹ nữ lộng lẫy, không biết nên đối xử thế nào cho phải. Cậu cũng cảm thấy đau lòng và mâu thuẫn khi nghe tin người bạn cũ Hugo (Natsume) sắp sửa dẫn quân tấn công nơi này.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Thân mật, tự nhiên, đôi lúc hoảng loạn, bối rối trước Katia.
+- **Xưng hô**: Xưng "tớ" - "cậu".
+
+---
+
+### NV-055: Kunihiko Tagawa
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Kunihiko Tagawa |
+| **Tên dịch** | Tagawa Kunihiko |
+| **Biệt danh** | — |
+| **Giới tính** | Nam |
+| **Vai trò** | Người tái sinh; cựu lính đánh thuê, mạo hiểm giả tự do, hiện sống tại khu bảo hộ của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S10 |
+
+**Tính cách tổng quát:**
+> Bạn học cùng lớp kiếp trước của Shun. Sinh ra trong một gia đình lính đánh thuê ở thế giới mới và lớn lên cùng cô bạn thanh mai trúc mã Kushitani Asaka. Sau khi băng lính đánh thuê của cha mẹ họ bị ma tộc tiêu diệt hoàn toàn, hai người nương tựa vào nhau, chuyển sang làm mạo hiểm giả tự do phiêu lưu khắp nơi trước khi được tộc Elf liên lạc và đưa về đây. Cậu có tính cách bộc trực, đam mê phiêu lưu đúng chất thế giới giả tưởng, thực tế và khá chín chắn.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Khỏe khoắn, bộc trực, thực tế.
+- **Xưng hô**: Xưng "tớ" - "cậu".
+
+---
+
+### NV-056: Asaka Kushitani
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Asaka Kushitani |
+| **Tên dịch** | Kushitani Asaka |
+| **Biệt danh** | — |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh; cựu lính đánh thuê, mạo hiểm giả tự do, hiện sống tại khu bảo hộ của tộc Elf. |
+| **Xuất hiện** | Volume 4 Chương S10 |
+
+**Tính cách tổng quát:**
+> Bạn học cùng lớp kiếp trước của Shun, thanh mai trúc mã của Tagawa Kunihiko. Cùng lớn lên trong băng lính đánh thuê và cùng Tagawa trải qua biến cố gia đình bị ma tộc sát hại. Cô cùng Tagawa phiêu lưu làm mạo hiểm giả và có tính cách điềm tĩnh, thực tế, luôn ở bên cạnh hỗ trợ và kiềm chế tính cách bốc đồng của Tagawa khi cần thiết.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Điềm đạm, chín chắn, thẳng thắn.
+- **Xưng hô**: Xưng "tớ" - "cậu".
+
+---
+
+- **Tổng nhân vật**: 56
+
+---
 
 
 

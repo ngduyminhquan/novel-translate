@@ -51,6 +51,24 @@
 | 31 | Merazophis | Merazophis | Thống lĩnh Quân đoàn 4 dưới quyền Ma Vương |
 | 32 | Balto | Balto | Tướng lĩnh ma tộc, phụ tá đắc lực quản lý hành chính cho Ma Vương |
 | 33 | White / Shiraori | White / Bạch | Thống lĩnh Quân đoàn 10, danh phận tương lai của Nhện nhỏ |
+| 34 | Basgath | Basgath | Người dẫn đường mê cung kỳ cựu đã nghỉ hưu (cha của Goyef) |
+| 35 | Agner | Agner | Thống lĩnh Quân đoàn 1 dưới quyền Ma Vương (đã tử trận) |
+| 36 | Sanatoria | Sanatoria | Thống lĩnh Quân đoàn 2 dưới quyền Ma Vương |
+| 37 | Kogou | Kogou | Thống lĩnh Quân đoàn 3 dưới quyền Ma Vương |
+| 38 | Huey | Huey | Thống lĩnh Quân đoàn 6 dưới quyền Ma Vương (đã tử trận) |
+| 39 | Sakurazaki | Sakurazaki | Học sinh lớp Shun ở kiếp trước |
+| 40 | Temarikawa | Temarikawa | Học sinh lớp Shun ở kiếp trước |
+| 41 | Furuta | Furuta | Học sinh lớp Shun ở kiếp trước |
+| 42 | Kyouya / Kyouya Sasajima | Kyouya / Sasajima Kyouya | Học sinh lớp Shun ở kiếp trước |
+| 43 | Rihoko | Rihoko | Biệt danh kiếp trước của Sophia Keren (viết tắt của Real Horror Girl) |
+| 44 | Hayashi Kouta | Hayashi Kouta | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
+| 45 | Kogure Naofumi | Kogure Naofumi | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
+| 46 | Sakurazaki Issei | Sakurazaki Issei | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
+| 47 | Wakaba Hiiro | Wakaba Hiiro | Học sinh lớp Shun ở kiếp trước (Được cho là đã chết) |
+| 48 | Kenichi Ogiwara | Ogiwara Kenichi | Học sinh tái sinh (Ogi), bạn câu lạc bộ bóng đá của Shun |
+| 49 | Kunihiko Tagawa | Tagawa Kunihiko | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
+| 50 | Asaka Kushitani | Kushitani Asaka | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
+
 
 ---
 
@@ -67,6 +85,8 @@
 | 7 | Holy Kingdom of Alleius | Thánh quốc Alleius | Quốc gia | Thánh quốc trung tâm giáo phái Thần ngôn |
 | 8 | Renxandt Empire | Đế quốc Renxandt | Quốc gia | Quốc gia quân phiệt loài người lớn nhất ở Kasanagara |
 | 9 | Fort Kusorion | Pháo đài Kusorion | Địa danh | Pháo đài lớn của loài người chống ma tộc |
+| 10 | Great Garam Forest | Rừng Lớn Garam | Địa danh | Khu rừng lớn nơi tộc Elf dựng nhà và sinh sống |
+| 11 | Elf Village | Làng Elf | Địa danh | Ngôi làng của tộc Elf ẩn sâu trong rừng Garam, được bảo vệ bởi kết giới mạnh mẽ |
 
 ---
 
@@ -226,6 +246,59 @@
 | 150 | Terrain Wall | [Tường Địa hình] | Ma pháp | Phép thuật tạo tường chắn bằng đất thuộc Ma pháp Địa hình |
 | 151 | Terrain Spear | [Thương Địa hình] | Ma pháp | Phép thuật tạo thương tấn công bằng đất thuộc Ma pháp Địa hình |
 | 152 | Large-Scale Teleport | [Dịch chuyển Quy mô lớn] | Ma pháp | Phép thuật dịch chuyển một nhóm lớn đối tượng từ xa |
+| 153 | Kin Control | [Điều khiển Đồng loại] | Kỹ năng | Kỹ năng cho phép kiểm soát và ra lệnh cho con cái hoặc các cá thể đồng tộc |
+| 154 | Heavy Magic | [Trọng Lực Ma Pháp] | Ma pháp | Ma pháp điều khiển trọng lực và khối lượng |
+| 155 | HP Ultra-Fast Recovery | [Tự hồi phục HP siêu tốc] | Kỹ năng thụ động | Tốc độ hồi phục HP cực nhanh |
+| 156 | SP Minimized Consumption | [Giảm tiêu hao SP tối thiểu] | Kỹ năng thụ động | Giảm tối đa lượng SP tiêu hao |
+| 157 | SP Rapid Recovery | [Tự hồi phục SP nhanh] | Kỹ năng thụ động | Tốc độ hồi phục SP nhanh |
+| 158 | Destruction Super-Enhancement | [Siêu tăng cường Hủy diệt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính hủy diệt |
+| 159 | Impact Super-Enhancement | [Siêu tăng cường Va chạm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính va chạm |
+| 160 | Cutting Super-Enhancement | [Siêu tăng cường Cắt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính cắt |
+| 161 | Piercing Super-Enhancement | [Siêu tăng cường Đâm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính đâm |
+| 162 | Shock Super-Enhancement | [Siêu tăng cường Sốc] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính sốc |
+| 163 | Status Condition Super-Enhancement | [Siêu tăng cường Trạng thái bất thường] | Kỹ năng thụ động | Tăng cường cực đại khả năng gây trạng thái bất thường |
+| 164 | Battle Divinity | [Đấu Thần Đấu Pháp] | Kỹ năng chủ động | Bản nâng cấp tối cao của Ý chí chiến đấu |
+| 165 | Ability Conferment | [Truyền Chỉ Số] | Kỹ năng chủ động | Khả năng truyền chỉ số cho mục tiêu |
+| 166 | Energy Super-Attack | [Siêu công kích Năng lượng] | Kỹ năng chủ động | Tấn công bằng năng lượng siêu cấp |
+| 167 | Divine Dragon Power | [Thần Long Lực] | Kỹ năng chủ động | Sức mạnh thần long vĩ đại |
+| 168 | Dragon Barrier | [Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp bảo hộ của Long tộc |
+| 169 | Enhanced Paralysis Attack | [Tăng cường Tấn công Tê liệt] | Kỹ năng chủ động/thụ động | Nâng cấp khả năng gây tê liệt khi tấn công |
+| 170 | Divine Thread Weaving | [Thần Kỹ Dệt Tơ] | Kỹ năng chủ động | Bản nâng cấp tối cao của Tạo Tơ/Tơ nghệ |
+| 171 | Probability Super-Correction | [Hiệu chỉnh Xác suất siêu cấp] | Kỹ năng thụ động | Hiệu chỉnh xác suất có lợi ở mức tối thượng |
+| 172 | Ultimate Life | [Sinh mệnh Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại HP |
+| 173 | Ultimate Magic | [Ma pháp Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại MP và chỉ số ma pháp |
+| 174 | Ultimate Movement | [Di chuyển Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại tốc độ và độ cơ động |
+| 175 | Fortune | [Vận May] | Kỹ năng thụ động | Tăng cực đại chỉ số may mắn |
+| 176 | Deva | [Thiên Nhân] | Kỹ năng thụ động | Tăng cực đại chỉ số phòng ngự |
+| 177 | Sanctum | [Thánh Vực] | Kỹ năng thụ động | Tăng cực đại chỉ số kháng tính |
+| 178 | Annihilating Evil Eye | [Tử Vong Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn mang thuộc tính Hủ thực (Tử vong) |
+| 179 | Thought Super-Acceleration | [Gia tốc Tư duy Siêu cấp] | Kỹ năng thụ động | Tiến hóa từ Gia tốc Tư duy, đẩy nhanh tư duy lên mức cực đại |
+| 180 | Future Sight | [Tương Lai Nhãn] | Kỹ năng thụ động | Tiến hóa từ Tiên kiến (Foresight), cho phép thấy trước tương lai |
+| 181 | Rot Attribute | Thuộc tính Hủ thực | Thuộc tính ma pháp | Thuộc tính phá hủy trực tiếp cấu trúc vật chất và linh hồn |
+| 182 | Hard Armor | Giáp Cứng | Kỹ năng thụ động | Kỹ năng gia tăng độ cứng cáp của da/vảy để phòng thủ |
+| 183 | Steel Body | Thân Thể Thép | Kỹ năng thụ động | Kỹ năng hóa thép thân thể để gia tăng sức phòng ngự vật lý |
+| 184 | HP Rapid Recovery | Tự hồi phục HP nhanh | Kỹ năng thụ động | Tự động hồi phục HP với tốc độ nhanh |
+| 185 | MP Recovery Speed | Tốc độ hồi phục MP | Kỹ năng thụ động | Gia tăng tốc độ hồi phục lượng MP theo thời gian |
+| 186 | Magic Power Attack | Ma lực Công kích | Kỹ năng chủ động | Đòn tấn công vật lý mang theo thuộc tính ma lực |
+| 187 | Terrain Attack | Địa hình Công kích | Kỹ năng chủ động/thụ động | Đòn tấn công tận dụng hoặc tác động lên cấu trúc địa hình xung quanh |
+| 188 | Terrain Enhancement | Địa hình Tăng cường | Kỹ năng thụ động | Gia tăng sức mạnh chiến đấu khi đứng trên địa hình phù hợp |
+| 189 | Destruction Resistance | Kháng Hủy diệt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công thuộc tính hủy diệt |
+| 190 | Cutting Resistance | Kháng Cắt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng chém cắt |
+| 191 | Piercing Resistance | Kháng Đâm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng đâm thọc |
+| 192 | Impact Resistance | Kháng Va chạm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng va đập |
+| 193 | Shock Resistance | Kháng Sốc | Kỹ năng thụ động | Giảm sát thương nhận vào từ các chấn động mạnh hoặc xung kích |
+| 194 | Terrain Nullification | Vô hiệu Địa hình | Kỹ năng thụ động | Vô hiệu hóa mọi tác động bất lợi từ địa hình xung quanh lên bản thân |
+| 195 | Dragon Power | Long Lực | Kỹ năng chủ động | Kỹ năng giải phóng và chiến đấu bằng sức mạnh của loài rồng |
+| 196 | Talisman | Hộ Phù | Kỹ năng thụ động | Kỹ năng tăng cường khả năng chống đỡ các đòn tấn công ma pháp |
+| 197 | Monk | Tu sĩ | Kỹ năng thụ động | Kỹ năng gia tăng các chỉ số liên quan đến tinh thần hoặc trị liệu |
+| 198 | Longevity | Trường Thọ | Kỹ năng thụ động | Kỹ năng gia tăng tuổi thọ và sức chịu đựng của sinh vật |
+| 199 | Magic Hoard | Ma Lượng Tích Trữ | Kỹ năng thụ động | Kỹ năng gia tăng đáng kể lượng MP dự trữ |
+| 200 | Egg-Laying | Đẻ Trứng | Kỹ năng chủ động | Kỹ năng cho phép tự sinh sản đơn tính |
+| 201 | Skill Elimination | [Xóa Kỹ Năng] | Kỹ năng | Kỹ năng hệ thống tự động xóa bỏ toàn bộ kỹ năng của người dùng sau khi kích hoạt |
+| 202 | Swim | [Bơi] | Kỹ năng chủ động | Kỹ năng cho phép bơi lội dưới chất lỏng |
+| 203 | Odorless | [Vô hương] | Kỹ năng thụ động | Kỹ năng nhận được khi max Silence, giúp triệt tiêu mùi cơ thể |
+| 204 | Exhaustion Nullification | [Vô hiệu Kiệt sức] | Kỹ năng thụ động | Kỹ năng ngăn chặn cơ thể khỏi mệt mỏi và kiệt sức dù không ngủ |
+| 205 | Spatial Storage | [Lưu trữ Không gian] | Ma pháp | Phép thuật hệ ma pháp không gian dùng để cất giữ đồ vật vào chiều không gian khác |
 
 ---
 
@@ -358,6 +431,23 @@
 | 123 | Earth Dragon Alaba | Địa Long Alaba | Quái vật | Con Địa Long huyền thoại tại Tầng Dưới, nỗi ám ảnh nguyên thủy của Nhện nhỏ |
 | 124 | wyrm | phi long | Quái vật / Phân loại | Loài quái vật giống rồng nhưng cấp bậc thấp hơn rồng thực sự |
 | 125 | samurai | samurai | Thuật ngữ văn hóa | Chiến binh kiêu hãnh của Nhật Bản cổ, được Ariel ví với sự kiêu hãnh của loài Địa Long |
+| 126 | Labyrinth sickness | Hội chứng sợ mê cung | Thuật ngữ | Tình trạng suy nhược cơ thể và tinh thần do ở lâu ngày trong mê cung |
+| 127 | Dragon Slayer | Kẻ diệt Rồng | Danh hiệu | Danh hiệu huyền thoại nhận được khi tham gia tiêu diệt rồng |
+| 128 | Earth Dragon Ekisa | Địa Long Ekisa | Quái vật | Con Địa Long cấp 2 hung dữ vừa tiến hóa ở Tầng Trên Mê cung Lớn |
+| 129 | Zana Horowa | Zana Horowa | Chủng tộc quái vật | Chủng tộc nhện tiến hóa đặc biệt, đứng cùng đẳng cấp với Queen Taratect, sở hữu kỹ năng Bất tử |
+| 130 | Immortality | Bất tử | Kỹ năng đặc biệt | Kỹ năng tối thượng giúp người sở hữu không bao giờ chết bên trong hệ thống |
+| 131 | Champion | Quán quân | Danh hiệu | Danh hiệu dành cho người xứng đáng là quán quân, gây hiệu ứng "Sợ hãi" lên đối phương |
+| 132 | Status Condition Nullification | Vô hiệu Trạng thái bất thường | Kỹ năng thụ động | Dạng tiến hóa tối thượng của Kháng Trạng thái bất thường, hóa giải mọi tác động tiêu cực |
+| 133 | monogenetic reproduction | sinh sản vô tính | Thuật ngữ sinh học | Hình thức sinh sản không cần thụ tinh |
+| 134 | guerrilla warfare | chiến tranh du kích | Thuật ngữ quân sự | Chiến thuật chiến đấu nhỏ lẻ, bất ngờ và cơ động |
+| 135 | Origin taratect | Taratect Thủy Tổ | Chủng tộc quái vật | Chủng tộc nhện đầu tiên, tổ tiên của tất cả các loài taratect |
+| 136 | Hades | Hades | Ma pháp | Phép thuật cấp mười của Ma pháp Vực sâu, phá hủy hoàn toàn cả linh hồn mục tiêu |
+| 137 | Dimensional Maneuvering | Cơ động Chiều không gian | Kỹ năng chủ động | Dạng tiến hóa tối thượng của Cơ động Không gian, cho phép di chuyển cực kỳ linh hoạt xuyên không gian |
+| 138 | Gluttony | Bạo Thực | Kỹ năng đặc biệt | Một trong bảy kỹ năng Ruler thuộc lớp Thất Đại Tội, cho phép nuốt chửng mọi thứ |
+| 139 | teleportation point | điểm dịch chuyển | Thuật ngữ / Hệ thống | Điểm dùng phép dịch chuyển để di chuyển nhanh giữa các vùng |
+| 140 | teleportation circle | vòng tròn dịch chuyển | Thuật ngữ / Hệ thống | Vòng tròn ma pháp dùng để dịch chuyển |
+| 141 | water wyrm | Thủy Phi Long | Quái vật | Loài phi long thuộc tính nước cư ngụ tại đại dương |
+| 142 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại do tộc Elf chế tạo |
 
 ---
 
@@ -369,11 +459,15 @@
 | 1 | I think, therefore I am | Tôi tư duy, nên tôi tồn tại | Triết học / Suy nghĩ của Nhện | Độc thoại nội tâm |
 | 2 | Sweet freedom! | Tự do muôn năm! / Tự do ngọt ngào! | Cảm xúc của Nhện | Khi phá trứng chui ra |
 | 3 | Oedipus complex | Phức cảm Oedipus | Tâm lý học / Đùa giỡn | Trêu chọc của Hyrince về việc Julius quá bám mẹ |
+| 5 | Power creep | Lạm phát sức mạnh | Độc thoại nội tâm của Nhện | Sự mất cân bằng sức mạnh khi kẻ địch quá mạnh xuất hiện |
+| 6 | Cheat code | Mã gian lận | Giao tiếp của các Phân thân Tư duy | Đề cập đến kỹ năng Bất tử vô lý của Nhện nhỏ |
+| 7 | Zombie attack | Tấn công kiểu zombie | Độc thoại nội tâm của Nhện | Chiến thuật hồi sinh liên tục để bào mòn đối phương |
 
 ---
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-08
-- **Tổng thuật ngữ**: 303
+- **Cập nhật lần cuối**: 2026-07-09
+- **Tổng thuật ngữ**: 401
+
