@@ -347,3 +347,7 @@ Không có cách nào để đánh bại cô ta.
 Nếu vị Ma Vương đó đã nói rằng cô ta chuẩn bị hủy diệt thứ gì đó, thứ đó chắc chắn sẽ bị hủy diệt đến mức không thể nhận dạng.
 
 Số phận của tộc Elf đã được định đoạt.
+
+---
+
+[◀ Chương trước: Chương S1: Hướng Về Mê Cung Lớn Elroe](s1_to_the_great_elroe_labyrinth.md) | [Chương tiếp theo: Chương 2: Cuộc Chiến Linh Hồn Với Mẹ ▶](02_spirit_battle_vs_mother.md)

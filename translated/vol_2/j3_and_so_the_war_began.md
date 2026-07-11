@@ -243,3 +243,7 @@ Nó làm tôi liên tưởng đến trận chiến chống lại Tàn tích củ
 Nhưng với tư cách là một anh hùng, tôi không thể chạy trốn.
 
 Một lần nữa, tôi nắm chặt chiếc khăn quàng cổ làm từ tơ nhện.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Lời thở dài của trợ lý Ma Vương tại cuộc họp](interlude_the_demon_lords_aide_sighs_at_a_meeting.md) | [Chương tiếp theo: Chương S7: Âm Thanh Báo Hiệu Sự Diệt Vong ▶](s7_the_voice_that_announces_ruination.md)

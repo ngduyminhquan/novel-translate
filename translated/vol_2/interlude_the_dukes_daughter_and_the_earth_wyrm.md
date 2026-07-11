@@ -62,3 +62,6 @@
 
 Chà, cậu ta không thích mình sống chung với Shun, rồi tự dưng lại cuống cuồng lên khi mình nhắc đến việc có thể có tình cảm với cậu ấy, và rồi thở phào nhẹ nhõm khi mình bảo là không. Rõ ràng là có ẩn ý gì đó ở đây rồi đúng không? Nhưng mà sẽ vui hơn nếu mình không thèm nói gì về chuyện đó.
 
+---
+
+[◀ Chương trước: Chương S3: Nhật ký rèn luyện của Fei](s3_feis_training_diary.md) | [Chương tiếp theo: Chương 6: Zoa Ele ▶](06_zoa_ele.md)

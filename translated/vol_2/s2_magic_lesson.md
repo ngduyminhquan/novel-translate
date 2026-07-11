@@ -198,3 +198,6 @@ Fei thì thầm bên tai tôi.
 
 Đây chính là ngày mà Hugo bắt đầu xem tôi như một kẻ thù không đội trời chung.
 
+---
+
+[◀ Chương trước: Chương 4: Phi long? Không phải cá sao?](04_wyrm_not_fish.md) | [Chương tiếp theo: Đoạn phụ: Con gái Công tước và Em gái Hoàng tử ▶](interlude_the_dukes_daughter_and_the_princes_sister.md)

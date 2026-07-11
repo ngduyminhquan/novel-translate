@@ -633,3 +633,7 @@ Vậy thì tôi không cần phải nói gì thêm nữa.
 “Quyết định chọn con đường ngắn nhất vậy.”
 
 Dù biết rõ những mối nguy hiểm rình rập, chúng tôi vẫn quyết định tiến lên phía trước.
+
+---
+
+[◀ Chương trước: Chương 3: Mẹ Tấn Công](03_mother_attack.md) | [Chương tiếp theo: Chương 4: Chạm Trán Tử Thần ▶](04_a_brush_with_death.md)

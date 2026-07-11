@@ -807,3 +807,7 @@ Khi ý thức của tôi nhạt nhòa dần, giọng nói cay đắng của Rona
 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_199_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương 9: Nhện đấu với Nhện](09_spider_vs_spider.md) | [Chương tiếp theo: Chương 10: Tôi Vẫn Chưa Biết Cái Biệt Danh Ngớ Ngẩn Đó ▶](10_i_still_dont_know_the_stupid_nickname.md)

@@ -103,3 +103,7 @@
 --- PAGE BREAK ---
 
 Dù sao thì chủ nhân cũng sẽ tới đây mà.”
+
+---
+
+[◀ Chương trước: Chương S10: Những người tái sinh tụ họp](s10_the_reincarnations_gather.md) | [Chương tiếp theo: Chương 11: Sát mẫu ▶](11_matricide.md)

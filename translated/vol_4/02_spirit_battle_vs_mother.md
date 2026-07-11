@@ -359,3 +359,7 @@ Mẹ đã thoát khỏi ranh giới chật hẹp của chiếc lồng mang tên 
 Và bây giờ, đương nhiên, bà ấy đang hướng thẳng về phía cơ thể thực của chúng tôi.
 
 Kẻ vẫn hoàn toàn mù tịt, không hề hay biết bất kỳ chuyện gì đang diễn ra.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Lời thở dài của trợ lý Ma Vương tại cuộc họp một lần nữa](interlude_the_demon_lords_aide_sighs_at_a_meeting_again.md) | [Chương tiếp theo: Chương S2: Bước Chân Vào Mê Cung Lớn Elroe ▶](s2_entering_the_great_elroe_labyrinth.md)

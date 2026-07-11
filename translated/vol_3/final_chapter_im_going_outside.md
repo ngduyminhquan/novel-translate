@@ -37,3 +37,7 @@ Giờ thì, làm sao để tôi thâm nhập vào khu định cư của con ngư
 Đó là vấn đề tiếp theo mà tôi cần phải giải quyết.
 
 ### --- TRANG 251 ---
+
+---
+
+[◀ Chương trước: Đoạn phụ: Hồi ức của Ma Vương về loài Địa Long](interlude_the_demon_lords_memories_of_the_earth_dragon.md) | [Chương tiếp theo: Lời bạt của tác giả ▶](afterword.md)

@@ -231,3 +231,7 @@ Nếu nó di chuyển đi nơi khác, việc hoàn thành nhiệm vụ này sẽ
 “Đúng vậy. Đặc biệt là vì khu vực phát hiện ra sinh vật đó rất gần với Tầng Trung. Nếu nó trốn vào đó, chúng ta dĩ nhiên sẽ không thể đuổi theo được. Nơi đó không phải là nơi dành cho con người đặt chân vào. Mà dù sao thì loài Taratect cũng rất sợ lửa, nên việc nghĩ rằng có một con dám tiến vào Tầng Trung quả thực là điều hết sức nực cười.”
 
 Tôi gật đầu đồng tình với Goyef, rồi chúng tôi tiếp tục rảo bước hướng về phía điểm đích.
+
+---
+
+[◀ Chương trước: Chương 1: Rõ ràng là Thượng đế ghét nhện](01_clearly_god_hates_spiders.md) | [Chương tiếp theo: Chương 2: Kiêu hãnh và Phát hiện ▶](02_pride_and_detection.md)

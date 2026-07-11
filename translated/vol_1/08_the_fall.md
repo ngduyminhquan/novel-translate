@@ -649,3 +649,7 @@ Tôi không thể để nó kết thúc ở một nơi như thế này được.
 Tôi không muốn chết.
 
 Và thế là, tôi bắt đầu lập kế hoạch.
+
+---
+
+[◀ Chương trước: Chương Phụ: Lời độc thoại của mạo hiểm giả](interlude_an_adventurers_soliloquy.md) | [Chương tiếp theo: Chương Phụ: Sự rút lui của mạo hiểm giả ▶](interlude_an_adventurers_withdrawal.md)

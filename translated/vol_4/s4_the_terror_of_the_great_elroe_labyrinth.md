@@ -685,3 +685,7 @@ Chúng cứ bám lấy tâm trí tôi, lặp đi lặp lại không ngừng.
 --- PAGE BREAK ---
 
 ![Minh họa](../../source/images/vol_4/s4_illustration_02.jpg)
+
+---
+
+[◀ Chương trước: Chương 4: Chạm Trán Tử Thần](04_a_brush_with_death.md) | [Chương tiếp theo: Chương 5: Tiến hóa ▶](05_evolution.md)

@@ -245,3 +245,7 @@ Ngay cả khi bóng dáng bà ấy đã khuất dạng, tôi vẫn đứng đự
 `<Độ thông thạo đã đạt đến mức yêu cầu. Kỹ năng [Kháng Sợ Hãi LV 7] đã trở thành [Kháng Sợ Hãi LV 8].>`
 
 `<Độ thông thạo đã đạt đến mức yêu cầu. Kỹ năng [Ẩn Mật LV 8] đã trở thành [Ẩn Mật LV 9].>`
+
+---
+
+[◀ Chương trước: Đoạn phụ: Cô giáo và Đệ tam Hoàng tử](interlude_the_teacher_and_the_third_prince.md) | [Chương tiếp theo: Chương S2: Điềm Báo ▶](s2_omen.md)

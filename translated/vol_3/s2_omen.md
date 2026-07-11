@@ -259,3 +259,7 @@ Vận động cơ thể không ngừng nghỉ để giữ cho đầu óc không 
 Đó là tất cả những gì tôi có thể làm lúc này.
 
 Tôi tiếp tục đẩy cơ thể vượt qua các giới hạn của mình cho đến khi tâm trí hoàn toàn trống rỗng.
+
+---
+
+[◀ Chương trước: Chương 2: Đỉnh Cao Mê Cung, Tôi Gọi Đó Là Mẹ](02_labyrinths_zenith_i_call_thee_mother.md) | [Chương tiếp theo: Chương 3: Nhện đối mặt Hỏa Long ▶](03_spider_vs_fire_dragon.md)

@@ -483,3 +483,7 @@ Phương án cuối cùng là tôi có thể gọi cô ấy bằng kỹ năng [T
 Cô ấy đã trấn an tôi rằng mọi chuyện sẽ ổn thôi nên tôi đã tin cô ấy, nhưng thực sự... tôi không ngờ đây lại là giải pháp mà cô ấy nghĩ tới.
 
 Dù sao thì, giờ đây tất cả chúng tôi đều có thể tự do tiến vào mê cung rồi.
+
+---
+
+[◀ Chương trước: Chương 1: Bầu Trời Xanh Bao La](01_clear_blue_sky.md) | [Chương tiếp theo: Đoạn phụ: Lời thở dài của trợ lý Ma Vương tại cuộc họp một lần nữa ▶](interlude_the_demon_lords_aide_sighs_at_a_meeting_again.md)

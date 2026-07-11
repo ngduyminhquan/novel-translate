@@ -261,3 +261,5 @@ Chút linh hồn nam tính còn sót lại của tôi có lẽ đã tan biến h
 Kể từ giây phút này, Ooshima Kanata đã thực sự trở thành Karnatia Seri Anabald.
 
 ---
+
+[◀ Chương trước: Chương 5: Lần đầu chạm trán một Quản trị viên](05_first_encounter_with_an_administrator.md) | [Chương tiếp theo: Chương 6: Vượt qua Tầng Trung ▶](06_middle_stratum_cleared.md)

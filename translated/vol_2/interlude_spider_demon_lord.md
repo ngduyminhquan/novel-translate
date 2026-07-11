@@ -31,3 +31,7 @@ Bạch vẫn giữ im lặng, không đưa ra bất kỳ phản hồi nào.
 “A, ta rất muốn được nhìn thấy vẻ mặt của Yamada khi nhận được món quà này đây...”
 
 Hình dung ra cảnh tượng đó, một nụ cười hiểm độc lan rộng trên khuôn mặt của Ma Vương Nhện.
+
+---
+
+[◀ Chương trước: Chương S7: Âm Thanh Báo Hiệu Sự Diệt Vong](s7_the_voice_that_announces_ruination.md) | [Chương tiếp theo: Chương kết: Thượng đế yêu thương loài Nhện ▶](final_act_god_loves_spiders.md)

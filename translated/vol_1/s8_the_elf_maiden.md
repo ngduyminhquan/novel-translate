@@ -235,3 +235,7 @@ Lớp học của chúng tôi có tất cả hai mươi lăm học sinh.
 Nhưng nói một cách khác, điều đó có nghĩa là chỉ còn lại sáu học sinh chưa được tìm thấy mà thôi.
 
 Trong một thế giới rộng lớn như thế này, việc tìm kiếm được từng đó người chắc chắn không phải là một kỳ tích nhỏ bé chút nào.
+
+---
+
+[◀ Chương trước: Chương 11: Vẫn đang chinh phục tầng dưới](11_still_clearing_the_lower_stratum.md) | [Chương tiếp theo: Chương 12: Trận chiến ở độ cao ba trăm feet ▶](12_battling_three_hundred_feet_up.md)

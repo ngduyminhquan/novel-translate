@@ -321,3 +321,7 @@ Xem xét việc lươn và cá trê ở Tầng Trung ngon lành thế nào, tôi
 Thôi, chẳng ích gì khi cứ lảng vảng mãi ở đây.
 
 Đi thôi nào!
+
+---
+
+[Chương tiếp theo: Chương S1: Hướng Về Mê Cung Lớn Elroe ▶](s1_to_the_great_elroe_labyrinth.md)

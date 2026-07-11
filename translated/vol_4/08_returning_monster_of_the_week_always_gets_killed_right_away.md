@@ -329,3 +329,7 @@ Thế mà tôi vẫn đang ở đây, tương đối an toàn.
 Nên tôi đoán việc cứ tiếp tục trôi nổi bồng bềnh trên biển thế này lại là an toàn nhất.
 
 Đúng vậy. Cho đến khi cơ thể hồi phục hẳn, tôi sẽ chỉ giả làm một cọng rong biển ngây thơ vô tội trôi sông lạc chợ mà thôi.
+
+---
+
+[◀ Chương trước: Chương S7: Những người tái sinh](s7_reincarnations.md) | [Chương tiếp theo: Chương S8: Làng Elf ▶](s8_the_elf_village.md)

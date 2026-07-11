@@ -97,3 +97,7 @@ Và kẻ đang thao túng hắn từ trong bóng tối.
 Giờ thì, ta nên hành động thế nào giữa tất cả những chuyện này đây?
 
 Có lẽ ta nên nghe theo lời cảnh báo của con bé đó và tiếp tục ẩn mình thêm một thời gian nữa vậy.
+
+---
+
+[◀ Chương trước: Chương S7: Trận chiến tại thủ đô](s7_battle_in_the_capital.md) | [Chương tiếp theo: Chương 8: Địa Long ở Tầng Dưới ▶](08_the_earth_dragons_of_the_lower_stratum.md)

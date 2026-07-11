@@ -137,3 +137,7 @@ Vẻ ngoài đen bóng của nó gợi nhắc tôi về cảnh đêm đó, nên 
 “Rất vui được gặp em, Fei.”
 
 Khi tôi gọi tên nó, Fei đáp lại bằng một tiếng kêu nhỏ vui vẻ.
+
+---
+
+[◀ Chương trước: Chương 4: Rời tổ](04_leaving_the_nest.md) | [Chương tiếp theo: Chương 5: Trận chiến thực tế đầu tiên ▶](05_my_first_monster_battle.md)

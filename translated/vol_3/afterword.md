@@ -69,3 +69,7 @@ Gửi tới biên tập viên K của tôi, và tất cả những người khá
 Và gửi tới tất cả các bạn, những người đã đón đọc cuốn sách này.
 
 Xin chân thành cảm ơn các bạn rất nhiều.
+
+---
+
+[◀ Chương trước: Chương cuối: Tôi ra ngoài đây!](final_chapter_im_going_outside.md)

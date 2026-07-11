@@ -66,3 +66,6 @@
 
 Có vẻ mình chỉ đang đổ trách nhiệm lên đầu người khác, nhưng thế thì sao chứ? Dù gì thì đây cũng là chuyện giữa hai anh em bọn họ. Mình không muốn bị kéo vào rắc rối chẳng liên quan gì đến mình đâu. Phải rồi, đây không phải việc của mình. Không hề... Có lẽ ngày mai mình nên nói trước với Shun một tiếng đề phòng.
 
+---
+
+[◀ Chương trước: Chương S2: Tiết học ma pháp](s2_magic_lesson.md) | [Chương tiếp theo: Chương 5: Nhện đối đầu Hỏa Phi Long ▶](05_spider_vs_fire_wyrm.md)

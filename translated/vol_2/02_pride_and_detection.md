@@ -827,3 +827,7 @@ Phù. Nóng thật sự luôn đấy.
 Vẫn chưa có kỹ năng nào của tôi được tăng cấp cả. Tôi đoán mình cứ thong thả từ từ thôi.
 
 Dù sao thì, cũng đâu có ai đang truy đuổi tôi hay gì đâu.
+
+---
+
+[◀ Chương trước: Chương J1: Nhóm Anh hùng](j1_hero_party.md) | [Chương tiếp theo: Chương S1: Học viện ▶](s1_academy.md)

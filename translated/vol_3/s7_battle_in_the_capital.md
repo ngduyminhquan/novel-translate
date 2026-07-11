@@ -431,3 +431,7 @@ Nhưng chúng tôi vẫn phải đi tiếp.
 ### --- TRANG 148 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_148_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương 7: Cuộc Chạm Trán Với Con Người](07_encounter_with_humans.md) | [Chương tiếp theo: Đoạn phụ: Lão pháp sư và Kẻ thống trị ▶](interlude_the_elderly_mage_and_the_ruler.md)

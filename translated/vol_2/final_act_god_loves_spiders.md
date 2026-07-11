@@ -31,3 +31,7 @@ Cô nhóc sẽ tương tác với thế giới này thế nào?
 Cô nhóc sẽ thay đổi nó ra sao?
 
 Tôi thực sự rất mong đợi được biết đấy.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Ma Vương Nhện](interlude_spider_demon_lord.md) | [Chương tiếp theo: Lời bạt của tác giả ▶](afterword.md)

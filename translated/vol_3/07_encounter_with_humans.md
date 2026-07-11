@@ -716,3 +716,7 @@ Có vẻ như mục tiêu tối thượng của tôi đã vượt qua cả Arach
 ### --- TRANG 139 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_139_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương S6: Ẩn náu](s6_hiding.md) | [Chương tiếp theo: Chương S7: Trận chiến tại thủ đô ▶](s7_battle_in_the_capital.md)

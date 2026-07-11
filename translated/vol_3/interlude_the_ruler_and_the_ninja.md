@@ -65,3 +65,7 @@
 “Nếu điều đó khiến cô tức giận, có lẽ cô nên kiềm chế những hành động đi ngược lại ý muốn của Chủ nhân.”
 
 “Được rồi, tôi biết rồi mà.”
+
+---
+
+[◀ Chương trước: Chương S5: Đào Tẩu](s5_escape.md) | [Chương tiếp theo: Chương đặc biệt: Quân đoàn điều tra thảm họa Mê cung Lớn Elroe ▶](special_chapter_the_great_elroe_labyrinth_disaster_investigation.md)

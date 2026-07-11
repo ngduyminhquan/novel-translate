@@ -217,3 +217,7 @@ Nhưng danh hiệu kia vẫn lạnh lùng phơi bày sự thật hiển nhiên.
 Vào ngày hôm nay, một anh hùng đã ngã xuống…
 
 …và một anh hùng mới đã được sinh ra.
+
+---
+
+[◀ Chương trước: Chương J3: Và thế là chiến tranh bắt đầu](j3_and_so_the_war_began.md) | [Chương tiếp theo: Đoạn phụ: Ma Vương Nhện ▶](interlude_spider_demon_lord.md)

@@ -351,3 +351,7 @@ Và trên hết, tôi biết mình không bao giờ có thể tha thứ cho cô 
 “Được rồi, anh phải đi đây. Chúc em ngủ ngon.”
 
 “Vâng. Tạm biệt hoàng huynh.”
+
+---
+
+[◀ Chương trước: Chương 3: Nhện đối mặt Hỏa Long](03_spider_vs_fire_dragon.md) | [Chương tiếp theo: Đoạn phụ: Sư phụ của Anh hùng ▶](interlude_the_heros_master.md)

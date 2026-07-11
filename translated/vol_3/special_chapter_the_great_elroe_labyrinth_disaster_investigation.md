@@ -403,3 +403,7 @@ Người hiệp sĩ nói rằng nó khác biệt so với bất kỳ con Zoa Ele
 Dù sao đi nữa, không còn gì khác chúng tôi có thể làm ở đây.
 
 Chúng tôi thoát khỏi mê cung ngay sau đó.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Kẻ thống trị và Ninja](interlude_the_ruler_and_the_ninja.md) | [Chương tiếp theo: Chương S6: Ẩn náu ▶](s6_hiding.md)

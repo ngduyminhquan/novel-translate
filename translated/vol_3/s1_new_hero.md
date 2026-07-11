@@ -223,3 +223,7 @@ Phụ hoàng và anh Leston nhìn theo tôi đầy lo lắng. Ánh mắt của a
 Tôi khép cánh cửa phòng lại sau lưng để ngăn đi những ánh mắt đó.
 
 Cảm giác như tôi có thể ngã quỵ ngay tại chỗ, nhưng tôi vẫn cố gắng gượng bước tiếp về phía trước.
+
+---
+
+[◀ Chương trước: Chương 1: Tôi sẽ đi tìm thế giới bên ngoài!](01_going_to_find_the_outside.md) | [Chương tiếp theo: Đoạn phụ: Cô giáo và Đệ tam Hoàng tử ▶](interlude_the_teacher_and_the_third_prince.md)

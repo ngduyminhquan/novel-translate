@@ -853,3 +853,7 @@ Tôi dám cá là tên khốn đó đang cười thầm phấn khích.
 ---
 
 ### --- TRANG 66 ---
+
+---
+
+[◀ Chương trước: Chương S4: Nỗi kinh hoàng của Mê cung Lớn Elroe](s4_the_terror_of_the_great_elroe_labyrinth.md) | [Chương tiếp theo: Chương S5: Thoát khỏi Mê cung Lớn Elroe ▶](s5_escape_from_the_great_elroe_labyrinth.md)

@@ -581,3 +581,7 @@ MP của tôi đã bị giảm xuống rồi. Nên rốt cuộc nó không phả
 Khi cấp độ kỹ năng tăng lên, các loại độc tố tôi có thể chế tạo có lẽ sẽ tăng lên hoặc gì đó, nhưng vì tôi đã có sẵn Độc Nhện siêu mạnh của riêng mình rồi, nên... tôi không thực sự hứng thú lắm với năng lực này.
 
 Nhưng biết đâu tôi sẽ tìm ra cách sử dụng nó vào một lúc nào đó thì sao. Ít nhất thì nó vẫn tốt hơn các kỹ năng ma pháp không thể sử dụng kia đúng không?
+
+---
+
+[◀ Chương trước: Chương S6: Luyện tập](s6_training.md) | [Chương tiếp theo: Chương S7: Nhị hoàng tử ▶](s7_the_second_prince.md)

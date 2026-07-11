@@ -27,3 +27,7 @@ Gửi tới Tsukasa Kiryu, người phụ trách minh họa cho bộ tiểu thuy
 Gửi tới Asahiro Kakashi, tác giả chuyển thể manga, cảm ơn vì đã là người duy nhất trên đời có thể mang lại cho một con nhện nhiều biểu cảm phong phú đến thế.
 
 Cuối cùng, xin cảm ơn biên tập viên K của tôi, tất cả những người tham gia vào quá trình sản xuất cuốn sách này, và tất cả các độc giả đã đón nhận nó.
+
+---
+
+[◀ Chương trước: Chương kết: Thượng đế yêu thương loài Nhện](final_act_god_loves_spiders.md)

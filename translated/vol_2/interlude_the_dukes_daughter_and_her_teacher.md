@@ -127,3 +127,7 @@
 “Hình phạt của Thầâần đâyyy!”
 
 “Hả? Ui da!”
+
+---
+
+[◀ Chương trước: Chương S1: Học viện](s1_academy.md) | [Chương tiếp theo: Chương 3: Hành trình vượt Tầng Trung, bắt đầu! ▶](03_middle_stratum_play_through_start.md)

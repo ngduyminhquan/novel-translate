@@ -915,3 +915,7 @@ Nhưng đừng lo—tôi sẽ không bao giờ lơ là cảnh giác một lần 
 ### --- TRANG 122 ---
 
 ![Hoa văn](../../source/images/vol_4/11_illustration_08.jpg)
+
+---
+
+[◀ Chương trước: Đoạn phụ: Đồng minh tái sinh của các quản trị viên](interlude_the_administrators_reincarnation_allies.md) | [Chương tiếp theo: Đoạn phụ: Ma Vương ▶](interlude_demon_lord.md)

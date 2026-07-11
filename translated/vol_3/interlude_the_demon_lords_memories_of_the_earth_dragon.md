@@ -83,3 +83,7 @@ Một lần nữa, tôi lại thấy hiếu kỳ, nhưng tốt nhất là không
 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_249_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương 11: Nhện đấu với Địa Long Alaba](11_spider_vs_earth_dragon_araba.md) | [Chương tiếp theo: Chương cuối: Tôi ra ngoài đây! ▶](final_chapter_im_going_outside.md)

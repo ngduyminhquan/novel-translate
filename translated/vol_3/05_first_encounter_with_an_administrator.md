@@ -371,3 +371,7 @@ Chiếc điện thoại thông minh biến mất.
 Không để lại bất kỳ một dấu vết biến dạng không gian nào dù là nhỏ nhất.
 
 Đó là lần đầu tiên tôi chạm trán với Quản trị viên D và vị Quản trị viên tên Hắc.
+
+---
+
+[◀ Chương trước: Chương S4: Sụp Đổ](s4_fall.md) | [Chương tiếp theo: Chương phụ K1: Sự cố chấp cuối cùng của một người đàn ông ▶](k1_a_mans_final_stubbornness.md)

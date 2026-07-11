@@ -433,3 +433,7 @@ Sau trận chiến, chúng tôi có thể rời khỏi Mê cung Lớn Elroe mà 
 “Quan trọng hơn, điều thực sự khiến ta vui lòng là nếu ngươi chịu đẩy nhanh tiến độ công việc của mình đấy, biết chưa?”
 
 “Tuân lệnh ngài, thưa Ma Vương đại nhân.”
+
+---
+
+[◀ Chương trước: Chương 3: Hành trình vượt Tầng Trung, bắt đầu!](03_middle_stratum_play_through_start.md) | [Chương tiếp theo: Chương 4: Phi long? Không phải cá sao? ▶](04_wyrm_not_fish.md)

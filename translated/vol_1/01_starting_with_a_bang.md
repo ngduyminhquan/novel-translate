@@ -491,3 +491,7 @@ Nếu có con người nào phát hiện ra tôi, họ chắc chắn sẽ đồ 
 ### --- TRANG 20 ---
 
 ![Minh họa: Kumoko phát hiện xác nhện bị xẻ thịt bên dấu chân người](../../source/images/vol_1/ch01_illustration_02.jpg)
+
+---
+
+[Chương tiếp theo: Chương S1: Kết thúc của cuộc sống thường nhật ▶](s1_the_end_of_normal_life.md)

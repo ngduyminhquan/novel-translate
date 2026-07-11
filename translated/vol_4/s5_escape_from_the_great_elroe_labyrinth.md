@@ -229,3 +229,7 @@ Cuối cùng, chúng tôi đã ra được bên ngoài.
 Sau bao nhiêu ngày ròng rã, ánh nắng mặt trời chói chang đến mức tôi phải nheo mắt lại.
 
 Chúng tôi đã thành công thoát khỏi Mê cung Lớn Elroe.
+
+---
+
+[◀ Chương trước: Chương 5: Tiến hóa](05_evolution.md) | [Chương tiếp theo: Chương 6: Chiến tranh du kích ▶](06_guerrilla_warfare.md)

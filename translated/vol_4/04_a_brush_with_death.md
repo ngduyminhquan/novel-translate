@@ -491,3 +491,7 @@ Thay vào đó, nó phải hứng chịu toàn bộ cơn thịnh nộ của tôi
 ### --- TRANG 45 ---
 
 Vài phút sau, cái xác cháy đen của con Thượng cổ rơi tõm xuống dòng dung nham, bị đánh bại bởi cư dân Tầng Trên (tức là tôi).
+
+---
+
+[◀ Chương trước: Chương S3: Vượt qua Mê cung Lớn Elroe](s3_navigating_the_great_elroe_labyrinth.md) | [Chương tiếp theo: Chương S4: Nỗi kinh hoàng của Mê cung Lớn Elroe ▶](s4_the_terror_of_the_great_elroe_labyrinth.md)

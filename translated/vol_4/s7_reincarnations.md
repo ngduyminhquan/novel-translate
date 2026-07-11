@@ -487,3 +487,7 @@ Phản ứng duy nhất tôi có thể đưa ra trước lời cảnh báo của
 --- PAGE BREAK ---
 
 ![Minh họa](../../source/images/vol_4/s7_illustration_02.jpg)
+
+---
+
+[◀ Chương trước: Chương 7: Ma Vương tấn công](07_demon_lord_attack.md) | [Chương tiếp theo: Chương 8: Quái vật của tuần vừa hồi sinh là bị diệt ngay lập tức ▶](08_returning_monster_of_the_week_always_gets_killed_right_away.md)

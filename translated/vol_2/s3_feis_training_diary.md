@@ -152,3 +152,6 @@ Hoặc giả, nếu có một con quái vật khác sở hữu trí tuệ của 
 
 Thôi, lo nghĩ về một giả thuyết không tưởng như thế cũng chẳng để làm gì. Tôi nghi ngờ việc có tồn tại một trường hợp ngoại lệ đặc biệt thứ hai giống như Fei trên đời này.
 
+---
+
+[◀ Chương trước: Chương 5: Nhện đối đầu Hỏa Phi Long](05_spider_vs_fire_wyrm.md) | [Chương tiếp theo: Đoạn phụ: Con gái Công tước và Địa Phi Long ▶](interlude_the_dukes_daughter_and_the_earth_wyrm.md)

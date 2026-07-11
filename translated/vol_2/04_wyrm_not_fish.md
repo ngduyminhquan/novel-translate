@@ -874,3 +874,6 @@ Tôi không thể chờ đợi thêm để được thưởng thức nó nữa r
 
 ![Minh họa: Nhện vui sướng bên món ăn ngon đầu tiên (Trang phải)](../../source/images/vol_2/page_99_img_18.jpg)
 
+---
+
+[◀ Chương trước: Chương J2: Tàn tích của Cơn Ác Mộng](j2_the_nightmares_vestige.md) | [Chương tiếp theo: Chương S2: Tiết học ma pháp ▶](s2_magic_lesson.md)

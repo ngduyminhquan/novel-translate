@@ -35,3 +35,7 @@
 “Được rồi. Vậy chúng ta sẽ cố gắng hết sức.”
 
 “Được, tôi trông cậy cả vào cô.”
+
+---
+
+[◀ Chương trước: Chương S1: Tân Anh hùng](s1_new_hero.md) | [Chương tiếp theo: Chương 2: Đỉnh Cao Mê Cung, Tôi Gọi Đó Là Mẹ ▶](02_labyrinths_zenith_i_call_thee_mother.md)

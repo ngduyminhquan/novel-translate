@@ -29,3 +29,7 @@ Dưới danh nghĩa Anh hùng, tôi đã được yêu cầu đến để tiêu 
 “Được rồi. Chúng ta xuất phát chứ?”
 
 Với một cái vẫy tay ra hiệu cho Goyef và các đồng đội của mình, tôi bước qua lối vào tiến vào Mê cung Lớn Elroe bao la rộng lớn.
+
+---
+
+[◀ Chương trước: Chương 12: Trận chiến ở độ cao ba trăm feet](12_battling_three_hundred_feet_up.md) | [Chương tiếp theo: Lời bạt ▶](afterword.md)

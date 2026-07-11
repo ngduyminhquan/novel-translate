@@ -465,3 +465,7 @@ Sinh vật tôi phải vượt qua.
 Cội nguồn của nỗi chấn thương tâm lý trong tôi.
 
 Địa Long Alaba.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Lão pháp sư và Kẻ thống trị](interlude_the_elderly_mage_and_the_ruler.md) | [Chương tiếp theo: Chương S8: Từ Bi ▶](s8_mercy.md)

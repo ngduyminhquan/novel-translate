@@ -31,3 +31,7 @@
 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_169_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương S8: Từ Bi](s8_mercy.md) | [Chương tiếp theo: Chương 9: Nhện đấu với Nhện ▶](09_spider_vs_spider.md)

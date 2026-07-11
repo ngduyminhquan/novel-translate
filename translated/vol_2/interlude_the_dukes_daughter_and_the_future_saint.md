@@ -90,3 +90,6 @@
 
 *Shun không muốn mình thay đổi... Cậu ấy đúng là đòi hỏi quá đáng mà. Làm sao mình có thể giữ nguyên như cũ trong hoàn cảnh thế này chứ? ...Lại còn Yuri bảo mình rất nữ tính nữa... Không biết liệu Shun có xem mình là phụ nữ không nhỉ. Hả? Khoan đã, mình đang nói cái gì thế này? Chuyện đó đâu có ý nghĩa gì đâu... Đúng không?*
 
+---
+
+[◀ Chương trước: Chương S4: Cuộc sống học đường](s4_school_life.md) | [Chương tiếp theo: Chương 7: Bóng tối của Quản trị viên ▶](07_the_administrators_shadow.md)

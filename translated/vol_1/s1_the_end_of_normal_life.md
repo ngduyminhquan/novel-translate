@@ -157,3 +157,7 @@ Ngay cả khi tôi có thể hành động, chuyện đó có lẽ cũng chẳng
 Vết nứt toác rộng ra. Cùng lúc đó, tôi cảm nhận được một cơn đau dữ dội, kinh hoàng.
 
 Và rồi tôi—không, chúng tôi—đã chết.
+
+---
+
+[◀ Chương trước: Chương 1: Bắt đầu bằng một tiếng nổ lớn](01_starting_with_a_bang.md) | [Chương tiếp theo: Chương 2: Căn nhà miễn phí ▶](02_a_rent_free_home.md)

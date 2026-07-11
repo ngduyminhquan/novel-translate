@@ -219,3 +219,7 @@ Thế nhưng, việc bị người phụ nữ này chỉ ra điều đó lại c
 "Dĩ nhiên rồi."
 
 Thật tình, cô ta đúng là một kẻ đáng ghét phiền phức.
+
+---
+
+[◀ Chương trước: Chương S6: Những bí mật đen tối của dị giới](s6_the_dark_secrets_of_the_other_world.md) | [Chương tiếp theo: Chương 7: Ma Vương tấn công ▶](07_demon_lord_attack.md)

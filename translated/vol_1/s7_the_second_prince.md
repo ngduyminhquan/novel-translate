@@ -181,3 +181,7 @@ Nếu tôi có một ước mơ ở thế giới này, đó chính là có thể
 Hiện tại tôi thậm chí còn chưa thể đến gần, nhưng một ngày nào đó, chắc chắn tôi sẽ có thể hỗ trợ phía sau cho Julius trong trận chiến.
 
 Đó chính là mục tiêu lớn nhất của tôi.
+
+---
+
+[◀ Chương trước: Chương 10: Chinh phục tầng dưới](10_clearing_the_lower_stratum.md) | [Chương tiếp theo: Chương phụ: Anh hùng và nhà vua ▶](interlude_the_hero_and_the_king.md)

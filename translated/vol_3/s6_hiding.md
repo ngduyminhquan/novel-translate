@@ -507,3 +507,7 @@ Chúng tôi sẽ lao vào dù biết đó có thể là một cái bẫy, hay ch
 Câu trả lời đã quá rõ ràng rồi.
 
 “Đi thôi.”
+
+---
+
+[◀ Chương trước: Chương đặc biệt: Quân đoàn điều tra thảm họa Mê cung Lớn Elroe](special_chapter_the_great_elroe_labyrinth_disaster_investigation.md) | [Chương tiếp theo: Chương 7: Cuộc Chạm Trán Với Con Người ▶](07_encounter_with_humans.md)

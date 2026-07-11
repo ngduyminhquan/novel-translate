@@ -1276,3 +1276,7 @@ Anh hùng, ma vương, bất cứ ai hay bất cứ thứ gì, nhào vô đây h
 Một lần nữa, tôi dành một khoảnh khắc để đắm mình trong niềm vui chiến thắng.
 
 Tôi vẫn còn sốôôông!
+
+---
+
+[◀ Chương trước: Chương S8: Thiếu nữ Elf](s8_the_elf_maiden.md) | [Chương tiếp theo: Chương 13: Kết thúc ▶](13_the_end.md)

@@ -33,3 +33,7 @@ Gửi tới Kadokawa vì đã chọn một câu chuyện không mấy hấp dẫ
 Tôi chắc chắn mình sẽ tiếp tục mắc nợ các bạn trong tương lai, nên xin cảm ơn các bạn trước một lần nữa nhé.
 
 Cuộc phiêu lưu của tôi mới chỉ bắt đầu mà thôi!
+
+---
+
+[◀ Chương trước: Chương 13: Kết thúc](13_the_end.md)

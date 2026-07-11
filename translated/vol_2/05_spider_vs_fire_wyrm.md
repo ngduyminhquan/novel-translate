@@ -735,3 +735,6 @@ Tôi làm được rồi! Người chiến thắng chính là tôi! Ha ha ha!
 
 ![Minh họa: Nhện ăn mừng chiến thắng oanh liệt trước Hỏa Phi Long](../../source/images/vol_2/page_122_img_22.jpg)
 
+---
+
+[◀ Chương trước: Đoạn phụ: Con gái Công tước và Em gái Hoàng tử](interlude_the_dukes_daughter_and_the_princes_sister.md) | [Chương tiếp theo: Chương S3: Nhật ký rèn luyện của Fei ▶](s3_feis_training_diary.md)

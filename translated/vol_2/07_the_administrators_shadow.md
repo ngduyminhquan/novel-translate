@@ -1015,3 +1015,7 @@ Và nếu vậy, chẳng phải điều đó biến tôi thành một nhân vậ
 Nghe họ cứ như là những vị thần vậy.
 Giờ tôi phải làm gì đây, sau khi đã biết tất cả những chuyện này?
 Tôi phải làm gì đây?
+
+---
+
+[◀ Chương trước: Đoạn phụ: Con gái Công tước và Thánh nữ tương lai](interlude_the_dukes_daughter_and_the_future_saint.md) | [Chương tiếp theo: Chương S5: Lớp học thống trị ▶](s5_ruling_class.md)

@@ -337,3 +337,7 @@ Tất cả những gì tôi biết là ông ta trông cực kỳ khả nghi.
 Có lẽ đó là lý do tại sao tôi không thể không nghi ngờ đề xuất tiếp theo của Potimas.
 
 “Ngoài ra, ta tin rằng các người cũng muốn gặp những người tái sinh khác đúng không? Giờ đã muộn rồi. Ta sẽ sắp xếp để các người gặp họ vào ngày mai.”
+
+---
+
+[◀ Chương trước: Chương 8: Quái vật của tuần vừa hồi sinh là bị diệt ngay lập tức](08_returning_monster_of_the_week_always_gets_killed_right_away.md) | [Chương tiếp theo: Chương 9: Nhện nước ▶](09_water_spider.md)

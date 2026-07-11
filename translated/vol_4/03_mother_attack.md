@@ -413,3 +413,7 @@ Khu vực này là một kiểu điểm trung chuyển giữa Tầng Trung và T
 Tôi dịch chuyển đến đây vì tôi từng dựng một cái tổ ở đây.
 
 Và giờ đây, đó là nơi mà một quân đoàn nhện khổng lồ đang nằm phục kích sẵn để chờ tôi.
+
+---
+
+[◀ Chương trước: Chương S2: Bước Chân Vào Mê Cung Lớn Elroe](s2_entering_the_great_elroe_labyrinth.md) | [Chương tiếp theo: Chương S3: Vượt qua Mê cung Lớn Elroe ▶](s3_navigating_the_great_elroe_labyrinth.md)

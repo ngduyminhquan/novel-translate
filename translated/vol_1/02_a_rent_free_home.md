@@ -575,3 +575,7 @@ Thông tin đó khiến toàn bộ thử thách này trở nên hoàn toàn xứ
 Cảm ơn nhiều nhé, bạn ếch!
 
 Mặc dù tôi vẫn còn thù dai vụ phun axit đấy nhé.
+
+---
+
+[◀ Chương trước: Chương S1: Kết thúc của cuộc sống thường nhật](s1_the_end_of_normal_life.md) | [Chương tiếp theo: Chương S2: Tái sinh ▶](s2_reincarnation.md)

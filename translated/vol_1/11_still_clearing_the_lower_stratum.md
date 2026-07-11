@@ -863,3 +863,7 @@ Tôi đã có thể dựa vào các đòn đánh lén và những thứ tương 
 Quái vật ở Tầng dưới này quả thực rất đáng sợ mà. Con khỉ có lẽ là một trong những loài yếu hơn về mặt chỉ số ở đây rồi, vậy mà tôi vẫn chỉ thắng một cách sít sao.
 
 Được rồi, tôi đã ăn xong con khỉ rồi, đã đến lúc phải tiếp tục di chuyển thôi.
+
+---
+
+[◀ Chương trước: Chương phụ: Anh hùng và nhà vua](interlude_the_hero_and_the_king.md) | [Chương tiếp theo: Chương S8: Thiếu nữ Elf ▶](s8_the_elf_maiden.md)

@@ -19,3 +19,7 @@
 `<Độ thông thạo đã đạt đến mức yêu cầu. Nhận được kỹ năng [Thô Bạo LV 1].>`
 
 “Hãy chống mắt lên mà xem! Ta sẽ giành lại thế giới này cho chính mình!”
+
+---
+
+[◀ Chương trước: Chương S6: Địa Long tấn công](s6_earth_wyrm_attack.md) | [Chương tiếp theo: Đoạn phụ: Con gái Công tước và những người tái sinh ồn ào ▶](interlude_the_dukes_daughter_and_the_noisy_reincarnations.md)

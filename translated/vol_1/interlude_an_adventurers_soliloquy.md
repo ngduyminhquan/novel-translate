@@ -91,3 +91,7 @@ Nếu chúng tôi lần theo dấu vết này, chúng tôi sẽ tìm thấy bấ
 Sẽ rất nguy hiểm nếu để mặc cho thứ này đi lang thang tự do mà không có sự kiểm soát nào.
 
 Nếu nó đã tiến hóa, chúng tôi có thể không đánh bại được nó, nhưng trong trường hợp đó, chúng tôi sẽ chỉ việc chạy bán mạng và báo cáo thông tin này cho thế giới bên ngoài mà thôi.
+
+---
+
+[◀ Chương trước: Chương 7: Tôi tiến hóa!](07_im_evolving.md) | [Chương tiếp theo: Chương 8: Cú ngã ▶](08_the_fall.md)

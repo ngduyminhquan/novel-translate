@@ -785,3 +785,6 @@ Tôi bây giờ có phải là đã siêu cấp mạnh mẽ rồi không chứ h
 
 ### --- TRANG 146 ---
 
+---
+
+[◀ Chương trước: Đoạn phụ: Con gái Công tước và Địa Phi Long](interlude_the_dukes_daughter_and_the_earth_wyrm.md) | [Chương tiếp theo: Chương S4: Cuộc sống học đường ▶](s4_school_life.md)

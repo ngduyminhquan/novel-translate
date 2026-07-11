@@ -502,3 +502,7 @@ Một khi đã vượt qua những trở ngại đó, công cuộc chinh phục 
 ### --- TRANG 22 ---
 
 ![Minh họa: Nhện Kumoko đứng trên dốc đứng nhìn xuống Tầng Trung đầy dung nham rực lửa](../../source/images/vol_2/page_22_img_7.jpg)
+
+---
+
+[Chương tiếp theo: Chương J1: Nhóm Anh hùng ▶](j1_hero_party.md)

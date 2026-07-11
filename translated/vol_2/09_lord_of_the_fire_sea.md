@@ -920,3 +920,6 @@ Khi tôi đùa giỡn về việc trở thành một ma vương...
 
 ![Nhện tự xưng là Ma Vương](../../source/images/vol_2/page_242_img_81.jpg)
 
+---
+
+[◀ Chương trước: Đoạn phụ: Con gái Công tước và những người tái sinh ồn ào](interlude_the_dukes_daughter_and_the_noisy_reincarnations.md) | [Chương tiếp theo: Đoạn phụ: Lời thở dài của trợ lý Ma Vương tại cuộc họp ▶](interlude_the_demon_lords_aide_sighs_at_a_meeting.md)

@@ -531,3 +531,7 @@ Và dẫn đầu bọn họ...
 “Katia...”
 
 Người bạn thân nhất từ kiếp trước của tôi đang đứng chắn đường.
+
+---
+
+[◀ Chương trước: Chương 4: Kẻ diệt Rồng](04_dragon_slayer.md) | [Chương tiếp theo: Chương 5: Lần đầu chạm trán một Quản trị viên ▶](05_first_encounter_with_an_administrator.md)

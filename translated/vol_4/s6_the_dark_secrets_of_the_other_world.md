@@ -399,3 +399,7 @@ Cô Oka hít một hơi thật sâu rồi tiết lộ sự thật:
 --- PAGE BREAK ---
 
 ![Minh họa](../../source/images/vol_4/s6_illustration_02.jpg)
+
+---
+
+[◀ Chương trước: Chương 6: Chiến tranh du kích](06_guerrilla_warfare.md) | [Chương tiếp theo: Đoạn phụ: Chó săn của thần ▶](interlude_gods_hunting_dog.md)

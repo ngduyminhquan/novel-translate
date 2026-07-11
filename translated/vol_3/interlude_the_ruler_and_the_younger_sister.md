@@ -39,3 +39,7 @@
 ---
 
 ![Hình minh họa trang trí](../../source/images/vol_3/page_218_img_0.jpg)
+
+---
+
+[◀ Chương trước: Chương S9: Hướng Về Quê Hương Tộc Elf](s9_to_the_home_of_the_elves.md) | [Chương tiếp theo: Chương 11: Nhện đấu với Địa Long Alaba ▶](11_spider_vs_earth_dragon_araba.md)

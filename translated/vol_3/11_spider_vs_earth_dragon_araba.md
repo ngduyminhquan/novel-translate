@@ -1198,3 +1198,7 @@ Cơ thể của Alaba hóa thành cát bụi và biến mất, không một chú
 Giọng nói Thần thánh (tạm gọi) thông báo việc tôi lên cấp, nhưng nó vang lên một cách trống rỗng bên tai tôi.
 
 Cuối cùng tôi cũng đã chiến thắng đối thủ mà tôi rất khao khát đánh bại, nhưng nó lại để lại một dư vị thật tồi tệ.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Kẻ thống trị và em gái](interlude_the_ruler_and_the_younger_sister.md) | [Chương tiếp theo: Đoạn phụ: Hồi ức của Ma Vương về loài Địa Long ▶](interlude_the_demon_lords_memories_of_the_earth_dragon.md)

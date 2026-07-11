@@ -262,3 +262,6 @@ Thú thật, tôi nghĩ việc có Katia ở đây để giữ kết nối giữ
 
 Nên dĩ nhiên là tôi cũng không muốn Katia thay đổi chút nào rồi.
 
+---
+
+[◀ Chương trước: Chương 6: Zoa Ele](06_zoa_ele.md) | [Chương tiếp theo: Đoạn phụ: Con gái Công tước và Thánh nữ tương lai ▶](interlude_the_dukes_daughter_and_the_future_saint.md)

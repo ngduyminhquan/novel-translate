@@ -987,3 +987,7 @@ Tôi sử dụng Điều khiển Tơ để gạt tấm mạng nhện ra khỏi c
 Con Địa Long không còn ở xung quanh đây nữa rồi.
 
 Tôi được cứu rồi.
+
+---
+
+[◀ Chương trước: Chương Phụ: Sự rút lui của mạo hiểm giả](interlude_an_adventurers_withdrawal.md) | [Chương tiếp theo: Chương S6: Luyện tập ▶](s6_training.md)

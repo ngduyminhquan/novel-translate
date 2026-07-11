@@ -135,3 +135,7 @@ Làng Elf chắc chắn sẽ bị hủy diệt bất kể đám người tái si
 Cuối cùng thì ta cũng có thể giết được ngươi.
 
 Hãy đợi đấy, Potimas Harrifenas.
+
+---
+
+[◀ Chương trước: Chương 11: Sát mẫu](11_matricide.md) | [Chương tiếp theo: Đoạn phụ: Tộc trưởng tộc Elf ▶](interlude_chief_of_the_elves.md)

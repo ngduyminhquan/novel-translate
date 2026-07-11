@@ -120,3 +120,7 @@ Chúng tin rằng mình có thể cứu người khác, để rồi cuối cùng
 “Làm gián đoạn sự tập trung của ta trong lúc luyện tập ma lực vốn dĩ đã là một sự vô lễ rồi. Những đứa đệ tử ngốc nghếch không bao giờ nên chết trước sư phụ của mình.”
 
 Đứa đệ tử ngốc nghếch đang vác ta không hề đáp lại tiếng thì thầm đầy u sầu đó.
+
+---
+
+[◀ Chương trước: Chương S3: Julius](s3_julius.md) | [Chương tiếp theo: Chương 4: Kẻ diệt Rồng ▶](04_dragon_slayer.md)

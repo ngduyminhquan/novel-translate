@@ -47,6 +47,7 @@ graph TD
 
 ### QH-001: Shun ↔ Katia
 
+
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Bạn thân kiếp trước, bạn học kiếp này |
@@ -60,20 +61,21 @@ graph TD
 ---
 
 ### QH-002: Shun ↔ Sue
+: Shun ↔ Sue
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Anh em cùng cha khác mẹ (Sue bám Shun thái quá) |
 | **Shun gọi Sue** | Sue / Em gái |
-| **Sue gọi Shun** | Anh trai / Hoàng huynh (Nii-sama) |
-| **Shun xưng** | Anh |
+| **Sue gọi Shun** | Anh trai / Hoàng huynh (Nii-sama) / Anh |
+| **Shun xưng** | Anh / Tôi |
 | **Sue xưng** | Em |
-| **Trạng thái** | Shun yêu quý em gái; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere) |
-| **Ghi chú** | Sue luôn tỏ ra ghen tị với bất kỳ ai tiếp cận Shun |
+| **Trạng thái** | Shun yêu quý em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere), coi Shun là cả thế giới. |
+| **Ghi chú** | Sue luôn tỏ ra ghen tị với bất kỳ ai tiếp cận Shun và cố gắng tỏ ra ngoan ngoãn dịu dàng nhất trước mặt Shun. |
 
 ---
-
 ### QH-003: Shun ↔ Cô Oka
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -88,6 +90,7 @@ graph TD
 ---
 
 ### QH-004: Tôi (Nhện) ↔ Mẹ (Nhện khổng lồ)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -104,6 +107,7 @@ graph TD
 
 ### QH-005: Julius ↔ Hyrince
 
+
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Bạn thuở nhỏ, đồng đội chí cốt (Kỵ sĩ khiên bảo vệ Anh hùng) |
@@ -117,6 +121,7 @@ graph TD
 ---
 
 ### QH-006: Julius ↔ Yaana
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -132,6 +137,7 @@ graph TD
 
 ### QH-007: Julius ↔ Jeskan / Hawkin
 
+
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Thủ lĩnh và đồng đội lớn tuổi hơn |
@@ -145,6 +151,7 @@ graph TD
 ---
 
 ### QH-008: Shun ↔ Hugo (Natsume)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -160,6 +167,7 @@ graph TD
 
 ### QH-009: Shun ↔ Hasebe
 
+
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Bạn học cũ ngồi cạnh nhau kiếp trước, bạn học kiếp này |
@@ -174,6 +182,7 @@ graph TD
 
 ### QH-010: Ariel ↔ Balto
 
+
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Quân chủ và thuộc hạ cấp dưới trực tiếp |
@@ -186,21 +195,8 @@ graph TD
 
 ---
 
-### QH-011: Shun ↔ Sue
+### QH-011: Katia ↔ Sue
 
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Quan hệ** | Anh em cùng cha khác mẹ, tình cảm chiếm hữu cực kỳ mãnh liệt từ phía Sue |
-| **Shun gọi Sue** | Sue |
-| **Sue gọi Shun** | Hoàng huynh / Anh |
-| **Shun xưng** | Anh / Tôi |
-| **Sue xưng** | Em |
-| **Trạng thái** | Shun yêu thương em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue coi Shun là cả thế giới |
-| **Ghi chú** | Sue luôn cố gắng tỏ ra ngoan ngoãn dịu dàng nhất trước mặt Shun |
-
----
-
-### QH-012: Katia ↔ Sue
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -214,21 +210,22 @@ graph TD
 
 ---
 
-### QH-013: Shun ↔ Anna
+### QH-012: Shun ↔ Anna
+: Shun ↔ Anna
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Chủ nhân và hầu gái, cô trò (Anna dạy phép thuật cho Shun) |
-| **Shun gọi Anna** | Anna |
-| **Anna gọi Shun** | Điện hạ / Cậu chủ |
-| **Shun xưng** | Tôi / Em |
-| **Anna xưng** | Tôi |
-| **Trạng thái** | Shun kính trọng và tin cậy Anna; Anna cực kỳ trung thành và tận tụy |
-| **Ghi chú** | Anna chăm sóc Shun từ nhỏ nên hiểu rất rõ tính cách của cậu |
+| **Quan hệ** | Chủ tớ (Hầu gái kiêm hộ vệ và Cậu chủ/Điện hạ), cô trò (Anna dạy phép thuật cho Shun), tình mẫu tử (cha mẹ nuôi) |
+| **Shun gọi Anna** | Anna / Cô Anna |
+| **Anna gọi Shun** | Điện hạ Schlain / Cậu chủ / Điện hạ |
+| **Shun xưng** | Ta / Tôi / Em / Anh |
+| **Anna xưng** | Tôi / Em |
+| **Trạng thái** | Anna chăm sóc Shun từ nhỏ nên hiểu rất rõ tính cách của cậu, cô vô cùng trung thành, tận tụy và chu đáo. Sau khi được giải thoát khỏi thuật tẩy não cực đoan của Hugo nhờ ma pháp của Shun, cô lâm vào tình trạng trầm cảm, tự dằn vặt bản thân vì những lỗi lầm vô ý đã phạm phải và sợ làm vướng chân Shun. Shun rất quan tâm, lo lắng cho tình trạng tâm lý của cô và muốn tự mình trông nom, bảo vệ cô (như khi cô có dấu hiệu bị hội chứng sợ mê cung). Trong Tập 5, Fei nhận xét cô có tình mẫu tử sâu sắc và hành xử như một người mẹ nuôi/cha mẹ đỡ đầu đối với Shun, sẵn sàng hy sinh để bảo vệ cậu. |
+| **Ghi chú** | Anna là một bán Elf có quá khứ bị xua đuổi khỏi làng Elf, khiến chuyến hành trình trở lại làng Elf của cô ẩn chứa nhiều căng thẳng. |
 
 ---
+### QH-013: Fei ↔ Anna
 
-### QH-014: Fei ↔ Anna
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -242,7 +239,8 @@ graph TD
 
 ---
 
-### QH-015: Shun ↔ Yuri
+### QH-014: Shun ↔ Yuri
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -256,7 +254,8 @@ graph TD
 
 ---
 
-### QH-016: Katia ↔ Yuri
+### QH-015: Katia ↔ Yuri
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -270,7 +269,8 @@ graph TD
 
 ---
 
-### QH-017: Tôi (Nhện) ↔ Quản trị viên D
+### QH-016: Tôi (Nhện) ↔ Quản trị viên D
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -284,7 +284,8 @@ graph TD
 
 ---
 
-### QH-018: Shun ↔ Parton
+### QH-017: Shun ↔ Parton
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -298,7 +299,8 @@ graph TD
 
 ---
 
-### QH-019: Balto ↔ Bloe
+### QH-018: Balto ↔ Bloe
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -312,7 +314,8 @@ graph TD
 
 ---
 
-### QH-020: Ariel ↔ Bloe
+### QH-019: Ariel ↔ Bloe
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -328,7 +331,8 @@ graph TD
 
 ---
 
-### QH-021: Leston ↔ Cô Oka
+### QH-020: Leston ↔ Cô Oka
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -342,7 +346,8 @@ graph TD
 
 ---
 
-### QH-022: Shun ↔ Leston
+### QH-021: Shun ↔ Leston
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -356,7 +361,8 @@ graph TD
 
 ---
 
-### QH-023: Shun ↔ Cylis
+### QH-022: Shun ↔ Cylis
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -370,7 +376,8 @@ graph TD
 
 ---
 
-### QH-024: Shun ↔ Phụ hoàng (Vua Analeit)
+### QH-023: Shun ↔ Phụ hoàng (Vua Analeit)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -384,7 +391,8 @@ graph TD
 
 ---
 
-### QH-025: Shun ↔ Hyrince
+### QH-024: Shun ↔ Hyrince
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -398,7 +406,8 @@ graph TD
 
 ---
 
-### QH-026: Shun ↔ Fei
+### QH-025: Shun ↔ Fei
+: Shun ↔ Fei
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -406,12 +415,12 @@ graph TD
 | **Shun gọi Fei** | Fei |
 | **Fei gọi Shun** | Shun |
 | **Shun xưng** | Tôi / Tớ |
-| **Fei xưng** | Tôi / Tớ |
-| **Trạng thái** | Bạn bè bình đẳng bất chấp khế ước chủ tớ; Shun coi trọng Fei và lo lắng sâu sắc khi Fei đột ngột hóa thành quả trứng khổng lồ |
+| **Fei xưng** | Tôi / Tớ / Tớ (Watashi) |
+| **Trạng thái** | Bạn bè bình đẳng bất chấp khế ước chủ tớ, luôn đồng hành cùng nhau. Sau khi tiến hóa thành Quang Phi Long (Chương S5), Fei đã cứu thoát nhóm Shun khỏi vòng vây của Sophia và bọn ninja. Họ xưng hô thân mật "cậu" - "tớ" kiểu bạn học cũ. Shun coi trọng Fei và lo lắng sâu sắc khi Fei đột ngột hóa thành quả trứng khổng lồ. |
 
 ---
+### QH-026: Ronandt ↔ Aurel
 
-### QH-027: Ronandt ↔ Aurel
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -425,7 +434,8 @@ graph TD
 
 ---
 
-### QH-028: Ronandt ↔ Julius
+### QH-027: Ronandt ↔ Julius
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -439,7 +449,8 @@ graph TD
 
 ---
 
-### QH-029: Ronandt ↔ Tôi (Nhện)
+### QH-028: Ronandt ↔ Tôi (Nhện)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -453,23 +464,21 @@ graph TD
 
 ---
 
-### QH-030: Potimas ↔ Cô Oka (Filimõs)
+### QH-029: Potimas ↔ Cô Oka (Filimõs)
+: Cô Oka ↔ Potimas Harrifenas
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Cha con kiếp này (về mặt sinh học) |
-| **Potimas gọi Cô Oka** | Filimõs |
-| **Cô Oka gọi Potimas** | Cha / Ngài Potimas |
-| **Potimas xưng** | Ta |
+| **Quan hệ** | Con gái và Cha ruột (mâu thuẫn, lợi dụng, đề phòng sinh tử) |
+| **Cô Oka gọi Potimas** | Cha / Ngài Potimas (khi xa cách) |
+| **Potimas gọi Cô Oka** | Con / Filimõs |
 | **Cô Oka xưng** | Con / Tôi |
-| **Trạng thái** | Xa cách, thực dụng. Potimas xem cô Oka như một công cụ đắc lực để giám sát thế giới và những người tái sinh; cô Oka vừa muốn dựa vào tộc lực của Potimas để bảo vệ học sinh, vừa vô cùng đề phòng sự tàn nhẫn và âm mưu của cha mình. |
-| **Ghi chú** | Mối quan hệ chứa đựng nhiều toan tính chính trị đằng sau vẻ ngoài cha con tộc Elf. |
+| **Potimas xưng** | Ta |
+| **Trạng thái** | Xa cách, thực dụng và căng thẳng ngầm. Cô Oka tuy là con gái Potimas nhưng hiểu rất rõ bản chất tàn nhẫn của ông ta. Cô biết rằng nếu mình xóa kỹ năng bằng [Xóa Kỹ Năng] (đồng nghĩa với việc dâng nộp sức mạnh cho các quản trị viên, kẻ thù của tộc Elf), Potimas sẽ sẵn sàng thanh trừng cô mà không hề biến sắc. Cô Oka vừa phải lợi dụng quyền lực của cha để bảo hộ các học sinh, vừa phải giữ lại các kỹ năng của mình để tự vệ và tránh bị thanh trừng, đồng thời bảo vệ các học sinh khỏi việc bị tộc Elf lợi dụng hay vứt bỏ. |
 
 ---
+### QH-030: Hugo ↔ Cylis
 
----
-
-### QH-031: Hugo ↔ Cylis
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -482,7 +491,8 @@ graph TD
 
 ---
 
-### QH-032: Hugo ↔ Sue (bị tẩy não)
+### QH-031: Hugo ↔ Sue (bị tẩy não)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -493,20 +503,21 @@ graph TD
 
 ---
 
-### QH-033: Hugo ↔ Sophia
+### QH-032: Hugo ↔ Sophia
+: Hugo ↔ Sophia
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Đồng minh bảo vệ lẫn nhau (nhưng thực chất Sophia ở vị thế cao hơn) |
-| **Hugo gọi Sophia** | Sophia |
+| **Quan hệ** | Lợi dụng và Quân cờ / Đồng minh giả tạo |
+| **Hugo gọi Sophia** | Sophia / con khốn phản bội |
 | **Sophia gọi Hugo** | Cậu / Hugo |
 | **Hugo xưng** | Tao / Ta / Tôi |
 | **Sophia xưng** | Tôi |
-| **Trạng thái** | Sophia khinh thường thực lực của Hugo và giễu cợt cậu ta. Cô truyền đạt cảnh báo bị trừng phạt từ chủ nhân của cô (Ariel/White) vì Hugo đã động thủ với cô Oka. Cả hai cùng hướng tới chiến dịch tiêu diệt làng Elf, Hugo háo hức muốn chạm trán Shun và Katia kiếp trước, trong khi Sophia nhắc nhở cậu tập trung vào nhiệm vụ chính và không được chủ quan trước đối thủ. |
+| **Trạng thái** | Liên minh giả tạo và sự sụp đổ. Sophia khinh thường thực lực của Hugo và giễu cợt cậu ta. Cô truyền đạt cảnh báo từ chủ nhân (Ariel/White) vì Hugo đã động thủ với cô Oka. Trong Chương S4, khi Hugo thua trận và gầm lên bắt Sophia giết nhóm Shun, cô thản nhiên buông lời chế giễu và tuyên bố phe ma tộc đã vứt bỏ Hugo vì không còn giá trị lợi dụng. Hugo phẫn nộ nhận ra mình chỉ là một mồi nhử giúp quân ma tộc phát động cuộc xâm lăng bất ngờ vào làng Elf. |
 
 ---
+### QH-033: Hugo ↔ Anna (bị tẩy não)
 
-### QH-034: Hugo ↔ Anna (bị tẩy não)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -515,20 +526,21 @@ graph TD
 
 ---
 
-### QH-035: Tôi (Nhện) ↔ Gyuristodief (Quản trị viên Hắc)
+### QH-034: Tôi (Nhện) ↔ Gyuristodief (Quản trị viên Hắc)
+: Tôi (Nhện) ↔ Güliedistodiez (Güli-güli / Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Đối tượng theo dõi và Quản trị viên thế giới |
-| **Nhện gọi Hắc** | Quản trị viên Gyuristodief / Gã áo đen / Người đàn ông màu đen / Gã kia |
-| **Hắc gọi Nhện** | (Chưa trực tiếp giao tiếp thành công do bất đồng ngôn ngữ) |
-| **Nhện xưng** | Tôi (Watashi) / Ta (khi độc thoại) |
-| **Hắc xưng** | - |
-| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10] (Chương 7), Nhện nhận ra người đàn ông da ngăm đen này chính là Quản trị viên Gyuristodief. Nhện nhận thức được rằng Gyuristodief bảo vệ quy tắc thế giới và sẽ không cho phép cô tàn sát con người/quái vật vô tội vạ để cày cấp, và ông ta sẽ không để D ngăn cản mình lần nữa nếu cô đi quá giới hạn. |
+| **Quan hệ** | Đối tác thương lượng bất đắc dĩ / Thần linh và Người tái sinh |
+| **Tôi gọi Gülie** | Güli-güli / anh ta / hắn / Quản trị viên Gyuristodief / Gã áo đen |
+| **Gülie gọi Tôi** | Ngươi |
+| **Tôi xưng** | Tôi (trong độc thoại / thần giao cách cảm) / Ta (độc thoại) |
+| **Gülie xưng** | Ta |
+| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. |
 
 ---
+### QH-035: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
 
-### QH-036: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -541,20 +553,8 @@ graph TD
 
 ---
 
-### QH-037: Shun ↔ Fei
+### QH-036: Sophia ↔ Cô Oka
 
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Quan hệ** | Bạn học tái sinh, linh thú khế ước và chủ nhân |
-| **Shun gọi Fei** | Fei |
-| **Fei gọi Shun** | Shun |
-| **Shun xưng** | Tớ / Tôi |
-| **Fei xưng** | Tớ (Watashi) |
-| **Trạng thái** | Fei là linh thú khế ước của Shun, luôn đồng hành cùng cậu. Sau khi tiến hóa thành Quang Phi Long (Chương S5), Fei đã cứu thoát nhóm Shun khỏi vòng vây của Sophia và bọn ninja. Họ xưng hô thân mật "cậu" - "tớ" kiểu bạn học cũ. |
-
----
-
-### QH-038: Sophia ↔ Cô Oka
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -567,7 +567,8 @@ graph TD
 
 ---
 
-### QH-039: Sophia ↔ Ninja (Nhẫn giả)
+### QH-037: Sophia ↔ Ninja (Nhẫn giả)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -580,7 +581,8 @@ graph TD
 
 ---
 
-### QH-040: Shun ↔ Ronandt
+### QH-038: Shun ↔ Ronandt
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -592,7 +594,8 @@ graph TD
 | **Trạng thái** | Ronandt phục kích từ xa và thử thách nhóm Shun tại hoàng thành bằng các đòn phép uy lực lớn. Lão đánh giá nhóm "đủ điểm đỗ" và giả vờ rút lui thả cho đi vì tôn trọng tình nghĩa với Julius. Shun bàng hoàng trước sức mạnh ma pháp và không gian áp đảo của Ronandt nhưng thầm cảm kích vì được tha mạng, đồng thời hạ quyết tâm rèn luyện để vượt qua. |
 | **Ghi chú** | Cuộc chạm trán giúp Shun nhận ra khoảng cách thực lực to lớn giữa mình và các pháp sư hàng đầu thế giới. |
 
-### QH-041: Ronandt ↔ Sophia
+### QH-039: Ronandt ↔ Sophia
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -606,7 +609,8 @@ graph TD
 
 ---
 
-### QH-042: Tôi (Nhện) ↔ Địa Long Alaba
+### QH-040: Tôi (Nhện) ↔ Địa Long Alaba
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -619,7 +623,8 @@ graph TD
 
 ---
 
-### QH-043: Ariel ↔ Merazophis
+### QH-041: Ariel ↔ Merazophis
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -632,7 +637,8 @@ graph TD
 
 ---
 
-### QH-044: Sophia ↔ Merazophis
+### QH-042: Sophia ↔ Merazophis
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -641,9 +647,10 @@ graph TD
 | **Merazophis gọi Sophia** | Tiểu thư (Miss / Lady Sophia) |
 | **Sophia xưng** | Tôi |
 | **Merazophis xưng** | Tôi / Mera |
-| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi cả hai cùng tái sinh thành ma tộc ma cà rồng, mối quan hệ này càng thêm sâu sắc, vừa là chủ tớ trung nghĩa vừa là chỗ dựa tinh thần vô song trên thế giới mới đầy thù địch. |
+| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. |
 
-### QH-045: Buirimus ↔ Ronandt
+### QH-043: Buirimus ↔ Ronandt
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -656,7 +663,8 @@ graph TD
 
 ---
 
-### QH-046: Buirimus ↔ Tôi (Nhện)
+### QH-044: Buirimus ↔ Tôi (Nhện)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -667,21 +675,8 @@ graph TD
 
 ---
 
-### QH-047: Shun ↔ Anna
+### QH-045: Sophia ↔ Sue
 
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Quan hệ** | Chủ tớ (Hầu gái kiêm hộ vệ và Cậu chủ/Điện hạ) |
-| **Shun gọi Anna** | Anna / Cô Anna |
-| **Anna gọi Shun** | Điện hạ Schlain / Cậu chủ |
-| **Shun xưng** | Tôi / Anh |
-| **Anna xưng** | Tôi / Em |
-| **Trạng thái** | Anna là hầu gái trung thành kiêm hộ vệ cho Shun và Sue từ nhỏ. Sau khi được giải thoát khỏi thuật tẩy não cực đoan của Hugo nhờ ma pháp của Shun, cô lâm vào tình trạng trầm cảm, tự dằn vặt bản thân vì những lỗi lầm vô ý đã phạm phải và muốn đi theo đoàn để chuộc lỗi. Shun luôn lo lắng cho tình trạng tâm lý của cô và muốn tự mình trông nom cô. |
-| **Ghi chú** | Anna là một bán Elf có quá khứ bị xua đuổi khỏi làng Elf, khiến chuyến hành trình trở lại làng Elf của cô ẩn chứa nhiều căng thẳng. |
-
----
-
-### QH-048: Sophia ↔ Sue
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -695,7 +690,8 @@ graph TD
 
 ---
 
-### QH-049: Balto ↔ White (NV-001)
+### QH-046: Balto ↔ White (NV-001)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -708,7 +704,8 @@ graph TD
 
 ---
 
-### QH-050: Balto ↔ Gyuristodief (Black / NV-030)
+### QH-047: Balto ↔ Gyuristodief (Black / NV-030)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -721,7 +718,8 @@ graph TD
 
 ---
 
-### QH-051: Ariel ↔ White (NV-001)
+### QH-048: Ariel ↔ White (NV-001)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -734,7 +732,8 @@ graph TD
 
 ---
 
-### QH-052: Basgath ↔ Goyef
+### QH-049: Basgath ↔ Goyef
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -747,7 +746,8 @@ graph TD
 
 ---
 
-### QH-053: Basgath ↔ Shun và cả nhóm
+### QH-050: Basgath ↔ Shun và cả nhóm
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -760,7 +760,8 @@ graph TD
 
 ---
 
-### QH-054: Sanatoria ↔ Balto
+### QH-051: Sanatoria ↔ Balto
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -773,7 +774,8 @@ graph TD
 
 ---
 
-### QH-055: Sanatoria ↔ Kogou
+### QH-052: Sanatoria ↔ Kogou
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -786,7 +788,8 @@ graph TD
 
 ---
 
-### QH-056: Sanatoria ↔ Huey
+### QH-053: Sanatoria ↔ Huey
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -799,20 +802,8 @@ graph TD
 
 ---
 
-### QH-057: Shun ↔ Anna
+### QH-054: Tôi (Nhện) ↔ Taratect Rối (Puppet Taratect)
 
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Quan hệ** | Cậu chủ và hầu gái cận vệ |
-| **Shun gọi Anna** | Anna / cô Anna |
-| **Anna gọi Shun** | Điện hạ Schlain / Cậu chủ |
-| **Shun xưng** | Ta / Tôi |
-| **Anna xưng** | Tôi / Em |
-| **Trạng thái** | Anna vô cùng trung thành và tận tụy, luôn chịu áp lực tâm lý nặng nề vì sợ làm vướng chân Shun. Shun rất quan tâm, bảo vệ cô, chịu trách nhiệm trông nom khi cô có dấu hiệu bị hội chứng sợ mê cung trên đường đi. |
-
----
-
-### QH-058: Tôi (Nhện) ↔ Taratect Rối (Puppet Taratect)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -826,7 +817,8 @@ graph TD
 
 ---
 
-### QH-059: Shun và cả nhóm ↔ Địa Long Ekisa
+### QH-055: Shun và cả nhóm ↔ Địa Long Ekisa
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -839,7 +831,8 @@ graph TD
 
 ---
 
-### QH-060: Shun và cả nhóm ↔ Tàn tích của Cơn Ác Mộng (Nightmare's Vestige)
+### QH-056: Shun và cả nhóm ↔ Tàn tích của Cơn Ác Mộng (Nightmare's Vestige)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -854,7 +847,8 @@ graph TD
 
 ---
 
-### QH-061: Tộc Elf ↔ Các quản trị viên (Administrators)
+### QH-057: Tộc Elf ↔ Các quản trị viên (Administrators)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -863,7 +857,8 @@ graph TD
 
 ---
 
-### QH-062: Ma Vương (Ariel) ↔ Các quản trị viên (Administrators)
+### QH-058: Ma Vương (Ariel) ↔ Các quản trị viên (Administrators)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -872,7 +867,8 @@ graph TD
 
 ---
 
-### QH-063: Sophia Keren ↔ Các quản trị viên (Administrators)
+### QH-059: Sophia Keren ↔ Các quản trị viên (Administrators)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -881,20 +877,21 @@ graph TD
 
 ---
 
-### QH-064: Sophia ↔ Wald
+### QH-060: Sophia ↔ Wald
+: Sophia ↔ Wald
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Chủ tớ không chính thức / Tình cảm đơn phương từ phía Wald |
+| **Quan hệ** | Chủ tớ (Wald là thuộc hạ của Sophia) / Tình cảm đơn phương từ phía Wald |
 | **Sophia gọi Wald** | Wald / Anh ta |
 | **Wald gọi Sophia** | Sophia / Cô |
 | **Sophia xưng** | Tôi |
 | **Wald xưng** | Tôi |
-| **Trạng thái** | Wald thầm thương trộm nhớ và trung thành mù quáng với Sophia, luôn tìm cách nâng cao giá trị bản thân trong mắt cô. Sophia hoàn toàn không xem trọng tình cảm này, chỉ xem anh ta như một chú chó trung thành đáng yêu, thường xuyên lấy anh ta ra làm trò đùa hoặc mỉa mai sự vụng về của anh. |
+| **Trạng thái** | Wald thầm thương trộm nhớ và trung thành mù quáng với Sophia, luôn tìm cách nâng cao giá trị bản thân trong mắt cô. Bề ngoài Wald tỏ ra bất mãn trước tính cách tùy hứng của Sophia, nhưng thực chất cậu vẫn tuân lệnh cô mà không dám chống cự. Trong Chương S4, Sophia ra lệnh cho Wald đưa Yuri đến nơi an toàn sau khi trị liệu xong, Wald tỏ ra khó chịu nhưng vẫn gật đầu đồng ý. Sophia hoàn toàn không xem trọng tình cảm này, chỉ xem anh ta như một chú chó trung thành đáng yêu, thường xuyên lấy anh ta ra làm trò đùa hoặc mỉa mai sự vụng về của anh. |
 
 ---
+### QH-061: Sue ↔ Wald
 
-### QH-065: Sue ↔ Wald
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -907,20 +904,21 @@ graph TD
 
 ---
 
-### QH-066: Tôi (Nhện) ↔ Ma Vương (Ariel)
+### QH-062: Tôi (Nhện) ↔ Ma Vương (Ariel)
+: Tôi (Nhện) ↔ Ariel
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Kẻ thù sống còn, hậu duệ đối đầu thủy tổ; mối liên kết gián tiếp đã đứt |
-| **Nhện gọi Ariel** | Ma Vương / Cô ta / Bà ngoại (châm biếm) |
-| **Ariel gọi Nhện** | (Chưa hiểu ngôn ngữ, nói tiếng dị giới bị Nhện chặn) |
-| **Nhện xưng** | Tôi (độc thoại) |
-| **Trạng thái** | Sau khi Nhện nhỏ tiêu diệt Mẹ ở chương 11, mối liên kết tâm linh giữa họ qua Mẹ đã đứt. Tuy nhiên, Phân thân Tư duy (não thể xác) của Nhện nhỏ vốn đang tấn công linh hồn Ariel đã bị mắc kẹt lại trong linh hồn của cô ta. Phân thân này tiếp tục quá trình đồng hóa và ăn mòn linh hồn Ariel từ bên trong, khiến Ariel phải chịu đựng những cơn đau đớn tinh thần khủng khiếp và ảnh hưởng nghiêm trọng đến tâm trí. |
-| **Ghi chú** | Sự hiện diện của Phân thân Tư duy trong linh hồn Ariel đặt nền móng cho những thay đổi tâm lý cực kỳ phức tạp của cô ta ở các chương sau. |
+| **Quan hệ** | Kẻ thù sinh tử chuyển thành Đồng minh (Thỏa ước hòa bình) |
+| **Tôi gọi Ariel** | Ma Vương / Ariel / Mụ ta / Cô gái đó / Cô ta / Bà ngoại (châm biếm) |
+| **Ariel gọi Tôi** | Ngươi |
+| **Tôi xưng** | Tôi / Ta (khi độc thoại) |
+| **Ariel xưng** | Ta |
+| **Trạng thái** | Từ kẻ thù sinh tử sang đồng minh. Ariel từng truy sát và đập tan xác Nhện nhỏ ở Volume 4. Ở Volume 5, họ đối đầu trực diện trên chiến trường Sariella-Ohts. Tuy nhiên, linh hồn Ariel bị Phân thân Tư duy của Nhện nhỏ kẹt lại bên trong ăn mòn và dung hợp sâu sắc, làm tính cách cô bị đồng hóa một phần. Trong Chương 9, Ariel cứu Nhện nhỏ khỏi Potimas, chủ động đề xuất hiệp ước hòa bình và liên minh do e ngại sự bất tử phi lý của đối phương. Nhện nhỏ lập tức đồng ý thiết lập liên minh. Trong Chương cuối, cả hai chính thức bắt tay liên minh để đối phó với kẻ thù chung Potimas, cùng đồng hành hướng về thủ đô Sariella. |
 
 ---
+### QH-063: Fei ↔ Wakaba Hiiro
 
-### QH-067: Fei ↔ Wakaba Hiiro
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -928,11 +926,12 @@ graph TD
 | **Fei gọi Wakaba** | Wakaba |
 | **Wakaba gọi Fei** | (Không có giao tiếp trực tiếp) |
 | **Fei xưng** | Tớ / Tôi |
-| **Trạng thái** | Phức tạp. Kiếp trước, Fei (Mirei Shinohara) đố kỵ vì đàn anh thầm thích Wakaba nên đã bắt nạt Wakaba (giấu đồ, tung tin đồn). Wakaba hầu như không phản ứng. Sau khi được tái sinh, Fei vô cùng hối hận về lỗi lầm cũ của mình. Khi nghe tin Wakaba đã chết từ Katia, Fei vô cùng sốc và rơi vào mâu thuẫn cảm xúc không thể diễn tả bằng lời. |
+| **Trạng thái** | Phức tạp. Kiếp trước, Fei (Shinohara Mirei) đố kỵ vì đàn anh khóa trên thầm thích Wakaba nên đã bắt nạt cô thậm tệ (giấu và phá đồ đạc, lăng mạ thẳng mặt, thậm chí bỏ lưỡi dao lam vào hộc bàn). Wakaba phớt lờ với vẻ lạnh lùng khiến Fei càng giận dữ vì cảm thấy mình không lọt nổi vào tầm mắt đối phương. Sau khi tái sinh thành phi long, cô vô cùng dằn vặt và hối hận về lỗi lầm cũ. Nghe tin Wakaba đã chết từ lâu, Fei nhận ra mình sẽ phải mang nỗi dằn vặt này suốt đời như một sự trừng phạt thực sự từ thần linh. |
 
 ---
 
-### QH-068: Katia ↔ Wakaba Hiiro
+### QH-064: Katia ↔ Wakaba Hiiro
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -944,7 +943,8 @@ graph TD
 
 ---
 
-### QH-069: Hugo ↔ Sakurazaki Issei
+### QH-065: Hugo ↔ Sakurazaki Issei
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -953,7 +953,8 @@ graph TD
 
 ---
 
-### QH-070: Cô Oka ↔ Hugo (Natsume)
+### QH-066: Cô Oka ↔ Hugo (Natsume)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -962,11 +963,12 @@ graph TD
 | **Hugo gọi Cô Oka** | Cô Oka |
 | **Cô Oka xưng** | Cô |
 | **Hugo xưng** | Ta / Tao |
-| **Trạng thái** | Nghiêm trọng. Cô Oka từng dùng kỹ năng bí mật xóa đi mọi kỹ năng của Hugo với cái giá cực đắt (mất kỹ năng bản thân, hôn mê nhiều ngày) với hy vọng cậu ta sẽ bớt ngạo mạn, nhưng vô tình lại khiến cậu ta thù ghét và điên cuồng hơn. Cô tự dằn vặt mình là một giáo viên thất bại vì không thể giúp Hugo lấy lại nhân tính sau đó. Hiện tại, với quyết tâm cay đắng, cô Oka tự gánh trách nhiệm phải kết liễu người học trò cũ đã đi quá xa để sửa chữa lỗi lầm. |
+| **Trạng thái** | Đối đầu sinh tử. Trong chương O2, cô Oka dùng Phong ma pháp và bẫy kết giới chân không để kết liễu Hugo nhưng bị Sophia phá hủy. Hugo trả thù tàn bạo bằng cách chém sâu vào bụng cô Oka và đá bay cô vào gốc cây để bắt cô chứng kiến sự diệt vong của tộc Elf và các học sinh khác. Trận chiến kết thúc khi Shun cùng nhóm bạn học xuất hiện kịp thời để giải vây. |
 
 ---
 
-### QH-071: Shun ↔ Potimas Harrifenas
+### QH-067: Shun ↔ Potimas Harrifenas
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -979,20 +981,8 @@ graph TD
 
 ---
 
-### QH-072: Cô Oka ↔ Potimas Harrifenas
+### QH-068: Potimas Harrifenas ↔ Sophia Keren
 
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Quan hệ** | Con gái và Cha ruột (mâu thuẫn, lợi dụng) |
-| **Cô Oka gọi Potimas** | Cha / Ngài Potimas (khi xa cách) |
-| **Potimas gọi Cô Oka** | Con / Filimõs |
-| **Cô Oka xưng** | Con / Tôi |
-| **Potimas xưng** | Ta |
-| **Trạng thái** | Phức tạp. Cô Oka là con gái của Potimas, nhưng cô nghi ngờ ý đồ thực sự của cha mình. Trong khi đó, Potimas chỉ xem Oka như một công cụ đắc lực để tập hợp và kiểm soát những người tái sinh. Cuộc gặp lại ở S8 cho thấy sự mâu thuẫn sâu sắc giữa mong muốn bảo vệ học sinh của cô Oka và sự vô cảm từ Potimas. |
-
----
-
-### QH-073: Potimas Harrifenas ↔ Sophia Keren
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1001,7 +991,8 @@ graph TD
 
 ---
 
-### QH-074: Kudo Sachi ↔ Cô Oka
+### QH-069: Kudo Sachi ↔ Cô Oka
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1014,7 +1005,8 @@ graph TD
 
 ---
 
-### QH-075: Fei ↔ Kudo Sachi
+### QH-070: Fei ↔ Kudo Sachi
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1027,7 +1019,8 @@ graph TD
 
 ---
 
-### QH-076: Fei ↔ Ai & Himi
+### QH-071: Fei ↔ Ai & Himi
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1040,7 +1033,8 @@ graph TD
 
 ---
 
-### QH-077: Shun ↔ Kudo Sachi
+### QH-072: Shun ↔ Kudo Sachi
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1053,7 +1047,8 @@ graph TD
 
 ---
 
-### QH-078: Shun ↔ Ogiwara Kenichi (Ogi)
+### QH-073: Shun ↔ Ogiwara Kenichi (Ogi)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1066,7 +1061,8 @@ graph TD
 
 ---
 
-### QH-079: Katia ↔ Ogiwara Kenichi (Ogi)
+### QH-074: Katia ↔ Ogiwara Kenichi (Ogi)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1079,7 +1075,8 @@ graph TD
 
 ---
 
-### QH-080: Tagawa Kunihiko ↔ Kushitani Asaka
+### QH-075: Tagawa Kunihiko ↔ Kushitani Asaka
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1092,7 +1089,8 @@ graph TD
 
 ---
 
-### QH-081: Shun ↔ Tagawa Kunihiko & Kushitani Asaka
+### QH-076: Shun ↔ Tagawa Kunihiko & Kushitani Asaka
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1105,7 +1103,8 @@ graph TD
 
 ---
 
-### QH-082: Ma Vương (Ariel) ↔ Potimas Harrifenas
+### QH-077: Ma Vương (Ariel) ↔ Potimas Harrifenas
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1114,28 +1113,436 @@ graph TD
 | **Potimas gọi Ariel** | Ả / Sinh vật đó / Con nhóc ngu xuẩn (Demon Lord) |
 | **Ariel xưng** | Ta |
 | **Potimas xưng** | Ta |
-| **Trạng thái** | Thù địch cực kỳ sâu sắc từ thời viễn cổ. Ariel hành quân đến làng Elf với mục tiêu lớn nhất là tiêu diệt Potimas và quét sạch tộc Elf một lần và mãi mãi. Ở chương phụ Tộc trưởng tộc Elf, Potimas cũng coi đây là cơ hội vàng để giải quyết dứt điểm mối ân oán cũ khi Ariel tự mò đến cửa nhà, ông ta ra lệnh kích hoạt toàn bộ hệ thống Gloria để nghênh chiến và tiêu diệt cô. |
+| **Trạng thái** | Thù địch cực kỳ sâu sắc từ thời viễn cổ. Ariel hành quân đến làng Elf với mục tiêu lớn nhất là tiêu diệt Potimas và quét sạch tộc Elf một lần và mãi mãi. Ở chương phụ Tộc trưởng tộc Elf, Potimas cũng coi đây là cơ hội vàng để giải quyết dứt điểm mối ân oán cũ khi Ariel tự mò đến cửa nhà, ông ta ra lệnh kích hoạt toàn bộ hệ thống Gloria để nghênh chiến và tiêu diệt cô. Trong Đoạn phụ: Cuộc đụng độ của các thực thể cổ xưa, tại làng Elf, Ariel dẫn đầu đàn nhện khổng lồ Taratect từ Rừng Lớn Garam (gồm cả Taratect Nữ Vương) đối mặt với đội quân robot cơ giới của Potimas, thách thức kết giới phản hệ thống của hắn. |
 
 ---
 
-### QH-083: Tôi (Nhện) ↔ Sophia (Sophia Keren)
+### QH-078: Tôi (Nhện) ↔ Sophia (Sophia Keren)
+
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Ân nhân cứu mạng (khi Sophia là trẻ sơ sinh) |
-| **Nhện gọi Sophia** | Đứa trẻ / Đứa bé sơ sinh / Bé con / Người bạn tái sinh (kiếp trước là Negishi Shouko) |
+| **Nhện gọi Sophia** | Đứa trẻ / Đứa bé sơ sinh / Bé con / Nhóc ma cà rồng / Con nhóc ma cà rồng này / Người bạn tái sinh (kiếp trước là Negishi Shouko) |
 | **Sophia gọi Nhện** | (Là trẻ sơ sinh nên chưa thể giao tiếp hay nhận thức rõ ràng) |
 | **Nhện xưng** | Tôi |
 | **Sophia xưng** | - |
-| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ gặp cỗ xe ngựa chở Sophia khi còn là trẻ sơ sinh bị bọn cướp tấn công. Dù ban đầu lưỡng lự và thấy phiền phức, cô vẫn quyết định ra tay tiêu diệt bọn cướp và dùng ma pháp trị liệu cứu thuộc hạ (quản gia) của họ. Khi Thẩm định đứa trẻ sơ sinh trong xe, Nhện nhỏ phát hiện ra bảng chỉ số cực kỳ bất thường và danh hiệu [Chân Tổ] cùng cái tên kiếp trước Negishi Shouko, qua đó nhận ra đây là người bạn học tái sinh đầu tiên mà cô gặp ở thế giới này. |
+| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf. |
 | **Ghi chú** | Cuộc gặp gỡ định mệnh này mở đầu cho mối duyên nợ sâu sắc giữa cả hai sau này, khi Sophia trở thành đồng minh thân cận của Nhện nhỏ (White) và Ariel. |
+
+### QH-079: Sophia Keren ↔ Seras Keren
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Mẹ con |
+| **Sophia gọi Seras** | Mẹ / Phu nhân Seras (khi độc thoại) |
+| **Seras gọi Sophia** | Con gái / Sophia |
+| **Sophia xưng** | Con (hoặc Tôi khi độc thoại nội tâm) |
+| **Seras xưng** | Mẹ |
+| **Trạng thái** | Seras vô cùng yêu thương và nỗ lực bảo vệ đứa con gái sơ sinh của mình. Sophia dù còn là trẻ sơ sinh nhưng đã có nhận thức và ký ức của người tái sinh. |
+
+### QH-080: Hyrince ↔ Tagawa Kunihiko & Kushitani Asaka
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh mới dị giới |
+| **Hyrince gọi họ** | Hai cậu / Tagawa / Asaka |
+| **Họ gọi Hyrince** | Anh Hyrince / Hyrince |
+| **Hyrince xưng** | Tôi |
+| **Họ xưng** | Tôi / Tớ |
+| **Trạng thái** | Tôn trọng và kỳ vọng. Hyrince là một chiến binh dạn dày kinh nghiệm từ tổ đội của Anh hùng Julius, trong khi Tagawa và Kushitani là những mạo hiểm giả triển vọng hạng S. Hyrince chủ động xóa tan không khí căng thẳng khi gặp mặt bằng cách bắt tay tự giới thiệu. Hyrince ghi nhận thực lực diệt rồng của họ và kỳ vọng lớn vào sự giúp đỡ của hai người, trong khi Tagawa cảm thấy rất vinh dự khi được gặp thành viên nổi tiếng trong tổ đội Anh hùng. |
+
+---
+
+### QH-081: John Keren ↔ Seras Keren
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Vợ chồng |
+| **John gọi Seras** | (Chưa có hội thoại trực tiếp) |
+| **Seras gọi John** | Phu quân / Nhà tôi / John |
+| **Trạng thái** | Đồng lòng cai trị và bảo vệ gia đình quý tộc hạt Keren. |
+
+---
+
+### QH-082: John Keren ↔ Sophia Keren
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cha con |
+| **John gọi Sophia** | (Chưa có hội thoại trực tiếp) |
+| **Sophia gọi John** | Cha / Lãnh chúa John Keren |
+| **Trạng thái** | Cha và con gái. Sophia là một ma cà rồng sơ sinh trong khi John là một con người bình thường cai trị Hạt Keren. Nhện nhỏ phỏng đoán mối quan hệ này sẽ gặp nhiều rắc rối trong tương lai do sự khác biệt chủng tộc bất thường của cô con gái. |
+
+---
+
+### QH-083: Tôi (Nhện) ↔ John Keren
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Ân nhân cứu mạng và bảo vệ gia đình từ xa |
+| **Trạng thái** | Nhện nhỏ theo dõi gia đình Lãnh chúa Keren từ khu rừng bên ngoài thị trấn. Sau khi cứu phu nhân Seras và đứa trẻ sơ sinh Sophia Keren, cô phát hiện ra dinh thự của Lãnh chúa Keren bị đột nhập bởi một nhóm người. Nhện nhỏ đã sử dụng kỹ năng mới [Vạn Lý Nhãn] kết hợp [Chú Oán Tà Nhãn] từ xa để quét sạch toàn bộ nhóm đột nhập để bảo vệ gia đình họ và gửi lời cảnh báo đến lãnh chúa. |
+
+---
+
+### QH-084: Tôi (Nhện) ↔ Tộc Elf (Nhóm Elf đột nhập)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ thù thù địch sâu sắc |
+| **Trạng thái** | Thù địch sâu sắc. Nhện nhỏ lúc đầu định ngó lơ các mưu đồ chính trị nhắm vào dinh thự Keren, nhưng ngay khi tên đại ca áo choàng đột nhập cởi mũ trùm lộ ra đôi tai nhọn của tộc Elf, các Phân thân Tư duy của Nhện nhỏ đã đồng loạt bộc lộ sự căm thù, phẫn nộ và sát khí tuyệt đối đối với tộc Elf. Nhện nhỏ buộc phải ở lại gần thị trấn để tìm hiểu âm mưu này và quyết định tiêu diệt chúng. |
+
+---
+
+### QH-085: Potimas Harrifenas ↔ Giáo hoàng Dustin
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ chính trị/tôn giáo đáng gờm, kiêng dè lẫn nhau |
+| **Potimas gọi Dustin** | Người đàn ông đó / Dustin |
+| **Dustin gọi Potimas** | Potimas / Potimas Harrifenas (trong độc thoại) |
+| **Trạng thái** | Kiêng dè và cảnh giác lẫn nhau. Potimas đánh giá Dustin là kẻ có quyền lực của một tổ chức khổng lồ (Thần Ngôn Giáo) đứng sau lưng. Dù chưa biết liệu Dustin đã phát hiện ra các người tái sinh hay chưa, Potimas thừa nhận rằng mọi hành động gây chú ý của tộc Elf tại Hạt Keren đều sẽ lọt vào tầm ngắm của Dustin, và việc gây hấn với ông ta là điều không khôn ngoan. |
+
+---
+
+### QH-086: Potimas Harrifenas ↔ Ariel (Ma Vương)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thù địch sâu sắc |
+| **Potimas gọi Ariel** | Ariel / Bà ta |
+| **Ariel gọi Potimas** | Potimas |
+| **Trạng thái** | Thù địch sâu sắc. Potimas vô cùng tức giận khi Ariel nhúng tay cản trở kế hoạch bắt cóc Sophia Keren thông qua con quái vật nhện (nhỏ). Potimas quyết định đích thân ra tay triển khai Gloria loại A mới để bắt giữ Sophia và tiêu diệt lũ con của Ariel, đồng thời sẽ tiêu diệt cả chính Ariel nếu bà ta xuất hiện. |
+
+---
 
 ---
  
-## Ghi Chú
+### QH-087: Shun ↔ Kyouya Sasajima
+
  
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn thân kiếp trước, kẻ địch trực diện kiếp này |
+| **Shun gọi Kyouya** | Kyouya |
+| **Kyouya gọi Shun** | Shun / Yamada |
+| **Shun xưng** | Tôi / Tớ |
+| **Kyouya xưng** | Tớ |
+| **Trạng thái** | Đối đầu trực diện. Trong chương S6, Kyouya đột ngột xuất hiện ở làng Elf, chém gãy ma kiếm của Tagawa và hạ Kushitani, đẩy cả hai vào trạng thái mất khả năng chiến đấu. Khi đối mặt với Shun, Kyouya chào hỏi bằng tông giọng quen thuộc của bạn cũ kiếp trước (xưng "tớ" gọi "cậu"), khẳng định cậu hiện đang đứng về phía các quản trị viên cùng với Sophia. |
+ 
+---
+ 
+### QH-088: Fei ↔ Shinobu Kusama (Shino)
+
+ 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, chuyên chạy việc vặt |
+| **Fei gọi Kusama** | Shino / Kusama |
+| **Kusama gọi Fei** | Fei / Mirei |
+| **Trạng thái** | Bạn học kiếp trước. Kusama là chú hề của lớp, tính tình cởi mở và dễ bị sai vặt. Fei rất hiểu tính cậu ta vì kiếp trước thường xuyên sai cậu ta chạy việc vặt cho mình. Fei nhận định Kusama có thể ngốc nghếch làm chân chạy vặt cho phe địch mà không hề hay biết âm mưu của họ. |
+ 
+---
+ 
+### QH-089: Shun ↔ Kusama Shinobu
+
+ 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, đối thủ tạm thời kiếp này |
+| **Shun gọi Kusama** | Kusama |
+| **Kusama gọi Shun** | Shun |
+| **Shun xưng** | Tôi / Tớ |
+| **Kusama xưng** | Tớ |
+| **Trạng thái** | Kusama thâm nhập phá hủy các điểm dịch chuyển, giam lỏng cả nhóm. Shun sử dụng Thẩm định phát hiện chỉ số của cậu ta ngang ngửa Tagawa và sở hữu kỹ năng độc quyền [Nhẫn Giả]. Dù ở hai chiến tuyến, họ vẫn giữ cách nói chuyện thân mật của bạn học cũ, Kusama trước khi chuồn còn đưa ra lời cảnh báo cho Shun. |
+ 
+---
+ 
+### QH-090: Katia ↔ Kusama Shinobu
+
+ 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, đối thủ tạm thời kiếp này |
+| **Katia gọi Kusama** | Kusama |
+| **Kusama gọi Katia** | Kanata |
+| **Katia xưng** | Tôi / Tớ |
+| **Kusama xưng** | Tớ |
+| **Trạng thái** | Katia chất vấn Kusama bằng tiếng Nhật xem cậu ta có chấp nhận làm kẻ địch hay không. Kusama thừa nhận ngập ngừng nhưng vẫn thực hiện nhiệm vụ. Kusama gọi cô bằng tên kiếp trước là "Kanata". |
+ 
+---
+ 
+### QH-091: Tagawa Kunihiko ↔ Kusama Shinobu
+
+ 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước |
+| **Tagawa gọi Kusama** | Kusama |
+| **Kusama gọi Tagawa** | Kuniyan |
+| **Tagawa xưng** | Tao / Tớ |
+| **Kusama xưng** | Tớ |
+| **Trạng thái** | Kusama gọi Tagawa bằng biệt danh kiếp trước là "Kuniyan". Tagawa lao vào tấn công để bắt Kusama nhưng bị cậu ta dùng [Phân Thân Thuật] hoán đổi trốn thoát. Tagawa vô cùng tức giận khi biết các điểm dịch chuyển bị phá hủy. |
+ 
+---
+
+### QH-092: Giáo hoàng Dustin ↔ Ariel (Ma Vương)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kiêng dè và cẩn trọng quan sát |
+| **Dustin gọi Ariel** | Ngài Ariel |
+| **Ariel gọi Dustin** | (Chưa có hội thoại) |
+| **Trạng thái** | Dustin biết Ariel là thực thể cực kỳ mạnh mẽ và e dè trước sức mạnh đó. Ông nhận định Cơn Ác Mộng là lũ con của Ariel và băn khoăn về động cơ của bà ta khi can thiệp vào Hạt Keren. Dustin muốn tránh đụng độ trực tiếp với Ariel và hy vọng Ariel và Potimas sẽ tự đối đầu trực diện nhau. |
+
+---
+
+### QH-093: Giáo hoàng Dustin ↔ Tôi (Nhện)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Quan sát và lợi dụng |
+| **Dustin gọi Nhện** | Cơn Ác Mộng / Cơn Ác Mộng của Mê Cung |
+| **Nhện gọi Dustin** | Dustin (trong độc thoại của các Phân thân) |
+| **Trạng thái** | Dustin coi Cơn Ác Mộng là một "kẻ ngoài cuộc mạnh mẽ" đã phá vỡ mạng lưới điệp viên cải trang của mình tại Sariella. Ông đang quan sát hành vi kỳ lạ của nó và muốn "ném đá dò đường" bằng cách sắp xếp một yêu cầu để các mạo hiểm giả từng chạm trán nó ở Mê cung Lớn Elroe gặp lại nó ở Ohts nhằm thử phản ứng của nó. |
+
+---
+
+### QH-094: Giáo hoàng Dustin ↔ Lãnh chúa Keren (John Keren)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chướng ngại chính trị |
+| **Dustin gọi Keren** | Lãnh chúa Keren / Gã lãnh chúa đáng ghét của Hạt Keren (độc thoại) |
+| **Trạng thái** | Lãnh chúa Keren đang nỗ lực tránh chiến tranh với Ohts, điều này đi ngược lại với kế hoạch của Dustin nhằm kích động xung đột. Do đó, Dustin coi ông ta là một chướng ngại phiền phức. Ông nghi ngờ tộc Elf nhắm vào gia đình Keren không phải vì bản thân ông ta mà vì đứa trẻ (Sophia). |
+ 
+### QH-095: John Keren ↔ Merazophis
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ tớ (Lãnh chúa và thuộc hạ thân tín) |
+| **John Keren gọi Merazophis** | Merazophis / ngươi |
+| **Merazophis gọi John Keren** | Lãnh chúa / Ngài |
+| **John Keren xưng** | Ta |
+| **Merazophis xưng** | Tôi |
+| **Trạng thái** | Lãnh chúa John Keren tin cậy Merazophis tuyệt đối, coi cậu ta là người tâm phúc đáng tin nhất. Merazophis trung thành tuyệt đối, tận tụy phụng sự lãnh chúa và luôn cố gắng báo đáp mọi ân huệ cứu mạng trước đó của gia đình lãnh chúa. |
+| **Ghi chú** | Xuất hiện lần đầu trong chương Đoạn phụ: Lãnh chúa hoang mang. |
+
+---
+
+### QH-096: Cô Oka ↔ Yuri (Yurin Ullen / Yuika Hasebe)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cô giáo kiếp trước và Học sinh lầm lạc kiếp này |
+| **Cô Oka gọi Yuri** | Yuri / Hasebe-san / em |
+| **Yuri gọi Cô Oka** | Cô Oka / cô |
+| **Cô Oka xưng** | Cô |
+| **Yuri xưng** | Em |
+| **Trạng thái** | Yuri bị Hugo tẩy não và thao túng, liên tục gào thét đòi tiêu diệt tộc Elf dị giáo dưới danh nghĩa Thượng đế. Trong chương O2, Yuri điên cuồng tấn công cô Oka bằng ma pháp, ép cô phải sám hối và dâng hiến bản thân cho Thượng đế. Cô Oka trong lúc tự vệ vô tình bắn mũi tên ma pháp [Long Phong] cực mạnh xuyên qua vai Yuri, khiến cô vô cùng ân hận và xót xa vì đã làm tổn hại học sinh của mình. |
+| **Ghi chú** | Xuất hiện lần đầu trong chương O2: Hãy cùng chiến đấu. |
+
+---
+
+### QH-097: Tôi (Nhện) ↔ Người dân Hạt Keren
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thần Thú được thờ phụng ↔ Tín đồ tôn sùng |
+| **Nhện gọi họ** | Người dân / Đám đông / Lũ cuồng tín / Bọn họ |
+| **Họ gọi Nhện** | Thần Thú / Sứ giả Nữ thần / Thần hộ mệnh / Thần Thú của Nữ Thần Giáo |
+| **Nhện xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Dở khóc dở cười. Nhện nhỏ liên tục tiêu diệt lũ cướp và chữa bệnh cứu người (dù bằng phương pháp bạo lực như bóc tách nội tạng bị bệnh rồi ép cơ thể tái sinh cái mới). Điều này khiến người dân thị trấn cuồng nhiệt tôn sùng cô làm Thần Thú hộ mệnh của Nữ Thần Giáo, dâng hiến vô số trái cây tươi ngọt lành. Nhện nhỏ tuy rất xúc động vì có đồ ăn ngon mỗi ngày nhưng bản tính hướng nội (outcast) khiến cô vô cùng sợ hãi và căng thẳng mỗi khi đám đông kéo đến gần. |
+
+---
+
+### QH-098: John Keren ↔ Sứ giả Ohts
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhà (miễn cưỡng) và Sứ giả quấy rối |
+| **John Keren gọi Sứ giả** | Sứ giả / tên ngốc / kẻ bất tài đó |
+| **Sứ giả gọi John Keren** | (Chưa có hội thoại trực tiếp) |
+| **John Keren xưng** | Ta |
+| **Sứ giả xưng** | Ta |
+| **Trạng thái** | Quan hệ căng thẳng. John Keren bắt buộc phải tiếp đón nồng hậu theo nghi thức ngoại giao nhưng vô cùng ngán ngẩm trước sự ngu xuẩn, cằn nhằn vô lý của hắn. Ông nhận định tên sứ giả là con mồi nhử do Ohts gửi đến để khiêu khích Sariella phạm sai lầm ngoại giao. |
+
+---
+
+### QH-099: Tôi (Nhện) ↔ Sứ giả Ohts
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thực thể bị làm phiền và Kẻ quấy rối (Thù địch) |
+| **Trạng thái** | Tên sứ giả thường xuyên tự ý xâm nhập vào rừng để gào thét mệnh lệnh ép buộc Cơn Ác Mộng đi theo hắn sang Ohts. Nhện nhỏ phớt lờ bằng cách leo lên cây nhìn chằm chằm xuống dưới. Khi hắn phái sát thủ tấn công Nhện nhỏ vào ban đêm, cô đã tiêu diệt chớp nhoáng toàn bộ lũ sát thủ và trừng phạt tên sứ giả bằng cách giết chết hắn đột ngột ngay tại dinh thự. |
+ 
+### QH-100: Shun ↔ Sophia
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, đối thủ đối đầu trực diện kiếp này |
+| **Shun gọi Sophia** | Sophia / Negishi Shouko |
+| **Sophia gọi Shun** | Shun / cậu / Yamada |
+| **Shun xưng** | Tôi |
+| **Sophia xưng** | Tôi |
+| **Trạng thái** | Đối đầu trực diện. Trong Chương S5, sau khi Shun cùng đồng đội dàn trận đánh bại Hugo, Sophia đã trực tiếp đối chiến với nhóm Shun. Cô dùng thanh kiếm bản to dễ dàng cản phá các đòn tấn công của cả ba người Shun, Katia và Hyrince chỉ bằng một đường kiếm. Dù bị nhóm Shun phối hợp dồn vào thế bí và hất văng đại kiếm, cô vẫn bộc lộ lớp vảy rồng cứng cáp như phi long bảo vệ quanh cổ gáy, khiến đòn chém toàn lực của Shun hoàn toàn vô hại và gieo rắc nỗi kinh hoàng khi thực sự bất lực cho cậu. |
+ 
+---
+
+### QH-101: Ariel ↔ Gyuristodief (Quản trị viên Hắc)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn hữu lâu năm, kiêng nể lẫn nhau |
+| **Ariel gọi Gülie** | Gülie / ông |
+| **Gülie gọi Ariel** | Ariel / cô |
+| **Ariel xưng** | Tôi (dưới ảnh hưởng của Nhện nhỏ) / Ta (bản ngã cũ) |
+| **Gülie xưng** | Ta |
+| **Trạng thái** | Bạn cũ từ thời đại cổ xưa. Gülie tìm đến Ariel khi thấy cô vừa kết thúc trận chiến với Gakia, bộc lộ sự lo lắng và bất lực khi chứng kiến linh hồn cô bị dung hợp sâu sắc với Nhện nhỏ. Hắn hỏi cô hiện tại là ai và cô sẽ làm gì. Dù thừa nhận Ariel đã bị thay đổi đáng kể, Gülie vẫn muốn giúp đỡ con gái người bạn cũ bằng cách dịch chuyển cô tới chỗ Nhện nhỏ để giải quyết dứt điểm mối thù, chấp nhận đối mặt với hình phạt từ D vì vi phạm giao ước không can thiệp. |
+
+---
+
+### QH-102: Ariel ↔ Địa Long Gakia
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thù địch do lập trường khác biệt, tôn trọng lẫn nhau |
+| **Ariel gọi Gakia** | Ngươi / Gakia / các ngươi |
+| **Gakia gọi Ariel** | Thần Thú cổ xưa nhất / ngài / ngài Ariel |
+| **Ariel xưng** | Ta |
+| **Gakia xưng** | Chúng tôi / tôi |
+| **Trạng thái** | Đối đầu trực diện. Gakia tôn kính Ariel là Thần Thú cổ xưa nhất nhưng quyết tâm dẫn bầy rồng chặn đường khiêu chiến Ariel để câu giờ cho Nhện nhỏ (làn gió mới) cất cánh. Trận chiến kịch liệt kéo dài khắp Tầng đáy mê cung, cuối cùng Ariel tiêu diệt Gakia. Ông qua đời trong tư thế tôn nghiêm và mãn nguyện. Ariel cũng thể hiện sự tiếc thương và tôn kính sâu sắc đối với sự hy sinh của ông ta và bầy địa long. |
+
+---
+
+### QH-103: Julius (Cậu bé Anh hùng) ↔ Tôi (Nhện nhỏ)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Tình cờ gặp gỡ trên chiến trường, quân bài giải vây giả định |
+| **Nhện gọi Julius** | Cậu nhóc Anh hùng / Cậu bé / Con nít / Nhóc |
+| **Julius gọi Nhện** | Con quái vật kia |
+| **Nhện xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Tình huống bất ngờ. Nhện nhỏ bị Ma Vương dồn vào đường cùng thì cậu bé Julius dũng cảm xông ra chắn trước mặt cô. Nhện nhỏ Thẩm định và nhận ra cậu là Anh hùng mới Cấp 14 với chỉ số yếu xìu. Tuy nhiên, cô phát hiện hiệu ứng ẩn của danh hiệu Anh hùng làm Ma Vương e dè, và định dùng cậu làm quân bài để lật kèo thoát thân. Đáng tiếc là cô chưa kịp thực hiện kế hoạch thì đã bị trúng [Ma pháp Vực sâu] thổi bay linh hồn. |
+
+---
+
+### QH-104: Julius (Cậu bé Anh hùng) ↔ Ariel (Ma Vương)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Ma Vương e ngại danh hiệu ẩn của Anh hùng |
+| **Ariel gọi Julius** | Cậu nhóc Anh hùng / Đứa trẻ đó |
+| **Julius gọi Ariel** | Con quái vật / Kẻ thù |
+| **Ariel xưng** | Ta |
+| **Trạng thái** | Dè chừng lẫn nhau. Ariel đang dồn sức truy sát Nhện nhỏ thì cậu bé Julius bất ngờ xen vào. Dù chỉ số của cậu bé vô cùng thảm hại so với Ariel, hiệu ứng ẩn của danh hiệu Anh hùng ("tạm thời ban khả năng đánh bại Ma Vương") khiến cô cực kỳ dè chừng không dám động thủ trực tiếp với cậu. Sự xuất hiện của cậu tạo nên một thế đối đầu tay ba gượng gạo tại chỗ, chỉ kết thúc khi một quả cầu lửa ngẫu nhiên từ trên trời rơi xuống phân tán sự chú ý của cậu bé, cho phép Ariel rảnh tay dùng [Ma pháp Vực sâu] hạ sát Nhện nhỏ từ xa. |
+
+---
+
+### QH-105: Sophia Keren ↔ Kyouya Sasajima
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh/Đồng nghiệp cùng phe dưới trướng các quản trị viên |
+| **Sophia gọi Kyouya** | Cậu |
+| **Kyouya gọi Sophia** | Cô / Sophia |
+| **Sophia xưng** | Tôi |
+| **Kyouya xưng** | Tôi |
+| **Trạng thái** | Trò chuyện thản nhiên và có phần trêu chọc lẫn nhau (Sophia chê Kyouya đến sớm, Kyouya bảo cô lề mề). Kyouya can thiệp hạ gục nhanh Tagawa và Kushitani vì không muốn lãng phí thời gian của họ. |
+
+---
+
+### QH-106: Cô Oka ↔ Kyouya Sasajima (Wrath)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cô trò kiếp trước, kẻ địch kiếp này |
+| **Cô Oka gọi Kyouya** | Kyouya / Wrath / Thống lĩnh Quân đoàn 8 |
+| **Kyouya gọi Cô Oka** | Cô Oka |
+| **Cô Oka xưng** | Cô / Ta |
+| **Kyouya xưng** | Tớ (khi nói chuyện chung trước mặt các bạn) / Tôi |
+| **Trạng thái** | Đối đầu trực diện. Cô Oka lớn tiếng vạch trần danh tính Wrath chính là Thống lĩnh Quân đoàn 8 của quân đội Ma Vương và buộc tội cậu ta cùng phe ma tộc sát hại Anh hùng Julius. Kyouya đáp lại bằng tông giọng lạnh lùng đầy không vui, tự nhận định rằng cô Oka đang che mắt các bạn học cũ khiến họ mù quáng đi giúp tộc Elf - kẻ thực chất đang gây họa cho thế giới. |
+
+---
+
+### QH-107: Shun ↔ White (Wakaba Hiiro)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, kẻ thù kiếp này (Kẻ sát hại Julius) |
+| **Shun gọi White** | Wakaba / Wakaba Hiiro / Kẻ thù của anh trai |
+| **White gọi Shun** | (Chưa có giao tiếp trực tiếp) |
+| **Shun xưng** | Tôi (trong độc thoại) |
+| **White xưng** | - |
+| **Trạng thái** | Tiết lộ kinh hoàng. White đột ngột xuất hiện cứu Sophia khỏi đòn ám sát của Hugo, khiến Shun và cả nhóm bàng hoàng nhận ra cô gái màu trắng bí ẩn, kẻ đã sát hại Anh hùng Julius, lại chính là Wakaba Hiiro - cô bạn cùng lớp được cho là đã chết kiếp trước. Shun lập tức cảm nhận được sự hiện diện áp đảo của cô vượt ngoài nhận thức. |
+
+---
+
+### QH-108: Cô Oka ↔ White (Wakaba Hiiro)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cô trò kiếp trước, đối đầu kiếp này |
+| **Cô Oka gọi White** | Wakaba / Hiiro Wakaba |
+| **White gọi Cô Oka** | Cô Oka |
+| **Cô Oka xưng** | Cô |
+| **White xưng** | Tôi |
+| **Trạng thái** | Gặp lại bất ngờ. Cô Oka bàng hoàng, hoang mang tột độ khi thấy học sinh Wakaba Hiiro (người mà cô luôn tin rằng đã chết kiếp trước) xuất hiện bằng xương bằng thịt dưới dạng một cô gái trắng tuyền. Đáp lại sự bất ngờ của cô giáo cũ, White cúi đầu chào lịch sự: "Đã lâu không gặp cô, cô Oka". |
+
+### QH-109: Tôi (Nhện) ↔ Tàn tích của Cơn Ác Mộng (Lũ con / Nightmare's Vestiges)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Mẹ con kiêm Chủ tớ (Quyến thuộc) |
+| **Tôi gọi lũ con** | Lũ nhện con / Lũ con / Đám nhện nhỏ / Quyến thuộc |
+| **Lũ con gọi Tôi** | (Không có ngôn ngữ giao tiếp, chịu kiểm soát qua [Điều khiển Đồng loại]) |
+| **Tôi xưng** | Ta / Tôi (trong độc thoại) |
+| **Trạng thái** | Sinh sản và cấy ghép phân thân. Nhện nhỏ sử dụng kỹ năng [Đẻ Trứng] tạo ra 1.000 quả trứng (dùng 1 quả tự hồi sinh, còn lại 999 quả). Cô cấy các [Phân thân Tư duy] (Parallel Minds) vào vài con trong số đó. Khi chúng nở, cô lớn tiếng trò chuyện chào mừng, để lại ít đồ ăn dự trữ rồi thả chúng tự sinh tồn trong Elroe. Cô đùa rằng mình là "phụ huynh tồi" nhưng đã có các Phân thân Tư duy chăm sóc chúng thay thế. |
+
+---
+
+### QH-110: Tôi (Nhện) ↔ Potimas Harrifenas
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ sinh tử (Nhện nhỏ bảo vệ Sophia ↔ Potimas truy sát ma cà rồng) |
+| **Nhện gọi Potimas** | Tên Elf / Potimas Harrifenas / Gã robot / Hắn |
+| **Potimas gọi Nhện** | Ngươi / Quyến thuộc của Ariel |
+| **Nhện xưng** | Tôi (trong độc thoại) |
+| **Potimas xưng** | Ta |
+| **Trạng thái** | Đối đầu gay gắt. Trong Chương 9, Nhện nhỏ lao vào cứu Merazophis và Sophia khỏi tay Potimas. Potimas kích hoạt [Kết giới Phản Kỹ thuật] triệt tiêu toàn bộ kỹ năng và ma pháp của cô để truy sát. Nhện nhỏ chật vật né tránh và bị đạn bắn nát đầu người, nhưng cuối cùng phản công vặn gãy tay phải của hắn từ bên trong bằng [Bóp Méo Tà Nhãn] (do kết giới không tác dụng trong cơ thể) trước khi Ariel xuất hiện dứt điểm hắn. |
+
+---
+
+## Ghi Chú
+
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-09
-- **Tổng cặp quan hệ**: 83
-
-
+- **Cập nhật lần cuối**: 2026-07-11
+- **Tổng cặp quan hệ**: 110

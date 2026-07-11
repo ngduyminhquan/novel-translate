@@ -546,3 +546,7 @@ But để xài được ma pháp, tôi phải chế ngự được Phát hiện,
 Dù sao thì, tôi không nghĩ mình có thể giải quyết được bất kỳ vấn đề nào trong hai cái đó một sớm một chiều đâu.
 
 Ááá, tôi thực sự muốn dùng ma pháp quá đi mất!
+
+---
+
+[◀ Chương trước: Đoạn phụ: Con gái Công tước và Cô giáo](interlude_the_dukes_daughter_and_her_teacher.md) | [Chương tiếp theo: Chương J2: Tàn tích của Cơn Ác Mộng ▶](j2_the_nightmares_vestige.md)

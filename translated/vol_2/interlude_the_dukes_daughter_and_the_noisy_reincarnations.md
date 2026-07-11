@@ -133,3 +133,7 @@
 “Tớ nghi ngờ việc một đứa trẻ sơ sinh có thể trở thành Ma Vương nhanh chóng như thế, trừ phi nó dành từng giây từng phút kể từ khi lọt lòng để không ngừng di chuyển và cày cấp.”
 
 “Oa, nghe cứ như truyện kinh dị ấy.”
+
+---
+
+[◀ Chương trước: Đoạn phụ: Sự tuyệt vọng của kẻ bại trận](interlude_despair_of_the_defeated.md) | [Chương tiếp theo: Chương 9: Kẻ Thống Trị Hỏa Hải ▶](09_lord_of_the_fire_sea.md)

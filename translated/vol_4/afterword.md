@@ -79,3 +79,7 @@ Cảm ơn bạn đã mua cuốn ebook này, được xuất bản bởi Yen On.
 **[Đăng ký tại đây]**
 
 Hoặc ghé thăm chúng tôi tại [www.yenpress.com/booklink](http://www.yenpress.com/booklink)
+
+---
+
+[◀ Chương trước: Chương cuối: Cuộc chạm trán đầu tiên](final_chapter_first_encounter.md)

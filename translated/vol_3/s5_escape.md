@@ -283,3 +283,7 @@ Tôi rất muốn phản bác lại những lời cay đắng của Fei, nhưng 
 Và cứ thế, chúng tôi tháo chạy.
 
 Để lại chị Klevea và hoàng huynh Leston ở phía sau.
+
+---
+
+[◀ Chương trước: Chương 6: Vượt qua Tầng Trung](06_middle_stratum_cleared.md) | [Chương tiếp theo: Đoạn phụ: Kẻ thống trị và Ninja ▶](interlude_the_ruler_and_the_ninja.md)

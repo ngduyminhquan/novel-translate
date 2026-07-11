@@ -609,3 +609,7 @@ Cẩn tắc vô áy náy mà!
 ![Minh họa: Nhện nhỏ tiêu diệt bầy Taratect](../../source/images/vol_3/page_183_img_0.jpg)
 
 --- PAGE 184 ---
+
+---
+
+[◀ Chương trước: Đoạn phụ: ???](interlude_three_question_marks.md) | [Chương tiếp theo: Chương đặc biệt: Cơn Ác Mộng Mê Cung ▶](special_chapter_the_nightmare_of_the_labyrinth.md)

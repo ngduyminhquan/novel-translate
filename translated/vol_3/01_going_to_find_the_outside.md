@@ -275,3 +275,7 @@ Biết đâu một ngày nào đó tôi có thể sánh ngang với rồng thì 
 Có lẽ cuối cùng tôi cũng sẽ báo thù được con Alaba đó chăng?
 Hầy, nghĩ lại thì, dẹp đi cho lành.
 Địa long đáng sợ lắm. Thực sự cực kỳ đáng sợ đấy.
+
+---
+
+[Chương tiếp theo: Chương S1: Tân Anh hùng ▶](s1_new_hero.md)

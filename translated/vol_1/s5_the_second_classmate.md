@@ -207,3 +207,7 @@ Khi lần đầu gặp Katia, tôi đã bắt đầu có một chút nghi ngờ.
 Nhưng giờ đây khi đã gặp thêm một người nữa, sự nghi ngờ đó đã biến thành niềm tin chắc chắn.
 
 Tôi tin rằng những thành viên còn lại trong lớp học cũ của tôi có lẽ cũng đã được tái sinh ở thế giới này.
+
+---
+
+[◀ Chương trước: Chương 6: Màn chơi thưởng?](06_bonus_stage.md) | [Chương tiếp theo: Chương 7: Tôi tiến hóa! ▶](07_im_evolving.md)

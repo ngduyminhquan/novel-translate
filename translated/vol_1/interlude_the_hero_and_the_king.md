@@ -159,3 +159,7 @@ Cha tôi và tôi cùng nhau mỉm cười.
 Từ góc nhìn của con, cha đã là một người cha tuyệt vời hơn mức đủ rồi.
 
 Vì vậy, con sẽ tiếp tục nỗ lực hết mình với tư cách là một Anh hùng để có thể giúp đỡ được phần nào cho cha.
+
+---
+
+[◀ Chương trước: Chương S7: Nhị hoàng tử](s7_the_second_prince.md) | [Chương tiếp theo: Chương 11: Vẫn đang chinh phục tầng dưới ▶](11_still_clearing_the_lower_stratum.md)

@@ -251,3 +251,7 @@ Mặc dù các bạn nữ chắc chắn không muốn tiếp tục ở trong cá
 “Mà, ít nhất thì chúng ta cũng đã vào được đây an toàn, đại khái là thế. Chào mừng đến với địa ngục trần gian của bọn ta, Mê cung Lớn Elroe.”
 
 Thầm thở dài trước câu nói kịch tính của Basgath, tôi bắt đầu chuẩn bị sẵn sàng ma pháp trị liệu.
+
+---
+
+[◀ Chương trước: Chương 2: Cuộc Chiến Linh Hồn Với Mẹ](02_spirit_battle_vs_mother.md) | [Chương tiếp theo: Chương 3: Mẹ Tấn Công ▶](03_mother_attack.md)

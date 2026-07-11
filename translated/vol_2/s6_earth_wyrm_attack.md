@@ -321,3 +321,7 @@ Nếu đúng là như vậy, thì một người cha hoặc người mẹ lặn 
 Tôi nôn sạch mọi thứ trong dạ dày ra ngoài.
 
 Trận chiến thực sự đầu tiên của tôi đã trở thành một ký ức đắng ngắt vĩnh viễn khắc sâu vào tâm trí tôi.
+
+---
+
+[◀ Chương trước: Chương 8: Trí Tuệ](08_wisdom.md) | [Chương tiếp theo: Đoạn phụ: Sự tuyệt vọng của kẻ bại trận ▶](interlude_despair_of_the_defeated.md)

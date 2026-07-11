@@ -16,6 +16,7 @@
 
 ## 1. Tên Nhân Vật
 
+
 | # | Tiếng Anh | Tiếng Việt | Ghi chú |
 |---|-----------|------------|---------|
 | 1 | I / Watashi (Nameless Spider) | Tôi (Nhện) | Nhân vật chính |
@@ -47,7 +48,7 @@
 | 27 | Sophia / Sophia Keren | Sophia / Sophia Keren | Học sinh tái sinh (Vampire) |
 | 28 | Klevea | Klevea | Hầu gái cũ của Shun và Sue |
 | 29 | D / Administrator D | D / Quản trị viên D | Quản trị viên tối cao đứng sau hệ thống |
-| 30 | Gyuristodief / Black | Gyuristodief / Quản trị viên Hắc | Quản trị viên cấp cao của thế giới |
+| 30 | Güliedistodiez (Gyuristodief) / Black | Güliedistodiez (Gyuristodief) / Quản trị viên Hắc / Güli-güli | Quản trị viên cấp cao của thế giới |
 | 31 | Merazophis | Merazophis | Thống lĩnh Quân đoàn 4 dưới quyền Ma Vương |
 | 32 | Balto | Balto | Tướng lĩnh ma tộc, phụ tá đắc lực quản lý hành chính cho Ma Vương |
 | 33 | White / Shiraori | White / Bạch | Thống lĩnh Quân đoàn 10, danh phận tương lai của Nhện nhỏ |
@@ -59,7 +60,7 @@
 | 39 | Sakurazaki | Sakurazaki | Học sinh lớp Shun ở kiếp trước |
 | 40 | Temarikawa | Temarikawa | Học sinh lớp Shun ở kiếp trước |
 | 41 | Furuta | Furuta | Học sinh lớp Shun ở kiếp trước |
-| 42 | Kyouya / Kyouya Sasajima | Kyouya / Sasajima Kyouya | Học sinh lớp Shun ở kiếp trước |
+| 42 | Kyouya / Kyouya Sasajima / Wrath | Kyouya / Sasajima Kyouya / Wrath | Học sinh lớp Shun kiếp trước, Thống lĩnh Quân đoàn 8 dưới quyền Ma Vương |
 | 43 | Rihoko | Rihoko | Biệt danh kiếp trước của Sophia Keren (viết tắt của Real Horror Girl) |
 | 44 | Hayashi Kouta | Hayashi Kouta | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
 | 45 | Kogure Naofumi | Kogure Naofumi | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
@@ -68,11 +69,16 @@
 | 48 | Kenichi Ogiwara | Ogiwara Kenichi | Học sinh tái sinh (Ogi), bạn câu lạc bộ bóng đá của Shun |
 | 49 | Kunihiko Tagawa | Tagawa Kunihiko | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
 | 50 | Asaka Kushitani | Kushitani Asaka | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
+| 51 | Seras Keren | Seras Keren | Mẹ của Sophia Keren |
+| 52 | John Keren | John Keren | Cha của Sophia Keren, lãnh chúa Hạt Keren |
+| 53 | Dustin | Dustin | Giáo hoàng Thần Ngôn Giáo |
+| 54 | Shinobu Kusama | Kusama Shinobu | Học sinh tái sinh, biệt danh Shino |
 
 
 ---
 
 ## 2. Địa Danh
+
 
 | # | Tiếng Anh | Tiếng Việt | Loại | Ghi chú |
 |---|-----------|------------|------|---------|
@@ -91,6 +97,7 @@
 ---
 
 ## 3. Skill / Phép Thuật / Kỹ Năng
+
 
 | # | Tiếng Anh | Tiếng Việt | Hệ/Loại | Ghi chú |
 |---|-----------|------------|----------|---------|
@@ -183,126 +190,155 @@
 | 87 | Probability Correction | Hiệu chỉnh Xác suất | Kỹ năng thụ động | Kỹ năng điều chỉnh xác suất có lợi cho người sở hữu |
 | 88 | High-Speed Swimming | Bơi tốc độ cao | Kỹ năng chủ động | Giúp di chuyển với tốc độ cao dưới chất lỏng (nước, dung nham) |
 | 89 | Flame Breath | Hơi thở Lửa | Kỹ năng chủ động | Phun ngọn lửa bao phủ phạm vi rộng lớn |
-| 90 | Solidity | Cứng cáp | Kỹ năng thụ động | Tăng chỉ số phòng ngự vật lý |
-| 91 | Life Exchange | Trao đổi Sinh mệnh | Kỹ năng chủ động | Hồi phục HP bằng cách tiêu hao thể lực SP |
-| 92 | Rot Attack | Hủ thực Công kích | Kỹ năng chủ động | Tấn công mang thuộc tính phân hủy/héo tàn cực kỳ nguy hiểm |
-| 93 | Silence | Vô thanh | Kỹ năng chủ động | Triệt tiêu hoàn toàn âm thanh do người sở hữu phát ra |
-| 94 | Utility Thread | Tơ Đa Năng | Kỹ năng chủ động | Kỹ năng dệt tơ nâng cấp có thể tự do tùy biến thuộc tính |
-| 95 | Perseverance | Kiên trì | Kỹ năng thụ động | Kỹ năng Ruler, tiêu hao MP để duy trì 1 HP bất chấp sát thương nhận vào |
-| 96 | Heresy Nullification | Vô hiệu Dị giáo | Kỹ năng thụ động | Vô hiệu hóa hoàn toàn mọi đòn tấn công trực tiếp vào linh hồn |
-| 97 | Conviction | Phán xét | Kỹ năng chủ động | Gây sát thương không thể kháng cự tỷ lệ thuận với tội lỗi của mục tiêu |
-| 98 | Wisdom | Trí Tuệ | Kỹ năng đặc biệt | Kỹ năng Ruler do quản trị viên D kiến tạo |
-| 99 | Height of Occultism | Cực đỉnh Thần bí | Kỹ năng thụ động | Tự động tối đa hóa các chỉ số liên quan đến thuật thức ma pháp |
-| 100 | Celestial Power | Thiên lực | Kỹ năng thụ động | Cộng thêm 1.000 điểm hiệu chỉnh vào các chỉ số MP, ma pháp và kháng tính |
-| 101 | Gorge | Bão Thực | Kỹ năng thụ động | Tiến hóa từ Phàm ăn, cho phép tích trữ năng lượng dư thừa cho HP, MP, SP |
-| 102 | Acceleration | Gia tốc | Kỹ năng thụ động | Tiến hóa từ Bộc phát lực, tăng tỉ lệ phát triển tốc độ khi lên cấp |
-| 103 | Durability | Ngoan cường | Kỹ năng thụ động | Tiến hóa từ Bền bỉ, tăng tỉ lệ phát triển sức bền khi lên cấp |
-| 104 | Telescopic Sight | Thị giác Viễn vọng | Kỹ năng chủ động/thụ động | Phóng to hình ảnh các vật thể ở xa |
-| 105 | Evil Eye | Tà Nhãn | Kỹ năng | Dòng kỹ năng gây hiệu ứng qua tầm nhìn |
-| 106 | Cursed Evil Eye | Nguyền Rủa Tà Nhãn | Kỹ năng chủ động | Gây sát thương thuộc tính nguyền rủa và làm suy yếu chỉ số mục tiêu |
-| 107 | Poison Shot | Độc Đạn | Ma pháp | Phép thuật hệ Độc cấp 2, bắn ra quả cầu độc |
-| 108 | Poison Touch | Độc Xúc | Ma pháp | Phép thuật hệ Độc cấp 1, gây sát thương độc khi chạm vào (gây hại cho cả người dùng) |
-| 109 | Poison Resist | Thuật Kháng Độc | Ma pháp | Phép thuật hệ Độc cấp 3, tạm thời tăng khả năng kháng độc |
-| 110 | Parallel Minds | Phân thân Tư duy | Kỹ năng thụ động | Tiến hóa từ Tư duy Song song, phân tách tâm trí thành các phân khu độc lập |
-| 111 | Imperial Scales | Long Lân Đế Vương | Kỹ năng thụ động | Phiên bản nâng cấp của Long Lân, tăng thủ và làm chệch cấu trúc ma pháp |
-| 112 | Light Attack | Quang Công Kích | Kỹ năng | Đòn tấn công mang thuộc tính ánh sáng |
-| 113 | Desire | Dục Vọng | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
-| 114 | Wrath | Phẫn Nộ | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
-| 115 | Usurp | Cướp Đoạt | Kỹ năng | Cướp đoạt chỉ số/kỹ năng của mục tiêu |
-| 116 | Crude | Thô Bạo | Kỹ năng | Kỹ năng tăng cường sát thương thô bạo |
-| 117 | Intimidation | Uy Áp | Kỹ năng | Kỹ năng đe dọa, gieo rắc nỗi sợ cho kẻ địch |
-| 118 | Spatial Magic | Ma pháp Không gian | Ma pháp | Ma pháp tác động lên cấu trúc không gian |
-| 119 | Fear Resistance | Kháng Sợ Hãi | Kỹ năng thụ động | Giảm bớt nỗi sợ hãi trước những kẻ thù đáng sợ |
-| 120 | Far Talk / Fartalk | Viễn Thoại | Kỹ năng chủ động | Kỹ năng dùng ma pháp để đàm thoại từ xa |
-| 121 | Summoning | Triệu Hồi | Kỹ năng chủ động | Kỹ năng dùng ma lực triệu hồi linh thú |
-| 122 | Flame Wrap | Quấn Lửa | Kỹ năng chủ động | Kỹ năng bao phủ cơ thể bằng lửa để tăng cường thể chất |
-| 123 | Imperial Scales | Long Lân Đế Vương | Kỹ năng thụ động | Lớp vảy rồng giúp giảm đáng kể sát thương ma pháp và vật lý |
-| 124 | Inferno Breath | Hơi thở Hỏa Ngục | Kỹ năng chủ động | Đòn phun lửa diện rộng hủy diệt của Hỏa Long |
-| 125 | High-Speed Swimming | Bơi tốc độ cao | Kỹ năng thụ động | Tăng tốc độ bơi lội, đặc biệt là trong dung nham |
-| 126 | Lust | [Ái Dục] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội của Hugo |
-| 127 | Hypnosis | [Thôi miên] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
-| 128 | Brainwashed | [Tẩy não] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
-| 129 | Charmed | [Mê hoặc] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
-| 130 | Heavy Evil Eye | [Trọng Lực Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gia tăng trọng lực lên mục tiêu |
-| 131 | Sloth | [Lười Biếng] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội |
-| 132 | Jinx Evil Eye | [Chú Oán Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gây sát thương nguyền rủa và chuyển HP, MP, SP đối thủ sang người dùng |
-| 133 | Inert Evil Eye | [Ngưng Trệ Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn áp đặt hiệu ứng tựa đóng băng thời gian |
-| 134 | Clairvoyance | [Thiên Lý Nhãn] | Kỹ năng | Cải thiện Thị giác Viễn vọng và thêm hiệu ứng nhìn xuyên thấu |
-| 135 | Medicine Synthesis | [Tổng hợp Thuốc] | Kỹ năng chủ động | Tự chế tạo các loại thuốc hồi phục hoặc hỗ trợ |
-| 136 | Healing Magic | [Ma pháp Trị liệu] | Ma pháp | Ma pháp giúp chữa trị vết thương và phục hồi thể trạng |
-| 137 | Dark Magic | [Ma pháp Hắc ám] | Ma pháp | Phép thuật bóng tối cấp độ cao hơn Ma pháp Bóng tối |
-| 138 | Presence Detection | [Phát hiện Hiện diện] | Kỹ năng chủ động | Cảnh báo hoặc cảm nhận sự hiện diện của các sinh thể xung quanh |
-| 139 | Light Magic | Quang ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính ánh sáng |
-| 140 | Wind Magic | Phong ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính gió |
-| 141 | Divinity Expansion | [Mở rộng Thần giới] | Kỹ năng thụ động | Kỹ năng mở rộng trường thần giới |
-| 142 | Flight | [Phi hành] | Kỹ năng chủ động/thụ động | Khả năng bay lượn trên bầu trời |
-| 143 | Satiation | [No Nê] | Kỹ năng | Giúp dự trữ thức ăn dư thừa dưới dạng năng lượng (HP, MP, SP) |
-| 144 | Mirror Shield | [Khiên Gương] | Ma pháp | Một phép thuật phản đòn của Thánh Quang Ma pháp giúp phản xạ hoặc làm chệch hướng đòn tấn công |
-| 145 | Wyrm Barrier | [Phi Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp giúp giảm uy lực ma pháp đối phương tương tự như vảy phi long |
-| 146 | Wyrm Scales | [Phi Long Lân] | Kỹ năng thụ động | Vảy phi long giúp giảm sát thương ma pháp và vật lý |
-| 147 | Mercy | [Từ Bi] | Kỹ năng | Kỹ năng Ruler thuộc dòng Thất Đại Tội giúp hồi sinh người chết |
-| 148 | Concealment | [Che giấu] | Kỹ năng chủ động | Giúp che giấu các chỉ số và kỹ năng khỏi Thẩm định |
-| 149 | Presence Perception | [Cảm nhận Hiện diện] | Kỹ năng thụ động | Giúp cảm nhận sự hiện diện của các sinh thể xung quanh |
-| 150 | Terrain Wall | [Tường Địa hình] | Ma pháp | Phép thuật tạo tường chắn bằng đất thuộc Ma pháp Địa hình |
-| 151 | Terrain Spear | [Thương Địa hình] | Ma pháp | Phép thuật tạo thương tấn công bằng đất thuộc Ma pháp Địa hình |
-| 152 | Large-Scale Teleport | [Dịch chuyển Quy mô lớn] | Ma pháp | Phép thuật dịch chuyển một nhóm lớn đối tượng từ xa |
-| 153 | Kin Control | [Điều khiển Đồng loại] | Kỹ năng | Kỹ năng cho phép kiểm soát và ra lệnh cho con cái hoặc các cá thể đồng tộc |
-| 154 | Heavy Magic | [Trọng Lực Ma Pháp] | Ma pháp | Ma pháp điều khiển trọng lực và khối lượng |
-| 155 | HP Ultra-Fast Recovery | [Tự hồi phục HP siêu tốc] | Kỹ năng thụ động | Tốc độ hồi phục HP cực nhanh |
-| 156 | SP Minimized Consumption | [Giảm tiêu hao SP tối thiểu] | Kỹ năng thụ động | Giảm tối đa lượng SP tiêu hao |
-| 157 | SP Rapid Recovery | [Tự hồi phục SP nhanh] | Kỹ năng thụ động | Tốc độ hồi phục SP nhanh |
-| 158 | Destruction Super-Enhancement | [Siêu tăng cường Hủy diệt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính hủy diệt |
-| 159 | Impact Super-Enhancement | [Siêu tăng cường Va chạm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính va chạm |
-| 160 | Cutting Super-Enhancement | [Siêu tăng cường Cắt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính cắt |
-| 161 | Piercing Super-Enhancement | [Siêu tăng cường Đâm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính đâm |
-| 162 | Shock Super-Enhancement | [Siêu tăng cường Sốc] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính sốc |
-| 163 | Status Condition Super-Enhancement | [Siêu tăng cường Trạng thái bất thường] | Kỹ năng thụ động | Tăng cường cực đại khả năng gây trạng thái bất thường |
-| 164 | Battle Divinity | [Đấu Thần Đấu Pháp] | Kỹ năng chủ động | Bản nâng cấp tối cao của Ý chí chiến đấu |
-| 165 | Ability Conferment | [Truyền Chỉ Số] | Kỹ năng chủ động | Khả năng truyền chỉ số cho mục tiêu |
-| 166 | Energy Super-Attack | [Siêu công kích Năng lượng] | Kỹ năng chủ động | Tấn công bằng năng lượng siêu cấp |
-| 167 | Divine Dragon Power | [Thần Long Lực] | Kỹ năng chủ động | Sức mạnh thần long vĩ đại |
-| 168 | Dragon Barrier | [Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp bảo hộ của Long tộc |
-| 169 | Enhanced Paralysis Attack | [Tăng cường Tấn công Tê liệt] | Kỹ năng chủ động/thụ động | Nâng cấp khả năng gây tê liệt khi tấn công |
-| 170 | Divine Thread Weaving | [Thần Kỹ Dệt Tơ] | Kỹ năng chủ động | Bản nâng cấp tối cao của Tạo Tơ/Tơ nghệ |
-| 171 | Probability Super-Correction | [Hiệu chỉnh Xác suất siêu cấp] | Kỹ năng thụ động | Hiệu chỉnh xác suất có lợi ở mức tối thượng |
-| 172 | Ultimate Life | [Sinh mệnh Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại HP |
-| 173 | Ultimate Magic | [Ma pháp Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại MP và chỉ số ma pháp |
-| 174 | Ultimate Movement | [Di chuyển Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại tốc độ và độ cơ động |
-| 175 | Fortune | [Vận May] | Kỹ năng thụ động | Tăng cực đại chỉ số may mắn |
-| 176 | Deva | [Thiên Nhân] | Kỹ năng thụ động | Tăng cực đại chỉ số phòng ngự |
-| 177 | Sanctum | [Thánh Vực] | Kỹ năng thụ động | Tăng cực đại chỉ số kháng tính |
-| 178 | Annihilating Evil Eye | [Tử Vong Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn mang thuộc tính Hủ thực (Tử vong) |
-| 179 | Thought Super-Acceleration | [Gia tốc Tư duy Siêu cấp] | Kỹ năng thụ động | Tiến hóa từ Gia tốc Tư duy, đẩy nhanh tư duy lên mức cực đại |
-| 180 | Future Sight | [Tương Lai Nhãn] | Kỹ năng thụ động | Tiến hóa từ Tiên kiến (Foresight), cho phép thấy trước tương lai |
-| 181 | Rot Attribute | Thuộc tính Hủ thực | Thuộc tính ma pháp | Thuộc tính phá hủy trực tiếp cấu trúc vật chất và linh hồn |
-| 182 | Hard Armor | Giáp Cứng | Kỹ năng thụ động | Kỹ năng gia tăng độ cứng cáp của da/vảy để phòng thủ |
-| 183 | Steel Body | Thân Thể Thép | Kỹ năng thụ động | Kỹ năng hóa thép thân thể để gia tăng sức phòng ngự vật lý |
-| 184 | HP Rapid Recovery | Tự hồi phục HP nhanh | Kỹ năng thụ động | Tự động hồi phục HP với tốc độ nhanh |
-| 185 | MP Recovery Speed | Tốc độ hồi phục MP | Kỹ năng thụ động | Gia tăng tốc độ hồi phục lượng MP theo thời gian |
-| 186 | Magic Power Attack | Ma lực Công kích | Kỹ năng chủ động | Đòn tấn công vật lý mang theo thuộc tính ma lực |
-| 187 | Terrain Attack | Địa hình Công kích | Kỹ năng chủ động/thụ động | Đòn tấn công tận dụng hoặc tác động lên cấu trúc địa hình xung quanh |
-| 188 | Terrain Enhancement | Địa hình Tăng cường | Kỹ năng thụ động | Gia tăng sức mạnh chiến đấu khi đứng trên địa hình phù hợp |
-| 189 | Destruction Resistance | Kháng Hủy diệt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công thuộc tính hủy diệt |
-| 190 | Cutting Resistance | Kháng Cắt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng chém cắt |
-| 191 | Piercing Resistance | Kháng Đâm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng đâm thọc |
-| 192 | Impact Resistance | Kháng Va chạm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng va đập |
-| 193 | Shock Resistance | Kháng Sốc | Kỹ năng thụ động | Giảm sát thương nhận vào từ các chấn động mạnh hoặc xung kích |
-| 194 | Terrain Nullification | Vô hiệu Địa hình | Kỹ năng thụ động | Vô hiệu hóa mọi tác động bất lợi từ địa hình xung quanh lên bản thân |
-| 195 | Dragon Power | Long Lực | Kỹ năng chủ động | Kỹ năng giải phóng và chiến đấu bằng sức mạnh của loài rồng |
-| 196 | Talisman | Hộ Phù | Kỹ năng thụ động | Kỹ năng tăng cường khả năng chống đỡ các đòn tấn công ma pháp |
-| 197 | Monk | Tu sĩ | Kỹ năng thụ động | Kỹ năng gia tăng các chỉ số liên quan đến tinh thần hoặc trị liệu |
-| 198 | Longevity | Trường Thọ | Kỹ năng thụ động | Kỹ năng gia tăng tuổi thọ và sức chịu đựng của sinh vật |
-| 199 | Magic Hoard | Ma Lượng Tích Trữ | Kỹ năng thụ động | Kỹ năng gia tăng đáng kể lượng MP dự trữ |
-| 200 | Egg-Laying | Đẻ Trứng | Kỹ năng chủ động | Kỹ năng cho phép tự sinh sản đơn tính |
-| 201 | Skill Elimination | [Xóa Kỹ Năng] | Kỹ năng | Kỹ năng hệ thống tự động xóa bỏ toàn bộ kỹ năng của người dùng sau khi kích hoạt |
-| 202 | Swim | [Bơi] | Kỹ năng chủ động | Kỹ năng cho phép bơi lội dưới chất lỏng |
-| 203 | Odorless | [Vô hương] | Kỹ năng thụ động | Kỹ năng nhận được khi max Silence, giúp triệt tiêu mùi cơ thể |
-| 204 | Exhaustion Nullification | [Vô hiệu Kiệt sức] | Kỹ năng thụ động | Kỹ năng ngăn chặn cơ thể khỏi mệt mỏi và kiệt sức dù không ngủ |
-| 205 | Spatial Storage | [Lưu trữ Không gian] | Ma pháp | Phép thuật hệ ma pháp không gian dùng để cất giữ đồ vật vào chiều không gian khác |
+| 90 | Life Exchange | Trao đổi Sinh mệnh | Kỹ năng chủ động | Hồi phục HP bằng cách tiêu hao thể lực SP |
+| 91 | Rot Attack | Hủ thực Công kích | Kỹ năng chủ động | Tấn công mang thuộc tính phân hủy/héo tàn cực kỳ nguy hiểm |
+| 92 | Silence | Vô thanh | Kỹ năng chủ động | Triệt tiêu hoàn toàn âm thanh do người sở hữu phát ra |
+| 93 | Utility Thread | Tơ Đa Năng | Kỹ năng chủ động | Kỹ năng dệt tơ nâng cấp có thể tự do tùy biến thuộc tính |
+| 94 | Perseverance | Kiên trì | Kỹ năng thụ động | Kỹ năng Ruler, tiêu hao MP để duy trì 1 HP bất chấp sát thương nhận vào |
+| 95 | Heresy Nullification | Vô hiệu Dị giáo | Kỹ năng thụ động | Vô hiệu hóa hoàn toàn mọi đòn tấn công trực tiếp vào linh hồn |
+| 96 | Conviction | Phán xét | Kỹ năng chủ động | Gây sát thương không thể kháng cự tỷ lệ thuận với tội lỗi của mục tiêu |
+| 97 | Wisdom | Trí Tuệ | Kỹ năng đặc biệt | Kỹ năng Ruler do quản trị viên D kiến tạo |
+| 98 | Height of Occultism | Cực đỉnh Thần bí | Kỹ năng thụ động | Tự động tối đa hóa các chỉ số liên quan đến thuật thức ma pháp |
+| 99 | Celestial Power | Thiên lực | Kỹ năng thụ động | Cộng thêm 1.000 điểm hiệu chỉnh vào các chỉ số MP, ma pháp và kháng tính |
+| 100 | Gorge | Bão Thực | Kỹ năng thụ động | Tiến hóa từ Phàm ăn, cho phép tích trữ năng lượng dư thừa cho HP, MP, SP |
+| 101 | Acceleration | Gia tốc | Kỹ năng thụ động | Tiến hóa từ Bộc phát lực, tăng tỉ lệ phát triển tốc độ khi lên cấp |
+| 102 | Durability | Ngoan cường | Kỹ năng thụ động | Tiến hóa từ Bền bỉ, tăng tỉ lệ phát triển sức bền khi lên cấp |
+| 103 | Telescopic Sight | Thị giác Viễn vọng | Kỹ năng chủ động/thụ động | Phóng to hình ảnh các vật thể ở xa |
+| 104 | Evil Eye | Tà Nhãn | Kỹ năng | Dòng kỹ năng gây hiệu ứng qua tầm nhìn |
+| 105 | Cursed Evil Eye | Nguyền Rủa Tà Nhãn | Kỹ năng chủ động | Gây sát thương thuộc tính nguyền rủa và làm suy yếu chỉ số mục tiêu |
+| 106 | Poison Shot | Độc Đạn | Ma pháp | Phép thuật hệ Độc cấp 2, bắn ra quả cầu độc |
+| 107 | Poison Touch | Độc Xúc | Ma pháp | Phép thuật hệ Độc cấp 1, gây sát thương độc khi chạm vào (gây hại cho cả người dùng) |
+| 108 | Poison Resist | Thuật Kháng Độc | Ma pháp | Phép thuật hệ Độc cấp 3, tạm thời tăng khả năng kháng độc |
+| 109 | Parallel Minds | Phân thân Tư duy | Kỹ năng thụ động | Tiến hóa từ Tư duy Song song, phân tách tâm trí thành các phân khu độc lập |
+| 110 | Imperial Scales | Long Lân Đế Vương | Kỹ năng thụ động | Phiên bản nâng cấp của Long Lân, tăng thủ và làm chệch cấu trúc ma pháp |
+| 111 | Light Attack | Quang Công Kích | Kỹ năng | Đòn tấn công mang thuộc tính ánh sáng |
+| 112 | Desire | Dục Vọng | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
+| 113 | Wrath | Phẫn Nộ | Kỹ năng đặc biệt | Kỹ năng dòng Tội lỗi lớn |
+| 114 | Usurp | Cướp Đoạt | Kỹ năng | Cướp đoạt chỉ số/kỹ năng của mục tiêu |
+| 115 | Crude | Thô Bạo | Kỹ năng | Kỹ năng tăng cường sát thương thô bạo |
+| 116 | Intimidation | Uy Áp | Kỹ năng | Kỹ năng đe dọa, gieo rắc nỗi sợ cho kẻ địch |
+| 117 | Spatial Magic | Ma pháp Không gian | Ma pháp | Ma pháp tác động lên cấu trúc không gian |
+| 118 | Far Talk / Fartalk | Viễn Thoại | Kỹ năng chủ động | Kỹ năng dùng ma pháp để đàm thoại từ xa |
+| 119 | Summoning | Triệu Hồi | Kỹ năng chủ động | Kỹ năng dùng ma lực triệu hồi linh thú |
+| 120 | Flame Wrap | Quấn Lửa | Kỹ năng chủ động | Kỹ năng bao phủ cơ thể bằng lửa để tăng cường thể chất |
+| 121 | Inferno Breath | Hơi thở Hỏa Ngục | Kỹ năng chủ động | Đòn phun lửa diện rộng hủy diệt của Hỏa Long |
+| 122 | Lust | [Ái Dục] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội của Hugo |
+| 123 | Hypnosis | [Thôi miên] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 124 | Brainwashed | [Tẩy não] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 125 | Charmed | [Mê hoặc] | Trạng thái | Trạng thái bất thường của nhân vật bị thao túng |
+| 126 | Heavy Evil Eye | [Trọng Lực Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gia tăng trọng lực lên mục tiêu |
+| 127 | Sloth | [Lười Biếng] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội |
+| 128 | Jinx Evil Eye | [Chú Oán Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gây sát thương nguyền rủa và chuyển HP, MP, SP đối thủ sang người dùng |
+| 129 | Inert Evil Eye | [Ngưng Trệ Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn áp đặt hiệu ứng tựa đóng băng thời gian |
+| 130 | Clairvoyance | [Thiên Lý Nhãn] | Kỹ năng | Cải thiện Thị giác Viễn vọng và thêm hiệu ứng nhìn xuyên thấu |
+| 131 | Medicine Synthesis | [Tổng hợp Thuốc] | Kỹ năng chủ động | Tự chế tạo các loại thuốc hồi phục hoặc hỗ trợ |
+| 132 | Healing Magic | [Ma pháp Trị liệu] | Ma pháp | Ma pháp giúp chữa trị vết thương và phục hồi thể trạng |
+| 133 | Dark Magic | [Ma pháp Hắc ám] | Ma pháp | Phép thuật bóng tối cấp độ cao hơn Ma pháp Bóng tối |
+| 134 | Presence Detection | [Phát hiện Hiện diện] | Kỹ năng chủ động | Cảnh báo hoặc cảm nhận sự hiện diện của các sinh thể xung quanh |
+| 135 | Light Magic | Quang ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính ánh sáng |
+| 136 | Wind Magic | Phong ma pháp | Ma pháp | Ma pháp sử dụng thuộc tính gió |
+| 137 | Divinity Expansion | [Mở rộng Thần giới] | Kỹ năng thụ động | Kỹ năng mở rộng trường thần giới |
+| 138 | Flight | [Phi hành] | Kỹ năng chủ động/thụ động | Khả năng bay lượn trên bầu trời |
+| 139 | Satiation | [No Nê] | Kỹ năng | Giúp dự trữ thức ăn dư thừa dưới dạng năng lượng (HP, MP, SP) |
+| 140 | Mirror Shield | [Khiên Gương] | Ma pháp | Một phép thuật phản đòn của Thánh Quang Ma pháp giúp phản xạ hoặc làm chệch hướng đòn tấn công |
+| 141 | Wyrm Barrier | [Phi Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp giúp giảm uy lực ma pháp đối phương tương tự như vảy phi long |
+| 142 | Wyrm Scales | [Phi Long Lân] | Kỹ năng thụ động | Vảy phi long giúp giảm sát thương ma pháp và vật lý |
+| 143 | Mercy | [Từ Bi] | Kỹ năng | Kỹ năng Ruler thuộc dòng Thất Đại Tội giúp hồi sinh người chết |
+| 144 | Concealment | [Che giấu] | Kỹ năng chủ động | Giúp che giấu các chỉ số và kỹ năng khỏi Thẩm định |
+| 145 | Presence Perception | [Cảm nhận Hiện diện] | Kỹ năng thụ động | Giúp cảm nhận sự hiện diện của các sinh thể xung quanh |
+| 146 | Terrain Wall | [Tường Địa hình] | Ma pháp | Phép thuật tạo tường chắn bằng đất thuộc Ma pháp Địa hình |
+| 147 | Terrain Spear | [Thương Địa hình] | Ma pháp | Phép thuật tạo thương tấn công bằng đất thuộc Ma pháp Địa hình |
+| 148 | Large-Scale Teleport | [Dịch chuyển Quy mô lớn] | Ma pháp | Phép thuật dịch chuyển một nhóm lớn đối tượng từ xa |
+| 149 | Kin Control | [Điều khiển Đồng loại] | Kỹ năng | Kỹ năng cho phép kiểm soát và ra lệnh cho con cái hoặc các cá thể đồng tộc |
+| 150 | Heavy Magic | [Trọng Lực Ma Pháp] | Ma pháp | Ma pháp điều khiển trọng lực và khối lượng |
+| 151 | HP Ultra-Fast Recovery | [Tự hồi phục HP siêu tốc] | Kỹ năng thụ động | Tốc độ hồi phục HP cực nhanh |
+| 152 | SP Minimized Consumption | [Giảm tiêu hao SP tối thiểu] | Kỹ năng thụ động | Giảm tối đa lượng SP tiêu hao |
+| 153 | SP Rapid Recovery | [Tự hồi phục SP nhanh] | Kỹ năng thụ động | Tốc độ hồi phục SP nhanh |
+| 154 | Destruction Super-Enhancement | [Siêu tăng cường Hủy diệt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính hủy diệt |
+| 155 | Impact Super-Enhancement | [Siêu tăng cường Va chạm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính va chạm |
+| 156 | Cutting Super-Enhancement | [Siêu tăng cường Cắt] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính cắt |
+| 157 | Piercing Super-Enhancement | [Siêu tăng cường Đâm] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính đâm |
+| 158 | Shock Super-Enhancement | [Siêu tăng cường Sốc] | Kỹ năng thụ động | Tăng cường cực đại thuộc tính sốc |
+| 159 | Status Condition Super-Enhancement | [Siêu tăng cường Trạng thái bất thường] | Kỹ năng thụ động | Tăng cường cực đại khả năng gây trạng thái bất thường |
+| 160 | Battle Divinity | [Đấu Thần Đấu Pháp] | Kỹ năng chủ động | Bản nâng cấp tối cao của Ý chí chiến đấu |
+| 161 | Ability Conferment | [Truyền Chỉ Số] | Kỹ năng chủ động | Khả năng truyền chỉ số cho mục tiêu |
+| 162 | Energy Super-Attack | [Siêu công kích Năng lượng] | Kỹ năng chủ động | Tấn công bằng năng lượng siêu cấp |
+| 163 | Divine Dragon Power | [Thần Long Lực] | Kỹ năng chủ động | Sức mạnh thần long vĩ đại |
+| 164 | Dragon Barrier | [Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp bảo hộ của Long tộc |
+| 165 | Enhanced Paralysis Attack | [Tăng cường Tấn công Tê liệt] | Kỹ năng chủ động/thụ động | Nâng cấp khả năng gây tê liệt khi tấn công |
+| 166 | Divine Thread Weaving | [Thần Kỹ Dệt Tơ] | Kỹ năng chủ động | Bản nâng cấp tối cao của Tạo Tơ/Tơ nghệ |
+| 167 | Probability Super-Correction | [Hiệu chỉnh Xác suất siêu cấp] | Kỹ năng thụ động | Hiệu chỉnh xác suất có lợi ở mức tối thượng |
+| 168 | Ultimate Life | [Sinh mệnh Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại HP |
+| 169 | Ultimate Magic | [Ma pháp Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại MP và chỉ số ma pháp |
+| 170 | Ultimate Movement | [Di chuyển Tối thượng] | Kỹ năng thụ động | Gia tăng cực đại tốc độ và độ cơ động |
+| 171 | Fortune | [Vận May] | Kỹ năng thụ động | Tăng cực đại chỉ số may mắn |
+| 172 | Deva | [Thiên Nhân] | Kỹ năng thụ động | Tăng cực đại chỉ số phòng ngự |
+| 173 | Sanctum | [Thánh Vực] | Kỹ năng thụ động | Tăng cực đại chỉ số kháng tính |
+| 174 | Annihilating Evil Eye | [Tử Vong Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn mang thuộc tính Hủ thực (Tử vong) |
+| 175 | Thought Super-Acceleration | [Gia tốc Tư duy Siêu cấp] | Kỹ năng thụ động | Tiến hóa từ Gia tốc Tư duy, đẩy nhanh tư duy lên mức cực đại |
+| 176 | Future Sight | [Tương Lai Nhãn] | Kỹ năng thụ động | Tiến hóa từ Tiên kiến (Foresight), cho phép thấy trước tương lai |
+| 177 | Rot Attribute | Thuộc tính Hủ thực | Thuộc tính ma pháp | Thuộc tính phá hủy trực tiếp cấu trúc vật chất và linh hồn |
+| 178 | Hard Armor | Giáp Cứng | Kỹ năng thụ động | Kỹ năng gia tăng độ cứng cáp của da/vảy để phòng thủ |
+| 179 | Steel Body | Thân Thể Thép | Kỹ năng thụ động | Kỹ năng hóa thép thân thể để gia tăng sức phòng ngự vật lý |
+| 180 | HP Rapid Recovery | Tự hồi phục HP nhanh | Kỹ năng thụ động | Tự động hồi phục HP với tốc độ nhanh |
+| 181 | MP Recovery Speed | Tốc độ hồi phục MP | Kỹ năng thụ động | Gia tăng tốc độ hồi phục lượng MP theo thời gian |
+| 182 | Magic Power Attack | Ma lực Công kích | Kỹ năng chủ động | Đòn tấn công vật lý mang theo thuộc tính ma lực |
+| 183 | Terrain Attack | Địa hình Công kích | Kỹ năng chủ động/thụ động | Đòn tấn công tận dụng hoặc tác động lên cấu trúc địa hình xung quanh |
+| 184 | Terrain Enhancement | Địa hình Tăng cường | Kỹ năng thụ động | Gia tăng sức mạnh chiến đấu khi đứng trên địa hình phù hợp |
+| 185 | Destruction Resistance | Kháng Hủy diệt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công thuộc tính hủy diệt |
+| 186 | Cutting Resistance | Kháng Cắt | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng chém cắt |
+| 187 | Piercing Resistance | Kháng Đâm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng đâm thọc |
+| 188 | Impact Resistance | Kháng Va chạm | Kỹ năng thụ động | Giảm sát thương nhận vào từ các đòn tấn công dạng va đập |
+| 189 | Shock Resistance | Kháng Sốc | Kỹ năng thụ động | Giảm sát thương nhận vào từ các chấn động mạnh hoặc xung kích |
+| 190 | Terrain Nullification | Vô hiệu Địa hình | Kỹ năng thụ động | Vô hiệu hóa mọi tác động bất lợi từ địa hình xung quanh lên bản thân |
+| 191 | Dragon Power | Long Lực | Kỹ năng chủ động | Kỹ năng giải phóng và chiến đấu bằng sức mạnh của loài rồng |
+| 192 | Talisman | Hộ Phù | Kỹ năng thụ động | Kỹ năng tăng cường khả năng chống đỡ các đòn tấn công ma pháp |
+| 193 | Monk | Tu sĩ | Kỹ năng thụ động | Kỹ năng gia tăng các chỉ số liên quan đến tinh thần hoặc trị liệu |
+| 194 | Longevity | Trường Thọ | Kỹ năng thụ động | Kỹ năng gia tăng tuổi thọ và sức chịu đựng của sinh vật |
+| 195 | Magic Hoard | Ma Lượng Tích Trữ | Kỹ năng thụ động | Kỹ năng gia tăng đáng kể lượng MP dự trữ |
+| 196 | Egg-Laying | Đẻ Trứng | Kỹ năng chủ động | Kỹ năng cho phép tự sinh sản đơn tính |
+| 197 | Skill Elimination | [Xóa Kỹ Năng] | Kỹ năng | Kỹ năng hệ thống tự động xóa bỏ toàn bộ kỹ năng của người dùng sau khi kích hoạt |
+| 198 | Swim | [Bơi] | Kỹ năng chủ động | Kỹ năng cho phép bơi lội dưới chất lỏng |
+| 199 | Odorless | [Vô hương] | Kỹ năng thụ động | Kỹ năng nhận được khi max Silence, giúp triệt tiêu mùi cơ thể |
+| 200 | Exhaustion Nullification | [Vô hiệu Kiệt sức] | Kỹ năng thụ động | Kỹ năng ngăn chặn cơ thể khỏi mệt mỏi và kiệt sức dù không ngủ |
+| 201 | Spatial Storage | [Lưu trữ Không gian] | Ma pháp | Phép thuật hệ ma pháp không gian dùng để cất giữ đồ vật vào chiều không gian khác |
+| 202 | thunder magic / lightning magic | Lôi ma pháp | Ma pháp | Ma pháp thuộc tính sấm sét |
+| 203 | Panoptic Vision | [Vạn Lý Nhãn] | Kỹ năng | Cải thiện Thiên Lý Nhãn, cho phép nhìn xa, Thẩm định và dùng Tà Nhãn tầm xa |
+| 204 | Student Roster | [Danh Sách Học Sinh] | Kỹ năng đặc biệt | Kỹ năng Ruler độc quyền của cô Oka giúp nắm rõ thông tin và trạng thái của các học sinh |
+| 205 | Ninja | [Nhẫn Giả] | Kỹ năng | Kỹ năng độc quyền của người tái sinh Kusama Shinobu |
+| 206 | duplication jutsu | [Phân Thân Thuật] | Kỹ năng | Hiệu ứng từ kỹ năng Nhẫn Giả cho phép tạo phân thân và hoán đổi vị trí |
+| 207 | Short-Range Teleport | [Dịch chuyển Cự ly ngắn] | Kỹ năng | Khả năng dịch chuyển khoảng cách ngắn tương tự hiệu ứng Phân Thân Thuật |
+| 208 | Sealing Evil Eye | [Phong Ấn Tà Nhãn] | Kỹ năng chủ động | Tà nhãn gây sát thương thuộc tính Phong Ấn, có thể phong ấn kỹ năng của mục tiêu |
+| 209 | Antimagic Evil Eye | [Kháng Ma Tà Nhãn] | Kỹ năng chủ động | Tà nhãn gây sát thương thuộc tính Kháng Ma, cản trở hoặc ngăn chặn niệm ma pháp |
+| 210 | Warped Evil Eye | [Bóp Méo Tà Nhãn] | Kỹ năng chủ động | Tà nhãn bóp méo không gian, gây sát thương thuộc tính Không Gian lên mục tiêu |
+| 211 | Status Condition Nullification | [Vô hiệu Trạng thái bất thường] | Kỹ năng thụ động | Kháng tính tối thượng giúp vô hiệu hóa hoàn toàn mọi trạng thái bất thường |
+| 212 | Tempest Magic | [Bão Tố ma pháp] | Ma pháp | Phép thuật thuộc tính gió cấp tối thượng tạo ra bão tố |
+| 213 | Dragon Wind | [Long Phong] | Ma pháp | Phép thuật Bão Tố ma pháp cấp bốn tạo ra vòi rồng |
+| 214 | Greed | [Tham Lam] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Thất Đại Tội của Hugo, đoạt lấy sức mạnh của kẻ bị giết |
+| 215 | Miracle Magic | [Kỳ Tích Ma Pháp] | Ma pháp | Phép thuật trị liệu tối thượng có khả năng chữa lành hầu hết mọi vết thương miễn là mục tiêu chưa chết |
+| 216 | Charity | [Nhân Ái] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính, áp dụng hiệu ứng Tự hồi phục HP siêu tốc cho bản thân và đồng minh |
+| 217 | Iron Defense | [Thiết Phòng Ngự] | Kỹ năng thụ động | Kỹ năng gia tăng đáng kể chỉ số phòng ngự vật lý |
+| 218 | Shieldsmanship | [Khiên Thuật] | Kỹ năng thụ động | Kỹ năng gia tăng hiệu quả sử dụng khiên và độ bền của khiên |
+| 219 | Offer | [Dâng Hiến] | Kỹ năng chủ động | Kỹ năng độc quyền của Ruler of Charity |
+| 220 | Conquest | [Chinh Phục] | Kỹ năng chủ động | Kỹ năng gia tăng đáng kể khả năng khống chế và chiếm ưu thế trước đối phương |
+| 221 | Stupefaction | [Đờ Đẫn] | Kỹ năng chủ động | Kỹ năng áp đặt trạng thái ngơ ngác hoặc đờ đẫn cho đối phương |
+| 222 | Jinx Magic | [Chú ma pháp] | Ma pháp | Phép thuật gây hiệu ứng nguyền rủa hoặc chú oán lên mục tiêu |
+| 223 | Rage | [Cuồng Nộ] | Kỹ năng đặc biệt | Kỹ năng gia tăng mạnh chỉ số tấn công vật lý khi ở trạng thái thịnh nộ |
+| 224 | Endurance | [Bền Bỉ] | Kỹ năng thụ động | Kỹ năng gia tăng chỉ số SP bền bỉ cực đại |
+| 225 | Running | [Chạy] | Kỹ năng thụ động | Kỹ năng tăng cường tốc độ chạy và khả năng bứt tốc trên mặt đất |
+| 226 | Sublimation | [Thăng Hoa] | Kỹ năng thụ động | Kỹ năng nhận được từ danh hiệu Kẻ Thống Trị Bạo Thực |
+| 227 | Magic Conferment | [Truyền Phép] | Kỹ năng chủ động | Khả năng truyền phép thuật cho quyến thuộc hoặc mục tiêu |
+| 228 | Seismic Magic | [Địa Chấn Ma Pháp] | Ma pháp | Phép thuật hệ ma pháp đất cấp nâng cao gây chấn động mạnh |
+| 229 | Gale Magic | [Cuồng Phong ma pháp] | Ma pháp | Phép thuật thuộc tính gió cấp nâng cao |
+| 230 | Magic Power Conferment | [Truyền Ma Lực] | Kỹ năng chủ động | Khả năng truyền ma lực cho quyến thuộc hoặc mục tiêu |
+| 231 | Magic Power Super-Attack | [Siêu công kích Ma lực] | Kỹ năng chủ động | Tấn công bằng ma lực siêu cấp |
+| 232 | Dimensional Magic | [Ma pháp Chiều không gian] | Ma pháp | Ma pháp tác động và di chuyển xuyên chiều không gian |
+| 233 | Anti-Technique Barrier | [Kết giới Phản Kỹ thuật] | Kỹ năng / Thuật ngữ | Kết giới bài trừ hệ thống, triệt tiêu toàn bộ ma pháp, kỹ năng và chỉ số tiếp xúc với không khí bên ngoài cơ thể |
 
 ---
 
 ## 4. Thuật Ngữ Thế Giới Quan / Quái Vật
+
 
 | # | Tiếng Anh | Tiếng Việt | Danh mục | Ghi chú |
 |---|-----------|------------|----------|---------|
@@ -365,93 +401,109 @@
 | 57 | Earth Wyrm | Địa Phi Long | Quái vật | Loài phi long thuộc tính Thổ sinh sống trong Mê cung Lớn |
 | 58 | Lesser Earth Dragon | Địa Long Cấp thấp | Quái vật | Phiên bản địa long thứ cấp / nhỏ tuổi |
 | 59 | Ruler of Perseverance | Kẻ Thống Trị Kiên Trì | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Kiên trì |
-| 60 | Foul Feeder | Kẻ Ăn Uế Tạp | Danh hiệu | Danh hiệu nhận được khi ăn những thứ độc hại hoặc không ăn được |
-| 61 | Kin Eater | Kẻ Ăn Đồng Loại | Danh hiệu | Danh hiệu nhận được khi ăn thịt sinh vật cùng loài |
-| 62 | Zoa Ele | Zoa Ele | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ nhánh sát thủ, bị coi là điềm xấu |
-| 63 | Word of God | Thần ngôn | Thuật ngữ | Giọng nói hệ thống vang lên trong đầu sinh vật khi nhận kỹ năng hoặc lên cấp |
-| 64 | Followers of the Word of God | Thần Ngôn Giáo | Thuật ngữ | Một trong những tôn giáo lớn nhất của con người tôn thờ Thần ngôn |
-| 65 | Ruler of Wisdom | Kẻ Thống Trị Trí Tuệ | Danh hiệu | Danh hiệu dành cho kẻ sở hữu kỹ năng Trí Tuệ |
-| 66 | Ruler's Authority | Quyền hạn kẻ thống trị | Thuật ngữ | Quyền lực đặc biệt cho phép can thiệp sâu vào hệ thống hoặc linh hồn |
-| 67 | Ruler-Exclusive Skill | Kỹ năng độc quyền của kẻ thống trị | Thuật ngữ | Kỹ năng chỉ có thể được kích hoạt bởi Kẻ thống trị |
-| 68 | Arachne | Arachne | Chủng tộc quái vật | Nhánh tiến hóa nhện bán nhân (nửa thân trên là người, nửa thân dưới là nhện) |
-| 69 | Goddess religion | Nữ Thần Giáo | Thuật ngữ | Tôn giáo tôn thờ Nữ thần của thế giới này |
-| 70 | false idol / false god | ngụy thần | Thuật ngữ | Vị thần giả tạo trong đức tin của một tôn giáo khác |
-| 71 | Humanification | Nhân hóa | Thuật ngữ | Khả năng biến hình từ quái vật thành dạng người |
-| 72 | Paralyzing Evil Eye | Tê Liệt Tà Nhãn | Kỹ năng chủ động | Tà Nhãn gây trạng thái tê liệt |
-| 73 | Wyrm Slayer | Kẻ diệt Phi Long | Danh hiệu | Danh hiệu khi diệt nhiều quái vật hệ phi long |
-| 74 | Fearbringer | Kẻ gieo rắc kinh hoàng | Danh hiệu | Danh hiệu nhận được khi gieo rắc sợ hãi cho người khác |
-| 75 | Abyss Magic | Ma pháp Vực sâu | Ma pháp | Ma pháp tối thượng hủy diệt linh hồn |
-| 76 | Marionette threads | Tơ Rối | Kỹ năng chủ động | Kỹ năng dùng tơ nhện siêu mảnh để điều khiển vật thể/sinh vật |
-| 77 | Holy Light Magic | Thánh Quang Ma Pháp | Ma pháp | Ma pháp thuộc tính ánh sáng thánh chế ngự bóng tối |
-| 78 | evil god | tà thần | Thuật ngữ | Thực thể thần thánh mang thuộc tính tà ác, gây hỗn loạn hoặc mua vui |
-| 79 | Fire Wyrm | Hỏa Phi Long | Quái vật | Loài phi long phun lửa sống ở Tầng Trung |
-| 80 | Fire Dragon | Hỏa Long | Quái vật | Loài rồng phun lửa cấp cao hơn Hỏa Phi Long |
-| 81 | Queen Taratect | Taratect Nữ Vương | Chủng tộc quái vật | Loài nhện khổng lồ huyền thoại đứng đầu Taratect |
-| 82 | Wyrm Egg | Trứng Phi Long | Thuật ngữ | Trứng chứa phi long đang ngủ hoặc chuẩn bị nở |
-| 83 | Fort Okun | Pháo đài Okun | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
-| 84 | Fort Dazarro | Pháo đài Dazarro | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
-| 85 | Fire Dragon Rend | Hỏa Long Rend | Quái vật | Con Hỏa Long chặn đánh Nhện nhỏ ở Tầng Trung |
-| 86 | Phoenix Feather | Lông vũ Phượng hoàng | Vật phẩm / Ma cụ | Vật phẩm đặc biệt giúp người sở hữu tạm thời trở nên vô địch |
-| 87 | Saint | Thánh nữ | Danh hiệu / Danh mục | Người đồng hành cùng Anh hùng đại diện cho Giáo hội |
-| 88 | Tank | Kẻ chịu đòn / Chống chịu | Thuật ngữ | Vị trí thu hút sát thương, bảo vệ tổ đội trong chiến đấu |
-| 89 | Shield bearer | Người mang khiên | Thuật ngữ / Danh hiệu | Người chuyên sử dụng khiên bảo vệ đồng đội |
-| 90 | court mage | pháp sư hoàng gia | Thuật ngữ | Pháp sư phục vụ trong cung điện hoàng tộc |
-| 91 | head court mage | trưởng pháp sư hoàng gia | Thuật ngữ | Pháp sư đứng đầu hệ thống pháp sư hoàng gia của một quốc gia |
-| 92 | Seven Deadly Sins-class | Lớp Thất Đại Tội | Thuật ngữ | Nhóm kỹ năng Ruler độc quyền mạnh nhất hệ thống |
-| 93 | royal divine sword | thần kiếm hoàng gia | Vật phẩm / Ma cụ | Thanh kiếm truyền đời trao cho Anh hùng của hoàng gia Analeit |
-| 94 | Ede Saine | Ede Saine | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ Zoa Ele, mang ý nghĩa là kẻ kề cận cái chết |
-| 95 | Chakram | Chakram | Vật phẩm / Vũ khí | Vũ khí ném dạng tròn sắc bén |
-| 96 | white wyrm | phi long trắng | Chủng tộc quái vật | Dạng rồng trắng có cánh tiến hóa mới của Fei |
-| 97 | Puppet Taratect | Taratect Rối (Nhện Rối) | Chủng tộc quái vật | Chủng tộc nhện rối của Ma Vương Ariel (được nhóm Shun gọi là ninja) |
-| 98 | Spatial Storage item | vật phẩm Lưu trữ Không gian | Vật phẩm / Ma cụ | Vật phẩm hoặc ma cụ dùng để lưu trữ đồ đạc trong không gian nén |
-| 99 | Divinity Field | Trường Thần giới | Thuật ngữ | Nơi sâu thẳm nhất trong linh hồn của một sinh vật sống |
-| 100 | Orthocadinaht | Orthocadinaht | Chủng tộc quái vật | Chủng tộc nhện tiến hóa chuyên về ma pháp, sở hữu trí tuệ cao |
-| 101 | Dried Krikta Fruit | Quả Krikta sấy khô | Vật phẩm | Quả sấy khô có vị ngọt giúp hồi phục một lượng nhỏ MP |
-| 102 | Earth Dragon Gehre | Địa Long Gehre | Quái vật | Loài địa long thon gọn, sắc sảo và cực kỳ nhanh nhẹn cư ngụ tại Tầng Dưới |
-| 103 | Elroe Baraggish | Baraggish Elroe | Quái vật | Quái vật rắn khổng lồ, dạng tiến hóa từ loài rắn ở Tầng Trên cư ngụ tại Tầng Dưới |
-| 104 | Arch Taratect | Taratect Thượng cổ | Chủng tộc quái vật | Chủng tộc nhện khổng lồ đứng đầu taratect, lớn thứ hai sau Queen Taratect |
-| 105 | Telekinesis | Niệm lực | Kỹ năng chủ động | Kỹ năng dịch chuyển vật thể bằng ý nghĩ |
-| 106 | Probability Super-Correction | Hiệu chỉnh Xác suất siêu cấp | Kỹ năng thụ động | Dạng tiến hóa siêu cấp của Hiệu chỉnh Xác suất, tăng mạnh tỷ lệ thành công |
-| 107 | Magic Divinity | Ma Thần Đấu Pháp | Kỹ năng chủ động | Dạng tiến hóa siêu cấp của Ma đấu pháp, tăng chỉ số ma pháp cực lớn |
-| 108 | Repellent Evil Eye | Xích Lực Tà Nhãn | Kỹ năng chủ động | Dạng tiến hóa của Trọng Lực Tà Nhãn, có thể đẩy hoặc kéo mục tiêu tùy ý |
-| 109 | Black Magic | Hắc Ma pháp | Ma pháp | Phép thuật bóng tối cấp cao tiến hóa từ Ma pháp Hắc ám |
-| 110 | Black Bullet | Hắc Đạn | Ma pháp | Phép tấn công bắn ra quả cầu đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Sốc |
-| 111 | Black Spear | Hắc Thương | Ma pháp | Phép tấn công bắn ra ngọn thương đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Đâm |
-| 112 | Dark Bullet | Hắc ám Đạn | Ma pháp | Phép tấn công cơ bản bắn ra quả cầu hắc ám thuộc Ma pháp Hắc ám |
-| 113 | Spider Thread | Tơ Nhện | Kỹ năng chủ động | Kỹ năng phun tơ nhện đặc trưng của chủng tộc taratect |
-| 114 | Appraisal Blocked | Thẩm định bị chặn | Trạng thái hệ thống | Trạng thái hiển thị khi đối tượng ngăn cản Thẩm định |
-| 115 | Kirekock | Kirekock | Quái vật | Quái vật dạng chim (thú triệu hồi của Buirimus) |
-| 116 | Rock Turtle | Rock Turtle | Quái vật | Quái vật dạng rùa đá (thú triệu hồi của Buirimus) |
-| 117 | Feveroot | Feveroot | Quái vật | Quái vật dạng hổ lửa (thú triệu hồi của Buirimus) |
-| 118 | Suiten | Suiten | Quái vật | Quái vật dạng Thủy Phi Long (thú triệu hồi của Buirimus) |
-| 119 | General Finjicote | Finjicote Đại tướng | Quái vật | Cấp bậc tiến hóa cấp cao tiếp theo của High Finjicote |
-| 120 | Water Dragon | Thủy Long | Quái vật | Loài rồng biển khổng lồ thống trị đại dương |
-| 121 | Ruler of Envy | Kẻ Thống Trị Đố Kỵ | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Đố kỵ |
-| 122 | Earth Dragon | Địa Long | Quái vật | Loài rồng đất kiêu hãnh cư ngụ tại Tầng Dưới |
-| 123 | Earth Dragon Alaba | Địa Long Alaba | Quái vật | Con Địa Long huyền thoại tại Tầng Dưới, nỗi ám ảnh nguyên thủy của Nhện nhỏ |
-| 124 | wyrm | phi long | Quái vật / Phân loại | Loài quái vật giống rồng nhưng cấp bậc thấp hơn rồng thực sự |
-| 125 | samurai | samurai | Thuật ngữ văn hóa | Chiến binh kiêu hãnh của Nhật Bản cổ, được Ariel ví với sự kiêu hãnh của loài Địa Long |
-| 126 | Labyrinth sickness | Hội chứng sợ mê cung | Thuật ngữ | Tình trạng suy nhược cơ thể và tinh thần do ở lâu ngày trong mê cung |
-| 127 | Dragon Slayer | Kẻ diệt Rồng | Danh hiệu | Danh hiệu huyền thoại nhận được khi tham gia tiêu diệt rồng |
-| 128 | Earth Dragon Ekisa | Địa Long Ekisa | Quái vật | Con Địa Long cấp 2 hung dữ vừa tiến hóa ở Tầng Trên Mê cung Lớn |
-| 129 | Zana Horowa | Zana Horowa | Chủng tộc quái vật | Chủng tộc nhện tiến hóa đặc biệt, đứng cùng đẳng cấp với Queen Taratect, sở hữu kỹ năng Bất tử |
-| 130 | Immortality | Bất tử | Kỹ năng đặc biệt | Kỹ năng tối thượng giúp người sở hữu không bao giờ chết bên trong hệ thống |
-| 131 | Champion | Quán quân | Danh hiệu | Danh hiệu dành cho người xứng đáng là quán quân, gây hiệu ứng "Sợ hãi" lên đối phương |
-| 132 | Status Condition Nullification | Vô hiệu Trạng thái bất thường | Kỹ năng thụ động | Dạng tiến hóa tối thượng của Kháng Trạng thái bất thường, hóa giải mọi tác động tiêu cực |
-| 133 | monogenetic reproduction | sinh sản vô tính | Thuật ngữ sinh học | Hình thức sinh sản không cần thụ tinh |
-| 134 | guerrilla warfare | chiến tranh du kích | Thuật ngữ quân sự | Chiến thuật chiến đấu nhỏ lẻ, bất ngờ và cơ động |
-| 135 | Origin taratect | Taratect Thủy Tổ | Chủng tộc quái vật | Chủng tộc nhện đầu tiên, tổ tiên của tất cả các loài taratect |
-| 136 | Hades | Hades | Ma pháp | Phép thuật cấp mười của Ma pháp Vực sâu, phá hủy hoàn toàn cả linh hồn mục tiêu |
-| 137 | Dimensional Maneuvering | Cơ động Chiều không gian | Kỹ năng chủ động | Dạng tiến hóa tối thượng của Cơ động Không gian, cho phép di chuyển cực kỳ linh hoạt xuyên không gian |
-| 138 | Gluttony | Bạo Thực | Kỹ năng đặc biệt | Một trong bảy kỹ năng Ruler thuộc lớp Thất Đại Tội, cho phép nuốt chửng mọi thứ |
-| 139 | teleportation point | điểm dịch chuyển | Thuật ngữ / Hệ thống | Điểm dùng phép dịch chuyển để di chuyển nhanh giữa các vùng |
-| 140 | teleportation circle | vòng tròn dịch chuyển | Thuật ngữ / Hệ thống | Vòng tròn ma pháp dùng để dịch chuyển |
-| 141 | water wyrm | Thủy Phi Long | Quái vật | Loài phi long thuộc tính nước cư ngụ tại đại dương |
-| 142 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại do tộc Elf chế tạo |
+| 60 | Zoa Ele | Zoa Ele | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ nhánh sát thủ, bị coi là điềm xấu |
+| 61 | Word of God | Thần ngôn | Thuật ngữ | Giọng nói hệ thống vang lên trong đầu sinh vật khi nhận kỹ năng hoặc lên cấp |
+| 62 | Followers of the Word of God | Thần Ngôn Giáo | Thuật ngữ | Một trong những tôn giáo lớn nhất của con người tôn thờ Thần ngôn |
+| 63 | Ruler of Wisdom | Kẻ Thống Trị Trí Tuệ | Danh hiệu | Danh hiệu dành cho kẻ sở hữu kỹ năng Trí Tuệ |
+| 64 | Ruler's Authority | Quyền hạn kẻ thống trị | Thuật ngữ | Quyền lực đặc biệt cho phép can thiệp sâu vào hệ thống hoặc linh hồn |
+| 65 | Ruler-Exclusive Skill | Kỹ năng độc quyền của kẻ thống trị | Thuật ngữ | Kỹ năng chỉ có thể được kích hoạt bởi Kẻ thống trị |
+| 66 | Arachne | Arachne | Chủng tộc quái vật | Nhánh tiến hóa nhện bán nhân (nửa thân trên là người, nửa thân dưới là nhện) |
+| 67 | Goddess religion | Nữ Thần Giáo | Thuật ngữ | Tôn giáo tôn thờ Nữ thần của thế giới này |
+| 68 | false idol / false god | ngụy thần | Thuật ngữ | Vị thần giả tạo trong đức tin của một tôn giáo khác |
+| 69 | Humanification | Nhân hóa | Thuật ngữ | Khả năng biến hình từ quái vật thành dạng người |
+| 70 | Paralyzing Evil Eye | Tê Liệt Tà Nhãn | Kỹ năng chủ động | Tà Nhãn gây trạng thái tê liệt |
+| 71 | Wyrm Slayer | Kẻ diệt Phi Long | Danh hiệu | Danh hiệu khi diệt nhiều quái vật hệ phi long |
+| 72 | Fearbringer | Kẻ gieo rắc kinh hoàng | Danh hiệu | Danh hiệu nhận được khi gieo rắc sợ hãi cho người khác |
+| 73 | Marionette threads | Tơ Rối | Kỹ năng chủ động | Kỹ năng dùng tơ nhện siêu mảnh để điều khiển vật thể/sinh vật |
+| 74 | Holy Light Magic | Thánh Quang Ma Pháp | Ma pháp | Ma pháp thuộc tính ánh sáng thánh chế ngự bóng tối |
+| 75 | evil god | tà thần | Thuật ngữ | Thực thể thần thánh mang thuộc tính tà ác, gây hỗn loạn hoặc mua vui |
+| 76 | Fire Wyrm | Hỏa Phi Long | Quái vật | Loài phi long phun lửa sống ở Tầng Trung |
+| 77 | Fire Dragon | Hỏa Long | Quái vật | Loài rồng phun lửa cấp cao hơn Hỏa Phi Long |
+| 78 | Queen Taratect | Taratect Nữ Vương | Chủng tộc quái vật | Loài nhện khổng lồ huyền thoại đứng đầu Taratect |
+| 79 | Wyrm Egg | Trứng Phi Long | Thuật ngữ | Trứng chứa phi long đang ngủ hoặc chuẩn bị nở |
+| 80 | Fort Okun | Pháo đài Okun | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
+| 81 | Fort Dazarro | Pháo đài Dazarro | Địa danh | Một trong tám pháo đài lớn của loài người chống ma tộc |
+| 82 | Fire Dragon Rend | Hỏa Long Rend | Quái vật | Con Hỏa Long chặn đánh Nhện nhỏ ở Tầng Trung |
+| 83 | Phoenix Feather | Lông vũ Phượng hoàng | Vật phẩm / Ma cụ | Vật phẩm đặc biệt giúp người sở hữu tạm thời trở nên vô địch |
+| 84 | Saint | Thánh nữ | Danh hiệu / Danh mục | Người đồng hành cùng Anh hùng đại diện cho Giáo hội |
+| 85 | Tank | Kẻ chịu đòn / Chống chịu | Thuật ngữ | Vị trí thu hút sát thương, bảo vệ tổ đội trong chiến đấu |
+| 86 | Shield bearer | Người mang khiên | Thuật ngữ / Danh hiệu | Người chuyên sử dụng khiên bảo vệ đồng đội |
+| 87 | court mage | pháp sư hoàng gia | Thuật ngữ | Pháp sư phục vụ trong cung điện hoàng tộc |
+| 88 | head court mage | trưởng pháp sư hoàng gia | Thuật ngữ | Pháp sư đứng đầu hệ thống pháp sư hoàng gia của một quốc gia |
+| 89 | Seven Deadly Sins-class | Lớp Thất Đại Tội | Thuật ngữ | Nhóm kỹ năng Ruler độc quyền mạnh nhất hệ thống |
+| 90 | royal divine sword | thần kiếm hoàng gia | Vật phẩm / Ma cụ | Thanh kiếm truyền đời trao cho Anh hùng của hoàng gia Analeit |
+| 91 | Ede Saine | Ede Saine | Chủng tộc quái vật | Chủng tộc nhện nhỏ tiến hóa từ Zoa Ele, mang ý nghĩa là kẻ kề cận cái chết |
+| 92 | Chakram | Chakram | Vật phẩm / Vũ khí | Vũ khí ném dạng tròn sắc bén |
+| 93 | white wyrm | phi long trắng | Chủng tộc quái vật | Dạng rồng trắng có cánh tiến hóa mới của Fei |
+| 94 | Puppet Taratect | Taratect Rối (Nhện Rối) | Chủng tộc quái vật | Chủng tộc nhện rối của Ma Vương Ariel (được nhóm Shun gọi là ninja) |
+| 95 | Spatial Storage item | vật phẩm Lưu trữ Không gian | Vật phẩm / Ma cụ | Vật phẩm hoặc ma cụ dùng để lưu trữ đồ đạc trong không gian nén |
+| 96 | Divinity Field | Trường Thần giới | Thuật ngữ | Nơi sâu thẳm nhất trong linh hồn của một sinh vật sống |
+| 97 | Orthocadinaht | Orthocadinaht | Chủng tộc quái vật | Chủng tộc nhện tiến hóa chuyên về ma pháp, sở hữu trí tuệ cao |
+| 98 | Dried Krikta Fruit | Quả Krikta sấy khô | Vật phẩm | Quả sấy khô có vị ngọt giúp hồi phục một lượng nhỏ MP |
+| 99 | Earth Dragon Gehre | Địa Long Gehre | Quái vật | Loài địa long thon gọn, sắc sảo và cực kỳ nhanh nhẹn cư ngụ tại Tầng Dưới |
+| 100 | Elroe Baraggish | Baraggish Elroe | Quái vật | Quái vật rắn khổng lồ, dạng tiến hóa từ loài rắn ở Tầng Trên cư ngụ tại Tầng Dưới |
+| 101 | Arch Taratect | Taratect Thượng cổ | Chủng tộc quái vật | Chủng tộc nhện khổng lồ đứng đầu taratect, lớn thứ hai sau Queen Taratect |
+| 102 | Telekinesis | Niệm lực | Kỹ năng chủ động | Kỹ năng dịch chuyển vật thể bằng ý nghĩ |
+| 103 | Magic Divinity | Ma Thần Đấu Pháp | Kỹ năng chủ động | Dạng tiến hóa siêu cấp của Ma đấu pháp, tăng chỉ số ma pháp cực lớn |
+| 104 | Repellent Evil Eye | Xích Lực Tà Nhãn | Kỹ năng chủ động | Dạng tiến hóa của Trọng Lực Tà Nhãn, có thể đẩy hoặc kéo mục tiêu tùy ý |
+| 105 | Black Magic | Hắc Ma pháp | Ma pháp | Phép thuật bóng tối cấp cao tiến hóa từ Ma pháp Hắc ám |
+| 106 | Black Bullet | Hắc Đạn | Ma pháp | Phép tấn công bắn ra quả cầu đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Sốc |
+| 107 | Black Spear | Hắc Thương | Ma pháp | Phép tấn công bắn ra ngọn thương đen kịt thuộc Hắc Ma pháp, gây thêm sát thương thuộc tính Đâm |
+| 108 | Dark Bullet | Hắc ám Đạn | Ma pháp | Phép tấn công cơ bản bắn ra quả cầu hắc ám thuộc Ma pháp Hắc ám |
+| 109 | Spider Thread | Tơ Nhện | Kỹ năng chủ động | Kỹ năng phun tơ nhện đặc trưng của chủng tộc taratect |
+| 110 | Appraisal Blocked | Thẩm định bị chặn | Trạng thái hệ thống | Trạng thái hiển thị khi đối tượng ngăn cản Thẩm định |
+| 111 | Kirekock | Kirekock | Quái vật | Quái vật dạng chim (thú triệu hồi của Buirimus) |
+| 112 | Rock Turtle | Rock Turtle | Quái vật | Quái vật dạng rùa đá (thú triệu hồi của Buirimus) |
+| 113 | Feveroot | Feveroot | Quái vật | Quái vật dạng hổ lửa (thú triệu hồi của Buirimus) |
+| 114 | Suiten | Suiten | Quái vật | Quái vật dạng Thủy Phi Long (thú triệu hồi của Buirimus) |
+| 115 | General Finjicote | Finjicote Đại tướng | Quái vật | Cấp bậc tiến hóa cấp cao tiếp theo của High Finjicote |
+| 116 | Water Dragon | Thủy Long | Quái vật | Loài rồng biển khổng lồ thống trị đại dương |
+| 117 | Ruler of Envy | Kẻ Thống Trị Đố Kỵ | Danh hiệu | Danh hiệu đạt được nhờ sở hữu kỹ năng Đố kỵ |
+| 118 | wyrm | phi long | Quái vật / Phân loại | Loài quái vật giống rồng nhưng cấp bậc thấp hơn rồng thực sự |
+| 119 | samurai | samurai | Thuật ngữ văn hóa | Chiến binh kiêu hãnh của Nhật Bản cổ, được Ariel ví với sự kiêu hãnh của loài Địa Long |
+| 120 | Labyrinth sickness | Hội chứng sợ mê cung | Thuật ngữ | Tình trạng suy nhược cơ thể và tinh thần do ở lâu ngày trong mê cung |
+| 121 | Dragon Slayer | Kẻ diệt Rồng | Danh hiệu | Danh hiệu huyền thoại nhận được khi tham gia tiêu diệt rồng |
+| 122 | Earth Dragon Ekisa | Địa Long Ekisa | Quái vật | Con Địa Long cấp 2 hung dữ vừa tiến hóa ở Tầng Trên Mê cung Lớn |
+| 123 | Zana Horowa | Zana Horowa | Chủng tộc quái vật | Chủng tộc nhện tiến hóa đặc biệt, đứng cùng đẳng cấp với Queen Taratect, sở hữu kỹ năng Bất tử |
+| 124 | Immortality | Bất tử | Kỹ năng đặc biệt | Kỹ năng tối thượng giúp người sở hữu không bao giờ chết bên trong hệ thống |
+| 125 | Champion | Quán quân | Danh hiệu | Danh hiệu dành cho người xứng đáng là quán quân, gây hiệu ứng "Sợ hãi" lên đối phương |
+| 126 | monogenetic reproduction | sinh sản vô tính | Thuật ngữ sinh học | Hình thức sinh sản không cần thụ tinh |
+| 127 | guerrilla warfare | chiến tranh du kích | Thuật ngữ quân sự | Chiến thuật chiến đấu nhỏ lẻ, bất ngờ và cơ động |
+| 128 | Origin taratect | Taratect Thủy Tổ | Chủng tộc quái vật | Chủng tộc nhện đầu tiên, tổ tiên của tất cả các loài taratect |
+| 129 | Dimensional Maneuvering | Cơ động Chiều không gian | Kỹ năng chủ động | Dạng tiến hóa tối thượng của Cơ động Không gian, cho phép di chuyển cực kỳ linh hoạt xuyên không gian |
+| 130 | Gluttony | Bạo Thực | Kỹ năng đặc biệt | Một trong bảy kỹ năng Ruler thuộc lớp Thất Đại Tội, cho phép nuốt chửng mọi thứ |
+| 131 | teleportation point | điểm dịch chuyển | Thuật ngữ / Hệ thống | Điểm dùng phép dịch chuyển để di chuyển nhanh giữa các vùng |
+| 132 | teleportation circle | vòng tròn dịch chuyển | Thuật ngữ / Hệ thống | Vòng tròn ma pháp dùng để dịch chuyển |
+| 133 | water wyrm | Thủy Phi Long | Quái vật | Loài phi long thuộc tính nước cư ngụ tại đại dương |
+| 134 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại do tộc Elf chế tạo |
+| 135 | Undying Body | Thân Thể Bất Tử | Kỹ năng thụ động | Giúp kháng các thuộc tính và giữ lại 1 HP khi trúng đòn chí tử |
+| 136 | Progenitor | Chân Tổ | Danh hiệu | Danh hiệu cho ma cà rồng thuần chủng sinh ra đã là ma cà rồng |
+| 137 | thunder dragon | Lôi Long | Quái vật | Loài rồng mang thuộc tính sấm sét |
+| 138 | wind dragon | Phong Long | Quái vật | Loài rồng mang thuộc tính gió |
+| 139 | Spider Press | Tòa soạn Nhện | Ấn phẩm / Tổ chức | Tòa soạn báo hư cấu trong suy nghĩ độc thoại của Nhện |
+| 140 | An Illustrated Guide to Dangerous Creatures | Sách hướng dẫn minh họa về sinh vật nguy hiểm | Ấn phẩm | Cuốn sách hướng dẫn sinh vật hư cấu trong suy nghĩ độc thoại của Nhện |
+| 141 | divested of skills | bị tước kỹ năng | Thuật ngữ / Hệ thống | Nguyên nhân cái chết của học sinh trong Danh Sách Học Sinh do bị mất toàn bộ kỹ năng |
+| 142 | Rescuer | [Kẻ Cứu Trợ] | Danh hiệu | Danh hiệu dành cho người cứu giúp người khác, tăng hiệu quả trị liệu |
+| 143 | Medicine Alchemist | [Nhà Luyện Dược] | Danh hiệu | Danh hiệu dành cho người sử dụng nhiều thuốc, tăng hiệu quả của thuốc |
+| 144 | Saint | [Thánh Nhân] | Danh hiệu | Danh hiệu dành cho người cứu giúp nhiều người khác, tăng mạnh hiệu quả trị liệu |
+| 145 | Savior | [Đấng Cứu Thế] | Danh hiệu | Danh hiệu dành cho người cứu giúp vô số người khác, tăng mạnh hiệu suất thuộc tính Quang |
+| 146 | Guardian | [Kẻ Bảo Vệ] | Danh hiệu | Danh hiệu dành cho người bảo vệ người khác, tăng chỉ số thủ và kháng |
+| 147 | Ruler of Charity | [Kẻ Thống Trị Nhân Ái] | Danh hiệu | Danh hiệu Ruler dành cho người sở hữu kỹ năng Nhân Ái |
+| 148 | Ally Slayer | [Kẻ diệt đồng minh] | Danh hiệu | Danh hiệu nhận được khi tiêu diệt đồng minh hoặc quân lính cùng phe |
+| 149 | Human Slayer | [Kẻ diệt nhân tộc] | Danh hiệu | Danh hiệu nhận được khi hạ gục nhiều cá thể loài người |
+| 150 | Human Slaughterer | [Kẻ tàn sát nhân tộc] | Danh hiệu | Bản nâng cấp của Kẻ diệt nhân tộc, nhận được khi tiêu diệt số lượng lớn loài người |
+| 151 | Master of Madness | [Bậc Thầy Điên Loạn] | Danh hiệu | Danh hiệu dành cho kẻ có mức độ điên loạn và cuồng bạo vượt trội |
+| 152 | Lord | [Lãnh Chúa] | Danh hiệu | Danh hiệu dành cho quý tộc cai trị lãnh thổ hoặc thống lĩnh quân binh |
+| 153 | Ohts Alliance | Liên minh Ohts | Thuật ngữ / Phe phái | Liên minh quân sự đứng đầu bởi Đế quốc Ohts |
+| 154 | Earth Dragon Gakia | Địa Long Gakia | Quái vật / Danh mục | Thủ lĩnh hùng mạnh của loài địa long tại Tầng đáy mê cung |
+| 155 | Ruler of Gluttony | [Kẻ Thống Trị Bạo Thực] | Danh hiệu | Danh hiệu Ruler dành cho người sở hữu kỹ năng Bạo Thực |
+| 156 | W system | hệ thống W | Thuật ngữ / Hệ thống | Hệ thống quản lý thế giới do Quản trị viên xây dựng |
+| 157 | MA field | trường MA | Thuật ngữ / Hệ thống | Trường năng lượng MA vận hành thế giới quan |
 
 ---
 
 ## 5. Thành Ngữ / Cụm Từ Đặc Biệt
+
 
 
 | # | Tiếng Anh | Tiếng Việt | Ngữ cảnh | Ghi chú |
@@ -459,15 +511,15 @@
 | 1 | I think, therefore I am | Tôi tư duy, nên tôi tồn tại | Triết học / Suy nghĩ của Nhện | Độc thoại nội tâm |
 | 2 | Sweet freedom! | Tự do muôn năm! / Tự do ngọt ngào! | Cảm xúc của Nhện | Khi phá trứng chui ra |
 | 3 | Oedipus complex | Phức cảm Oedipus | Tâm lý học / Đùa giỡn | Trêu chọc của Hyrince về việc Julius quá bám mẹ |
-| 5 | Power creep | Lạm phát sức mạnh | Độc thoại nội tâm của Nhện | Sự mất cân bằng sức mạnh khi kẻ địch quá mạnh xuất hiện |
-| 6 | Cheat code | Mã gian lận | Giao tiếp của các Phân thân Tư duy | Đề cập đến kỹ năng Bất tử vô lý của Nhện nhỏ |
-| 7 | Zombie attack | Tấn công kiểu zombie | Độc thoại nội tâm của Nhện | Chiến thuật hồi sinh liên tục để bào mòn đối phương |
+| 4 | Power creep | Lạm phát sức mạnh | Độc thoại nội tâm của Nhện | Sự mất cân bằng sức mạnh khi kẻ địch quá mạnh xuất hiện |
+| 5 | Cheat code | Mã gian lận | Giao tiếp của các Phân thân Tư duy | Đề cập đến kỹ năng Bất tử vô lý của Nhện nhỏ |
+| 6 | Zombie attack | Tấn công kiểu zombie | Độc thoại nội tâm của Nhện | Chiến thuật hồi sinh liên tục để bào mòn đối phương |
 
 ---
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-09
-- **Tổng thuật ngữ**: 401
+- **Cập nhật lần cuối**: 2026-07-11
+- **Tổng thuật ngữ**: 461
 

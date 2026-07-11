@@ -305,3 +305,7 @@ Nhưng chẳng một ai có ý định gọi cô lại.
 Khi chúng tôi bắt đầu đi theo hướng ngược lại, tôi liếc nhìn bóng lưng cô Oka đang dần xa.
 
 Tôi chưa bao giờ thấy cô trông nhỏ bé đến thế.
+
+---
+
+[◀ Chương trước: Chương 9: Nhện nước](09_water_spider.md) | [Chương tiếp theo: Chương 10: Chơi đùa với búp bê ▶](10_playing_with_dolls.md)

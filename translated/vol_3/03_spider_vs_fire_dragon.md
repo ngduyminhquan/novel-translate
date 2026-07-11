@@ -397,3 +397,7 @@ Con Hỏa Long tung ra một đòn Hơi thở Hỏa Ngục khác.
 Những ngọn lửa gầm rú nuốt chửng toàn bộ cơ thể tôi mà không gặp phải bất kỳ sự kháng cự nào.
 
 Và rồi, cứ như vậy, cơ thể tôi bùng cháy thành hư vô, bốc hơi mà không để lại một chút tro tàn nào.
+
+---
+
+[◀ Chương trước: Chương S2: Điềm Báo](s2_omen.md) | [Chương tiếp theo: Chương S3: Julius ▶](s3_julius.md)

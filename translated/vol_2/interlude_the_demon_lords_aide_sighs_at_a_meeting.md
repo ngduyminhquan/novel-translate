@@ -309,3 +309,7 @@ Ma Vương gật đầu với vẻ hài lòng.
 Với những lời này, bức màn lặng lẽ kéo lên mở màn cho một cuộc chiến vĩ đại, có lẽ là tồi tệ nhất trong lịch sử, giữa ma tộc và nhân loại.
 
 Nhận thức quá rõ về thực tại này, tôi cuối cùng không thể làm gì khác ngoài việc buông ra một tiếng thở dài thầm lặng.
+
+---
+
+[◀ Chương trước: Chương 9: Kẻ Thống Trị Hỏa Hải](09_lord_of_the_fire_sea.md) | [Chương tiếp theo: Chương J3: Và thế là chiến tranh bắt đầu ▶](j3_and_so_the_war_began.md)

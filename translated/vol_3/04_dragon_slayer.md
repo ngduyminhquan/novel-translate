@@ -557,3 +557,7 @@ Tôi chỉ ước mình tăng thêm một cấp nữa thôi...
 Thì tôi đã có thể có những bước tiến lớn hơn nữa rồi.
 
 “Một con rồng đã bị tiêu diệt? Trong Mê cung Lớn Elroe... Là do hắn làm sao? Không, tôi không nghĩ vậy. Giữa chúng tôi có một thỏa thuận ngầm. Tôi không nghĩ hắn lại hành động như thế. Nhưng chuyện gì đã xảy ra vậy? Kích hoạt quyền hạn quản trị viên... Cái gì thế này? Kẻ thống trị? Lại còn nắm giữ tận ba danh hiệu sao? Điều này nghĩa là gì? Tôi chưa từng nghe nói về kỹ năng ‘Trí Tuệ’ này. Chẳng lẽ đây là tác phẩm của D sao? Nhưng tại sao? Kỹ năng này là thế nào? ...Có lẽ tôi sẽ phải đi điều tra thôi.”
+
+---
+
+[◀ Chương trước: Đoạn phụ: Sư phụ của Anh hùng](interlude_the_heros_master.md) | [Chương tiếp theo: Chương S4: Sụp Đổ ▶](s4_fall.md)

@@ -385,3 +385,7 @@ Hoặc vượt trội hơn cả một cái đầu nhện, tôi đoán vậy.
 Chúng ta không biết khi nào bản thể chính sẽ hồi phục, hoặc liệu cậu ấy có thể hồi phục được hay không. Nhưng chính vì thế, chúng ta phải làm bất cứ điều gì có thể!
 
 Không một Phân thân Tư duy nào phản đối đề xuất của tôi.
+
+---
+
+[◀ Chương trước: Đoạn phụ: Chó săn của thần](interlude_gods_hunting_dog.md) | [Chương tiếp theo: Chương S7: Những người tái sinh ▶](s7_reincarnations.md)

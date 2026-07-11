@@ -337,3 +337,7 @@ Còn về quả trứng, rõ ràng nó đã sống sót một cách ngoan cườ
 Tôi đã không biết bất kỳ điều nào trong số này cho đến mãi, mãi sau này.
 
 Và khi biết chuyện, suy nghĩ đầu tiên của tôi là: May quá, hồi đó mình không đập vỡ cái thứ đó.
+
+---
+
+[◀ Chương trước: Chương 3: Quả trứng](03_the_egg.md) | [Chương tiếp theo: Chương S3: Rồng con mới nở ▶](s3_the_hatchling.md)

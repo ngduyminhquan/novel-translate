@@ -251,3 +251,7 @@ Khi đó, tôi hoàn toàn không hề hay biết.
 Khi D đề cập đến việc đánh bại “bà ta”, tôi chỉ đơn giản giả định rằng cô ta đang ám chỉ Mẹ.
 
 Tôi thậm chí chưa bao giờ tưởng tượng được đó lại là một người hoàn toàn khác, và rằng bà ta đã đuổi sát ngay sau lưng tôi rồi.
+
+---
+
+[◀ Chương trước: Chương S5: Thoát khỏi Mê cung Lớn Elroe](s5_escape_from_the_great_elroe_labyrinth.md) | [Chương tiếp theo: Chương S6: Những bí mật đen tối của dị giới ▶](s6_the_dark_secrets_of_the_other_world.md)

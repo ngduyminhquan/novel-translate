@@ -53,3 +53,7 @@
 “Rõ, thưa ngài. Tôi đã hiểu.”
 
 “Đến đây nào, con nhóc ngu xuẩn đã bốc phải chiếc lá thăm bất hạnh mang tên Ma Vương. Có lẽ cái chết sẽ chứng minh rằng ngươi đã sai khi ảo tưởng rằng một kẻ chỉ biết câm lặng đứng nhìn tất cả những gì mình có thối rữa đi lại có khả năng thách thức hạng người như ta.”
+
+---
+
+[◀ Chương trước: Đoạn phụ: Ma Vương](interlude_demon_lord.md) | [Chương tiếp theo: Chương cuối: Cuộc chạm trán đầu tiên ▶](final_chapter_first_encounter.md)

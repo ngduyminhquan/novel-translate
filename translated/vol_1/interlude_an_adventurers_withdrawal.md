@@ -45,3 +45,7 @@ Bằng cách đó, các mạo hiểm giả cấp cao hơn và thậm chí có th
 ### --- TRANG 141 ---
 
 Ném một cái liếc nhìn cuối cùng về phía con Taratect đã biến mất, chúng tôi quay lưng và rời đi.
+
+---
+
+[◀ Chương trước: Chương 8: Cú ngã](08_the_fall.md) | [Chương tiếp theo: Chương 9: Nhện vs Ong ▶](09_spider_vs_bee.md)
