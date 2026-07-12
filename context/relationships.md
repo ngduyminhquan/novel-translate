@@ -647,7 +647,7 @@ graph TD
 | **Merazophis gọi Sophia** | Tiểu thư (Miss / Lady Sophia) |
 | **Sophia xưng** | Tôi |
 | **Merazophis xưng** | Tôi / Mera |
-| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. |
+| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. Trong Chương 3 Tập 6, sau khi uống rượu say, Merazophis được White kề lưỡi hái vào cổ đe dọa và mắng thẳng mặt vì thói ủ rũ nửa vời, giúp anh giải tỏa được nghi ngờ và dằn vặt nội tâm, vui vẻ mỉm cười chấp nhận thân phận ma cà rồng và thề dốc toàn lực bảo vệ Sophia từ nay về sau. |
 
 ### QH-043: Buirimus ↔ Ronandt
 
@@ -812,7 +812,8 @@ graph TD
 | **Taratect Rối gọi Nhện** | (Không giao tiếp) |
 | **Nhện xưng** | Ta / Tôi |
 | **Taratect Rối xưng** | (Không giao tiếp) |
-| **Trạng thái** | Thù địch sâu sắc. Ở chương 10, sau khi bị tăng cường quân số lên 11 con (5 đuổi theo ngoài biển, 6 phục kích trong mê cung), Nhện nhỏ đã lập mưu dụ thành công 6 con nhện rối trong mê cung vào một căn phòng hình mái vòm bị niêm phong bằng Thổ Ma pháp. Nhờ việc mua kỹ năng [Bơi] và kết hợp với phép [Lưu trữ Không gian] chứa sẵn lượng lớn nước biển, cô đã dìm chết toàn bộ 6 con nhện rối không biết bơi do tơ và các khớp rối của chúng bị thấm nước và mất đi tính cơ động dưới sức nổi lớn. |
+| **Trạng thái** | Thù địch sâu sắc ở tuyến thời gian khác. Ở chương 10, sau khi bị tăng cường quân số lên 11 con (5 đuổi theo ngoài biển, 6 phục kích trong mê cung), Nhện nhỏ đã lập mưu dụ thành công 6 con nhện rối trong mê cung vào một căn phòng hình mái vòm bị niêm phong bằng Thổ Ma pháp. Nhờ việc mua kỹ năng [Bơi] và kết hợp với phép [Lưu trữ Không gian] chứa sẵn lượng lớn nước biển, cô đã dìm chết toàn bộ 6 con nhện rối không biết bơi do tơ và các khớp rối của chúng bị thấm nước và mất đi tính cơ động dưới sức nổi lớn.
+> *Sự kiện Volume 6:* Trong Chương 2, khi hai con nhện rối được phái đi canh chừng Nhện nhỏ ngoài trời lạnh giá, mối quan hệ của chúng đã có sự xoay chuyển. Ban đầu chúng đề phòng cảnh giác, nhưng sau khi đầu hàng trước sự cám dỗ của thịt nướng do cô chia sẻ và được cô tận tình nâng cấp cơ thể thành dạng búp bê khớp cầu xinh xắn, chúng đã chuyển sang nhìn Nhện nhỏ bằng ánh mắt lấp lánh đầy tôn kính và ngưỡng mộ sâu sắc. |
 | **Ghi chú** | Trong Chương 9, Nhện nhỏ phát hiện ra bản chất của Nhện Rối: thực chất là một con nhện cỡ nắm tay nằm giữa lõi một con búp bê ma-nơ-canh hình người, sử dụng tơ luồn khắp cơ thể búp bê và dùng [Điều khiển Tơ] để di chuyển. Nó sở hữu chỉ số vượt qua 10.000 ở mọi mặt, sử dụng sáu kiếm kiểu Tu La điêu luyện và có các kỹ năng dùng vũ khí cao cấp giống con người. Nhện nhỏ nhận định không thể đối đầu trực diện mà phải dùng bẫy sau khi đã dọn sạch quân nhện thường. |
 
 ---
@@ -1127,7 +1128,8 @@ graph TD
 | **Sophia gọi Nhện** | (Là trẻ sơ sinh nên chưa thể giao tiếp hay nhận thức rõ ràng) |
 | **Nhện xưng** | Tôi |
 | **Sophia xưng** | - |
-| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf. |
+| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf.
+> *Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White. |
 | **Ghi chú** | Cuộc gặp gỡ định mệnh này mở đầu cho mối duyên nợ sâu sắc giữa cả hai sau này, khi Sophia trở thành đồng minh thân cận của Nhện nhỏ (White) và Ariel. |
 
 ### QH-079: Sophia Keren ↔ Seras Keren
@@ -1541,8 +1543,77 @@ graph TD
 
 ---
 
+### QH-111: Ronandt ↔ Tiva
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp kiêm giám sát/bị giám sát, không mấy hòa thuận |
+| **Ronandt gọi Tiva** | Ngươi / Tiva |
+| **Tiva gọi Ronandt** | Ngài Ronandt |
+| **Ronandt xưng** | Ta |
+| **Tiva xưng** | Tôi |
+| **Trạng thái** | Quan hệ bằng mặt không bằng lòng. Ronandt không ưa thái độ tỏ vẻ nhã nhặn nhưng lại dùng các lý lẽ chính xác để chèn ép của Tiva, đặc biệt là khi Tiva giám sát và cấm Ronandt tự ý hoạt động khi đang bị quản thúc. Tiva kính trọng tước vị và thực lực của Ronandt nhưng kiên quyết phê bình tính khí ngông cuồng của ông lão và không ngần ngại gọi ông là "kẻ ngốc hoàn toàn" khi biết ông muốn nhận quái vật làm sư phụ. |
+| **Ghi chú** | Xuất hiện lần đầu trong chương R1: Lão già lên đường. |
+
+---
+
+### QH-112: Tiva ↔ Kiếm Vương
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cấp trên và thuộc cấp thân tín |
+| **Trạng thái** | Tiva là một kỵ sĩ nghiêm túc, siêng năng và rất được Kiếm Vương đương nhiệm tin tưởng. Tiva thực hiện nghiêm chỉnh các mệnh lệnh và kế hoạch quân sự của Kiếm Vương tại Sariella. |
+| **Ghi chú** | Được nhắc đến trong chương R1: Lão già lên đường. |
+
+---
+
+### QH-113: Aurel ↔ Tiva
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Ngưỡng mộ và đồng tình |
+| **Trạng thái** | Aurel vô cùng ngưỡng mộ Tiva và nhìn anh ta bằng đôi mắt long lanh đầy tôn kính khi thấy anh ta nghiêm túc giáo huấn vị sư phụ lập dị Ronandt của mình. |
+| **Ghi chú** | Xuất hiện lần đầu trong chương R1: Lão già lên đường. |
+
+---
+
+### QH-114: Ariel ↔ Sophia
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh hành trình, bảo vệ và lấy lòng |
+| **Ariel gọi Sophia** | Sophia / Nhóc |
+| **Sophia gọi Ariel** | Cô Ariel / Ma Vương |
+| **Ariel xưng** | Ta / Tớ |
+| **Sophia xưng** | Cháu / Tôi |
+| **Trạng thái** | Ariel chăm sóc và bảo vệ Sophia trên hành trình, vừa vì cảm thông vừa muốn lấy lòng White để có điểm thiện cảm lâu dài. Sophia ban đầu cảnh giác nhưng dần nhận ra Ariel rất tốt bụng và chu đáo, khéo léo dùng vẻ ngoài vui vẻ của mình để hòa giải không khí ngột ngạt giữa các thành viên.
+> *Sự kiện Volume 6:* Trong Chương V2, Sophia hỏi xin Ariel lời khuyên về vấn đề của Merazophis nhưng bị cô từ chối và khuyên nên cư xử bình thường. Qua đó, Ariel thẳng thắn vạch trần thói ích kỷ, chỉ biết nghĩ cho bản thân và sự tự ghét bỏ giả tạo để lảng tránh trách nhiệm của Sophia. Dù bị tổn thương sâu sắc, Sophia nhận ra sự thật, biết ơn lời trấn an không bỏ rơi của Ariel và quyết tâm thay đổi bản thân. |
+
+---
+
+### QH-115: Tôi (Phân thân Tư duy) ↔ Ronandt
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Tầm sư học đạo (Ronandt) và Ngó lơ tránh rắc rối (Phân thân Tư duy) |
+| **Ronandt gọi Phân thân** | Đệ tử của Cơn Ác Mộng / Các ngươi |
+| **Phân thân gọi Ronandt** | Lão già dị hợm (Creepy old geezer) / Lão già khỏa thân (Naked old geezer) / Lão già quái đản |
+| **Ronandt xưng** | Ta |
+| **Phân thân xưng** | Tớ / Chúng ta / Tôi (độc thoại) |
+| **Trạng thái** | Khi Ronandt đến Mê cung Lớn Elroe và gặp bầy nhện trắng cùng các Phân thân Tư duy ở trung tâm, lão đã phủ phục quỳ lạy xin nhận làm đệ tử. Tuy nhiên, các Phân thân Tư duy nhận định lão là một sinh vật quái đản, dị hợm tự châm lửa đốt quần áo rồi khỏa thân chạy nhong nhong, khóc lóc phun nước tung tóe, nên đã thống nhất ngó lơ lão hoàn toàn, coi lão như không tồn tại để tránh dính líu đến rắc rối. |
+| **Ghi chú** | Xuất hiện trong chương R2: Lão già tầm sư học đạo, Hội thoại: Cuộc họp Phân thân Tư duy #2, và Hội thoại: Cuộc họp Phân thân Tư duy #3. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-11
-- **Tổng cặp quan hệ**: 110
+- **Cập nhật lần cuối**: 2026-07-12
+- **Tổng cặp quan hệ**: 115
+
+

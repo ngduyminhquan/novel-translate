@@ -37,6 +37,8 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao. Ở tuyến thời gian tương lai, cô mang hình dáng một cô gái tóc trắng tinh khôi, cư xử vô cùng im lặng và đúng mực nhưng toát ra vẻ bí ẩn và đáng sợ.
 > *Sự kiện Volume 5:* Tại Hạt Keren, cô được người dân địa phương tôn sùng làm Thần Thú hộ mệnh của Nữ Thần Giáo sau khi liên tiếp tiêu diệt các băng cướp và chữa lành bệnh tật cho nhiều người. Nhờ việc cứu chữa vô số người bệnh (như chữa ung thư gan bằng cách bóc tách nội tạng bị bệnh rồi tái sinh bằng ma pháp), cô nhận được các danh hiệu mới: [Kẻ Cứu Trợ], [Nhà Luyện Dược], [Thánh Nhân], [Đấng Cứu Thế], [Kẻ Bảo Vệ], qua đó đạt được kỹ năng Ruler bá đạo [Nhân Ái] cùng danh hiệu [Kẻ Thống Trị Nhân Ái] (nâng tổng số danh hiệu Kẻ Thống Trị lên sáu). Cô cũng nỗ lực tự học ngôn ngữ loài người thông qua việc nghe lén bằng mạng tơ vô hình và các Phân thân Tư duy, có ý định sử dụng [Thần giao cách cảm] để giao tiếp với loài người, nhưng bản chất hướng nội nhút nhát (outcast) vẫn khiến cô cực kỳ sợ hãi khi đám đông đến gần. Trong Chương 5, cô tham gia chiến tranh giữa Sariella và Liên minh Ohts để cày EXP, dùng đòn [Ma pháp Hắc ám] diện rộng tiêu diệt khoảng 3.000 binh sĩ Liên minh Ohts giúp lật ngược thế cờ trận chiến, nhưng ngay khi chuẩn bị [Dịch chuyển] rút lui thì bị Ma Vương Ariel đột ngột xuất hiện chặn đầu. Ở Chương 7, cô trúng đòn [Ma pháp Vực sâu] nát linh hồn từ Ariel nhưng hồi sinh kịp thời từ trứng của mình nhờ kỹ năng [Đẻ Trứng] kết hợp cấy ghép [Phân thân Tư duy], rồi được Güliedistodiez đền bù bầy địa long làm thức ăn. Trong Chương 8, cô ăn bầy địa long và tiến hóa thành chủng tộc bán nhân Arachne (nửa thân trên là người, nửa thân dưới là nhện), gương mặt người hoàn toàn giống kiếp trước nhưng có tóc trắng và mắt đỏ. Cô đẻ ra 999 con nhện con, cấy các [Phân thân Tư duy] vào vài con để làm cha mẹ thay thế và để lại ít đồ ăn rồi thả chúng tự sinh tồn. Sau đó, cô phát hiện ra thị trấn đang bị quân Ohts đốt phá và dinh thự lãnh chúa đang bị tộc Elf tấn công. Trong Chương 9, cô lao vào giải cứu gia thần Merazophis và nhóc ma cà rồng Sophia khỏi sự truy sát của Potimas. Tại đây, cô đối đầu trực diện với cơ thể robot của Potimas bên trong [Kết giới Phản Kỹ thuật] của hắn làm mất toàn bộ các kỹ năng và ma pháp, đồng thời chỉ số bị suy giảm nghiêm trọng khiến cô bị đạn bắn nát đầu người. Cô lợi dụng sơ hở dùng [Bóp Méo Tà Nhãn] vặn xoắn cánh tay phải của hắn từ bên trong cơ thể để lật ngược thế cờ, sau đó được Ariel bất ngờ xuất hiện giải vây. Cô đồng ý ký hiệp ước đình chiến và lập liên minh theo đề xuất của Ariel. Trong Chương cuối, cô đồng ý liên minh bắt tay hợp tác với Ariel, cùng nhóc ma cà rồng Sophia và người hầu cận Merazophis hướng về thủ đô Sariella. Cô quyết định để lại các Phân thân Tư duy và lũ nhện con tự sinh tồn ở Mê cung Lớn Elroe, một lựa chọn khiến cô sẽ phải hối hận và trả giá đắt sau này.
+> *Sự kiện Volume 6:* Trong Chương 1, cô đồng hành cùng Ariel, Sophia và Merazophis hướng về thủ đô Sariella, đồng thời thực hiện huấn luyện đặc biệt cho Sophia bằng tơ nhện. Trong Hội thoại: Cuộc họp Phân thân Tư duy #1, các Phân thân Tư duy tự sinh tồn ở Mê cung Lớn Elroe đã tự ý dùng 10.000 điểm kỹ năng của cô để mua [Hỏa Ma pháp] nhằm lấy thêm phép cấp 1 [Tàn Lửa], dù lửa là nhược điểm chí mạng của họ. Trong Cuộc họp Phân thân Tư duy #2 và #3, khi chạm trán ba con Địa Long (Kagna, Gehre, Fuit) và chứng kiến sự xuất hiện quái đản của Trưởng lão Ronandt ("lão già dị hợm") tại hang động, các Phân thân Tư duy đã thống nhất ngó lơ lão hoàn toàn để tránh rắc rối và chuẩn bị dùng ưu thế quân số từ đội quân nhện con để áp đảo lũ Địa Long.
+
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, trẻ trung, dùng nhiều từ ngữ mạng xã hội, game (RPG).
@@ -307,6 +309,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > Ngoại hình trông giống như một bé gái khoảng 10-12 tuổi nhưng lại sở hữu sức mạnh áp đảo có thể đè bẹp tất cả các thống lĩnh quân đoàn ma vương cộng lại. Cô có tính cách trẻ con, nghịch ngợm, thích bắt nạt thuộc hạ (đặc biệt là Kogou và Bloe) nhưng khi cần thiết thì cực kỳ hung bạo, sẵn sàng đe dọa sử dụng Ma pháp Vực sâu để trừng phạt những kẻ phản kháng. Cô đang lên kế hoạch khơi mào cuộc chiến sinh tử chống lại loài người. Tinh nghịch, thoải mái, nói chuyện có phần trẻ con và tự nhiên ("y'know?"), nhưng đằng sau sự nhí nhảnh đó là một sức mạnh khủng khiếp vô địch thiên hạ và sự tàn nhẫn khi cần thiết. Cô thuộc chủng tộc Taratect Thủy Tổ (Origin taratect), là tổ tiên của tất cả các loài taratect và là chủ nhân tối cao của Mẹ (Queen Taratect). Sở hữu chỉ số trung bình lên đến hơn 90.000 (cộng thêm 99.999), vượt xa mọi thực thể thông thường trong hệ thống.
 > *Sự kiện Volume 4:* Sau khi nhận được tín hiệu cầu cứu của Mẹ, cô đã lập tức đến ngoài mê cung và phẩy tay đập tan xác Nhện nhỏ chỉ bằng một đòn duy nhất. Sau đó, cô phát hiện ra Nhện nhỏ vẫn còn sống nhờ các Phân thân Tư duy vẫn tiếp tục tấn công Mẹ. Khi Mẹ bị tiêu diệt hoàn toàn ở chương 11, mối liên kết tâm linh bị đứt đột ngột nhưng một Phân thân Tư duy (não thể xác) của Nhện nhỏ đã bị kẹt lại bên trong linh hồn Ariel, tiếp tục giằng xé và ăn mòn cô từ bên trong, khiến cô đau đớn dữ dội. Trong đoạn phụ Ma Vương, Ariel cùng White hành quân hướng về làng Elf trên lưng một con Taratect Thượng cổ, ấp ủ kế hoạch tiêu diệt Potimas Harrifenas và quét sạch tộc Elf để phục thù cho những âm mưu hèn hạ của chúng từ xa xưa.
 > *Sự kiện Volume 5:* Ở Tầng đáy Mê cung Lớn Elroe, linh hồn cô bị dung hợp sâu sắc với Phân thân Tư duy của Nhện nhỏ, làm chuyển biến nhận thức và khiến tính cách cô trở nên thoải mái, tối giản và tự trào hơn (như thói quen không để thừa đồ ăn). Cô đối đầu trực diện và tiêu diệt bầy địa long do Gakia dẫn đầu. Sau đó cô được Gülie dùng phép [Dịch chuyển] đưa đến chiến trường Sariella-Ohts ngay trước mặt Nhện nhỏ. Cô nở nụ cười rạng rỡ, thản nhiên tuyên án tử "Giờ thì ta phải yêu cầu ngươi đi chết thôi, được chứ?" để đối đầu trực diện. Trong Chương 9, cô phá vỡ trần nhà dinh thự Keren để giải nguy cho Nhện nhỏ và Sophia, tự xưng là "Ma Vương Thiếu Nữ Ariel" cực kỳ nhí nhảnh (chịu ảnh hưởng từ Phân thân Tư duy). Cô đấm nát robot Potimas chỉ với một đòn duy nhất và chủ động đề xuất liên minh đình chiến với Nhện nhỏ vì lo ngại sự bất tử vô lý của đối phương. Trong Đoạn phụ: Cuộc đụng độ của các thực thể cổ xưa, cô dẫn dắt đàn nhện khổng lồ Taratect từ Rừng Lớn Garam (gồm cả Taratect Nữ Vương) đối mặt với đội quân robot cơ giới của Potimas, thách thức kết giới phản hệ thống của hắn. Trong Chương cuối, cô chính thức thuyết phục Nhện nhỏ bắt tay hợp tác cùng mình và nhận bảo hộ cho đứa bé ma cà rồng Sophia và người hầu cận Merazophis. Cả bốn người cùng nhau xuất phát hướng về thủ đô của Sariella để tạm lánh và chuẩn bị cho kế hoạch dài hạn.
+> *Sự kiện Volume 6:* Trong Chương 1, cô đồng hành cùng nhóm bốn người hướng về thủ đô Sariella. Cô vui vẻ ăn chiếc bánh sandwich do Nhện nhỏ (White) chuẩn bị, nhưng bất ngờ cảm thấy bực mình không rõ lý do (do Nhện nhỏ nghĩ thầm rằng Ariel dung hợp với não thể xác đã hoàn toàn đổ gục vì mình). Cô cũng là người thuyết phục Sophia và Merazophis đồng ý tham gia huấn luyện cường độ cao của Nhện nhỏ vì lợi ích tương lai của cô bé.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Suồng sã, cợt nhả, trẻ con nhưng đầy áp lực và ẩn chứa sát khí ("này các chàng trai", "sử dụng Ma pháp Vực sâu đấy nhé", "chúng ta bắt đầu chiến tranh chứ?"), thân mật, thoải mái, đôi khi dùng giọng điệu đùa cợt kiểu trẻ con nhưng đầy uy lực.
@@ -557,6 +560,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Là pháp sư loài người mạnh nhất thế giới. Lão vô cùng lập dị, tự phụ nhưng đã thay đổi hoàn toàn thái độ sau khi suýt mất mạng dưới tay "vị sư phụ đó" (Nhện nhỏ / Kumoko) 16 năm trước. Từ đó, lão bị ám ảnh bởi việc gia tăng sức mạnh ma pháp, chấp nhận vứt bỏ kiêu ngạo để ngưỡng mộ một quái vật. Lão luôn bận rộn trốn việc hành chính hoàng gia để tập luyện ma lực và thường coi các đệ tử của mình là "lũ ngốc".
 > *Sự kiện Volume 5:* Lão hoàn toàn vắng mặt trong cốt truyện chính của Tập 5 do giới hạn số trang (page-count limit) của tập truyện, nhưng đã xuất hiện đột xuất trong phần Lời bạt của tác giả để cằn nhằn về việc mình không có chút đất diễn nào và nhận được lời hứa hẹn sẽ giữ vai diễn cực lớn ở Tập 6.
+> *Sự kiện Volume 6:* Trong Chương R1, lão trốn khỏi hoàng thành đang bị quản thúc để đến Hạt Keren của Sariella tìm tung tích của Cơn Ác Mộng, tại đây lão chạm mặt Tiva và Giáo hoàng Dustin của Thần Ngôn Giáo trước khi dịch chuyển tới Mê cung Lớn Elroe. Trong Chương R2, lão tận mắt chứng kiến bầy nhện trắng (Tàn tích của Cơn Ác Mộng) cùng chín Phân thân Tư duy ở trung tâm hang động. Lão phủ phục cầu xin làm đệ tử của Cơn Ác Mộng nhưng bị phớt lờ. Không bỏ cuộc, lão quyết định tự rèn luyện bằng phương pháp tự sát của lũ nhện con (tự bắn phép tự hồi máu) và ăn thịt quái vật độc, vứt bỏ toàn bộ quần áo, lý trí và tôn nghiêm con người để vượt qua giới hạn của bản thân. Trong Chương R3, lão cùng đàn nhện dịch chuyển đến Tầng Dưới của Mê cung Lớn Elroe. Khi ba con Địa Long (Kagna, Gehre, Fuit) xuất hiện tấn công đàn nhện, lão đã dùng phép [Hỏa Ngục Thương] tấn công Kagna nhưng vô hiệu và suýt bị đòn phun thở tiêu diệt. Sau khi lũ Địa Long bị đàn nhện cùng chín con nhện thủ lĩnh hợp sức hạ gục, lão được tính một phần chiến công và nhận danh hiệu [Kẻ diệt Rồng] cùng các kỹ năng [Huyết Mạch] và [Long Lực]. Lão nhận ra bí mật sức mạnh của chín con nhện thủ lĩnh nằm ở việc bơm thêm ma lực vượt mức kỹ năng vào cổ tự ma pháp và quyết tâm học kỹ thuật này.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Khi độc thoại nội tâm: xưng "ta", sử dụng đại từ tự nhiên, trầm ngâm suy nghĩ. Khi đối thoại: dùng giọng bề trên của một bậc thầy, xưng "ta", gọi người khác là "ngươi", "đồ ngốc" (fools).
@@ -626,6 +630,8 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Kiếp trước là Negishi Shouko, biệt danh "Rihoko" (do vẻ ngoài gầy gò u ám giống ma). Sau khi tái sinh thành ma cà rồng chân tổ Sophia Keren tại Hạt Keren, cô được Nhện nhỏ tình cờ cứu thoát khỏi bọn cướp khi còn là trẻ sơ sinh trong xe ngựa. Nhện nhỏ đã Thẩm định cô và phát hiện danh tính người tái sinh Negishi Shouko cùng bảng chỉ số cực khủng của một ma cà rồng sơ sinh. Khi lớn lên, cô có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" (Ariel/White). Cô cũng đồng thời sở hữu danh hiệu Kẻ Thống Trị Đố Kỵ.
 > *Sự kiện Volume 5:* Trong Chương 1, Nhện nhỏ độc thoại nội tâm phân tích chi tiết bảng chỉ số Thẩm định của Sophia khi cô còn là trẻ sơ sinh. Nhện đố kỵ trước lượng điểm kỹ năng khổng lồ 75.000 điểm của cô và giải mã rằng chủng tộc Ma Cà Rồng chính là kỹ năng đặc quyền tái sinh của cô (tương tự như Thần tốc của Nhện), đồng thời phân tích tính chất đặc biệt của các danh hiệu Ma Cà Rồng và Chân Tổ giúp cô triệt tiêu mọi điểm yếu tự nhiên. Ở Chương S4, cô thản nhiên buông lời châm chọc Hugo khi cậu ta bị Shun hạ gục, tuyên bố phe ma tộc đã bắt đầu cuộc xâm lăng và không cần dùng đến Hugo nữa, sau đó tháo vát đối đầu với nhóm Shun. Trong Chương S5, cô trực tiếp đối đầu với cả nhóm năm người của Shun, thể hiện sức phòng ngự vật lý và ma pháp hoàn toàn áp đảo nhờ khả năng triệt tiêu ma pháp và lớp vảy phi long/rồng cứng cáp bảo vệ quanh cổ gáy, khiến đòn tấn công toàn lực của Shun trở nên vô hiệu và gieo rắc nỗi kinh hoàng tột cùng cho cậu. Trong Chương S7, cô dùng huyết pháp tiêu diệt quân Elf cản đường. Khi Hugo bất ngờ gượng dậy muốn ám sát trả thù cô và gọi cô là "Rihoko đần độn", cô vô cùng phẫn nộ nhưng được "Chủ nhân" (White) can thiệp cứu mạng, khiến cô có chút giận dỗi nhẹ vì bị cản trở. Trong Chương cuối, sau khi dinh thự gia đình bị phá hủy và cha mẹ bị sát hại, cô bộc lộ danh tính kiếp trước qua Thần giao cách cảm là "Shouko Negishi" trước mặt Ariel. Cô cảm thấy hối hận vì biến Merazophis thành ma cà rồng nhưng được anh trấn an. Cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến thử nghiệm tới thủ đô Sariella trước khi quyết định tương lai.
+> *Sự kiện Volume 6:* Trong Chương 1, cô bé sơ sinh Sophia đang phải trải qua khóa huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White) nhằm tăng chỉ số và kỹ năng. Dù liên tục bị bắt tập luyện đến mức kiệt sức sùi bọt mép và phải ăn thức ăn chứa độc tố để tăng Kháng Độc và nhận danh hiệu [Kẻ ăn tạp], cô vẫn nhẫn nhịn tập luyện dưới sự thuyết phục của Ma Vương Ariel. Cô dùng Thần giao cách cảm chen ngang khi Merazophis xin phần ăn bình thường cho mình từ Nhện nhỏ. Trong Chương V1 (May mắn, Vận rủi), cô hồi tưởng về kiếp trước dưới góc nhìn của một kẻ "thất bại cuộc đời" (Rihoko) so với sự "chiến thắng cuộc đời" của Wakaba Hiiro. Cô chia sẻ những suy tư sâu sắc về gia đình kiếp trước và kiếp này, đồng thời chứng kiến cuộc đối thoại ngầm giữa Merazophis và Ariel nhằm bảo vệ và làm giảm bớt sự cảnh giác cho cô tại nhà trọ trong thị trấn loài người. Trong Chương V2 (Vận rủi là một điều nực cười), cô kịch liệt phản đối yêu cầu tự tấn công bằng ma pháp của White, nhưng sau khi được Ariel giải thích, cô nhận ra mình đã tự hiểu lầm và đồng ý thực hiện. Khi hỏi Ariel về vấn đề của Merazophis, cô bị Ariel thẳng thắn vạch trần thói ích kỷ, luôn đặt mình lên trên hết và sự tự ghét bỏ giả tạo để tránh trách nhiệm. Sophia thừa nhận lòng đố kỵ kiếp trước với Wakaba Hiiro chính là nguồn gốc thù ghét vô cớ đối với White. Sau khi hiểu được nỗ lực sinh tồn phi thường của White trong Mê cung Elroe, cô quyết định thay đổi thái độ và đối xử tốt hơn với White.
+
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trầm tĩnh, giễu cợt nhẹ nhàng ("Ồ thế à?", "Không ngờ lại gặp cô ở đây đấy").
@@ -716,6 +722,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là các thực thể hình nhân rối (Puppet Taratect) do Ma Vương Ariel điều khiển hoặc phái đi hỗ trợ Sophia. Dưới góc nhìn của nhóm Shun, chúng trông giống như những ninja áo đen có thực lực cao cường. Chúng cực kỳ tuân thủ mệnh lệnh của "Chủ nhân" (Ariel) và có thái độ nghiêm túc, cứng nhắc đối lập với sự tùy hứng của Sophia.
+> *Sự kiện Volume 6:* Trong Chương 2, hai con nhện rối cùng đi canh chừng Nhện nhỏ (White). Dưới sự cám dỗ từ thịt nướng và bàn tay khéo léo của Nhện nhỏ (sử dụng [Thần Kỹ Dệt Tơ]), chúng đã tự tay may quần áo sát nách cho mình. Nhện nhỏ đã thức trắng đêm để nâng cấp cơ thể bằng tơ của chúng: phủ lớp vải giống da người lên mặt, lắp các bộ phận khuôn mặt (mắt thủy tinh, mũi không lỗ mũi), dán tóc giả bằng tơ và định hình lại vóc dáng. Chúng được thăng cấp từ những hình nộm ma-nơ-canh vô hồn thành những búp bê khớp cầu (ball-jointed dolls) dễ thương và nữ tính hơn hẳn, nhìn Nhện nhỏ bằng ánh mắt đầy ngưỡng mộ và kính trọng. Giữa hai con cũng lộ rõ sự khác biệt về tính cách: một con chủ động, xông xáo hơn (ăn thịt và may đồ trước), con kia thì rụt rè e thẹn hơn.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trang trọng, nghiêm túc, lạnh lùng, thẳng thắn.
@@ -742,6 +749,9 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > **Sự kiện Volume 5:** 
 > - *Đoạn phụ: Lãnh chúa hoang mang và Đoạn phụ: Nỗi u sầu của Lãnh chúa:* Cậu là hầu cận thân tín đắc lực hỗ trợ Lãnh chúa John Keren. Cậu hiếm hoi lộ vẻ nổi giận dữ dội trên khuôn mặt điềm tĩnh của mình khi đọc bức thư yêu sách vô lý từ Ohts.
 > - *Đoạn phụ: Nỗ lực của người hầu:* Khi dinh thự Keren bị đột nhập và gia đình Lãnh chúa lâm nguy, cậu nhận lệnh bảo vệ và mang theo tiểu thư Sophia chạy trốn. Bị kẻ địch bắn gãy tay và chân, trong thời khắc sinh tử, cậu được Sophia cắn truyền huyết pháp chuyển hóa thành ma cà rồng quyến thuộc. Nhận được sức mạnh mới, cậu dũng cảm đứng lên tiêu diệt đám đột nhập, sau đó kiên quyết chắn trước Potimas và thuộc hạ để bảo vệ Sophia trước khi được Nhện nhỏ cứu nguy. Trong Chương cuối, sau khi dinh thự lãnh địa bị tàn phá và vợ chồng lãnh chúa qua đời, anh xác nhận thi thể họ với nỗi buồn khôn xiết. Anh khẳng định lòng trung thành tuyệt đối và nguyện vọng bảo vệ Sophia trọn đời bất kể cô là ma cà rồng hay người tái sinh. Anh cùng Sophia đồng ý tham gia chuyến hành trình thử nghiệm tới thủ đô Sariella dưới sự bảo hộ của Ariel.
+> - *Volume 6 Chương 1:* Anh xót xa và hốt hoảng chăm sóc, sơ cứu cho tiểu thư Sophia khi cô bị Nhện nhỏ giật dây bắt tập luyện đến mức kiệt sức ngất lịm. Anh cũng chịu đựng ăn phần ăn chứa độc tố cùng với Sophia để tăng kháng tính, và lịch sự xin Nhện nhỏ (White) chuẩn bị phần ăn bình thường cho tiểu thư nhưng bị cô phớt lờ từ chối. Trong Chương V2 (Vận rủi là một điều nực cười), anh ôm chặt lấy Sophia khi cô khóc nức nở và ngất đi vì sợ hãi lúc bị nát tay. Mỗi lần đi qua thị trấn loài người, anh luôn tỏ vẻ phiền muộn, cật lực đi mua nhu yếu phẩm và ôm giữ dằn vặt lo âu trong lòng để bảo vệ Sophia. Anh cũng bày tỏ sự hoài nghi trước động cơ đằng sau sự tử tế của Ariel và nhắc nhở cô ấy nên đối xử tốt hơn với chính cô Bạch.
+> - *Volume 6 Chương 3:* Trong cơn say rượu, anh đã gào thét trút bỏ nỗi u sầu, đau khổ bấy lâu nay vì mất đi tất cả và phải biến thành ma cà rồng. Sau khi bị White kề lưỡi hái vào cổ đe dọa và mắng thẳng mặt vì thói ủ rũ nửa vời, anh đã gạt bỏ được nghi ngờ, chấp nhận thân phận ma cà rồng và dốc toàn lực bảo vệ Sophia, rũ bỏ hoàn toàn vẻ u ám và mỉm cười rạng rỡ đón chào ngày mới.
+> - *Volume 6 Đoạn phụ: Giấc mơ của người hầu:* Trong giấc mơ của mình (ngay sau sự kiện say rượu ở Chương 3), anh nhớ lại kỷ niệm ấm cúng được uống rượu sake đêm cùng vợ chồng Lãnh chúa John Keren và Phu nhân Seras Keren khi họ còn sống. Trước khi họ bước qua cánh cửa (qua đời) và giao phó Sophia cho anh, anh đã thổ lộ tình yêu đơn phương từ thuở ấu thơ với phu nhân cùng sự tôn kính với lãnh chúa, đồng thời thề gánh vác tình yêu thương của họ để bảo vệ tiểu thư Sophia cho đến hơi thở cuối cùng. Sau khi choàng tỉnh trong nước mắt, anh một lần nữa khẳng định lại lời thề bảo vệ tiểu thư trước vong linh của hai người.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Vô cùng trang trọng, tôn kính, ít lời.
@@ -1251,9 +1261,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thực tế, luôn phân tích cục diện từ góc nhìn chiến lược lâu dài và sẵn sàng đi những nước cờ táo bạo nhưng kín kẽ.
 
 
----
-
-- **Tổng nhân vật**: 59
+- **Tổng nhân vật**: 60
 
 ---
 
@@ -1347,3 +1355,104 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thản nhiên trước hành động bạo lực nhưng tỏa ra luồng sát khí cuồn cuộn cực kỳ áp đảo, tựa như một thanh kiếm đã tuốt trần.
 
 ---
+
+### NV-060: Tiva
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Tiva |
+| **Tên dịch** | Tiva |
+| **Biệt danh** | Tổng chỉ huy Tiva |
+| **Tuổi** | Trưởng thành (Độ tuổi sung mãn nhất) |
+| **Giới tính** | Nam |
+| **Vai trò** | Kỵ sĩ hoàng gia có tước vị của Đế quốc Renxandt, Tổng chỉ huy lực lượng liên minh chống lại Sariella |
+| **Xuất hiện** | Volume 6 Chương R1 |
+
+**Tính cách tổng quát & Sự kiện:**
+> Là một kỵ sĩ nghiêm túc, siêng năng và rất được Kiếm Vương đương nhiệm tin tưởng. Anh ta có khả năng thích ứng cực kỳ nhanh nhạy trước những tình huống bất ngờ. Trong chương R1, anh ta chạm trán Ronandt tự ý đến Hạt Keren. Dù ngoài miệng tỏ ra lịch sự kính trọng gọi Ronandt là "ngài", Tiva lại rất cứng rắn và thẳng thắn phê bình việc Ronandt trốn lệnh quản thúc tại gia để đi lung tung, đồng thời kiên quyết bắt Ronandt ở lại thị trấn không được đi đâu.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, nhã nhặn nhưng vô cùng kiên quyết, lý lẽ rõ ràng, không ngần ngại phê bình sự ngớ ngẩn lập dị của Ronandt.
+- **Xưng hô**: Xưng "tôi", gọi Ronandt là "ngài Ronandt".
+- **Cảm xúc chủ đạo**: Nghiêm túc, tận tụy, lạnh lùng khi làm nhiệm vụ.
+
+---
+
+### NV-061: Ael (Nhện Rối Ael)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Ael |
+| **Tên dịch** | Ael |
+| **Biệt danh** | Nhện Rối Ael / Chị cả |
+| **Giới tính** | Nữ (hình nhân búp bê) |
+| **Vai trò** | Một trong bốn Nhện Rối (Puppet Taratect) dưới quyền Ma Vương Ariel, đồng hành cùng nhóm White |
+| **Xuất hiện** | Volume 6 Chương 2 |
+
+**Tính cách tổng quát:**
+> Là một Nhện Rối tự tin, xông xáo và rất khôn ngoan. Con bé là đứa đầu tiên dám ăn thử thịt nướng của White và cũng là đứa năng nổ bắt chước White dệt tơ may đồ nhất. Sau khi được White nâng cấp cơ thể, con bé vô cùng thích thú và hết lòng kính trọng cô.
+
+**Văn phong nói chuyện:**
+- Không nói chuyện (vô thanh), thể hiện cảm xúc qua hành động nhạy bén và ánh mắt lấp lánh kính trọng.
+
+---
+
+### NV-062: Sael (Nhện Rối Sael)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sael |
+| **Tên dịch** | Sael |
+| **Biệt danh** | Nhện Rối Sael |
+| **Giới tính** | Nữ (hình nhân búp bê) |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
+| **Xuất hiện** | Volume 6 Chương 2 |
+
+**Tính cách tổng quát:**
+> Khác với Ael, Sael có tính cách tương đối nhút nhát, e thẹn và yếu đuối. Con bé thường ngần ngại, do dự trước khi quyết định làm gì đó, nhưng cuối cùng vẫn làm theo sự dẫn dắt của chị em mình.
+
+**Văn phong nói chuyện:**
+- Không nói chuyện (vô thanh), thể hiện sự rụt rè qua những cử chỉ ngập ngừng, e thẹn.
+
+---
+
+### NV-063: Riel (Nhện Rối Riel)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Riel |
+| **Tên dịch** | Riel |
+| **Biệt danh** | Nhện Rối Riel |
+| **Giới tính** | Nữ (hình nhân búp bê) |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
+| **Xuất hiện** | Volume 6 Chương 3 |
+
+**Tính cách tổng quát:**
+> Là một cô nàng ngổ ngáo, nghịch ngợm đúng chất tomboy nhưng lại cực kỳ ngốc nghếch và ngơ ngác (airhead).
+
+**Văn phong nói chuyện:**
+- Không nói chuyện (vô thanh).
+
+---
+
+### NV-064: Fiel (Nhện Rối Fiel)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Fiel |
+| **Tên dịch** | Fiel |
+| **Biệt danh** | Nhện Rối Fiel |
+| **Giới tính** | Nữ (hình nhân búp bê) |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
+| **Xuất hiện** | Volume 6 Chương 3 |
+
+**Tính cách tổng quát:**
+> Là một đứa trẻ ngốc nghếch, vui nhộn (goofball), thích pha trò hề và cực kỳ dễ bị kích động, phấn khích quá đà.
+
+**Văn phong nói chuyện:**
+- Không nói chuyện (vô thanh).

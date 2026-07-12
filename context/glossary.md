@@ -73,6 +73,7 @@
 | 52 | John Keren | John Keren | Cha của Sophia Keren, lãnh chúa Hạt Keren |
 | 53 | Dustin | Dustin | Giáo hoàng Thần Ngôn Giáo |
 | 54 | Shinobu Kusama | Kusama Shinobu | Học sinh tái sinh, biệt danh Shino |
+| 55 | Tiva | Tiva | Kỵ sĩ hoàng gia Đế quốc Renxandt, tổng chỉ huy liên quân |
 
 
 ---
@@ -93,6 +94,9 @@
 | 9 | Fort Kusorion | Pháo đài Kusorion | Địa danh | Pháo đài lớn của loài người chống ma tộc |
 | 10 | Great Garam Forest | Rừng Lớn Garam | Địa danh | Khu rừng lớn nơi tộc Elf dựng nhà và sinh sống |
 | 11 | Elf Village | Làng Elf | Địa danh | Ngôi làng của tộc Elf ẩn sâu trong rừng Garam, được bảo vệ bởi kết giới mạnh mẽ |
+| 12 | Mt. Uine | Núi Uine | Địa danh | Ngọn núi bị Taratect Nữ Vương phá hủy bằng một cú phun thở |
+| 13 | Zatona Plain | Đồng bằng Zatona | Địa danh | Nơi diễn ra Thảm kịch Zatona giữa Sariella và Liên minh Ohts |
+| 14 | Mystic Mountains | Dãy núi Huyền Bí | Địa danh | Dãy núi hiểm trở, khí hậu khắc nghiệt, có nhiều quái vật mạnh (nơi Buirimus bị đày tới) |
 
 ---
 
@@ -334,6 +338,18 @@
 | 231 | Magic Power Super-Attack | [Siêu công kích Ma lực] | Kỹ năng chủ động | Tấn công bằng ma lực siêu cấp |
 | 232 | Dimensional Magic | [Ma pháp Chiều không gian] | Ma pháp | Ma pháp tác động và di chuyển xuyên chiều không gian |
 | 233 | Anti-Technique Barrier | [Kết giới Phản Kỹ thuật] | Kỹ năng / Thuật ngữ | Kết giới bài trừ hệ thống, triệt tiêu toàn bộ ma pháp, kỹ năng và chỉ số tiếp xúc với không khí bên ngoài cơ thể |
+| 234 | MP Lessened Consumption | [Giảm tiêu hao MP] | Kỹ năng thụ động | Giảm lượng MP tiêu hao khi sử dụng phép thuật |
+| 235 | SP Lessened Consumption | [Giảm tiêu hao SP] | Kỹ năng thụ động | Giảm lượng SP tiêu hao khi thực hiện hành động |
+| 236 | Five Senses Enhancement | [Tăng cường Ngũ quan] | Kỹ năng thụ động | Tăng cường thính giác, thị giác, khứu giác, xúc giác và vị giác |
+| 237 | Memory | [Ký ức] | Kỹ năng thụ động | Tăng cường khả năng ghi nhớ và lưu trữ thông tin |
+| 238 | Ice Magic | [Băng Ma pháp] | Ma pháp | Ma pháp điều khiển thuộc tính băng |
+| 239 | Technique User | [Người dùng Chiêu thức] | Kỹ năng thụ động | Tăng độ thuần thục của việc sử dụng chiêu thức võ học/kỹ thuật |
+| 240 | Spite | [Ác ý] | Kỹ năng thụ động | Tăng cường thuộc tính sát thương hoặc hiệu quả từ tâm lý ác ý |
+| 241 | Fire Magic | [Hỏa Ma pháp] | Ma pháp | Ma pháp điều khiển thuộc tính lửa |
+| 242 | Ember | [Tàn Lửa] | Ma pháp | Phép thuật hệ Hỏa cấp 1, tạo ra đốm lửa nhỏ |
+| 243 | Magic Eye | [Ma Nhãn] | Kỹ năng | Năng lực của ma cà rồng gây trạng thái thôi miên khi nhìn vào mắt mục tiêu |
+| 244 | Illusion Magic | [Ma pháp Ảo ảnh] | Ma pháp | Ma pháp tạo ra ảo giác hoặc ảo ảnh để che mắt đối phương |
+| 245 | Scythesmanship | [Lưỡi Hái Thuật] | Kỹ năng chủ động | Khả năng chiến đấu bằng lưỡi hái |
 
 ---
 
@@ -499,6 +515,14 @@
 | 155 | Ruler of Gluttony | [Kẻ Thống Trị Bạo Thực] | Danh hiệu | Danh hiệu Ruler dành cho người sở hữu kỹ năng Bạo Thực |
 | 156 | W system | hệ thống W | Thuật ngữ / Hệ thống | Hệ thống quản lý thế giới do Quản trị viên xây dựng |
 | 157 | MA field | trường MA | Thuật ngữ / Hệ thống | Trường năng lượng MA vận hành thế giới quan |
+| 158 | Tragedy of Zatona | Thảm kịch Zatona | Thuật ngữ / Sự kiện | Trận chiến đẫm máu giữa Sariella và Liên minh Ohts có sự can thiệp của Cơn Ác Mộng |
+| 159 | Kingdom Calendar | Vương lịch | Thuật ngữ | Hệ thống niên lịch được loài người sử dụng rộng rãi |
+| 160 | legendary-class | cấp huyền thoại | Phân cấp quái vật | Cấp bậc quái vật có sức mạnh cực kỳ kinh khủng, đe dọa cả một quốc gia |
+| 161 | Progenitor | [Chân Tổ] | Danh hiệu | Danh hiệu dành cho ma cà rồng thuần chủng sinh ra tự nhiên |
+| 162 | Originator | [Thủy Tổ] | Danh hiệu | Danh hiệu dành cho tổ tiên của một chủng tộc hoặc loài sinh vật |
+| 163 | Giant Spider Scythe | Đại Lưỡi Hái Nhện | Trang bị | Vũ khí dạng lưỡi hái được Nhện nhỏ chế tạo từ chân trước của mình |
+| 164 | Earth Dragon Fuit | Địa Long Fuit | Quái vật | Chủng tộc rồng mặt đất cấp thấp xuất hiện ở Tầng Dưới |
+| 165 | Elroe Utoeudo | Utoeudo Elroe | Quái vật | Quái vật dạng côn trùng có lớp vỏ kim loại phát sáng và chỉ số vượt quá 1.000 ở Tầng Dưới |
 
 ---
 
@@ -520,6 +544,6 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-11
-- **Tổng thuật ngữ**: 461
+- **Cập nhật lần cuối**: 2026-07-12
+- **Tổng thuật ngữ**: 473
 
