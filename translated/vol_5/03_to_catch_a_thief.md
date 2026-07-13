@@ -19,7 +19,7 @@ Tôi cũng tò mò lắm, nhưng nếu mụ ta không chịu nhúc nhích thì t
 
 Nên là, nhân lúc hiếm hoi được thư giãn một chút, tôi đã dành thời gian rảnh rỗi của mình để đi giải quyết bọn cướp.
 
-Nếu các anh nhìn cái cách cỗ xe ngựa của nhóc hút máu bị tấn công thì hẳn cũng biết rồi đấy, thế giới này có cực kỳ nhiều cướp.
+Nếu mọi người nhìn cái cách cỗ xe ngựa của nhóc hút máu bị tấn công thì hẳn cũng biết rồi đấy, thế giới này có cực kỳ nhiều cướp.
 
 Sống bên ngoài thành phố, chúng chuyên khủng bố người qua đường để cướp bóc lương thực và tiền bạc.
 
@@ -147,7 +147,7 @@ Cái này cũng không khác mấy so với mấy cái kỹ năng vảy rồng t
 
 Tôi cũng có một phiên bản cấp thấp của các kỹ năng đó hấp thụ từ Mẹ gọi là [Long Mạc].
 
-Nhưng điểm hay ho của [Kháng Ma Tà Nhãn] là anh có thể bắt đầu ức chế việc sử dụng ma pháp của đối phương ngay khi nhìn thấy chúng.
+Nhưng điểm hay ho của [Kháng Ma Tà Nhãn] là mọi người có thể bắt đầu ức chế việc sử dụng ma pháp của đối phương ngay khi nhìn thấy chúng.
 
 Nói cách khác, các kỹ năng như [Long Lân] hay [Long Mạc] làm suy giảm sức mạnh của ma pháp đã được niệm, còn [Kháng Ma Tà Nhãn] lại khiến việc bắt đầu niệm ma pháp ngay từ đầu trở nên khó khăn hơn.
 
@@ -187,17 +187,17 @@ Mặc dù, vì mục tiêu của nó là không gian nên điều đó có nghĩ
 
 Được cái này thì mất cái kia thôi, tôi đoán vậy.
 
-Nếu các anh thắc mắc tại sao tôi lại tậu cái Tà Nhãn thuộc tính Không Gian này dù đã có [Ma pháp Không gian], thì đó là vì các đòn tấn công của [Ma pháp Không gian] khó dùng đến điên người.
+Nếu mọi người thắc mắc tại sao tôi lại tậu cái Tà Nhãn thuộc tính Không Gian này dù đã có [Ma pháp Không gian], thì đó là vì các đòn tấn công của [Ma pháp Không gian] khó dùng đến điên người.
 
 Chắc chắn là có các phép tấn công trong [Ma pháp Không gian].
 
 Kiểu như cắt đứt không gian hay mấy thứ tương tự thế.
 
-Nhưng để sử dụng [Ma pháp Không gian], không giống như bất kỳ loại ma pháp nào khác, anh phải thiết lập một vùng mục tiêu được chỉ định.
+Nhưng để sử dụng [Ma pháp Không gian], không giống như bất kỳ loại ma pháp nào khác, mọi người phải thiết lập một vùng mục tiêu được chỉ định.
 
 Về cơ bản là xác định nơi ma pháp sẽ được kích hoạt, nhưng việc đó cũng cực kỳ phiền phức.
 
-Vì anh phải làm việc đó song song với phần còn lại của quá trình niệm chú, nên nó chậm hơn bất kỳ loại ma pháp nào khác mà tôi sở hữu.
+Vì mọi người phải làm việc đó song song với phần còn lại của quá trình niệm chú, nên nó chậm hơn bất kỳ loại ma pháp nào khác mà tôi sở hữu.
 
 Thế cũng được đi, vì bù lại nó đi kèm với phép [Dịch chuyển] quá đỗi hữu dụng.
 

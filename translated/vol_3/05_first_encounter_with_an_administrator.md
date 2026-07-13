@@ -22,7 +22,7 @@ Về phần tấn công thì tôi đã có quá đủ các chiêu thức khác r
 
 Nếu cần thiết, tôi luôn có thể tậu đại một kỹ năng ma pháp nào đó chỉ với 100 điểm.
 
-Hử? Anh hỏi tại sao ngay từ đầu tôi không làm thế luôn á?
+Hử? Mọi người hỏi tại sao ngay từ đầu tôi không làm thế luôn á?
 
 Tôi hơi bị ám ảnh với vụ Tà Nhãn này rồi, cơ mà nếu nhìn vào các chỉ số của mình, hình như tôi thuộc kiểu chuyên về ma pháp đúng không nhỉ?
 

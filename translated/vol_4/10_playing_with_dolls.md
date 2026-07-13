@@ -184,7 +184,7 @@ Kháng ma pháp của tôi rất cao, nên ngay cả các đòn ma pháp của n
 
 Thực tế là tôi đang nhận lượng sát thương khá thốn đấy chứ.
 
-Ý tôi là, mấy đứa đó mạnh dã man con ngan luôn, các anh biết không?
+Ý tôi là, mấy đứa đó mạnh dã man con ngan luôn, mọi người biết không?
 
 Kể cả khi kháng ma pháp của tôi có cao đến đâu, tụi nó chắc chắn vẫn sẽ gây ra sát thương đáng kể rồi.
 

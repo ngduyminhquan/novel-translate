@@ -33,7 +33,7 @@ Mẹ biết vị trí này, nghĩa là nếu Ma Vương cũng biết thì cũng 
 
 Dù sao thì, ký ức của tôi về nơi này cũng khá sâu đậm.
 
-Nếu các anh đang thắc mắc làm thế nào tôi thoát khỏi [Ma pháp Vực sâu] của Ma Vương, nói ngắn gọn là tôi đã bỏ lại cơ thể của mình và tái sinh.
+Nếu mọi người đang thắc mắc làm thế nào tôi thoát khỏi [Ma pháp Vực sâu] của Ma Vương, nói ngắn gọn là tôi đã bỏ lại cơ thể của mình và tái sinh.
 
 Giải thích thế vẫn chưa thỏa đáng ư?
 
@@ -43,7 +43,7 @@ Vâng, tôi biết. Nhưng chuyện đã xảy ra đúng là như vậy đấy.
 
 Đúng như tên gọi, nó rõ ràng cho phép tôi đẻ trứng. Và khi trứng nở, tôi có thể bắt lũ con làm việc dưới tư cách là quyến thuộc của mình.
 
-Tôi đã thử nghiệm nó ngay lập tức, nhưng các anh biết đấy, chúng vẫn chỉ là những quả trứng.
+Tôi đã thử nghiệm nó ngay lập tức, nhưng mọi người biết đấy, chúng vẫn chỉ là những quả trứng.
 
 --- PAGE BREAK ---
 
@@ -51,7 +51,7 @@ Phải mất một thời gian chúng mới nở được.
 
 Tôi đã để lại đống trứng sản xuất hàng loạt này ở một khu vực hy vọng là an toàn, chính là căn cứ hoạt động cũ của tôi trong [Mê cung Lớn Elroe].
 
-Điểm đặc biệt của kỹ năng này là, như các anh có thể đoán từ việc tôi tự đẻ trứng một mình, nó thực chất giống như đang tạo ra những bản thể nhỏ của tôi hơn là sinh con đẻ cái.
+Điểm đặc biệt của kỹ năng này là, như mọi người có thể đoán từ việc tôi tự đẻ trứng một mình, nó thực chất giống như đang tạo ra những bản thể nhỏ của tôi hơn là sinh con đẻ cái.
 
 Về cơ bản, nó là một kỹ năng tạo ra các bản sao hạ cấp của chính mình với tâm trí độc lập.
 
@@ -199,7 +199,7 @@ Tôi thực sự, thực sự rất muốn tiến hóa.
 
 Nhưng khi tiến hóa, nó sẽ tiêu tốn một lượng SP khổng lồ.
 
-Và các anh biết SP hiện tại của tôi là bao nhiêu không?
+Và mọi người biết SP hiện tại của tôi là bao nhiêu không?
 
 Đúng rồi đấy: 3.
 

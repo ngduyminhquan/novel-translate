@@ -28,7 +28,7 @@ Nhưng chuyện đó cũng chẳng thay đổi được gì nhiều.
 
 Tôi chặn lối thoát, xả đầy nước vào phòng, dùng [Dịch chuyển Cự ly ngắn] để thoát ra ngoài rồi đứng đợi.
 
-Và rồi, anh đoán xem!
+Và rồi, mọi người đoán xem!
 
 Căn phòng nhỏ sập xuống, và thế là xong! Một con nhện rối bị chôn sống!
 

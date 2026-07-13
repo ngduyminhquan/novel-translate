@@ -105,7 +105,7 @@ Chà, chẳng biết làm gì ngoài việc chấp nhận thực tế thôi.
 
 Trong lớp tôi chẳng thân với ai cả, nên cảm xúc của tôi khi gặp lại bạn học cũng chỉ dừng lại ở mức độ đó thôi.
 
-Các anh còn muốn gì hơn nữa nào? Tôi là kẻ lạc loài mà.
+Mọi người còn muốn gì hơn nữa nào? Tôi là kẻ lạc loài mà.
 
 Tạm thời gác chuyện con bé là bạn học tái sinh sang một bên đã.
 
@@ -177,7 +177,7 @@ Chênh lệch hai kỹ năng.
 
 Những hai kỹ năng cơ đấy!
 
-Đó là một khoảng cách siêu lớn luôn, các anh biết không!
+Đó là một khoảng cách siêu lớn luôn, mọi người biết không!
 
 Thế này là không công bằng!
 
@@ -405,7 +405,7 @@ Dù sao thì việc đó chắc chắn vẫn dễ thở hơn là tái sinh thàn
 
 --- PAGE BREAK ---
 
-Các anh nhớ lại xem, lúc tôi mới sinh ra, thứ đầu tiên đập vào mắt tôi là cảnh tượng anh chị em của mình tàn sát ăn thịt lẫn nhau đúng không?
+Mọi người nhớ lại xem, lúc tôi mới sinh ra, thứ đầu tiên đập vào mắt tôi là cảnh tượng anh chị em của mình tàn sát ăn thịt lẫn nhau đúng không?
 
 Tôi đã phải chật vật hết sức để sinh tồn, rồi cuối cùng lại bị nhắm vào bởi một mụ Ma Vương thực thụ.
 

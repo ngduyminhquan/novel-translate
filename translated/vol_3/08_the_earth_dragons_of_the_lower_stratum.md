@@ -34,7 +34,7 @@ Trong quá trình đó, tôi đã có một cuộc tái ngộ không ngờ.
 
 Con địa long thứ hai tôi gặp ở Tầng Dưới.
 
-Hử? Các anh muốn biết tôi có chiến với nó không á?
+Hử? Mọi người muốn biết tôi có chiến với nó không á?
 
 Đồng chí ơi, nhìn vào chỉ số của nó rồi hãy hỏi tôi câu đó nhé.
 

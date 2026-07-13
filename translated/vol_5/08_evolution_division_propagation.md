@@ -195,7 +195,7 @@ Nói thật thì tôi làm chuyện này chỉ để thử nghiệm kỹ năng [
 
 Tôi đoán mình cứ để mặc chúng tự sinh tự diệt trong [Mê cung Lớn Elroe] vậy.
 
-Ý các anh bảo tôi là phụ huynh tồi là thế quái nào?
+Ý mọi người bảo tôi là phụ huynh tồi là thế quái nào?
 
 Có vài [Phân thân Tư duy] trộn lẫn trong số chúng, về cơ bản cũng chính là tôi, nên chúng có thể làm cha mẹ thay tôi được mà.
 
