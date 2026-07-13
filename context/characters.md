@@ -37,6 +37,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao. Ở tuyến thời gian tương lai, cô mang hình dáng một cô gái tóc trắng tinh khôi, cư xử vô cùng im lặng và đúng mực nhưng toát ra vẻ bí ẩn và đáng sợ.
 > *Sự kiện Volume 6:* Đồng hành cùng Ariel, Sophia và Merazophis hướng về thủ đô Sariella và huấn luyện đặc biệt cho Sophia. Trong khi đó, các Phân thân Tư duy và bầy nhện con tự sinh tồn ở Mê cung Lớn Elroe tự ý mua thêm Hỏa Ma pháp, chạm trán Trưởng lão Ronandt và ba con Địa Long (Kagna, Gehre, Fuit).
+> *Sự kiện Volume 7:* Đồng hành cùng Ariel đột nhập phi thuyền G-Fleet, nuốt chửng quả bom GMA để cứu mọi người và trải qua quá trình thần hóa (deification), trở thành một vị thần nằm ngoài hệ thống với tên thật Shiraori do D đặt. Vì mất toàn bộ kỹ năng và chỉ số, cô trở nên cực kỳ yếu ớt như người bình thường và phải học cách điều khiển ma lực tự lực dưới sự chăm sóc của Ariel.
 
 
 **Văn phong nói chuyện:**
@@ -292,7 +293,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 ---
 
 ### NV-012: Ariel (Ma Vương / Demon Lord)
-: Ariel (Ma Vương / Demon Lord)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -315,7 +315,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 ### NV-013: Balto
-: Balto
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -360,7 +359,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 ---
 
 ### NV-015: Anna
-: Anna
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -602,6 +600,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Một thực thể cực kỳ ích kỷ, tàn nhẫn, kiêu ngạo và coi thường tất cả các sinh mệnh khác (bao gồm cả nhân tộc và ma tộc) là loài hạ đẳng. Ông ta chỉ quan tâm đến lợi ích cá nhân, sự phát triển công nghệ và việc đạt được sự bất tử. Xem con gái mình (cô Oka) và những người tái sinh khác như những con cờ có giá trị lợi dụng cao. Việc ông ta sống lại sau khi bị chém đầu cho thấy ông ta sở hữu những bí thuật hoặc công nghệ vượt xa hiểu biết thông thường.
 > *Sự kiện Volume 5:* Trực tiếp điều khiển cơ thể robot Gloria truy sát gia đình Sophia. Đối đầu với Nhện nhỏ bằng [Kết giới Phản Kỹ thuật], làm suy giảm nghiêm trọng chỉ số của cô, nhưng bị cô dùng [Bóp Méo Tà Nhãn] vặn gãy tay và bị Ariel xuất hiện đấm nát robot. Ngoài ra, ông ta còn dẫn đầu quân đoàn Gloria phục kích Ariel tại Rừng Lớn Garam.
+> *Sự kiện Volume 7:* Hợp tác với Ariel và Dustin thâm nhập phi thuyền G-Fleet để giải quyết hiểm họa bom GMA. Lão sử dụng sợi cáp để hack quyền kiểm soát hệ thống của phi thuyền, nhưng bị Ariel và White sỉ nhục, đặc biệt bị White đâm nát mông cơ thể cyborg. Sau khi White trở thành thần và quay về bản thể, lão vô cùng tức tối vì một đứa con nhóc lại đạt tới cảnh giới thần linh trước mình. Lão ra lệnh truy sát Ariel và quyết định dùng con gái Oka để dụ các người tái sinh tàn sát lẫn nhau nhằm trả thù White.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trang trọng, lạnh lùng, kẻ cả, không biểu lộ cảm xúc.
@@ -655,7 +654,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 ---
 
 ### NV-028: Gyuristodief (Quản trị viên Hắc / Black)
-: Güliedistodiez (Gyuristodief / Güli-güli / Hắc / Quản trị viên Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -665,11 +663,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Cổ xưa (Thần cấp) |
 | **Giới tính** | Nam |
 | **Vai trò** | Một trong các vị thần cai trị thế giới (Quản trị viên cấp cao), bạn cũ lâu năm của Ariel |
-| **Xuất hiện** | Chương 5 (Volume 3), Volume 5 Chương 7 (đối thoại trực tiếp với Nhện nhỏ) |
+| **Xuất hiện** | Chương 5 (Volume 3), Volume 5 Chương 7 (đối thoại trực tiếp với Nhện nhỏ), Volume 7 Chương 5 |
 
 **Tính cách tổng quát & Sự kiện:**
 > Là một trong các Quản trị viên của thế giới, mang vẻ ngoài là một người đàn ông mặc giáp đen tuyền bó sát toàn thân, tóc đen và đôi mắt sắc đỏ ma mị. Hắn không biểu lộ ý thù địch rõ ràng với Nhện nhỏ nhưng mang lại cho cô áp lực kinh hoàng đến mức Thẩm Định hiện dòng chữ `<Không thể Thẩm định>`. Dù có sức mạnh thần cấp cực lớn, anh ta luôn mang vẻ u sầu, mệt mỏi và lo lắng cho sự suy tàn của thế giới. Anh ta coi trọng các giao ước và tình bạn cũ với Ariel, đồng thời chịu ràng buộc bởi giao ước không can thiệp của D.
 > **Sự kiện Volume 6:** Can thiệp ngăn cản các Phân thân Tư duy tấn công bầy phi long tại Mê cung. Sau khi Nhện nhỏ tiêu diệt các Phân thân nổi loạn, anh ta cùng uống rượu với cô và Ariel. Dù định trừng trị cô vì tính cách ích kỷ giống D, anh ta bị D can thiệp ngăn cản và chấp nhận để cô tiếp tục hành động theo ý chí tự do của mình.
+> **Sự kiện Volume 7:** Trong Chương 5, sau khi nhận được tin báo từ con phong long thuộc cấp, anh ta đã dịch chuyển đến hoang mạc để giải quyết chiếc UFO khổng lồ vừa trồi lên, đồng thời gửi lời xin lỗi Ariel vì sự sơ suất của mình đã gây rắc rối cho cô. Sau đó, anh ta chấp nhận đề xuất của Potimas và bay ra ngoài không gian vũ trụ để tiêu diệt G-Meteo (vũ khí kéo thiên thạch tự hành). Sau khi phá hủy G-Meteo dễ dàng nhờ kết giới chân long vô hạn của mình, anh ta bị D liên lạc qua một thiết bị mỏng ra lệnh phải ở yên tại chỗ quan sát chứ không được quay về giúp Ariel. Hắc Long đành bất lực chịu tuân lệnh vì sự chênh lệch sức mạnh quá lớn.
 
 
 **Văn phong nói chuyện:**
@@ -692,7 +691,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Xuất hiện từ tập 1 dưới dạng quả trứng, sau đó nở thành Địa Phi Long không cánh màu đen. Tiến hóa thành Quang Phi Long màu trắng có cánh ở chương S5 tập 3 |
 
 **Tính cách tổng quát:**
-> Kiếp trước là Shinohara Mirei, kẻ từng bắt nạt Wakaba Hiiro (Kumoko). Sau khi tái sinh thành một con phi long và nở ra từ quả trứng được Shun nuôi dưỡng, cô cảm thấy hối hận về những việc làm ở kiếp trước và quyết định sống tốt hơn ở kiếp này. Cô rất tinh nghịch, hay đùa, trung thành và luôn bảo vệ Shun hết mình. Trong Đoạn phụ của Tập 5, cô thẳng thắn đối diện với quá khứ bắt nạt Wakaba Hiiro và bày tỏ sự hối hận sâu sắc, đồng thời đứng ra bảo vệ Anna khỏi đám người Elf và nhận ra tình mẫu tử thiêng liêng của cô ấy dành cho Shun.
+> Kiếp trước là Shinohara Mirei, kẻ từng bắt nạt Wakaba Hiiro (Kumoko). Ban đầu, tác giả Okina Baba dự định đặt tên cô là Urushibara Mirei (Mirei Urushibara), nhưng sau khi đổi thành Shinohara Mirei thì quên sửa trong danh sách của Shun, dẫn đến lỗi khác biệt tên ở mục lục (lỗi này được tác giả thừa nhận và giải thích trong Lời bạt Tập 7). Sau khi tái sinh thành một con phi long và nở ra từ quả trứng được Shun nuôi dưỡng, cô cảm thấy hối hận về những việc làm ở kiếp trước và quyết định sống tốt hơn ở kiếp này. Cô rất tinh nghịch, hay đùa, trung thành và luôn bảo vệ Shun hết mình. Trong Đoạn phụ của Tập 5, cô thẳng thắn đối diện với quá khứ bắt nạt Wakaba Hiiro và bày tỏ sự hối hận sâu sắc, đồng thời đứng ra bảo vệ Anna khỏi đám người Elf và nhận ra tình mẫu tử thiêng liêng của cô ấy dành cho Shun.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Giao tiếp bằng Thần giao cách cảm khi ở dạng phi long. Xưng hô thân mật "cậu" - "tớ", gọi Shun là "Shun".
@@ -769,7 +768,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 ---
 
 ### NV-033: Basgath
-: Basgath
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -962,7 +960,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 ---
 
 ### NV-042: Wald (Sir Wald / Ngài Wald)
-: Wald
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1235,11 +1232,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Rất lớn tuổi (Sở hữu khả năng giữ lại ký ức các kiếp trước và liên tục chuyển sinh) |
 | **Giới tính** | Nam |
 | **Vai trò** | Giáo hoàng đương nhiệm của Thần Ngôn Giáo, một thế lực chính trị - tôn giáo lớn của nhân loại, đối thủ chính trị đáng gờm của Potimas |
-| **Xuất hiện** | Được nhắc đến trong chương đặc biệt của Potimas (Tập 5), người kể chuyện trong Chương đặc biệt: Kẻ chủ mưu: Giáo hoàng của Thần Ngôn Giáo (Tập 5), Volume 6 Chương R1, V3, Đoạn phụ: Quyết định của Giáo hoàng |
+| **Xuất hiện** | Được nhắc đến trong chương đặc biệt của Potimas (Tập 5), người kể chuyện trong Chương đặc biệt: Kẻ chủ mưu: Giáo hoàng của Thần Ngôn Giáo (Tập 5), Volume 6 Chương R1, V3, Đoạn phụ: Quyết định của Giáo hoàng, Volume 7 Chương 5 |
 
 **Tính cách tổng quát & Sự kiện:**
 > Là người đứng đầu Thần Ngôn Giáo, sở hữu trí tuệ uyên thâm, mưu sâu kế hiểm và có sức ảnh hưởng cực lớn lên các quốc gia loài người. Ông là một chính trị gia sừng sỏ, có lý tưởng cực kỳ thực tế là bảo vệ sự tồn tại của nhân loại bằng mọi giá. Để đạt được mục tiêu, ông không ngần ngại châm ngòi cho các cuộc chiến tranh và tiêu diệt các tôn giáo đối lập (mặc dù ông biết rõ Thần Ngôn Giáo và Nữ Thần Giáo vốn cùng chung một nguồn gốc). Ông coi cục diện thế giới như một ván cờ phức tạp và cố gắng dự đoán, vượt qua các nước cờ của Ariel và Potimas Harrifenas.
 > *Sự kiện Volume 6:* Gặp riêng Ronandt và Ariel để đàm phán chính trị. Khi nhận báo cáo bầy nhện trắng tấn công quân đội tại Hạt Keren, ông nhận định đây là Cơn Ác Mộng tự ý hành động ngoài kiểm soát của Ariel. Do đó, ông quyết định điều chỉnh chiến lược: sáp nhập Hạt Keren nhưng tạm dừng tấn công sâu vào Sariella để tránh chọc giận thế lực này.
+> *Sự kiện Volume 7:* Trong Chương 5, khi chiếc UFO khổng lồ trồi lên hoang mạc đe dọa sự vận hành của thế giới, Dustin đã chủ động Dịch chuyển tới gặp Ariel và đề xuất tạm thời đình chiến để cùng hợp tác giải quyết mối đe dọa cơ khí này. Trong Chương đặc biệt về cuộc chiến đấu của lục quân Giáo hoàng, ông đã huy động 30.000 hiệp sĩ từ Thánh quốc Alleius ra chiến trường làm lá chắn người cầm chân quân đội máy móc của di tích cổ đại. Tại đây, ông quan sát cục diện và phân tích mối quan hệ phức tạp giữa Ariel, White và Potimas. Ông cũng phát hiện ra việc Potimas dùng não người làm bộ xử lý trung tâm cho máy móc chiến đấu và vô cùng căm phẫn trước sự vô nhân tính đó, đồng thời tự dằn vặt về sự đạo đức giả của bản thân khi đẩy các hiệp sĩ của mình vào chỗ chết.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Độc thoại nội tâm xưng "ta", thể hiện sự điềm tĩnh, suy nghĩ thấu đáo và phong thái của một nhà thông thái già dặn, đôi khi tự trào về thói quen xấu của mình (để tâm trí đi lang thang giữa buổi báo cáo).
@@ -1247,7 +1245,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thực tế, luôn phân tích cục diện từ góc nhìn chiến lược lâu dài và sẵn sàng đi những nước cờ táo bạo nhưng kín kẽ.
 
 
-- **Tổng nhân vật**: 60
+- **Tổng nhân vật**: 65
 
 ---
 
@@ -1442,3 +1440,30 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh).
+
+---
+
+### NV-065: Hyuvan (Phong Long Hyuvan)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Hyuvan |
+| **Tên dịch** | Hyuvan / Phong Long Hyuvan |
+| **Biệt danh** | Phong Long / Thủ lĩnh rồng gió |
+| **Giới tính** | Nam |
+| **Vai trò** | Thủ lĩnh phong long vùng hoang mạc, thuộc cấp Güli-güli |
+| **Xuất hiện** | Volume 7 Chương 5 |
+
+**Tính cách tổng quát & Sự kiện:**
+> Là một con phong long mạnh nhất vùng hoang mạc nhưng tính tình lại giống hệt một tên lâu la tép riu, nhát gan trước kẻ mạnh (sợ Ariel và Güli-güli) nhưng thích khoe khoang oai phong khi có cơ hội. Thường xuyên bị Ariel bắt nạt làm chân chạy vặt. Thích chối bỏ trách nhiệm và cằn nhằn về công việc.
+> **Sự kiện Volume 7:** 
+> - **Chương 5-7**: Báo cáo sự xuất hiện của UFO cho Güli-güli, sau đó bị Ariel đe dọa bắt làm nhiệm vụ chở White đột kích UFO.
+> - **Chương 8**: Trực tiếp chở White chiến đấu chống lại bầy phi cơ tự động của UFO ở độ cao mười ngàn feet. Trong lúc bế tắc, anh ta đã kể cho White nghe về nhiệm vụ nguyên thủy của loài phong long là dọn dẹp làn mây độc (phóng xạ) do một quả bom hủy diệt cổ đại tạo ra. Tự nhận nhiệm vụ đã hoàn thành nên chuẩn bị tinh thần hy sinh mở đường máu, nhưng màn chuẩn bị tử trận hoành tráng đã bị phá sản một cách ngượng ngùng khi Ariel thể hiện sức mạnh bá đạo quét sạch lũ phi cơ.
+> - **Chương 9**: Chở White tiếp cận pháo chính của UFO để cô bắn bazooka. Khi White bị nổ tung phản phệ rơi tự do, anh ta đã dũng cảm lao tới đỡ lấy cô trên không trung. Anh được cô chỉ thị đưa trở lại lỗ hổng của UFO để tiến hành đột nhập.
+> - **Chương 10**: Cùng White đột nhập UFO. Khi chạm trán Potimas, anh nổi giận định tấn công hắn để đòi lại công bằng cho White (sau khi cô suýt chết vì quả bazooka phản phệ) nhưng không thành. Sau đó, anh kinh hãi tột độ khi chứng kiến cảnh White đâm nát mông Potimas và thầm nhắn tin đàm thoại cùng các rồng khác gọi cô là "ác quỷ màu trắng" và dặn nhau đừng bao giờ chọc giận cô. Nhận lệnh từ White, anh dẫn bầy rồng trở lại không trung để duy trì quyền kiểm soát bầu trời.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Giao tiếp bằng [Thần giao cách cảm]. Gọi Ariel là "bà cô nhện" (spider lady) hoặc "bà cô điên khùng", xưng "tao"/"ta" gọi "mày"/"cô". Khi nói chuyện với White, gọi cô là "cô nương tóc trắng" (White lady), "cô nương" (girlie) hoặc "người đẹp" (sweet cheeks), xưng "ta" hoặc "tôi". Gọi Güli-güli là "đại ca", xưng hô kính cẩn.
+- **Cảm xúc chủ đạo**: Hèn nhát, hài hước, cằn nhằn nhưng có lòng trung nghĩa và dũng khí khi lâm trận.
+

@@ -77,6 +77,10 @@
 | 56 | Agrissa Furyu | Agrissa Furyu | Nhà nghiên cứu quái vật Vương quốc Analeit |
 | 57 | Asahiro Kakashi | Asahiro Kakashi | Họa sĩ vẽ bản chuyển thể manga của tiểu thuyết |
 | 58 | Mr. K | Biên tập viên K | Biên tập viên của tác giả |
+| 59 | Hyuvan | Phong Long Hyuvan | Thủ lĩnh Phong Long vùng hoang mạc, thuộc cấp Güli-güli |
+| 60 | Auries | Auries | Thuộc hạ Elf của Potimas (bị đổ lỗi cho thất bại chiến dịch) |
+| 61 | Mirei Urushibara | Urushibara Mirei | Tên dự kiến ban đầu của Shinohara Mirei (được đề cập trong lời bạt Tập 7) |
+
 
 
 ---
@@ -134,7 +138,7 @@
 | 24 | Magic Perception | Cảm nhận Ma lực | Kỹ năng thụ động | Cảm nhận dòng chảy ma lực xung quanh |
 | 25 | Magic Operation | Thao tác Ma lực | Kỹ năng thụ động | Điều khiển dòng chảy ma lực bên trong cơ thể |
 | 26 | Telepathy | Thần giao cách cảm | Kỹ năng chủ động | Giao tiếp thông qua sóng tư duy phi ngôn ngữ |
-| 27 | Pain Nullification | Vô hiệu Đau | Kỹ năng thụ động | Cấp tối đa của Kháng Đau, hoàn toàn vô hiệu hóa cảm giác đau |
+| 27 | Pain Nullification / Suffering Nullification | Vô hiệu Đau | Kỹ năng thụ động | Cấp tối đa của Kháng Đau, hoàn toàn vô hiệu hóa cảm giác đau |
 | 28 | Pain Mitigation | Giảm Đau | Kỹ năng thụ động | Phái sinh từ Vô hiệu Đau, giúp cơ thể bớt đau buốt |
 | 29 | HP Auto-Recovery | Tự hồi phục HP | Kỹ năng thụ động | Tự động phục hồi lượng HP theo thời gian |
 | 30 | Concentration | Tập trung | Kỹ năng thụ động | Tăng cường khả năng tập trung tinh thần |
@@ -355,6 +359,11 @@
 | 245 | Scythesmanship | [Lưỡi Hái Thuật] | Kỹ năng chủ động | Khả năng chiến đấu bằng lưỡi hái |
 | 246 | Temperance | [Tiết Chế] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính, cho phép tái sinh giữ nguyên ký ức |
 | 247 | Diligence | [Cần Mẫn] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
+| 248 | Jealousy | [Ghen Tị] | Kỹ năng | Kỹ năng dòng tội lỗi cấp thấp của Đố Kỵ (Envy), tiến hóa từ Ác Ý (Spite) |
+| 249 | Envy | [Đố Kỵ] | Kỹ năng đặc biệt | Kỹ năng Thất Đại Tội |
+| 250 | Black Spear | Hắc Thương | Ma pháp | Phép thuật thuộc Hắc Ma pháp tạo ra ngọn thương màu đen để tấn công |
+| 251 | Wind Nullification | [Vô hiệu hóa Phong] | Kỹ năng thụ động | Kỹ năng kháng tính cấp tối đa, hoàn toàn vô hiệu hóa ma pháp thuộc tính gió |
+| 252 | Recovery Magic | [Ma pháp Hồi phục] | Ma pháp | Phép thuật trị liệu/hồi phục cơ bản, cấp thấp hơn Kỳ Tích Ma Pháp |
 
 ---
 
@@ -498,7 +507,7 @@
 | 133 | water wyrm | Thủy Phi Long | Quái vật | Loài phi long thuộc tính nước cư ngụ tại đại dương |
 | 134 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại do tộc Elf chế tạo |
 | 135 | Undying Body | Thân Thể Bất Tử | Kỹ năng thụ động | Giúp kháng các thuộc tính và giữ lại 1 HP khi trúng đòn chí tử |
-| 136 | Progenitor | Chân Tổ | Danh hiệu | Danh hiệu cho ma cà rồng thuần chủng sinh ra đã là ma cà rồng |
+| 136 | Progenitor | Chân Tổ / [Chân Tổ] | Danh hiệu | Danh hiệu dành cho ma cà rồng thuần chủng sinh ra tự nhiên |
 | 137 | thunder dragon | Lôi Long | Quái vật | Loài rồng mang thuộc tính sấm sét |
 | 138 | wind dragon | Phong Long | Quái vật | Loài rồng mang thuộc tính gió |
 | 139 | Spider Press | Tòa soạn Nhện | Ấn phẩm / Tổ chức | Tòa soạn báo hư cấu trong suy nghĩ độc thoại của Nhện |
@@ -523,7 +532,6 @@
 | 158 | Tragedy of Zatona | Thảm kịch Zatona | Thuật ngữ / Sự kiện | Trận chiến đẫm máu giữa Sariella và Liên minh Ohts có sự can thiệp của Cơn Ác Mộng |
 | 159 | Kingdom Calendar | Vương lịch | Thuật ngữ | Hệ thống niên lịch được loài người sử dụng rộng rãi |
 | 160 | legendary-class | cấp huyền thoại | Phân cấp quái vật | Cấp bậc quái vật có sức mạnh cực kỳ kinh khủng, đe dọa cả một quốc gia |
-| 161 | Progenitor | [Chân Tổ] | Danh hiệu | Danh hiệu dành cho ma cà rồng thuần chủng sinh ra tự nhiên |
 | 162 | Originator | [Thủy Tổ] | Danh hiệu | Danh hiệu dành cho tổ tiên của một chủng tộc hoặc loài sinh vật |
 | 163 | Giant Spider Scythe | Đại Lưỡi Hái Nhện | Trang bị | Vũ khí dạng lưỡi hái được Nhện nhỏ chế tạo từ chân trước của mình |
 | 164 | Earth Dragon Fuit | Địa Long Fuit | Quái vật | Chủng tộc rồng mặt đất cấp thấp xuất hiện ở Tầng Dưới |
@@ -531,6 +539,30 @@
 | 166 | MA energy | năng lượng MA | Thuật ngữ / Hệ thống | Năng lượng nguồn vận hành thế giới bên trong hệ thống W |
 | 167 | sword-king | Kiếm Vương | Danh hiệu / Thuật ngữ | Danh hiệu của kiếm sĩ mạnh nhất Đế quốc |
 | 168 | previous sword-king | Kiếm Vương đời trước | Nhân vật | Bạn và chiến hữu cũ của Ronandt, người đã đột ngột biến mất |
+| 169 | efejicote | efejicote | Quái vật | Quái vật dạng kiến khổng lồ sinh sống dưới lòng đất |
+| 170 | mechanical surveillance drone / surveillance drone | thiết bị giám sát không người lái cơ khí / drone giám sát | Thuật ngữ | Thiết bị giám sát do Potimas chế tạo để theo dõi |
+| 171 | White’s Scythe | Lưỡi hái của White | Trang bị | Cây lưỡi hái màu trắng của White được chế tạo từ chính các bộ phận cơ thể của cô, liên tục tự động tăng trưởng |
+| 172 | automatic growth | tự động tăng trưởng | Đặc tính / Thuật ngữ | Đặc tính của trang bị cho phép tự tăng chỉ số ngẫu nhiên theo thời gian |
+| 173 | automatic repair | tự động phục hồi | Đặc tính / Thuật ngữ | Đặc tính của trang bị cho phép tự sửa chữa và khôi phục chỉ số kháng tính theo thời gian |
+| 174 | UFO / unidentified flying object | UFO / Vật thể bay không xác định | Thuật ngữ | Vật thể bay khổng lồ hình tròn của Potimas |
+| 175 | fighter plane | phi cơ chiến đấu | Thuật ngữ / Quái vật | Phi cơ chiến đấu tự hành cơ khí do Potimas chế tạo |
+| 176 | G-Tri | G-Tri | Thuật ngữ | Định danh chính thức của phi cơ chiến đấu cổ đại |
+| 177 | G-Fleet | G-Fleet | Thuật ngữ | Định danh mật mã của UFO / Vật thể bay khổng lồ |
+| 178 | GMA bomb | bom GMA | Thuật ngữ / Vũ khí | Bom năng lượng MA dự phòng trang bị trên G-Fleet |
+| 179 | G-Meteo | G-Meteo | Thuật ngữ / Vũ khí | Vũ khí tự hành kéo tiểu hành tinh và thả thiên thạch xuống hành tinh |
+| 180 | machine | máy móc | Thuật ngữ | Thiết bị công nghệ tự động hóa |
+| 181 | vacuum cleaner | máy hút bụi | Thuật ngữ | Thiết bị dọn dẹp vệ sinh ở thế giới cũ |
+| 182 | mechanical weapon | vũ khí cơ giới | Thuật ngữ / Vũ khí | Vũ khí cơ khí tự vận hành và chiến đấu |
+| 183 | true dragon | chân long | Thuật ngữ / Chủng tộc | Rồng thuần chủng, sinh vật thần cấp tối cổ |
+| 184 | godly dragon | thần long | Thuật ngữ / Chủng tộc | Tôn xưng thần thánh của các chân long |
+| 185 | optic weapon | vũ khí quang học | Thuật ngữ / Vũ khí | Vũ khí bắn tia sáng/năng lượng quang học |
+| 186 | propulsion device | thiết bị đẩy | Thuật ngữ | Động cơ đẩy cơ khí |
+| 187 | fake Gloria | Gloria hàng nhái | Vũ khí / Vật phẩm | Bản sao cơ giới chắp vá được làm ra dựa trên món vũ khí bí mật Gloria của Potimas |
+| 188 | deification | Thần hóa | Thuật ngữ | Quá trình tiến hóa vượt ra ngoài Hệ thống để trở thành Thần |
+| 189 | Basics of Godliness | Khái niệm Cơ bản về Thần tính | Thuật ngữ / Kỹ năng | Gói cài đặt đặc biệt của D dành cho White sau khi thần hóa |
+| 190 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại chính quy do tộc Elf chế tạo |
+| 191 | White Weaver | Bạch Dệt Giả | Danh hiệu | Biệt danh D ban cho Shiraori khi thần hóa, có nghĩa là người dệt màu trắng |
+
 
 ---
 
@@ -546,6 +578,8 @@
 | 4 | Power creep | Lạm phát sức mạnh | Độc thoại nội tâm của Nhện | Sự mất cân bằng sức mạnh khi kẻ địch quá mạnh xuất hiện |
 | 5 | Cheat code | Mã gian lận | Giao tiếp của các Phân thân Tư duy | Đề cập đến kỹ năng Bất tử vô lý của Nhện nhỏ |
 | 6 | Zombie attack | Tấn công kiểu zombie | Độc thoại nội tâm của Nhện | Chiến thuật hồi sinh liên tục để bào mòn đối phương |
+| 7 | sweatshop | xưởng bóc lột | Lời thoại của Ariel | Ví von bóc lột sức lao động |
+| 8 | egg-revival technique / egg revival | thuật hồi sinh từ trứng | Độc thoại nội tâm của Nhện | Phương pháp chuyển linh hồn vào trứng dự phòng khi chết để hồi sinh của Nhện |
 
 ---
 
@@ -553,5 +587,5 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-13
-- **Tổng thuật ngữ**: 476
+- **Tổng thuật ngữ**: 525
 

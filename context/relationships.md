@@ -61,7 +61,6 @@ graph TD
 ---
 
 ### QH-002: Shun ↔ Sue
-: Shun ↔ Sue
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -211,7 +210,6 @@ graph TD
 ---
 
 ### QH-012: Shun ↔ Anna
-: Shun ↔ Anna
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -407,7 +405,6 @@ graph TD
 ---
 
 ### QH-025: Shun ↔ Fei
-: Shun ↔ Fei
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -465,7 +462,6 @@ graph TD
 ---
 
 ### QH-029: Potimas ↔ Cô Oka (Filimõs)
-: Cô Oka ↔ Potimas Harrifenas
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -474,7 +470,7 @@ graph TD
 | **Potimas gọi Cô Oka** | Con / Filimõs |
 | **Cô Oka xưng** | Con / Tôi |
 | **Potimas xưng** | Ta |
-| **Trạng thái** | Xa cách, thực dụng và căng thẳng ngầm. Cô Oka tuy là con gái Potimas nhưng hiểu rất rõ bản chất tàn nhẫn của ông ta. Cô biết rằng nếu mình xóa kỹ năng bằng [Xóa Kỹ Năng] (đồng nghĩa với việc dâng nộp sức mạnh cho các quản trị viên, kẻ thù của tộc Elf), Potimas sẽ sẵn sàng thanh trừng cô mà không hề biến sắc. Cô Oka vừa phải lợi dụng quyền lực của cha để bảo hộ các học sinh, vừa phải giữ lại các kỹ năng của mình để tự vệ và tránh bị thanh trừng, đồng thời bảo vệ các học sinh khỏi việc bị tộc Elf lợi dụng hay vứt bỏ. |
+| **Trạng thái** | Xa cách, thực dụng và căng thẳng ngầm. Cô Oka tuy là con gái Potimas nhưng hiểu rất rõ bản chất tàn nhẫn của ông ta. Cô biết rằng nếu mình xóa kỹ năng bằng [Xóa Kỹ Năng] (đồng nghĩa với việc dâng nộp sức mạnh cho các quản trị viên, kẻ thù của tộc Elf), Potimas sẽ sẵn sàng thanh trừng cô mà không hề biến sắc. Cô Oka vừa phải lợi dụng quyền lực của cha để bảo hộ các học sinh, vừa phải giữ lại các kỹ năng của mình để tự vệ và tránh bị thanh trừng, đồng thời bảo vệ các học sinh khỏi việc bị tộc Elf lợi dụng hay vứt bỏ. Trong Chương cuối Volume 7, sau khi White hóa thần, Potimas quyết tâm trả thù và đã ra lệnh mang Oka theo cùng lực lượng quân đội tộc Elf để dàn dựng cảnh các người tái sinh tự tàn sát lẫn nhau, một kế hoạch tàn độc mà hắn cho rằng sẽ rất thú vị và gây ra đau khổ tột cùng cho cả Oka lẫn White. |
 
 ---
 ### QH-030: Hugo ↔ Cylis
@@ -504,7 +500,6 @@ graph TD
 ---
 
 ### QH-032: Hugo ↔ Sophia
-: Hugo ↔ Sophia
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -527,7 +522,6 @@ graph TD
 ---
 
 ### QH-034: Tôi (Nhện) ↔ Gyuristodief (Quản trị viên Hắc)
-: Tôi (Nhện) ↔ Güliedistodiez (Güli-güli / Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -549,7 +543,7 @@ graph TD
 | **D gọi Hắc** | Người bạn kia của tôi / Hắc |
 | **Hắc xưng** | - |
 | **D xưng** | D / Tôi |
-| **Trạng thái** | Hắc bất ngờ và phải tuân theo sự can thiệp của D khi cô ra lệnh cho hắn không được làm phiền Nhện nhỏ; D giới thiệu Hắc là "người bạn kia của tôi" và đuổi hắn đi qua cuộc gọi điện thoại. |
+| **Trạng thái** | Hắc bất ngờ và phải tuân theo sự can thiệp của D khi cô ra lệnh cho hắn không được làm phiền Nhện nhỏ. Trong Volume 7, sau khi Hắc Long tiêu diệt G-Meteo ngoài vũ trụ, D đã liên lạc qua một thiết bị mỏng ra lệnh cho anh ta phải ở yên đó quan sát phần còn lại của trận chiến chứ không được quay về hỗ trợ nhóm Ariel, chỉ vì cô ta thấy thế mới giải trí. Dù bất bình và muốn giúp Ariel, Hắc Long bắt buộc phải nghe theo vì sức mạnh áp đảo của D. |
 
 ---
 
@@ -645,7 +639,7 @@ graph TD
 | **Quan hệ** | Chủ tớ gắn bó từ kiếp trước, chỗ dựa tinh thần duy nhất |
 | **Sophia gọi Merazophis** | Mera |
 | **Merazophis gọi Sophia** | Tiểu thư (Miss / Lady Sophia) |
-| **Sophia xưng** | Tôi |
+| **Sophia xưng** | Tôi / Ta (khi đối thoại với Mera) |
 | **Merazophis xưng** | Tôi / Mera |
 | **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. Trong Volume 6 Chương V3, khi Sophia lo sợ Merazophis sẽ rời bỏ mình để báo thù, anh đã quỳ gối trước cô thề nguyện phục vụ cô trọn đời và xin phép ở lại bên cô. Cảm xúc trào dâng, Sophia ôm lấy anh và cắn cổ hút máu theo bản năng ma cà rồng, xác nhận tính chiếm hữu mãnh liệt ("Người này là của tôi. Bất kể ai có nói gì đi chăng nữa... tôi cũng sẽ không bao giờ buông tay anh ấy") và khẳng định khế ước máu sâu sắc hơn nữa giữa hai người. Trong Chương 3 Tập 6 (sau sự kiện gặp Dustin), sau khi uống rượu say, Merazophis được White kề lưỡi hái vào cổ đe dọa và mắng thẳng mặt vì thói ủ rũ nửa vời, giúp anh giải tỏa được nghi ngờ và dằn vặt nội tâm, vui vẻ mỉm cười chấp nhận thân phận ma cà rồng và thề dốc toàn lực bảo vệ Sophia từ nay về sau. Trong Volume 6 Chương V4, Sophia ra lệnh cho Merazophis đi cùng cô tới lãnh thổ ma tộc thay vì để cô Ariel hỏi ý anh. Cô khẳng định tính sở hữu tuyệt đối đối với anh ("Merazophis là của tôi. Tôi sẽ không để ai cướp mất anh ấy, ngay cả cha mẹ tôi cũng không được") và hạ quyết tâm bắt anh phải công nhận cô là chủ nhân thực sự, khiến cô Ariel phải rùng mình tự hỏi liệu cô bé có đang hóa yandere hay không. |
 
@@ -728,7 +722,7 @@ graph TD
 | **White gọi Ariel** | Ariel / Ma Vương |
 | **Ariel xưng** | Ta / Tớ |
 | **White xưng** | Tôi |
-| **Trạng thái** | Ariel thu phục và đưa White vào làm Thống lĩnh Quân đoàn 10. Hai người có mối liên kết chặt chẽ và sâu sắc, Ariel rất tin tưởng giao phó nhiệm vụ quan trọng cho nhóm White. Trong cuộc hành quân đến làng Elf, cả hai đồng hành trong xe kéo trên lưng Taratect Thượng cổ. Ariel chủ động trò chuyện và trấn an White (khi cô có vẻ lo lắng) rằng mình sẽ không giết đám người tái sinh mà chỉ tập trung quét sạch tộc Elf. |
+| **Trạng thái** | Ariel thu phục và đưa White vào làm Thống lĩnh Quân đoàn 10. Hai người có mối liên kết chặt chẽ và sâu sắc, Ariel rất tin tưởng giao phó nhiệm vụ quan trọng cho nhóm White. Sau khi White thần hóa và mất hết sức mạnh trong sự kiện UFO (Volume 7), mối quan hệ chuyển biến rõ rệt: Ariel quyết tâm bảo bọc, chăm sóc cô cho đến khi cô phục hồi sức mạnh mà không hề có ý định bỏ rơi cô. White cũng chính thức buông bỏ đề phòng, chấp nhận Ariel là đồng minh thực sự và quyết định ăn bám cô một thời gian. Trong cuộc hành quân đến làng Elf (tuyến thời gian tương lai), cả hai đồng hành trong xe kéo trên lưng Taratect Thượng cổ. |
 
 ---
 
@@ -879,7 +873,6 @@ graph TD
 ---
 
 ### QH-060: Sophia ↔ Wald
-: Sophia ↔ Wald
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -906,7 +899,6 @@ graph TD
 ---
 
 ### QH-062: Tôi (Nhện) ↔ Ma Vương (Ariel)
-: Tôi (Nhện) ↔ Ariel
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1210,7 +1202,7 @@ graph TD
 | **Quan hệ** | Đối thủ chính trị/tôn giáo đáng gờm, kiêng dè lẫn nhau |
 | **Potimas gọi Dustin** | Người đàn ông đó / Dustin |
 | **Dustin gọi Potimas** | Potimas / Potimas Harrifenas (trong độc thoại) |
-| **Trạng thái** | Kiêng dè và cảnh giác lẫn nhau. Potimas đánh giá Dustin là kẻ có quyền lực của một tổ chức khổng lồ (Thần Ngôn Giáo) đứng sau lưng. Dù chưa biết liệu Dustin đã phát hiện ra các người tái sinh hay chưa, Potimas thừa nhận rằng mọi hành động gây chú ý của tộc Elf tại Hạt Keren đều sẽ lọt vào tầm ngắm của Dustin, và việc gây hấn với ông ta là điều không khôn ngoan. |
+| **Trạng thái** | Kiêng dè và cảnh giác lẫn nhau. Potimas đánh giá Dustin là kẻ có quyền lực của một tổ chức khổng lồ (Thần Ngôn Giáo) đứng sau lưng. Dù chưa biết liệu Dustin đã phát hiện ra các người tái sinh hay chưa, Potimas thừa nhận rằng mọi hành động gây chú ý của tộc Elf tại Hạt Keren đều sẽ lọt vào tầm ngắm của Dustin, và việc gây hấn với ông ta là điều không khôn ngoan. Trong Volume 7 Chương 5, khi chiếc UFO khổng lồ trồi lên, Potimas đã tự mình Dịch chuyển đến và gặp mặt cả Dustin, Ariel lẫn Güliedistodiez. Hắn tuyên bố một mình Güliedistodiez không thể tiêu diệt nổi UFO và đề xuất kết hợp lực lượng của tất cả mọi người để giải quyết hiểm họa chung. |
 
 ---
 
@@ -1304,7 +1296,7 @@ graph TD
 | **Quan hệ** | Kiêng dè và cẩn trọng quan sát |
 | **Dustin gọi Ariel** | Ngài Ariel |
 | **Ariel gọi Dustin** | Dustin |
-| **Trạng thái** | Dustin biết Ariel là thực thể cực kỳ mạnh mẽ và e dè trước sức mạnh đó. Ông nhận định Cơn Ác Mộng là lũ con của Ariel và băn khoăn về động cơ của bà ta khi can thiệp vào Hạt Keren. Dustin muốn tránh đụng độ trực tiếp với Ariel và hy vọng Ariel và Potimas sẽ tự đối đầu trực diện nhau. Trong Volume 6 Chương V3, ông chủ động gặp riêng cô tại quán ăn nhỏ hẻo lánh. Ariel thẳng thắn từ chối giao nộp White hay chia sẻ thông tin về Sophia, và nói rõ cô chỉ đưa Sophia tới thủ đô Sariella rồi sẽ rời đi chứ không hỗ trợ chiến tranh. Dustin chấp nhận nhưng vẫn sửng sốt khi cô tiết lộ mình chính là Ma Vương của thế hệ này ngay trước khi ra về. |
+| **Trạng thái** | Dustin biết Ariel là thực thể cực kỳ mạnh mẽ và e dè trước sức mạnh đó. Ông nhận định Cơn Ác Mộng là lũ con của Ariel và băn khoăn về động cơ của bà ta khi can thiệp vào Hạt Keren. Dustin muốn tránh đụng độ trực tiếp với Ariel và hy vọng Ariel và Potimas sẽ tự đối đầu trực diện nhau. Trong Volume 6 Chương V3, ông gặp riêng cô tại quán ăn để dò la tin tức. Trong Volume 7 Chương 5, khi chiếc UFO khổng lồ từ tàn tích cổ đại trồi lên, Dustin đã chủ động Dịch chuyển tới gặp Ariel và đề xuất tạm thời đình chiến để cùng kết hợp đối phó với mối hiểm họa chung này. Ariel đồng ý rằng một mình họ không thể xử lý nổi và đành phải đợi Gülie giải quyết. Trong trận chiến dưới mặt đất của Volume 7, Dustin quan sát các Nữ hoàng Taratect và các Taratect Rối chiến đấu dưới trướng Ariel và vô cùng khâm phục tài chiến thuật của thủ lĩnh Taratect Rối, đồng thời dốc sức cho các hiệp sĩ Thần Ngôn Giáo của mình làm lá chắn phối hợp cùng lực lượng của cô. |
 
 ---
 
@@ -1316,7 +1308,7 @@ graph TD
 | **Quan hệ** | Quan sát và lợi dụng |
 | **Dustin gọi Nhện** | Cơn Ác Mộng / Cơn Ác Mộng của Mê Cung |
 | **Nhện gọi Dustin** | Dustin (trong độc thoại của các Phân thân) |
-| **Trạng thái** | Dustin coi Cơn Ác Mộng là một "kẻ ngoài cuộc mạnh mẽ" đã phá vỡ mạng lưới điệp viên cải trang của mình tại Sariella. Ông đang quan sát hành vi kỳ lạ của nó và muốn "ném đá dò đường" bằng cách sắp xếp một yêu cầu để các mạo hiểm giả từng chạm trán nó ở Mê cung Lớn Elroe gặp lại nó ở Ohts nhằm thử phản ứng của nó. |
+| **Trạng thái** | Dustin coi Cơn Ác Mộng là một "kẻ ngoài cuộc mạnh mẽ" đã phá vỡ mạng lưới điệp viên cải trang của mình tại Sariella. Ông đang quan sát hành vi kỳ lạ của nó và muốn "ném đá dò đường" bằng cách sắp xếp một yêu cầu để các mạo hiểm giả từng chạm trán nó ở Mê cung Lớn Elroe gặp lại nó ở Ohts nhằm thử phản ứng của nó. Trong trận chiến ở Volume 7, qua kỹ năng [Vạn Lý Nhãn], Dustin nhìn thấy White sử dụng súng của Potimas bắn hạ pháo chính của soái hạm địch rồi bị súng nổ tự hủy phản phệ. Dựa vào những năng lực đặc biệt như phục hồi các bộ phận đã mất cực nhanh, ông suy đoán ra White chính là Cơn Ác Mộng của Mê Cung. Đồng thời, từ thái độ bình đẳng của Ariel dành cho White, ông nhận định mối quan hệ của họ thực chất rất lỏng lẻo, không phải chủ tớ mà là kẻ thù buộc phải đình chiến liên thủ. |
 
 ---
 
@@ -1418,7 +1410,7 @@ graph TD
 | **Gülie gọi Ariel** | Ariel / cô |
 | **Ariel xưng** | Tôi (dưới ảnh hưởng của Nhện nhỏ) / Ta (bản ngã cũ) |
 | **Gülie xưng** | Ta |
-| **Trạng thái** | Bạn cũ từ thời đại cổ xưa. Gülie tìm đến Ariel khi thấy cô vừa kết thúc trận chiến với Gakia, bộc lộ sự lo lắng và bất lực khi chứng kiến linh hồn cô bị dung hợp sâu sắc với Nhện nhỏ. Hắn hỏi cô hiện tại là ai và cô sẽ làm gì. Dù thừa nhận Ariel đã bị thay đổi đáng kể, Gülie vẫn muốn giúp đỡ con gái người bạn cũ bằng cách dịch chuyển cô tới chỗ Nhện nhỏ để giải quyết dứt điểm mối thù, chấp nhận đối mặt với hình phạt từ D vì vi phạm giao ước không can thiệp. Trong Volume 6 Chương 5, cả hai cùng uống rượu thảo luận về sự căm thù của cô đối với nhân loại và việc ngài Sariel hiến tế. Ariel thừa nhận cô ghét loài người đến phát điên nhưng buộc phải kiềm nén suốt thời gian qua vì đó không phải điều ngài Sariel muốn. Güli-güli đồng tình, và cả hai đều phải suy ngẫm trước lời nhận xét thô lỗ nhưng chân thật của cô Bạch rằng thật ngu ngốc khi phải kìm nén bản thân vì người khác. |
+| **Trạng thái** | Bạn cũ từ thời đại cổ xưa. Gülie tìm đến Ariel khi thấy cô vừa kết thúc trận chiến với Gakia, bộc lộ sự lo lắng và bất lực khi chứng kiến linh hồn cô bị dung hợp sâu sắc với Nhện nhỏ. Hắn hỏi cô hiện tại là ai và cô sẽ làm gì. Dù thừa nhận Ariel đã bị thay đổi đáng kể, Gülie vẫn muốn giúp đỡ con gái người bạn cũ bằng cách dịch chuyển cô tới chỗ Nhện nhỏ để giải quyết dứt điểm mối thù, chấp nhận đối mặt với hình phạt từ D vì vi phạm giao ước không can thiệp. Trong Volume 6 Chương 5, cả hai cùng uống rượu thảo luận về sự căm thù của cô đối với nhân loại và việc ngài Sariel hiến tế. Trong Volume 7 Chương 5, sau khi nhận được tin báo từ con phong long thuộc cấp, Güliedistodiez đã dịch chuyển trực tiếp tới hoang mạc gặp Ariel để giải quyết chiếc UFO khổng lồ vừa trồi lên, tạ lỗi vì đã để cô chịu phiền toái từ sự sơ suất của mình. |
 
 ---
 
@@ -1539,7 +1531,7 @@ graph TD
 | **Potimas gọi Nhện** | Ngươi / Quyến thuộc của Ariel |
 | **Nhện xưng** | Tôi (trong độc thoại) |
 | **Potimas xưng** | Ta |
-| **Trạng thái** | Đối đầu gay gắt. Trong Chương 9, Nhện nhỏ lao vào cứu Merazophis và Sophia khỏi tay Potimas. Potimas kích hoạt [Kết giới Phản Kỹ thuật] triệt tiêu toàn bộ kỹ năng và ma pháp của cô để truy sát. Nhện nhỏ chật vật né tránh và bị đạn bắn nát đầu người, nhưng cuối cùng phản công vặn gãy tay phải của hắn từ bên trong bằng [Bóp Méo Tà Nhãn] (do kết giới không tác dụng trong cơ thể) trước khi Ariel xuất hiện dứt điểm hắn. |
+| **Trạng thái** | Đối đầu gay gắt. Trong Volume 5 Chương 9, Nhện nhỏ cứu Sophia khỏi Potimas nhưng bị hắn bắn nát đầu người. Cô phản công vặn gãy tay hắn bằng [Bóp Méo Tà Nhãn] trước khi Ariel tiêu diệt bản thể robot đó. Đến Volume 7 Chương 9, cô dùng khẩu bazooka Potimas đưa để phá hủy pháo chính của UFO, nhưng bazooka phát nổ dội ngược làm cô bay màu nửa thân người, lộ rõ mưu đồ ám sát của Potimas. Trong Chương 10, cô hồi phục bằng [Kỳ Tích Ma Pháp], thâm nhập UFO và trả thù bằng cách giẫm lên đầu và đâm nát mông Potimas (tạo một "lỗ hậu" mới cho cơ thể cyborg của hắn), khiến hắn vô cùng nhục nhã và tuyên bố sẽ dùng cách tàn bạo nhất để giết cô. |
 
 ---
 
@@ -1709,11 +1701,96 @@ graph TD
 
 ---
 
+### QH-123: Ariel ↔ Potimas Harrifenas
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Ariel gọi Potimas** | Potimas / ông |
+| **Potimas gọi Ariel** | Ariel / cô / cô bé |
+| **Ariel xưng** | Tôi / ta |
+| **Potimas xưng** | Ta |
+| **Trạng thái** | Kẻ thù truyền kiếp lâu đời. Ariel căm ghét Potimas vì sự ích kỷ và những tội ác hủy diệt thế giới của hắn. Khi G-Fleet xuất hiện, họ tạm thời đình chiến hợp tác để thâm nhập UFO. Trong Chương 10, Ariel dùng đòn quật nhu đạo đập Potimas xuống sàn và giẫm lên lưng hắn để răn đe khi hắn có thái độ xấc láo và đe dọa phản bội. Ariel cũng mời White giẫm đạp hắn và cười bò sặc sụa khi White đâm nát mông hắn. Họ đồng ý tạm thời sử dụng lẫn nhau nhưng mặc định sẽ đâm sau lưng nhau bất cứ lúc nào. |
+
+---
+
+### QH-124: Potimas Harrifenas ↔ Giáo hoàng Dustin
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Potimas gọi Dustin** | Dustin / ngươi |
+| **Dustin gọi Potimas** | Potimas / Potimas Harrifenas / ông |
+| **Potimas xưng** | Ta |
+| **Dustin xưng** | Ta |
+| **Trạng thái** | Đối thủ chính trị sừng sỏ kéo dài nhiều thế kỷ. Potimas khinh bỉ Dustin và loài người, xem họ là sinh vật hạ đẳng và chỉ là con rối của các quản trị viên. Dustin đề phòng và cảnh giác cao độ trước các âm mưu công nghệ của Potimas. Tuy nhiên, trước hiểm họa diệt thế của G-Fleet, cả hai đồng ý tạm thời đình chiến và chia sẻ lực lượng để đối phó. |
+
+---
+
+### QH-125: Ariel ↔ Güliedistodiez (Güli-güli)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Ariel gọi Güli-güli** | Gülie / ông |
+| **Güli-güli gọi Ariel** | Ariel / cô |
+| **Ariel xưng** | Tôi / ta |
+| **Güli-güli xưng** | Ta |
+| **Trạng thái** | Đồng minh lâu năm và có mối liên kết kỳ lạ từ quá khứ (liên quan đến ngài Sariel). Họ hiểu rõ tính cách của nhau và thường uống rượu tâm sự cùng nhau. Güli-güli luôn lo lắng cho an nguy của Ariel và bảo cô không được chết, còn Ariel coi anh ta là một gã ngốc tốt bụng đáng tin cậy nhưng đôi khi làm phiền cô. Khi G-Meteo xuất hiện, Güli-güli bay lên không gian để xử lý nó, giao mặt đất lại cho Ariel. |
+
+---
+
+### QH-126: Phong Long Hyuvan ↔ Güliedistodiez (Güli-güli)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Hyuvan gọi Güli-güli** | Đại ca / Ngài |
+| **Güli-güli gọi Hyuvan** | Hyuvan / ngươi |
+| **Hyuvan xưng** | Tôi / ta |
+| **Güli-güli xưng** | Ta |
+| **Trạng thái** | Quan hệ thủ lĩnh và thuộc hạ (Rồng tộc). Hyuvan là thuộc cấp trực tiếp của Güli-güli, tôn kính và sợ hãi anh ta tuyệt đối. Hyuvan coi Güli-güli là "đại ca" chống lưng của mình và lập tức cúi đầu tuân lệnh khi anh ta giao nhiệm vụ bảo vệ vùng hoang mạc và hỗ trợ Ariel. |
+
+---
+
+### QH-127: Phong Long Hyuvan ↔ Ariel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Hyuvan gọi Ariel** | Bà cô nhện (spider lady) / bà cô điên khùng / mày |
+| **Ariel gọi Hyuvan** | Ngươi |
+| **Hyuvan xưng** | Tao / ta / tụi này |
+| **Ariel xưng** | Ta |
+| **Trạng thái** | Oan gia tấu hài. Hyuvan ban đầu cố ra oai nhưng lập tức bị sức mạnh của Ariel đè bẹp và biến thành lâu la tép riu chuyên bị bắt nạt. Hyuvan luôn tìm cách xin nghỉ việc hoặc trốn tránh trách nhiệm, trong khi Ariel đe dọa sẽ bóc lột sức lao động của anh ta đến mức chủ xưởng bóc lột cũng phải khiếp sợ. |
+
+---
+
+### QH-128: Phong Long Hyuvan ↔ White (Bạch)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Hyuvan gọi White** | Cô nương tóc trắng (White lady) / cô nương (girlie) / người đẹp (sweet cheeks) |
+| **White gọi Hyuvan** | Tên này / gã này / con phong long / Phong Long Hyuvan (trong suy nghĩ) |
+| **Hyuvan xưng** | Ta / tôi / tụi này |
+| **White xưng** | Tôi (trong suy nghĩ, không trực tiếp nói chuyện) |
+| **Trạng thái** | Đồng hành bất đắc dĩ trong trận không chiến đột kích UFO. Hyuvan coi White là một cô nàng tóc trắng mỏng manh cần bảo vệ, thậm chí sẵn sàng hy sinh mở đường máu để đưa cô tiếp cận UFO ở Chương 8. Tuy nhiên, khi cô bắn bazooka nổ tung rồi rơi tự do ở Chương 9, Hyuvan đã nhanh nhẹn lao tới đỡ lấy cô ngay giữa không trung. Hành động dũng cảm cứu mạng này khiến White vô cùng cảm kích (tăng mạnh điểm thiện cảm) và quyết định bỏ công sức bảo hộ giúp anh ta sống sót qua cuộc chiến. |
+
+---
+
+### QH-129: Potimas Harrifenas ↔ Gyuristodief (Quản trị viên Hắc)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ chính trị viễn cổ, đề phòng và hợp tác bất đắc dĩ |
+| **Potimas gọi Hắc** | Gyuriedistodiez / Hắc |
+| **Hắc gọi Potimas** | Potimas |
+| **Potimas xưng** | Ta |
+| **Hắc xưng** | Ta |
+| **Trạng thái** | Hai thực thể tồn tại từ thời cổ đại. Hắc Long coi Potimas là kẻ ích kỷ, xảo quyệt luôn tìm cách thao túng mọi thứ có lợi cho mình. Khi G-Fleet trỗi dậy ở Volume 7, Hắc Long chấp nhận đề xuất của Potimas đi vào vũ trụ để xử lý G-Meteo vì chỉ có anh ta mới có thể chiến đấu ngoài không gian. Hắc Long biết thừa Potimas cố tình đẩy mình đi để giở trò mưu đồ riêng trên mặt đất, và anh ta thề sẽ đập tan mưu đồ của Potimas không chút nương tay sau khi quay về. Potimas luôn đề phòng sức mạnh thần cấp của Hắc Long và tìm cách vô hiệu hóa hoặc cô lập anh ta để thực hiện các kế hoạch ích kỷ của mình. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-13
-- **Tổng cặp quan hệ**: 122
+- **Tổng cặp quan hệ**: 129
 
 
 
