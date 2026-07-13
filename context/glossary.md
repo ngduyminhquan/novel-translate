@@ -74,6 +74,9 @@
 | 53 | Dustin | Dustin | Giáo hoàng Thần Ngôn Giáo |
 | 54 | Shinobu Kusama | Kusama Shinobu | Học sinh tái sinh, biệt danh Shino |
 | 55 | Tiva | Tiva | Kỵ sĩ hoàng gia Đế quốc Renxandt, tổng chỉ huy liên quân |
+| 56 | Agrissa Furyu | Agrissa Furyu | Nhà nghiên cứu quái vật Vương quốc Analeit |
+| 57 | Asahiro Kakashi | Asahiro Kakashi | Họa sĩ vẽ bản chuyển thể manga của tiểu thuyết |
+| 58 | Mr. K | Biên tập viên K | Biên tập viên của tác giả |
 
 
 ---
@@ -350,6 +353,8 @@
 | 243 | Magic Eye | [Ma Nhãn] | Kỹ năng | Năng lực của ma cà rồng gây trạng thái thôi miên khi nhìn vào mắt mục tiêu |
 | 244 | Illusion Magic | [Ma pháp Ảo ảnh] | Ma pháp | Ma pháp tạo ra ảo giác hoặc ảo ảnh để che mắt đối phương |
 | 245 | Scythesmanship | [Lưỡi Hái Thuật] | Kỹ năng chủ động | Khả năng chiến đấu bằng lưỡi hái |
+| 246 | Temperance | [Tiết Chế] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính, cho phép tái sinh giữ nguyên ký ức |
+| 247 | Diligence | [Cần Mẫn] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
 
 ---
 
@@ -523,6 +528,9 @@
 | 163 | Giant Spider Scythe | Đại Lưỡi Hái Nhện | Trang bị | Vũ khí dạng lưỡi hái được Nhện nhỏ chế tạo từ chân trước của mình |
 | 164 | Earth Dragon Fuit | Địa Long Fuit | Quái vật | Chủng tộc rồng mặt đất cấp thấp xuất hiện ở Tầng Dưới |
 | 165 | Elroe Utoeudo | Utoeudo Elroe | Quái vật | Quái vật dạng côn trùng có lớp vỏ kim loại phát sáng và chỉ số vượt quá 1.000 ở Tầng Dưới |
+| 166 | MA energy | năng lượng MA | Thuật ngữ / Hệ thống | Năng lượng nguồn vận hành thế giới bên trong hệ thống W |
+| 167 | sword-king | Kiếm Vương | Danh hiệu / Thuật ngữ | Danh hiệu của kiếm sĩ mạnh nhất Đế quốc |
+| 168 | previous sword-king | Kiếm Vương đời trước | Nhân vật | Bạn và chiến hữu cũ của Ronandt, người đã đột ngột biến mất |
 
 ---
 
@@ -544,6 +552,6 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-12
-- **Tổng thuật ngữ**: 473
+- **Cập nhật lần cuối**: 2026-07-13
+- **Tổng thuật ngữ**: 476
 

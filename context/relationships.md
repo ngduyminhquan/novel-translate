@@ -536,7 +536,7 @@ graph TD
 | **Gülie gọi Tôi** | Ngươi |
 | **Tôi xưng** | Tôi (trong độc thoại / thần giao cách cảm) / Ta (độc thoại) |
 | **Gülie xưng** | Ta |
-| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. |
+| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. Ở Volume 6 Chương R4, Güli-güli dịch chuyển đến ngăn chặn đàn nhện con do các Phân thân Tư duy dẫn dắt khi chúng định ăn bầy phi long bảo vệ trứng, tuyên bố bất kỳ hành động gây hấn nào tiếp theo sẽ là tuyên chiến với hắn. Trong Cuộc họp Phân thân Tư duy #4, các Phân thân Tư duy gọi hắn là "trùm cuối" và quyết định rút lui khỏi Tầng Dưới để tránh chọc giận hắn, đồng thời lên kế hoạch đi săn loài người để lấy EXP nuôi bầy nhện con. Trong Volume 6 Chương 5, sau khi cô tiêu diệt các Phân thân Tư duy nổi loạn, cả hai đã uống rượu cùng Ariel. Güli-güli nhận định tính cách ích kỷ và kiêu ngạo của cô rất giống D, định ra tay trừng trị cô vì quá nguy hiểm nhưng bị D gọi điện thoại ngăn cản. Khi anh ta hỏi về dự định tương lai, cô tuyên bố sẽ chỉ hành động theo ý chí và lòng tự tôn của chính mình, không để ai can thiệp. |
 
 ---
 ### QH-035: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
@@ -647,7 +647,7 @@ graph TD
 | **Merazophis gọi Sophia** | Tiểu thư (Miss / Lady Sophia) |
 | **Sophia xưng** | Tôi |
 | **Merazophis xưng** | Tôi / Mera |
-| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. Trong Chương 3 Tập 6, sau khi uống rượu say, Merazophis được White kề lưỡi hái vào cổ đe dọa và mắng thẳng mặt vì thói ủ rũ nửa vời, giúp anh giải tỏa được nghi ngờ và dằn vặt nội tâm, vui vẻ mỉm cười chấp nhận thân phận ma cà rồng và thề dốc toàn lực bảo vệ Sophia từ nay về sau. |
+| **Trạng thái** | Merazophis là người hầu và người giám hộ trung thành của Sophia từ kiếp trước. Sau khi dinh thự Keren bị tấn công, cậu bị trọng thương và được Sophia cắn truyền máu để chuyển hóa thành ma cà rồng quyến thuộc, từ đó có được sức mạnh mới để bảo vệ cô. Mối quan hệ chủ tớ này càng thêm sâu sắc, gắn bó bền chặt bằng khế ước máu và là chỗ dựa tinh thần duy nhất của nhau ở thế giới mới. Trong Chương cuối, sau cái chết của vợ chồng lãnh chúa John Keren, anh cam kết bảo vệ Sophia trọn đời bất kể thân phận ma cà rồng hay người tái sinh, và cùng cô gia nhập đoàn đồng hành của Ariel và Nhện nhỏ hướng về thủ đô Sariella. Trong Volume 6 Chương V3, khi Sophia lo sợ Merazophis sẽ rời bỏ mình để báo thù, anh đã quỳ gối trước cô thề nguyện phục vụ cô trọn đời và xin phép ở lại bên cô. Cảm xúc trào dâng, Sophia ôm lấy anh và cắn cổ hút máu theo bản năng ma cà rồng, xác nhận tính chiếm hữu mãnh liệt ("Người này là của tôi. Bất kể ai có nói gì đi chăng nữa... tôi cũng sẽ không bao giờ buông tay anh ấy") và khẳng định khế ước máu sâu sắc hơn nữa giữa hai người. Trong Chương 3 Tập 6 (sau sự kiện gặp Dustin), sau khi uống rượu say, Merazophis được White kề lưỡi hái vào cổ đe dọa và mắng thẳng mặt vì thói ủ rũ nửa vời, giúp anh giải tỏa được nghi ngờ và dằn vặt nội tâm, vui vẻ mỉm cười chấp nhận thân phận ma cà rồng và thề dốc toàn lực bảo vệ Sophia từ nay về sau. Trong Volume 6 Chương V4, Sophia ra lệnh cho Merazophis đi cùng cô tới lãnh thổ ma tộc thay vì để cô Ariel hỏi ý anh. Cô khẳng định tính sở hữu tuyệt đối đối với anh ("Merazophis là của tôi. Tôi sẽ không để ai cướp mất anh ấy, ngay cả cha mẹ tôi cũng không được") và hạ quyết tâm bắt anh phải công nhận cô là chủ nhân thực sự, khiến cô Ariel phải rùng mình tự hỏi liệu cô bé có đang hóa yandere hay không. |
 
 ### QH-043: Buirimus ↔ Ronandt
 
@@ -1303,8 +1303,8 @@ graph TD
 |------------|----------|
 | **Quan hệ** | Kiêng dè và cẩn trọng quan sát |
 | **Dustin gọi Ariel** | Ngài Ariel |
-| **Ariel gọi Dustin** | (Chưa có hội thoại) |
-| **Trạng thái** | Dustin biết Ariel là thực thể cực kỳ mạnh mẽ và e dè trước sức mạnh đó. Ông nhận định Cơn Ác Mộng là lũ con của Ariel và băn khoăn về động cơ của bà ta khi can thiệp vào Hạt Keren. Dustin muốn tránh đụng độ trực tiếp với Ariel và hy vọng Ariel và Potimas sẽ tự đối đầu trực diện nhau. |
+| **Ariel gọi Dustin** | Dustin |
+| **Trạng thái** | Dustin biết Ariel là thực thể cực kỳ mạnh mẽ và e dè trước sức mạnh đó. Ông nhận định Cơn Ác Mộng là lũ con của Ariel và băn khoăn về động cơ của bà ta khi can thiệp vào Hạt Keren. Dustin muốn tránh đụng độ trực tiếp với Ariel và hy vọng Ariel và Potimas sẽ tự đối đầu trực diện nhau. Trong Volume 6 Chương V3, ông chủ động gặp riêng cô tại quán ăn nhỏ hẻo lánh. Ariel thẳng thắn từ chối giao nộp White hay chia sẻ thông tin về Sophia, và nói rõ cô chỉ đưa Sophia tới thủ đô Sariella rồi sẽ rời đi chứ không hỗ trợ chiến tranh. Dustin chấp nhận nhưng vẫn sửng sốt khi cô tiết lộ mình chính là Ma Vương của thế hệ này ngay trước khi ra về. |
 
 ---
 
@@ -1418,7 +1418,7 @@ graph TD
 | **Gülie gọi Ariel** | Ariel / cô |
 | **Ariel xưng** | Tôi (dưới ảnh hưởng của Nhện nhỏ) / Ta (bản ngã cũ) |
 | **Gülie xưng** | Ta |
-| **Trạng thái** | Bạn cũ từ thời đại cổ xưa. Gülie tìm đến Ariel khi thấy cô vừa kết thúc trận chiến với Gakia, bộc lộ sự lo lắng và bất lực khi chứng kiến linh hồn cô bị dung hợp sâu sắc với Nhện nhỏ. Hắn hỏi cô hiện tại là ai và cô sẽ làm gì. Dù thừa nhận Ariel đã bị thay đổi đáng kể, Gülie vẫn muốn giúp đỡ con gái người bạn cũ bằng cách dịch chuyển cô tới chỗ Nhện nhỏ để giải quyết dứt điểm mối thù, chấp nhận đối mặt với hình phạt từ D vì vi phạm giao ước không can thiệp. |
+| **Trạng thái** | Bạn cũ từ thời đại cổ xưa. Gülie tìm đến Ariel khi thấy cô vừa kết thúc trận chiến với Gakia, bộc lộ sự lo lắng và bất lực khi chứng kiến linh hồn cô bị dung hợp sâu sắc với Nhện nhỏ. Hắn hỏi cô hiện tại là ai và cô sẽ làm gì. Dù thừa nhận Ariel đã bị thay đổi đáng kể, Gülie vẫn muốn giúp đỡ con gái người bạn cũ bằng cách dịch chuyển cô tới chỗ Nhện nhỏ để giải quyết dứt điểm mối thù, chấp nhận đối mặt với hình phạt từ D vì vi phạm giao ước không can thiệp. Trong Volume 6 Chương 5, cả hai cùng uống rượu thảo luận về sự căm thù của cô đối với nhân loại và việc ngài Sariel hiến tế. Ariel thừa nhận cô ghét loài người đến phát điên nhưng buộc phải kiềm nén suốt thời gian qua vì đó không phải điều ngài Sariel muốn. Güli-güli đồng tình, và cả hai đều phải suy ngẫm trước lời nhận xét thô lỗ nhưng chân thật của cô Bạch rằng thật ngu ngốc khi phải kìm nén bản thân vì người khác. |
 
 ---
 
@@ -1606,14 +1606,115 @@ graph TD
 | **Ronandt xưng** | Ta |
 | **Phân thân xưng** | Tớ / Chúng ta / Tôi (độc thoại) |
 | **Trạng thái** | Khi Ronandt đến Mê cung Lớn Elroe và gặp bầy nhện trắng cùng các Phân thân Tư duy ở trung tâm, lão đã phủ phục quỳ lạy xin nhận làm đệ tử. Tuy nhiên, các Phân thân Tư duy nhận định lão là một sinh vật quái đản, dị hợm tự châm lửa đốt quần áo rồi khỏa thân chạy nhong nhong, khóc lóc phun nước tung tóe, nên đã thống nhất ngó lơ lão hoàn toàn, coi lão như không tồn tại để tránh dính líu đến rắc rối. |
-| **Ghi chú** | Xuất hiện trong chương R2: Lão già tầm sư học đạo, Hội thoại: Cuộc họp Phân thân Tư duy #2, và Hội thoại: Cuộc họp Phân thân Tư duy #3. |
+| **Ghi chú** | Xuất hiện trong chương R2: Lão già tầm sư học đạo, Hội thoại: Cuộc họp Phân thân Tư duy #2, Hội thoại: Cuộc họp Phân thân Tư duy #3, và Hội thoại: Cuộc họp Phân thân Tư duy #4. |
+
+---
+
+### QH-116: Aurel ↔ Julius
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn bè thuở nhỏ (gặp nhau lần đầu trên chiến trường) |
+| **Aurel gọi Julius** | Cậu / Julius (sau này) |
+| **Julius gọi Aurel** | Cậu / Aurel (sau này) |
+| **Aurel xưng** | Tớ / Tôi (trong độc thoại) |
+| **Julius xưng** | Tớ / Tôi |
+| **Trạng thái** | Gặp nhau lần đầu khi Julius bị người dân ném đá và đánh đập vì căm ghét chiến tranh xâm lược của Ohts. Aurel ban đầu vô cùng ngạc nhiên khi thấy vị Anh hùng cứu thế lại là một đứa trẻ trạc tuổi mình. Thấy Julius dằn vặt bản thân vì sự hiện diện của mình bị quân Ohts lấy làm cớ tàn sát, Aurel đã gợi ý cậu đi săn quái vật để bảo vệ người dân thị trấn. Gợi ý này đã truyền cảm hứng và vạch ra con đường hành động thực tế giúp Julius tìm lại động lực và quyết tâm làm một Anh hùng thực sự. |
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Đoạn phụ: Cô nàng độc mồm và cậu bé Anh hùng quá đỗi thân thiện. |
+
+---
+
+### QH-117: Tiva ↔ Julius
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kỵ sĩ giám hộ kiêm người hướng dẫn chiến trường và Anh hùng nhỏ tuổi |
+| **Tiva gọi Julius** | Ngài Julius / Anh hùng Julius / Ngài |
+| **Julius gọi Tiva** | Ngài Tiva / Ngài |
+| **Tiva xưng** | Tôi / Ta |
+| **Julius xưng** | Tôi |
+| **Trạng thái** | Tiva được giao nhiệm vụ hộ tống Julius (lúc nhỏ) đi trải nghiệm thực tế chiến trường. Khi thấy Julius chịu đựng sự thù ghét của người dân và cam chịu bị đánh, Tiva đã ngăn cản và khuyên nhủ cậu không được phép vứt bỏ mạng sống, cũng như không được để người khác đánh mình vì điều đó chỉ khiến tâm hồn họ chai sạn và tha hóa đạo đức. Tiva lo lắng và đau xót khi chứng kiến một đứa trẻ nhỏ tuổi như Julius phải chịu gánh nặng và quyết tâm quá lớn của danh hiệu Anh hùng. Trong Chương đặc biệt: Nỗ lực của cậu bé Anh hùng, khi bầy nhện trắng tấn công, Tiva đã cố gắng giữ Julius lại và yêu cầu cậu đi lánh nạn vì còn quá trẻ để chết. Tuy nhiên, trước sự quyết tâm của Julius, cậu đã gạt tay Tiva ra để trèo lên tường thành trực tiếp chiến đấu. |
+
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Đoạn phụ: Cô nàng độc mồm và cậu bé Anh hùng quá đỗi thân thiện. |
+
+---
+
+### QH-118: Giáo hoàng Dustin ↔ Sophia Keren
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối địch chính trị và người tái sinh |
+| **Dustin gọi Sophia** | Đứa trẻ đó / Tiểu thư Sophia Keren / Sophia |
+| **Sophia gọi Dustin** | Ông lão đó / Giáo hoàng / Dustin |
+| **Dustin xưng** | Ta |
+| **Sophia xưng** | Tôi (nghĩ trong đầu) |
+| **Trạng thái** | Trong Volume 6 Chương V3, Dustin gặp Sophia lần đầu tại một nhà hàng và nhận ra cô chính là đứa trẻ mà tộc Elf nhắm tới. Ông đoán ra linh hồn bên trong cô có ký ức của kiếp trước, khiến ông vô cùng kinh ngạc và e ngại về một "lỗi trong hệ thống". Dù Dustin cúi đầu tạ lỗi với cô và Merazophis vì thảm kịch ở Hạt Keren, Sophia vẫn nhận thức rõ ông chính là kẻ thù đứng sau cuộc chiến hủy diệt quê hương cô, tuy nhiên cô cảm thấy ghê sợ ý chí sắt đá lẩn khuất sau vẻ ngoài héo úa của ông hơn là căm thù thuần túy. |
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Chương V3. |
+
+---
+
+### QH-119: Giáo hoàng Dustin ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ thù gián tiếp (Kẻ đứng sau cuộc xâm lược) |
+| **Dustin gọi Merazophis** | Merazophis / Người hầu của tiểu thư |
+| **Merazophis gọi Dustin** | Giáo hoàng Dustin / Giáo hoàng / Ông ta |
+| **Dustin xưng** | Ta |
+| **Merazophis xưng** | Tôi |
+| **Trạng thái** | Merazophis căm ghét Dustin sâu sắc vì ông chính là kẻ đứng sau kích động cuộc xâm lược Hạt Keren dẫn tới cái chết của Lãnh chúa John và Phu nhân Seras Keren. Khi chạm trán Dustin tại quán ăn (Volume 6 Chương V3), Merazophis vô cùng giận dữ nhưng cố kiềm nén vì sự bình yên của Sophia. Khi Ariel gợi ý Merazophis có thể giết Dustin để hả giận, anh từ chối vì cho rằng cái chết của ông ta là vô ích, không bù đắp nổi những gì gia tộc Keren đã mất, và coi sinh mạng của Dustin là quá tầm thường so với nỗi đau ông gây ra. |
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Chương V3. |
+
+---
+
+### QH-120: Ariel ↔ Giáo hoàng Dustin
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ chính trị sừng sỏ và đồng minh có chung kẻ thù Potimas (mối quan hệ phức tạp ở ranh giới kẻ thù - đồng minh) |
+| **Ariel gọi Dustin** | Dustin / ông bạn / ngài (khi mỉa mai) |
+| **Dustin gọi Ariel** | Ngài / ngài Ariel / ngài Ma Vương |
+| **Ariel xưng** | Ta (hoặc Tôi khi độc thoại) |
+| **Dustin xưng** | Ta |
+| **Trạng thái** | Một mối liên kết kỳ lạ giữa hai thực thể lão luyện của thế giới. Ariel coi Dustin là một thế lực đáng gờm vì ý chí sắt đá sẵn sàng đi trên con đường luyện ngục để bảo vệ nhân loại. Cả hai cùng có chung mối thù với Potimas và tộc Elf nên đôi khi có thể hợp tác hoặc than vãn cùng nhau, nhưng họ cũng là đối thủ không khoan nhượng do nghĩa vụ của Ariel là dẫn dắt ma tộc tấn công con người. Họ trao đổi với nhau vừa bằng sự e dè, cảnh giác cao độ nhưng vừa có tông giọng thân thiện, trò chuyện tự nhiên của những người quen cũ. |
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Chương V3 và Đoạn phụ: Ma Vương và sự bất tử. |
+
+---
+
+### QH-121: Ronandt ↔ Gyuristodief (Quản trị viên Hắc)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Tình cờ chạm trán (Người chứng kiến và Quản trị viên) |
+| **Ronandt gọi Gülie** | Gã mặc giáp đen / Gã bất lịch sự đó / Hắn |
+| **Gülie gọi Ronandt** | Ngươi |
+| **Ronandt xưng** | Ta |
+| **Gülie xưng** | Ta |
+| **Trạng thái** | Trong Volume 6 Chương R4, hai người chạm trán nhau ở Tầng Dưới Mê cung Lớn Elroe khi Güliedistodiez xuất hiện bảo vệ bầy địa phi long. Ronandt cố Thẩm định anh ta nhưng nhận kết quả <KHÔNG THỂ THẨM ĐỊNH>, đoán anh ta ngang hàng với vị sư phụ đó (Nhện nhỏ). Dù Gülie cố khuyên ông tránh xa lũ nhện ra, Ronandt từ chối vì muốn theo đuổi đỉnh cao ma pháp. Gülie vô cùng bất lực và cạn lời khi nhìn thấy Ronandt hoàn toàn khỏa thân chạy theo đàn nhện và yêu cầu ông rời đi. |
+| **Ghi chú** | Xuất hiện lần đầu trong Volume 6 Chương R4. |
+
+---
+
+### QH-122: Tôi (Bản thể) ↔ Phân thân Tư duy (Parallel Minds)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bản thể và các phân khu ý thức / Phân thân phản bội (bị tiêu diệt) |
+| **Tôi gọi Phân thân** | Lũ phân thân / Lũ [Phân thân Tư duy] / Lũ ngu ngốc / Hàng nhái |
+| **Phân thân gọi Tôi** | Bản thể |
+| **Tôi xưng** | Ta / Tôi (trong độc thoại) |
+| **Phân thân xưng** | Tụi này / Chúng ta |
+| **Trạng thái** | Sau khi nuốt chửng linh hồn của Mẹ ở Mê cung Elroe, các Phân thân Tư duy đã có ý chí độc lập riêng biệt và không còn là "Tôi" nữa. Chúng tự ý dẫn dắt bầy nhện con tấn công tàn sát loài người để cày EXP cứu thế giới dưới hệ thống, phớt lờ cảnh báo từ Güli-güli. Để tránh bị Güli-güli thanh trừng và ngăn chặn hành động cực đoan này, Tôi (Bản thể) đã dịch chuyển tới ngăn chặn. Do chênh lệch quân số và chúng có cùng chỉ số, cô đã áp dụng mẹo tắt toàn bộ kỹ năng của bản thể để vô hiệu hóa toàn bộ kỹ năng mượn từ chúng (bao gồm ma pháp, tơ, tà nhãn, kháng tính và cả [Bất tử]). Bản thể đã dùng lưỡi hái truyền thuộc tính Hủ thực lần lượt chém chết toàn bộ 9 phân thân, ép chúng quay lại hòa vào linh hồn mình, chấm dứt sự nổi loạn nhưng khiến đầu cô bị la hét nhức óc. |
+| **Ghi chú** | Xuất hiện trong Chương 4 Tập 6 (Đập tơi tả nhện con). |
 
 ---
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-12
-- **Tổng cặp quan hệ**: 115
+- **Cập nhật lần cuối**: 2026-07-13
+- **Tổng cặp quan hệ**: 122
+
+
 
 
