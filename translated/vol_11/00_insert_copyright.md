@@ -1,4 +1,5 @@
 # Thông tin xuất bản & Ảnh minh họa
+
 *(Copyright & Illustrations)*
 
 ![Ảnh bìa](../../source/images/vol_11/page_0_img_1.jpg)
