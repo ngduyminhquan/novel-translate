@@ -277,8 +277,8 @@ graph TD
 | **D gọi Nhện** | Cá thể Zoa Ele (hoặc qua Thần ngôn) |
 | **Nhện xưng** | Tôi (Watashi) |
 | **D xưng** | D / Quản trị viên Thượng cấp D |
-| **Trạng thái** | Sau khi kỹ năng [Cấm kỵ] đạt LV 10 (Chương 7), Nhện biết được D chính là kẻ đã tái sinh mình vào thế giới sắp sụp đổ này để làm trò giải trí. Nhện cực kỳ tức giận (nhận kỹ năng [Phẫn Nộ LV 1]) và căm ghét tính cách vặn vẹo của D, nhưng đành phải tạm thời nương theo kế hoạch của D để sinh tồn và tìm cách tích lũy thực lực thoát khỏi thế giới này. |
-| **Ghi chú** | Mối quan hệ chuyển từ đề phòng một chiều sang thù ghét/bực bội sâu sắc từ phía Nhện. |
+| **Trạng thái** | Sau khi kỹ năng [Cấm kỵ] đạt LV 10 (Chương 7), Nhện biết được D chính là kẻ đã tái sinh mình vào thế giới sắp sụp đổ này để làm trò giải trí. Nhện cực kỳ tức giận (nhận kỹ năng [Phẫn Nộ LV 1]) và căm ghét tính cách vặn vẹo của D, nhưng đành phải tạm thời nương theo kế hoạch của D để sinh tồn và tìm cách tích lũy thực lực thoát khỏi thế giới này. Ở Volume 9 Chương 7, sau khi thần hóa, White đã tự dịch chuyển về Trái Đất (Nhật Bản) và đối mặt trực tiếp với D tại nhà riêng của cô ta. Tại đây, cô bàng hoàng đối diện với sự thật phũ phàng rằng mình không phải là Wakaba Hiiro tái sinh như cô hằng nghĩ, mà chỉ là một bản sao, một kẻ thế thân (substitute) được D ban cho ký ức giả mạo nhằm che giấu hành tung của cô ta. |
+| **Ghi chú** | Mối quan hệ chuyển từ đề phòng một chiều sang thù ghét/bực bội sâu sắc từ phía Nhện. Việc gặp mặt trực tiếp ở Volume 9 đã làm sáng tỏ nguồn gốc thực sự của White như một "kẻ thế thân" của Tà Thần D trên Trái Đất. |
 
 ---
 
@@ -530,7 +530,7 @@ graph TD
 | **Gülie gọi Tôi** | Ngươi |
 | **Tôi xưng** | Tôi (trong độc thoại / thần giao cách cảm) / Ta (độc thoại) |
 | **Gülie xưng** | Ta |
-| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. Ở Volume 6 Chương R4, Güli-güli dịch chuyển đến ngăn chặn đàn nhện con do các Phân thân Tư duy dẫn dắt khi chúng định ăn bầy phi long bảo vệ trứng, tuyên bố bất kỳ hành động gây hấn nào tiếp theo sẽ là tuyên chiến với hắn. Trong Cuộc họp Phân thân Tư duy #4, các Phân thân Tư duy gọi hắn là "trùm cuối" và quyết định rút lui khỏi Tầng Dưới để tránh chọc giận hắn, đồng thời lên kế hoạch đi săn loài người để lấy EXP nuôi bầy nhện con. Trong Volume 6 Chương 5, sau khi cô tiêu diệt các Phân thân Tư duy nổi loạn, cả hai đã uống rượu cùng Ariel. Güli-güli nhận định tính cách ích kỷ và kiêu ngạo của cô rất giống D, định ra tay trừng trị cô vì quá nguy hiểm nhưng bị D gọi điện thoại ngăn cản. Khi anh ta hỏi về dự định tương lai, cô tuyên bố sẽ chỉ hành động theo ý chí và lòng tự tôn của chính mình, không để ai can thiệp. |
+| **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. Ở Volume 6 Chương R4, Güli-güli dịch chuyển đến ngăn chặn đàn nhện con do các Phân thân Tư duy dẫn dắt khi chúng định ăn bầy phi long bảo vệ trứng, tuyên bố bất kỳ hành động gây hấn nào tiếp theo sẽ là tuyên chiến với hắn. Trong Cuộc họp Phân thân Tư duy #4, các Phân thân Tư duy gọi hắn là "trùm cuối" và quyết định rút lui khỏi Tầng Dưới để tránh chọc giận hắn, đồng thời lên kế hoạch đi săn loài người để lấy EXP nuôi bầy nhện con. Trong Volume 6 Chương 5, sau khi cô tiêu diệt các Phân thân Tư duy nổi loạn, cả hai đã uống rượu cùng Ariel. Güli-güli nhận định tính cách ích kỷ và kiêu ngạo của cô rất giống D, định ra tay trừng trị cô vì quá nguy hiểm nhưng bị D gọi điện thoại ngăn cản. Khi anh ta hỏi về dự định tương lai, cô tuyên bố sẽ chỉ hành động theo ý chí và lòng tự tôn của chính mình, không để ai can thiệp. Ở Volume 9 Chương 6, Güli-güli trực tiếp tìm đến White tại buổi trà chiều để nhờ cô ngăn chặn Wrath (vì hắn bị ràng buộc bởi giao ước với D nên không thể tự can thiệp). White đồng ý giúp đỡ. Sau trận đấu, Güli-güli hết lời khen ngợi khả năng làm chủ ma pháp không gian của cô, thừa nhận cô đã vượt mặt hắn và có thể dễ dàng rời khỏi hành tinh này. Hắn cũng đồng ý với yêu cầu không can thiệp của cô đối với Wrath thay cho phần thưởng. |
 
 ---
 ### QH-035: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
@@ -897,6 +897,19 @@ graph TD
 
 ---
 
+### QH-061b: Tôi (Nhện/White) ↔ Wald
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng đội cùng phe dưới trướng Ma Vương |
+| **Tôi gọi Wald** | Tên Ăn Bám (Mr. Deadbeat) / Hắn / Gã |
+| **Wald gọi Tôi** | White / Cô ta |
+| **Tôi xưng** | Tôi |
+| **Wald xưng** | Tôi |
+| **Trạng thái** | White coi Wald là một kẻ ăn hại, ăn bám gia đình người anh trai Balto và có gu thời trang cực kỳ thảm hại lập dị. Cô thường tránh giao tiếp trực tiếp với anh ta. Wald biết White là thực thể đáng sợ đồng hành cùng Ma Vương nên không dám vô lễ, nhưng thường bất mãn trước việc cô cùng Sophia chế giễu gu thời trang của mình. |
+
+---
+
 ### QH-062: Tôi (Nhện) ↔ Ma Vương (Ariel)
 
 | Thuộc tính | Chi tiết |
@@ -1122,7 +1135,8 @@ graph TD
 | **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf.
 > *Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White.
 > *Sự kiện Volume 7:* White thần hóa và mất sạch chỉ số/kỹ năng, trở nên yếu ớt. Sophia ban đầu lo lắng cho White, nhưng sau khi chuyện ngất xỉu xảy ra mỗi ngày, cô quen dần và tỏ ra thờ ơ (mặc kệ cô).
-> *Sự kiện Volume 8:* Trong chuyến hành trình trên xe kéo, Sophia (Vampy) lớn lên trông thấy và tỏ vẻ cực kỳ đố kỵ/tức tối khi Mera chu đáo chăm sóc White và bế White kiểu công chúa, lườm nguýt White như phim kinh dị do bản tính chiếm hữu Mera cực cao. White cảm thấy gượng gạo và cầu mong Vampy đừng biến thành kẻ bám đuôi cuồng loạn (yandere) khi còn là một nhóc tì. |
+> *Sự kiện Volume 8:* Trong chuyến hành trình trên xe kéo, Sophia (Vampy) lớn lên trông thấy và tỏ vẻ cực kỳ đố kỵ/tức tối khi Mera chu đáo chăm sóc White và bế White kiểu công chúa, lườm nguýt White như phim kinh dị do bản tính chiếm hữu Mera cực cao. White cảm thấy gượng gạo và cầu mong Vampy đừng biến thành kẻ bám đuôi cuồng loạn (yandere) khi còn là một nhóc tì.
+> *Sự kiện Volume 9:* Trong Chương 4, Sophia lôi kéo White cùng tham gia các bài học lễ nghĩa và khiêu vũ. Cô đố kỵ với cuộc sống lười nhác nhàn nhã của White, thường xuyên xông vào phòng White quấy nhiễu và cướp đồ ăn nhẹ. Khi Bloe mang rượu đến, cô đe dọa Sael lao vào khống chế White nhưng bị White dùng Xích Lực Tà Nhãn và Hắc Sóng Thần Công đánh bật, sau đó cô bị trói ngược lên trần nhà và cù lét tơi tả. Sau sự cố, cô và các nhện rối bị treo lơ lửng ngất đi. |
 | **Ghi chú** | Cuộc gặp gỡ định mệnh này mở đầu cho mối duyên nợ sâu sắc giữa cả hai sau này, khi Sophia trở thành đồng minh thân cận của Nhện nhỏ (White) và Ariel. |
 
 ### QH-079: Sophia Keren ↔ Seras Keren
@@ -1465,7 +1479,7 @@ graph TD
 | **Kyouya gọi Sophia** | Cô / Sophia |
 | **Sophia xưng** | Tôi |
 | **Kyouya xưng** | Tôi |
-| **Trạng thái** | Trò chuyện thản nhiên và có phần trêu chọc lẫn nhau (Sophia chê Kyouya đến sớm, Kyouya bảo cô lề mề). Kyouya can thiệp hạ gục nhanh Tagawa và Kushitani vì không muốn lãng phí thời gian của họ. |
+| **Trạng thái** | Trò chuyện thản nhiên và có phần trêu chọc lẫn nhau (Sophia chê Kyouya đến sớm, Kyouya bảo cô lề mề). Kyouya can thiệp hạ gục nhanh Tagawa và Kushitani vì không muốn lãng phí thời gian của họ. Ở Volume 9 Chương 6, Sophia trực tiếp đối chiến với Kyouya (Wrath) khi cậu bị điên loạn bởi [Phẫn Nộ]. Cô sử dụng kỹ năng mới [Đố Kỵ] phong ấn hoàn toàn kỹ năng [Phẫn Nộ], giúp Kyouya dần lấy lại lý trí. Sau trận đấu, Güli-güli dùng vảy của Băng Long Nia nâng cấp thanh đại kiếm Fenrir của cô thành món vũ khí cấp thần thoại thuộc tính băng. |
 
 ---
 
@@ -1952,8 +1966,8 @@ graph TD
 | **Kyouya gọi Nia** | Con rồng đó / Băng Long |
 | **Nia xưng** | Ta |
 | **Kyouya xưng** | Tôi (trong độc thoại) |
-| **Trạng thái** | Nia chặn đánh Wrath khi cậu đi vào Mystic Mountains và tàn phá các dãy núi của rồng tộc. Hai bên chiến đấu kịch liệt nhưng đòn tấn công của Wrath (katana lửa bị đóng băng, katana sét không để lại vết xước) đều bị vảy của Nia đẩy lùi. Dù Nia thừa nhận có thể dễ dàng hạ sát Wrath và rất muốn làm vậy để trả thù cho rồng tộc, cô vẫn tuân theo mệnh lệnh của "Chúa tể" (Güli-güli) là không được đụng vào người tái sinh và bỏ đi. Tuy nhiên, cô vẫn đắc ý đùa rằng nếu Wrath chết vì cái lạnh thì đó là tai nạn ngoài ý muốn. |
-| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương O5. |
+| **Trạng thái** | Nia chặn đánh Wrath khi cậu đi vào Mystic Mountains và tàn phá các dãy núi của rồng tộc. Hai bên chiến đấu kịch liệt nhưng đòn tấn công của Wrath (katana lửa bị đóng băng, katana sét không để lại vết xước) đều bị vảy của Nia đẩy lùi. Dù Nia thừa nhận có thể dễ dàng hạ sát Wrath và rất muốn làm vậy để trả thù cho rồng tộc, cô vẫn tuân theo mệnh lệnh của "Chúa tể" (Güli-güli) là không được đụng vào người tái sinh và bỏ đi. Tuy nhiên, cô vẫn đắc ý đùa rằng nếu Wrath chết vì cái lạnh thì đó là tai nạn ngoài ý muốn. Ở Volume 9 Chương X3, cô đồng ý đối đầu trực tiếp với Wrath ở biên giới để khỏa lấp lỗi lầm của mình, nhưng bị Wrath (dưới sức mạnh tăng vọt của [Phẫn Nộ]) áp đảo hoàn toàn. Cậu ta chém vỡ lớp [Thần Lân], chém rách cánh cô, kháng cự vùng băng giá nguyền rủa và kỹ năng [Trễ Nải] bằng lửa và sét. Cuối cùng, Wrath lén ném một thanh ma kiếm nổ nhỏ vào miệng Nia khi cô đang chuẩn bị phun [Hơi thở], gây nổ lớn từ dạ dày và khiến cô chịu thương tích trầm trọng cận kề cái chết. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương O5, đụng độ lớn ở Volume 9 Chương X3. |
 
 ---
 
@@ -1963,10 +1977,10 @@ graph TD
 |------------|----------|
 | **Quan hệ** | Bạn học kiếp trước, đụng độ sinh tử dị giới |
 | **White gọi Kyouya** | Sasajima / Sasajima Kyouya / cậu Oni (trong độc thoại) |
-| **Kyouya gọi White** | (Chưa có hội thoại trực tiếp, hiện đang bị điên cuồng do kỹ năng Phẫn Nộ) |
+| **Kyouya gọi White** | Wakaba / White |
 | **White xưng** | Tôi (trong độc thoại) |
 | **Kyouya xưng** | - |
-| **Trạng thái** | Chạm trán ở Dãy núi Huyền Bí ở Volume 8 Chương 6 & 7. White nhận ra khuôn mặt cậu Oni chính là Sasajima Kyouya kiếp trước và gọi tên cậu. Kyouya bị kích động dữ dội, chém nứt sông băng làm Sael rơi xuống khe nứt, rồi chém cụt tay Mera và đâm xuyên người Sophia. Ở Chương 7, cậu điên cuồng truy sát White, dù có một giây khựng lại lấy lại lý trí khi nghe White gọi tên nhưng lập tức bị cơn giận dữ của [Phẫn Nộ] nuốt chửng trở lại. Cậu rơi xuống khe nứt sông băng đang đổ sụp sau khi bị Sophia bám cổ hút máu, còn White lần đầu tiên phóng được tơ sau thần hóa để cứu Sophia và Mera. |
+| **Trạng thái** | Chạm trán ở Dãy núi Huyền Bí ở Volume 8 Chương 6 & 7. White nhận ra khuôn mặt cậu Oni chính là Sasajima Kyouya kiếp trước và gọi tên cậu. Kyouya bị kích động dữ dội, chém nứt sông băng làm Sael rơi xuống khe nứt, rồi chém cụt tay Mera và đâm xuyên người Sophia. Ở Chương 7, cậu điên cuồng truy sát White, dù có một giây khựng lại lấy lại lý trí khi nghe White gọi tên nhưng lập tức bị cơn giận dữ của [Phẫn Nộ] nuốt chửng trở lại. Cậu rơi xuống khe nứt sông băng đang đổ sụp sau khi bị Sophia bám cổ hút máu, còn White lần đầu tiên phóng được tơ sau thần hóa để cứu Sophia và Mera. Ở Volume 9 Chương 6, White cùng Sophia đến ngăn cản Kyouya (Wrath) theo thỉnh cầu của Güli-güli. Khi Kyouya tăng sức tấn công lên hơn hai mươi ngàn nhờ [Phẫn Nộ] và [Đấu Thần Đấu Pháp], White đã dùng dịch chuyển đưa cậu ta lên trời cao ba dặm rồi thả rơi tự do xuống đất bất tỉnh để câu giờ cho Sophia phong ấn [Phẫn Nộ]. Sau khi cậu ta bất tỉnh, White dùng [Kỳ Tích Ma Pháp] chữa lành cho cậu, trói lại bằng tơ và đưa về biệt thự. Trong Chương O (Wrath), sau khi tỉnh dậy trên giường ở biệt thự, Kyouya đã trò chuyện cùng Ariel và biết được danh tính của White chính là Wakaba Hiiro kiếp trước, dù lúc này cô không có mặt ở đó và tơ của cô vẫn trói chặt cậu cho đến khi Ariel dùng lửa thiêu rụi để giải thoát. |
 | **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương 6. |
 
 ---
@@ -2022,8 +2036,8 @@ graph TD
 | **Erguner gọi Potimas** | Ông / Potimas / Potimas Harrifenas |
 | **Potimas xưng** | Ta |
 | **Erguner xưng** | Tôi |
-| **Trạng thái** | Quan hệ liên minh thực dụng chứa đầy sự đề phòng. Potimas đã cung cấp lương thực và công nghệ giúp phục hưng vùng biên cảnh ma tộc dưới quyền Erguner, đổi lại Erguner phải nợ hắn một món nợ lớn và hợp tác thông tin. Hai người liên lạc bí mật bằng chiếc điện thoại di động cổ đại. Potimas gọi Erguner là "bạn bè" nhưng thực chất coi ông là "quân cờ". Erguner nhận thức rõ dã tâm của Potimas nên vô cùng cảnh giác, đồng thời che giấu lệnh trục xuất tộc Elf của Ariel và bí mật thăm dò thông tin về Wrath (cậu bé có sừng) từ Potimas để tìm đường cứu rỗi ma tộc. |
-| **Ghi chú** | Xuất hiện lần đầu ở Volume 9 Đoạn phụ: Mối thâm thù bí mật của Quỷ tộc kỳ cựu. |
+| **Trạng thái** | Quan hệ liên minh thực dụng chứa đầy sự đề phòng. Potimas đã cung cấp lương thực và công nghệ giúp phục hưng vùng biên cảnh ma tộc dưới quyền Erguner, đổi lại Erguner phải nợ hắn một món nợ lớn và hợp tác thông tin. Hai người liên lạc bí mật bằng chiếc điện thoại di động cổ đại. Potimas gọi Erguner là "bạn bè" nhưng thực chất coi ông là "quân cờ". Erguner nhận thức rõ dã tâm của Potimas nên vô cùng cảnh giác, đồng thời che giấu lệnh trục xuất tộc Elf của Ariel và bí mật thăm dò thông tin về Wrath (cậu bé có sừng) từ Potimas để tìm đường cứu rỗi ma tộc. Trong Volume 9, Erguner đứng sau giật dây một cuộc nổi loạn của ma tộc chống lại Ariel. Potimas nhận thức rõ điều này và chấp nhận hỗ trợ phe nổi loạn qua điện thoại (dù xem tên chỉ huy nổi loạn trực tiếp kia chỉ là một gã vô danh tiểu tốt) nhằm mục tiêu tiêu hao lực lượng của Ariel, ám sát các người tái sinh và White. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 9 Đoạn phụ: Mối thâm thù bí mật của Quỷ tộc kỳ cựu và chương "Yêu tinh độc ác nhếch mép cười". |
 
 ---
 
@@ -2109,13 +2123,25 @@ graph TD
 | **Trạng thái** | Bloe yêu White ngay từ cái nhìn đầu tiên khi cô đến trú ngụ tại dinh thự Phthalo. Tuy nhiên, do tính tình cộc cằn, thô lỗ và không có kinh nghiệm yêu đương, mọi nỗ lực tiếp cận của Bloe đều biến thành sự quấy rầy. White hoàn toàn không nhận ra tình cảm của hắn, coi hắn là "Kẻ Du Côn" phiền phức mở toang cửa phòng và phóng hỏa đốt tơ của cô. Cô lờ hắn đi và nhắm mắt lại để tránh phiền phức, thậm chí từng nghĩ đến việc giết hắn để rảnh nợ. |
 | **Ghi chú** | Bắt đầu từ Volume 9 Chương 3. Mối tình đơn phương dở khóc dở cười của Bloe được tiết lộ trong phần thông tin minh họa của chương. |
 
+### QH-154: Ariel ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Ân nhân cứu mạng, đồng minh che chở |
+| **Ariel gọi Kyouya** | Cháu (hoặc Cậu nhóc / Wrath) |
+| **Kyouya gọi Ariel** | Cô Ariel |
+| **Ariel xưng** | Ta / Tớ |
+| **Kyouya xưng** | Tôi |
+| **Trạng thái** | Ariel che chở cho Wrath sau khi cậu được nhóm cứu khỏi trạng thái điên loạn. Cô khuyên cậu nên tìm hiểu thế giới qua kỹ năng [Cấm kỵ] và để cậu tự do quyết định tương lai của mình. Ariel đối xử tử tế với Wrath nửa vì đồng cảm với quá khứ đau thương của cậu, nửa vì muốn lấy lòng thần linh (D) vốn thích thú với người tái sinh. Wrath vô cùng biết ơn sự bao dung của Ariel, nhận ra cô là người tốt và quyết định sống tiếp có mục đích để giúp ích cho thế giới. |
+| **Ghi chú** | Bắt đầu từ Volume 9 Chương O (Wrath). |
+
 ---
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 153
+- **Tổng cặp quan hệ**: 154
 
 
 

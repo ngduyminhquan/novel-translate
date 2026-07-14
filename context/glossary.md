@@ -65,7 +65,7 @@
 | 44 | Hayashi Kouta | Hayashi Kouta | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
 | 45 | Kogure Naofumi | Kogure Naofumi | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
 | 46 | Sakurazaki Issei | Sakurazaki Issei | Học sinh lớp Shun ở kiếp trước (Đã tử trận) |
-| 47 | Wakaba Hiiro | Wakaba Hiiro | Học sinh lớp Shun ở kiếp trước (Được cho là đã chết) |
+| 47 | Wakaba Hiiro | Wakaba Hiiro | Học sinh lớp Shun ở kiếp trước (thân phận ngụy trang của D trên Trái Đất) |
 | 48 | Kenichi Ogiwara | Ogiwara Kenichi | Học sinh tái sinh (Ogi), bạn câu lạc bộ bóng đá của Shun |
 | 49 | Kunihiko Tagawa | Tagawa Kunihiko | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
 | 50 | Asaka Kushitani | Kushitani Asaka | Học sinh tái sinh, cựu lính đánh thuê, mạo hiểm giả |
@@ -381,6 +381,14 @@
 | 255 | Falling Sky | [Thiên Trụy] | Ma pháp | Phép thuật Cuồng Phong ma pháp giáng luồng không khí mạnh xuống đất |
 | 256 | Inferno Magic | [Hỏa Ngục ma pháp] | Ma pháp | Phép thuật thuộc tính lửa cấp nâng cao |
 | 257 | Anger | [Nổi Giận] | Kỹ năng | Kỹ năng dòng tội lỗi cấp thấp của Phẫn Nộ (Wrath) |
+| 258 | Black Wave Motion Gun | Hắc Sóng Thần Công | Kỹ năng chủ động | Đòn tấn công năng lượng hắc ám tự chế của White (tham chiếu Wave Motion Gun) |
+| 259 | Acid Attack | [Axit Công Kích] | Kỹ năng chủ động | Kỹ năng gây sát thương thuộc tính axit |
+| 260 | Acid Enhancement | [Tăng Cường Axit] | Kỹ năng thụ động | Gia tăng sát thương/ảnh hưởng từ axit |
+| 261 | Divine Scales | [Thần Lân] | Kỹ năng thụ động | Tạo ra lớp vảy thần thánh giúp tăng phòng ngự vật lý và giảm uy lực ma pháp |
+| 262 | Root of Evil | [Cội Nguồn Cái Ác] | Kỹ năng | Kỹ năng đặc biệt nhận được từ danh hiệu Ruler of Envy |
+| 263 | Paralyzing Evil Eye | [Tê Liệt Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gây tê liệt mục tiêu khi nhìn vào |
+| 264 | Indolence | [Trễ Nải] | Kỹ năng | Kỹ năng liên kết với [Lười Biếng] (Sloth) giúp tăng tốc độ tiêu hao HP, MP, SP của mục tiêu |
+| 265 | Enma | [Enma] | Kỹ năng đặc biệt | Kỹ năng độc quyền của Ruler of Wrath |
 
 ---
 
@@ -590,6 +598,11 @@
 | 200 | Colonel | Đại tá | Biệt danh / Thuật ngữ | Biệt danh White dùng đặt cho Erguner do tác phong quân đội của ông |
 | 201 | Major | Thiếu tá | Biệt danh / Thuật ngữ | Từ dùng so sánh chỉ những kẻ mưu đồ hoạt động trong bóng tối |
 | 202 | Divine Sword | [Thần Kiếm] | Danh hiệu | Danh hiệu dành cho kiếm sĩ thăng hoa tối thượng của kiếm thuật |
+| 203 | Ruler of Envy | [Kẻ Thống Trị Đố Kỵ] | Danh hiệu | Danh hiệu dành cho người đã chinh phục được lòng đố kỵ |
+| 204 | Ruler of Wrath | [Kẻ Thống Trị Phẫn Nộ] | Danh hiệu | Danh hiệu dành cho người sở hữu kỹ năng Phẫn nộ |
+| 205 | Ally Slayer | [Kẻ Sát Đồng Minh] | Danh hiệu | Danh hiệu nhận được khi sát hại đồng minh |
+| 206 | Kin Eater | [Kẻ Ăn Thịt Đồng Tộc] | Danh hiệu | Danh hiệu nhận được khi ăn thịt đồng tộc |
+
 
 
 ---
@@ -615,5 +628,5 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng thuật ngữ**: 541
+- **Tổng thuật ngữ**: 547
 
