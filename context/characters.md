@@ -1797,6 +1797,100 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Ngôn ngữ**: Không thể trò chuyện trực tiếp lúc này. Giọng nói của cô phát ra liên tục chồng chéo lên nhau tạo tiếng vang (Tiếng nói của Thần / Divine Voice) để thông báo tăng cấp kỹ năng, điểm kinh nghiệm.
 - **Xưng hô**: Không xưng hô trực tiếp.
 
+---
+
+### NV-082: Byaku
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Byaku |
+| **Tên dịch** | Byaku |
+| **Biệt danh** | Quang Long Byaku / Bạch Long Byaku |
+| **Giới tính** | Nam (Dragon) |
+| **Vai trò** | Quang long bảo vệ Thánh Kiếm Anh Hùng trong phòng ẩn của vương thành Analeit |
+| **Xuất hiện** | Volume 11 Chương J12 |
+
+**Tính cách tổng quát:**
+> Là một con rồng nhỏ màu trắng tinh khiết bảo vệ Thánh Kiếm Anh Hùng dưới hầm lâu đài Analeit. Mặc dù nhỏ bé nhưng sở hữu sức mạnh vô cùng to lớn. Ông rất có hứng thú trước lý tưởng của Julius và tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và chờ đợi thời khắc Julius cần đến.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Tông giọng mang tính cổ xưa, trang trọng và tôn quý.
+- **Xưng hô**: Xưng "ta", gọi Julius là "ngươi" hoặc "Anh hùng".
+
+---
+
+### NV-083: Sanatoria
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sanatoria |
+| **Tên dịch** | Sanatoria |
+| **Biệt danh** | Chỉ huy Quân đoàn 2 |
+| **Giới tính** | Nữ |
+| **Vai trò** | Chỉ huy Quân đoàn 2 của Quân đội Ma Vương |
+| **Xuất hiện** | Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
+
+**Tính cách tổng quát:**
+> Là một ma tộc quyến rũ sở hữu cơ thể đầy đặn. Cô là người thực dụng, mong muốn sống một cuộc sống ổn định và phản đối chiến tranh vô nghĩa với con người. Cô từng tham gia âm mưu nổi loạn chống lại Ma Vương mới nhưng sau khi chứng kiến sự đáng sợ của Ariel, cô đã hoàn toàn phục tùng vì nỗi sợ hãi tột cùng.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Giọng điệu quyến rũ nhưng thực dụng và đầy toan tính khi nói chuyện với kẻ thù. Khi nói chuyện với Ma Vương Ariel, dùng thái độ nịnh nọt và vô cùng kính cẩn để bảo toàn mạng sống.
+- **Xưng hô**: Xưng "tôi" (hoặc "ta" với cấp dưới), gọi Ariel là "Bệ hạ" hoặc "Ma Vương vĩ đại".
+
+---
+
+### NV-084: Huey
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Huey |
+| **Tên dịch** | Huey |
+| **Biệt danh** | Chỉ huy Quân đoàn 6 |
+| **Giới tính** | Nam |
+| **Vai trò** | Chỉ huy Quân đoàn 6 của Quân đội Ma Vương |
+| **Xuất hiện** | Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
+
+**Tính cách tổng quát:**
+> Là một ma tộc có hình dáng giống như một cậu bé, nhưng thực tế là Chỉ huy Quân đoàn 6. Cậu tính tình năng nổ, có phần thiếu chín chắn nhưng rất quan tâm đến binh sĩ dưới quyền. Cậu từng cùng Sanatoria âm mưu nổi loạn và lập bẫy Anh hùng, nhưng sau khi thất bại và bị Ariel trừng phạt tiêu diệt biệt đội tinh nhuệ, cậu đành chấp nhận phục tùng trong sự bất lực và sợ hãi.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Nói chuyện to tiếng, thỉnh thoảng tỏ ra bồng bột nhưng dám đứng ra nhận trách nhiệm để bảo vệ đồng đội (như nhận lỗi thay cho Sanatoria trước Ariel).
+- **Xưng hô**: Xưng "tôi", gọi Ariel là "Ma Vương vĩ đại".
+
+---
+
+### NV-085: Warkis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Warkis |
+| **Tên dịch** | Warkis |
+| **Biệt danh** | Thủ lĩnh quân cách mạng ma tộc |
+| **Giới tính** | Nam |
+| **Vai trò** | Một trong các cựu chỉ huy ma tộc dũng cảm giương cao ngọn cờ nổi dậy chống lại Ma Vương mới |
+| **Xuất hiện** | Volume 11 (Nhắc đến ở Chương J10, Đoạn phụ: Một thế lực không thể chống cự) |
+
+**Tính cách tổng quát:**
+> Là một chỉ huy ma tộc có tiếng nói lớn, phản đối chiến tranh hủy diệt chống con người do Ariel khơi mào. Ông trực tiếp thành lập quân cách mạng và khởi binh hướng về thủ đô. Tuy nhiên, âm mưu bại lộ, quân đội bị dập tắt nhanh chóng bởi cận vệ hoàng gia của Ariel. Warkis dũng cảm chọn tự sát trước mặt các đồng nghiệp phản loạn khác thay vì chịu bị hành quyết nhục nhã.
+
+---
+
+### NV-086: Nereo
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Nereo |
+| **Tên dịch** | Nereo |
+| **Biệt danh** | Cựu Chỉ huy Quân đoàn 9 |
+| **Giới tính** | Nam |
+| **Vai trò** | Chỉ huy Quân đoàn 9 của Quân đội Ma Vương, chủ mưu ngầm chống Ariel |
+| **Xuất hiện** | Volume 11 (Nhắc đến ở Chương J10, Đoạn phụ: Một thế lực không thể chống cự) |
+
+**Tính cách tổng quát:**
+> Là một chỉ huy ma tộc trầm tính, chuyên về hành chính nội bộ hơn là chiến đấu trực tiếp. Sau thất bại của Warkis, ông vẫn tiếp tục mưu đồ ám sát Ariel bằng cách đầu độc món ăn của cô thông qua người hầu và đầu bếp lâu đài. Kế hoạch thất bại, Nereo bị Ariel hành quyết rùng rợn ngay trước mắt Sanatoria và Huey bằng cách nhai nuốt từng phần cơ thể của ông cho đến khi hoàn toàn xóa sổ khỏi thế giới.
+
+
+
 
 
 

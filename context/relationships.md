@@ -2179,11 +2179,95 @@ graph TD
 
 ---
 
+### QH-158: Julius ↔ Byaku (Quang Long Byaku)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người bảo hộ và Anh hùng kế thừa |
+| **Julius gọi Byaku** | Byaku / Quang long Byaku |
+| **Byaku gọi Julius** | Ngươi / Anh hùng |
+| **Julius xưng** | Tôi |
+| **Byaku xưng** | Ta |
+| **Trạng thái** | Byaku xuất hiện và thử thách quyết tâm của Julius trong phòng ẩn. Nhận thấy lý tưởng bất khuất nhưng "khác người" của Julius (không sử dụng thánh kiếm dùng một lần để tiêu diệt bất kỳ ai, mà dựa vào nỗ lực bản thân cùng bạn bè), Byaku vô cùng cảm phục. Ông tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và hứa sẽ bảo vệ Julius, khẳng định Julius là người có thể cứu được thần. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Chương J12. |
+
+---
+
+### QH-159: Ariel (Ma Vương) ↔ Sanatoria / Huey
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Ma Vương và các thủ lĩnh phản loạn dưới quyền |
+| **Ariel gọi họ** | Sanatoria / Huey / các người |
+| **Họ gọi Ariel** | Bệ hạ Ma Vương / Ma Vương vĩ đại / Ngài |
+| **Ariel xưng** | Ta |
+| **Họ xưng** | Tôi / chúng tôi |
+| **Trạng thái** | Ariel thông qua mạng lưới gián điệp của Shiro đã biết rõ âm mưu phản nghịch của Sanatoria và Huey. Cô tự tay quét sạch phân đội của Huey bố trí để bắt Anh hùng, rồi trực tiếp đến cảnh cáo họ ngay giữa rừng. Ariel biểu hiện thái độ đùa cợt, nhàn nhã nhưng sát khí áp đảo và lời đe dọa tàn nhẫn của cô đã gieo rắc nỗi kinh hoàng tột cùng lên tâm trí của cả hai, buộc họ phải phục tùng vô điều kiện để giữ mạng sống. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Đoạn phụ: Một thế lực không thể chống cự. |
+
+---
+
+### QH-160: Tôi (White/Shiro) ↔ Sophia Keren (Học viện)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Sư phụ và Đệ tử / Cận vệ |
+| **White gọi Sophia** | Sophia / cô |
+| **Sophia gọi White** | Sư phụ (Master) / cô ấy |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Sophia xưng** | Con (khi bị nguyền rủa buộc miệng) / tôi |
+| **Trạng thái** | White phát hiện Sophia lén lút uống máu và dùng kỹ năng quyến rũ quy phục các nam sinh tại học viện. Cô lập tức đến dạy dỗ Sophia bằng cách đặt một lời nguyền/ám thị bắt Sophia phải luôn gọi cô là "Sư phụ" và buộc phải ngồi xuống khi cô ra lệnh. Để cảnh cáo nghiêm khắc hơn, White lột sạch đồ và trói Sophia lên trần nhà rồi thản nhiên bỏ đi, mặc cho Sophia la hét cầu xin tha thứ. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Nhật ký của Sophia 10. |
+
+---
+
+### QH-161: Sanatoria ↔ Huey
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp, chiến hữu trong liên minh phản kháng |
+| **Sanatoria gọi Huey** | Huey |
+| **Huey gọi Sanatoria** | Sanatoria / cậu |
+| **Sanatoria xưng** | Tôi |
+| **Huey xưng** | Tớ / tôi |
+| **Trạng thái** | Hai người cùng chỉ huy quân đội nổi dậy âm mưu hạ bệ Ariel để cứu ma tộc khỏi diệt vong. Sau khi kế hoạch thất bại hoàn toàn và Nereo bị hành quyết tàn khốc, họ nương tựa vào nhau để sinh tồn. Khi đối diện với Ariel, Huey dũng cảm đứng ra nhận toàn bộ trách nhiệm về mình để bảo vệ Sanatoria, còn Sanatoria níu chặt lấy Huey làm chỗ dựa tinh thần trước sát khí khủng khiếp của Ma Vương. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Đoạn phụ: Một thế lực không thể chống cự. |
+
+---
+
+### QH-162: Ariel (Ma Vương) ↔ Nereo
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ tớ đối nghịch (Ma Vương và cựu Chỉ huy phản loạn) |
+| **Ariel gọi Nereo** | Nereo |
+| **Nereo gọi Ariel** | Ma Vương / Cô ta |
+| **Ariel xưng** | Ta |
+| **Nereo xưng** | Thần (độc thoại xưng tôi) |
+| **Trạng thái** | Nereo âm thầm lôi kéo đầu bếp và người hầu đầu độc Ariel để ám sát cô sau vụ phản loạn của Warkis thất bại. Biết trước điều này, Ariel thản nhiên ăn hết sạch đĩa thức ăn tẩm độc trước khi ra lệnh xử tử đầu bếp và người hầu. Sau đó, cô triệu tập ba chỉ huy phản loạn (Nereo, Huey, Sanatoria) và hành quyết Nereo một cách dã man bằng năng lượng nuốt chửng rùng rợn, ăn thịt ông ngay trước mắt họ nhằm xóa sổ sự chống đối vĩnh viễn. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Đoạn phụ: Một thế lực không thể chống cự. |
+
+---
+
+### QH-163: Sanatoria / Huey ↔ Nereo / Warkis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh phản kháng ngầm |
+| **Sanatoria/Huey gọi họ** | Ngài Warkis / Ngài Nereo / Nereo |
+| **Nereo/Warkis gọi họ** | Sanatoria / Huey |
+| **Sanatoria/Huey xưng** | Tôi |
+| **Nereo/Warkis xưng** | Tôi / Ta |
+| **Trạng thái** | Sanatoria và Huey bí mật hợp tác với Nereo và ủng hộ cuộc nổi dậy của Warkis tiến về thủ đô nhằm bảo vệ tương lai ma tộc. Tuy nhiên, sự tự sát dũng cảm của Warkis khi thất bại và vụ hành quyết nhai nuốt tàn khốc của Nereo đã phá nát tinh thần chiến đấu của hai người, đưa họ vào trạng thái sợ hãi tuyệt đối và chấp nhận quy phục Ariel. |
+| **Ghi chú** | Xuất hiện ở Volume 11 Đoạn phụ: Một thế lực không thể chống cự. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 157
+- **Tổng cặp quan hệ**: 163
 
 
 
