@@ -38,6 +38,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > Kiếp trước là một học sinh hướng nội (otaku/gamer), không thích giao tiếp xã hội nhưng nội tâm cực kỳ phong phú và hoạt bát. Khi biến thành nhện, cô rất lạc quan, ham sống, có phần ngớ ngẩn, dễ phấn khích và có khả năng thích ứng cao. Ở tuyến thời gian tương lai, cô mang hình dáng một cô gái tóc trắng tinh khôi, cư xử vô cùng im lặng và đúng mực nhưng toát ra vẻ bí ẩn và đáng sợ.
 > *Sự kiện Volume 6:* Đồng hành cùng Ariel, Sophia và Merazophis hướng về thủ đô Sariella và huấn luyện đặc biệt cho Sophia. Trong khi đó, các Phân thân Tư duy và bầy nhện con tự sinh tồn ở Mê cung Lớn Elroe tự ý mua thêm Hỏa Ma pháp, chạm trán Trưởng lão Ronandt và ba con Địa Long (Kagna, Gehre, Fuit).
 > *Sự kiện Volume 7:* Đồng hành cùng Ariel đột nhập phi thuyền G-Fleet, nuốt chửng quả bom GMA để cứu mọi người và trải qua quá trình thần hóa (deification), trở thành một vị thần nằm ngoài hệ thống với tên thật Shiraori do D đặt. Vì mất toàn bộ kỹ năng và chỉ số, cô trở nên cực kỳ yếu ớt như người bình thường và phải học cách điều khiển ma lực tự lực dưới sự chăm sóc của Ariel.
+> *Sự kiện Volume 8:* Trở nên cực kỳ yếu đuối sau thần hóa, say xe lử đử trên xe kéo qua vùng biên giới gần Đế quốc Renxandt hướng tới Dãy núi Huyền Bí. Cô sở hữu đôi mắt kép gồm mười con ngươi (mỗi bên năm con ngươi, hai con ngươi kích cỡ bình thường chứa bốn con ngươi nhỏ hơn bên trong), buộc phải nhắm mắt và kéo mũ trùm đầu khi vào thị trấn để tránh bị hiểu nhầm là quý tộc mù ốm yếu. Trong Chương 6, sau khi bị lở tuyết cuốn trôi và tách nhóm, cô thức dậy trong lều tuyết cùng nhóm ma cà rồng và Sael, sau đó căn lều bị chém đôi bởi Wrath (Sasajima Kyouya). Cô là người đầu tiên nhận ra và gọi to tên kiếp trước của cậu ta, kích hoạt đợt tấn công điên cuồng của Wrath. Trong Chương 7, cô chạy trốn giữ mạng trước đòn tấn công của Wrath, cố gắng gọi tên để đánh thức lý trí cậu ta nhưng thất bại. Khi sông băng đổ sụp, cô đã bộc phát phản xạ cũ và lần đầu tiên phóng được tơ trở lại để cứu Sophia và Mera, sau đó cả ba được Sael cứu thoát khỏi vực sâu trong gang tấc.
 
 
 **Văn phong nói chuyện:**
@@ -624,6 +625,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Kiếp trước là Negishi Shouko, biệt danh "Rihoko" (do vẻ ngoài gầy gò u ám giống ma). Sau khi tái sinh thành ma cà rồng chân tổ Sophia Keren tại Hạt Keren, cô được Nhện nhỏ tình cờ cứu thoát khỏi bọn cướp khi còn là trẻ sơ sinh trong xe ngựa. Nhện nhỏ đã Thẩm định cô và phát hiện danh tính người tái sinh Negishi Shouko cùng bảng chỉ số cực khủng của một ma cà rồng sơ sinh. Khi lớn lên, cô có vẻ ngoài xinh đẹp như búp bê nhưng sở hữu sức mạnh ma pháp và thực lực đáng sợ. Trông cô vô cùng bí ẩn, lạnh lùng, luôn nở nụ cười đầy ẩn ý trước các cuộc tranh chấp. Cô có khả năng triệt tiêu ma pháp hoàn toàn và nghe lệnh từ một "Chủ nhân" (Ariel/White). Cô cũng đồng thời sở hữu danh hiệu Kẻ Thống Trị Đố Kỵ.
 > *Sự kiện Volume 6:* Trải qua khóa huấn luyện khắc nghiệt (giật dây rối, ăn độc tố) của Nhện nhỏ (White) để tăng kỹ năng. Ban đầu đố kỵ và thù ghét White vô cớ, nhưng sau khi hiểu được nỗ lực sinh tồn phi thường của White, cô quyết định thay đổi thái độ. Khi tới thủ đô Sariella, cô chọn cùng Merazophis đồng hành với Ariel và White sang lãnh thổ ma tộc để tự trưởng thành, từ bỏ quá khứ.
+> *Sự kiện Volume 8:* Con bé lớn lên trông thấy, bắt đầu bộc lộ nét đẹp thanh tú thừa hưởng từ mẹ và đôi mắt từ cha. Vô cùng sở hữu Mera và tỏ vẻ cáu kỉnh, ghen tị (lườm nguýt mặt như phim kinh dị) khi thấy Mera chăm sóc bế bồng White. Trong Chương V2, sau khi tỉnh dậy trong lều sau trận sập sông băng, cô kể lại chi tiết trận chiến với Wrath cho Ariel, đồng thời bày tỏ quyết tâm rèn luyện thể chất mạnh mẽ hơn nữa để đánh bại hắn và bảo vệ White trong tương lai.
 
 
 **Văn phong nói chuyện:**
@@ -739,6 +741,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát & Sự kiện:**
 > Là một Ma tộc có vẻ ngoài nhợt nhạt và vô cảm, cực kỳ trung thành với Ma Vương Ariel và luôn tận tụy bảo vệ Sophia Keren (vốn là tiểu thư của gia tộc Keren kiếp trước). Merazophis luôn xử lý mọi việc một cách nghiêm túc, cẩn trọng và giữ thái độ đúng mực tuyệt đối trước mặt Ariel.
 > **Sự kiện Volume 6:** Đồng hành và chăm sóc Sophia trong khóa huấn luyện khắc nghiệt, chịu đựng ăn độc tố cùng cô bé. Anh từng u sầu và hoài nghi về thân phận ma cà rồng mới, nhưng sau khi bị White chấn chỉnh, anh đã chấp nhận thực tại, buông bỏ u ám và thề trước vong linh của vợ chồng lãnh chúa Keren quá cố sẽ dốc toàn lực bảo vệ tiểu thư Sophia đến hơi thở cuối cùng.
+> **Sự kiện Volume 8:** Kỹ năng [Ma Cà Rồng] của anh tăng cấp, mang lại khả năng tích lũy lượng máu đã uống bên trong cơ thể, giúp anh tạm thời duy trì sinh tồn trong một thời gian ngắn mà không cần uống máu trực tiếp.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Vô cùng trang trọng, tôn kính, ít lời.
@@ -1245,7 +1248,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thực tế, luôn phân tích cục diện từ góc nhìn chiến lược lâu dài và sẵn sàng đi những nước cờ táo bạo nhưng kín kẽ.
 
 
-- **Tổng nhân vật**: 65
+- **Tổng nhân vật**: 76
 
 ---
 
@@ -1256,7 +1259,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Shinobu Kusama |
 | **Tên dịch** | Kusama Shinobu |
-| **Biệt danh** | Shino / Chú hề của lớp / Kusama |
+| **Biệt danh** | Shino / Chú hề của lớp / Kusama / Sajin |
 | **Tuổi** | Thiếu niên |
 | **Giới tính** | Nam |
 | **Vai trò** | Học sinh tái sinh |
@@ -1265,6 +1268,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát & Sự kiện:**
 > Ở kiếp trước, cậu là "chú hề" của lớp (class clown), tính tình vui vẻ, cởi mở, dễ bị sai vặt và thường chạy việc cho người khác. Trong kiếp này, cậu trở thành tay chân chạy vặt cho Thần Ngôn Giáo (phục vụ Giáo hoàng Dustin) và tham gia quân đội Đế quốc.
 > **Sự kiện Volume 5:** Nhận lệnh thâm nhập làng Elf, dùng ma kiếm tự bạo phá hủy các điểm dịch chuyển nhằm giam lỏng nhóm Shun và tộc Elf rồi dùng [Phân Thân Thuật] trốn thoát.
+> **Sự kiện Volume 8:** Trong Đoạn phụ: Giáo hoàng và các Điệp viên Bóng tối, cha của cậu (một thủ lĩnh điệp viên bóng tối của Thần Ngôn Giáo) báo cáo với Giáo hoàng Dustin rằng đã dụ được Wrath vào bẫy phục kích của tộc Elf, và nói rằng cậu (Sajin) chắc chắn sẽ hiểu cho hành động này vì lợi ích của nhân loại mặc dù đây là hành động dồn bạn học kiếp trước của cậu vào chỗ chết.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Năng động, hoạt bát, dùng từ ngữ xuề xòa thân mật.
@@ -1328,11 +1332,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Thiếu niên (kiếp trước là học sinh trung học) |
 | **Giới tính** | Nam |
 | **Vai trò** | Bạn thân kiếp trước của Shun và Katia; Thống lĩnh Quân đoàn 8 của quân đội Ma Vương; hiện đứng về phe các quản trị viên cùng với Sophia |
-| **Xuất hiện** | Volume 5 Chương S6, S7 |
+| **Xuất hiện** | Volume 5 Chương S6, S7; Volume 8 các chương O, Chương 6, Tiếng gầm của Quỷ |
 
 **Tính cách tổng quát & Sự kiện:**
 > Ở kiếp trước, cậu là bạn thân nhất của Yamada Shunsuke (Shun) và Ooshima Kanata (Katia). Cậu là một nam sinh tốt bụng, trầm tính nhưng có ý thức mạnh mẽ về chính nghĩa, thường kiên quyết đứng lên chống lại những kẻ bắt nạt.
 > **Sự kiện Volume 5:** Xuất hiện dưới thân phận Wrath (Thống lĩnh Quân đoàn 8), dễ dàng hạ gục nhóm Tagawa và đối mặt với Shun. Cậu khuyên Shun rút lui và vạch trần tội ác của tộc Elf. Trong trận chiến, cậu chém trọng thương Anna khi cô lao ra đỡ đòn cho Shun.
+> **Sự kiện Volume 8:** Trở thành người dẫn chuyện chính trong tuyến chương "O" (Ogres). Kể về hành trình quá khứ từ khi chuyển sinh thành goblin, tiến hóa thành ogre, trải qua biến cố bị con người truy sát và tiêu diệt làng, bộc phát sự điên cuồng báo thù. Cậu sở hữu kỹ năng độc nhất [Tạo Vũ khí] cho phép chế tạo ma kiếm địa lôi, ma kiếm nổ và hai ma kiếm katana cá nhân (katana lửa và katana sét). Trong Chương 6, Wrath (trong trạng thái nửa khỏa thân) tấn công căn lều tuyết của nhóm White, đọ kiếm ngang ngửa với Sael. Khi White gọi to tên thật kiếp trước của cậu "Sasajima Kyouya", cậu lập tức gầm lên điên cuồng, vung ma kiếm lửa chém đôi nền sông băng tạo ra khe nứt lớn, đánh gục Sael bằng ma kiếm sét rồi lao vào tấn công nhóm White. Trong Chương 7, cậu điên cuồng truy đuổi nhóm White, chém cụt tay Mera và đâm xuyên người Sophia. Dù dao động khi White gọi tên kiếp trước "Sasajima", cậu vẫn bị nuốt chửng bởi kỹ năng [Phẫn Nộ]. Cuối cùng, cậu bị Sophia bám cổ hút máu và rơi xuống khe vực sông băng đang đổ sụp trong khi Sophia được White cứu. Trong Chương V2, Ariel xác nhận rằng sau khi rơi xuống sông băng và bị lở tuyết cuốn đi, cậu mất tích nhưng vẫn còn sống vì cấp độ của Sophia chưa hề tăng lên. Trong chương "Tiếng gầm của Quỷ" (The Ogre's Roar), sự phẫn nộ trong lòng hắn tiếp tục thiêu rụi nhân tính, biến hắn thành một con quỷ hoàn toàn mất đi lý trí và cất tiếng gầm cuồng loạn giữa vùng đất tuyết đóng băng.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Thản nhiên, bình dị khi nói chuyện với Sophia; dùng giọng điệu quen thuộc, thân thiết (xưng "tớ", gọi "cậu") khi nhận ra và trò chuyện với người bạn thân cũ Shun.
@@ -1376,7 +1381,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 6 Chương 2 |
 
 **Tính cách tổng quát:**
-> Là một Nhện Rối tự tin, xông xáo và rất khôn ngoan. Con bé là đứa đầu tiên dám ăn thử thịt nướng của White và cũng là đứa năng nổ bắt chước White dệt tơ may đồ nhất. Sau khi được White nâng cấp cơ thể, con bé vô cùng thích thú và hết lòng kính trọng cô.
+> Là một Nhện Rối tự tin, xông xáo và rất khôn ngoan. Con bé là đứa đầu tiên dám ăn thử thịt nướng của White và cũng là đứa năng nổ bắt chước White dệt tơ may đồ nhất. Sau khi được White nâng cấp cơ thể, con bé vô cùng thích thú và hết lòng kính trọng cô. Hành xử như một người chị cả đáng tin cậy giữ trật tự nhóm nhện rối, sẵn sàng cốc đầu Fiel để giữ cô nhóc khỏi làm phiền White.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh), thể hiện cảm xúc qua hành động nhạy bén và ánh mắt lấp lánh kính trọng.
@@ -1396,7 +1401,8 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 6 Chương 2 |
 
 **Tính cách tổng quát:**
-> Khác với Ael, Sael có tính cách tương đối nhút nhát, e thẹn và yếu đuối. Con bé thường ngần ngại, do dự trước khi quyết định làm gì đó, nhưng cuối cùng vẫn làm theo sự dẫn dắt của chị em mình.
+> Khác với Ael, Sael có tính cách tương đối nhút nhát, e thẹn và yếu đuối. Con bé thường ngần ngại, do dự trước khi quyết định làm gì đó, nhưng cuối cùng vẫn làm theo sự dẫn dắt của chị em mình. Rất rụt rè và thiếu tính tự lập, thường chỉ ngồi một chỗ nhìn chị em giao tiếp chứ hiếm khi chủ động làm gì.
+> *Sự kiện Volume 8:* Trực tiếp chăm sóc và bảo vệ White tại phòng trọ. Do cánh tay trái bị xe tăng địch phá hủy từ trước sự cố UFO hai năm trước và White hiện đã mất khả năng tạo tơ làm da người giả (Ariel cũng không thể làm được), cánh tay của con bé hiện là dạng khớp gỗ búp bê chưa hoàn thiện. Điều này khiến nó phải che giấu và cùng White rú rú ở trong phòng trọ. Trong Chương 6, khi lều tuyết bị phá hủy, Sael lập tức lao vào nghênh chiến với cậu Oni (Wrath) và đấu ngang sức. Tuy nhiên, sau đó Wrath tung đòn chém lửa phá vỡ mặt sông băng tạo ra khe nứt lớn và phóng tia sét đánh trúng Sael, khiến con bé bị rơi xuống khe nứt sông băng. Trong Chương 7, con bé đã kịp thời trở lại chiến trường, dùng lưới tơ và kỹ năng [Cơ động Chiều không gian] để hứng trọn và giải cứu White, Sophia, Mera đang rơi tự do thoát khỏi sông băng sụp đổ.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh), thể hiện sự rụt rè qua những cử chỉ ngập ngừng, e thẹn.
@@ -1416,7 +1422,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 6 Chương 3 |
 
 **Tính cách tổng quát:**
-> Là một cô nàng ngổ ngáo, nghịch ngợm đúng chất tomboy nhưng lại cực kỳ ngốc nghếch và ngơ ngác (airhead).
+> Là một cô nàng ngổ ngáo, nghịch ngợm đúng chất tomboy nhưng lại cực kỳ ngốc nghếch và ngơ ngác (airhead). Thường có những hành động kỳ lạ khó hiểu như nhìn chằm chằm vào khoảng không vô định như một chú mèo.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh).
@@ -1436,7 +1442,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 6 Chương 3 |
 
 **Tính cách tổng quát:**
-> Là một đứa trẻ ngốc nghếch, vui nhộn (goofball), thích pha trò hề và cực kỳ dễ bị kích động, phấn khích quá đà.
+> Là một đứa trẻ ngốc nghếch, vui nhộn (goofball), thích pha trò hề và cực kỳ dễ bị kích động, phấn khích quá đà. Bản tính tinh nghịch thích trêu chọc, thường hay chọc má và lắc đầu White khi thấy cô yếu ớt đổ bệnh.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh).
@@ -1466,4 +1472,208 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Giao tiếp bằng [Thần giao cách cảm]. Gọi Ariel là "bà cô nhện" (spider lady) hoặc "bà cô điên khùng", xưng "tao"/"ta" gọi "mày"/"cô". Khi nói chuyện với White, gọi cô là "cô nương tóc trắng" (White lady), "cô nương" (girlie) hoặc "người đẹp" (sweet cheeks), xưng "ta" hoặc "tôi". Gọi Güli-güli là "đại ca", xưng hô kính cẩn.
 - **Cảm xúc chủ đạo**: Hèn nhát, hài hước, cằn nhằn nhưng có lòng trung nghĩa và dũng khí khi lâm trận.
+
+---
+
+### NV-066: Rukusso
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Rukusso |
+| **Tên dịch** | Rukusso |
+| **Biệt danh** | Cung thủ trẻ tuổi / Hậu bối |
+| **Giới tính** | Nam |
+| **Vai trò** | Mạo hiểm giả trẻ tuổi (cung thủ), thành viên thuộc tổ đội của Gotou tại khu vực Dãy núi Huyền Bí (Sau giải nghệ để trở về quê làm ruộng) |
+| **Xuất hiện** | Volume 8 Chương O1, Đoạn phụ: Cuộc săn Quỷ của một Mạo hiểm giả, Đoạn phụ: Các bước tiếp theo của một Mạo hiểm giả |
+
+**Tính cách tổng quát:**
+> Là một mạo hiểm giả trẻ tuổi còn thiếu kinh nghiệm, thuộc tổ đội mạo hiểm giả của Gotou hoạt động tại dãy núi tuyết. Trong trận chiến đầu tiên chống lại Wrath, cậu nhóc tỏ ra bối rối và hoảng loạn nhưng vẫn cố gắng bắn tên bọc lót cho đàn anh của mình. Trong chiến dịch săn quỷ quy mô lớn sau đó, vì nôn nóng trả thù cho đồng đội đã khuất, cậu đã lao lên tấn công và vô tình hét cảnh báo trước khi bắn tên nhưng bị Wrath tránh được dễ dàng, sau đó bị thương nặng bởi vụ nổ ma kiếm và được Gotou cứu thoát. Sau sự kiện này, cậu quyết định giải nghệ mạo hiểm giả để trở về quê hương xin lỗi cha mẹ và cùng gia đình làm ruộng.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Lời thoại trực tiếp dùng từ ngữ tôn trọng đàn anh, xưng "em" gọi "anh Gotou"/"anh Regg".
+
+---
+
+### NV-067: Gotou
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Gotou |
+| **Tên dịch** | Gotou |
+| **Biệt danh** | Gotou |
+| **Giới tính** | Nam |
+| **Vai trò** | Mạo hiểm giả kỳ cựu hạng A, một trong hai người mạnh nhất thị trấn, thủ lĩnh nhóm mạo hiểm giả ở khu vực Dãy núi Huyền Bí |
+| **Xuất hiện** | Volume 8 Chương O1 (Được nhắc tên), Đoạn phụ: Cuộc săn Quỷ của một Mạo hiểm giả, Chương V1, Đoạn phụ: Các bước tiếp theo của một Mạo hiểm giả |
+
+**Tính cách tổng quát:**
+> Là một mạo hiểm giả giàu kinh nghiệm hạng A, chỉ huy nhóm săn quái vật hoạt động tại dãy núi tuyết Mystic Mountains. Rất quan tâm đến sự an toàn của đồng đội và hậu bối dưới quyền (liều mình cứu Rukusso khỏi vụ nổ ma kiếm của Wrath) dù ngoài miệng phủ nhận việc muốn báo thù. Sau trận chiến và mất đi người bạn thân Regg, anh từng muốn giải nghệ nhưng nhờ sự khích lệ gián tiếp từ Rukusso và thanh ma kiếm lôi được ngài Ronandt trao tặng, anh quyết tâm tiếp tục cống hiến để khôi phục hiệp hội.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại ngôi thứ nhất xưng "tôi". Khi nói chuyện với đồng nghiệp Regg, xưng hô ngang hàng "ông - tôi" vừa thân thiết vừa cởi mở. Khi nói chuyện với Rukusso, xưng "tôi" gọi "cậu" hoặc "nhóc".
+
+---
+
+### NV-068: Regg
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Regg |
+| **Tên dịch** | Regg |
+| **Biệt danh** | Regg |
+| **Giới tính** | Nam |
+| **Vai trò** | Mạo hiểm giả hạng A, một trong hai người mạnh nhất thị trấn, bạn chiến đấu thân thiết của Gotou (Đã tử trận) |
+| **Xuất hiện** | Volume 8 Chương O1 (Được nhắc tên), Đoạn phụ: Cuộc săn Quỷ của một Mạo hiểm giả |
+
+**Tính cách tổng quát:**
+> Mạo hiểm giả hạng A cùng nhóm/thân cận với Gotou hoạt động tại Dãy núi Huyền Bí. Có tính cách cởi mở, thân thiết. Trong cuộc đi săn Wrath, anh đã dũng cảm dùng thân mình đỡ ma kiếm phát nổ để mở đường máu và câu giờ cho Gotou mang Rukusso bị thương rút lui, cuối cùng bị Wrath chém đầu hy sinh.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Xưng hô thân mật ngang hàng "ông - tôi" với Gotou.
+
+---
+
+### NV-069: Buirimus
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Buirimus |
+| **Tên dịch** | Buirimus |
+| **Biệt danh** | Nhà triệu hồi / Hiệp sĩ triệu hồi |
+| **Giới tính** | Nam |
+| **Vai trò** | Nhà triệu hồi tài ba của Đế quốc Renxandt, người dẫn đầu đội quân tinh nhuệ tiến vào Mê cung Lớn Elroe để thuần hóa Cơn Ác Mộng (Đã tử trận ở Dãy núi Huyền Bí) |
+| **Xuất hiện** | Nhắc đến ở Volume 6 và Volume 8 Chương R1, sở hữu chương riêng trong Volume 8 |
+
+**Tính cách tổng quát:**
+> Là một người cha vô cùng thương con, khao khát được trở về hoàng đô để gặp vợ và tìm kiếm đứa con gái vừa chào đời bị bắt cóc. Dù chịu oan ức gánh mọi tội lỗi cho sự cố Cơn Ác Mộng ở Mê cung Lớn Elroe và bị đày lên Dãy núi Huyền Bí hiểm trở, ông vẫn kiên trì lập công để được ân xá. Sự nôn nóng trở về đã thúc đẩy ông dẫn quân quét sạch một ngôi làng goblin và dùng kỹ năng [Thuần thú] để khống chế, cưỡng ép một goblin có kỹ năng [Tạo Vũ khí] (Kyouya/Wrath) phục vụ mình. Ông liên tục bắt quái vật, thậm chí ép nó ăn thịt đồng loại để thăng cấp thành hobgoblin nhằm chế tạo ma kiếm hàng loạt làm cống phẩm. Sự tàn bạo này đã đẩy lòng oán hận và các kỹ năng tà ác của Wrath lên đỉnh điểm, vượt quá giới hạn khống chế và cuối cùng dẫn đến cái chết của ông cùng cả phân đội dưới tay Wrath.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại ngôi thứ nhất xưng "tôi". Khi nói chuyện với đồng đội/sư phụ Ronandt, xưng hô lễ phép tôn trọng.
+
+---
+
+### NV-070: Tiva
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Tiva |
+| **Tên dịch** | Tiva |
+| **Biệt danh** | Tổng chỉ huy liên quân / Kỵ sĩ hoàng gia |
+| **Giới tính** | Nam |
+| **Vai trò** | Kỵ sĩ hoàng gia Đế quốc Renxandt, tổng chỉ huy quân đội đế quốc tấn công Sariella và là người dẫn đầu cuộc điều tra các vụ bắt cóc trẻ em trên toàn thế giới |
+| **Xuất hiện** | Nhắc đến ở Volume 6 và xuất hiện ở Volume 8 Chương R1 |
+
+**Tính cách tổng quát:**
+> Một kỵ sĩ/sĩ quan nghiêm túc, làm việc chăm chỉ và đầy trách nhiệm. Ông có nỗi đau mất cả gia đình con trai, con dâu và cháu nội trong một vụ tai nạn xe ngựa được dàn dựng bởi tổ chức bắt cóc, từ đó nung nấu quyết tâm sâu sắc truy quét tận gốc tổ chức tội phạm này để đưa những đứa trẻ bị bắt cóc sống sót trở về.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, lịch sự, tôn trọng các nguyên tắc quân đội. Xưng "tôi" và gọi Ronandt là "ngài Ronandt".
+
+---
+
+### NV-071: Nyudoz
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Nyudoz |
+| **Tên dịch** | Nyudoz |
+| **Biệt danh** | Trưởng lão Nyudoz |
+| **Giới tính** | Nam |
+| **Vai trò** | Lão kỵ sĩ của Đế quốc Renxandt, cựu binh từng chiến đấu bên cạnh Kiếm Vương tiền nhiệm, là kiếm sĩ mạnh nhất đế quốc hiện tại canh giữ pháo đài phía bắc. |
+| **Xuất hiện** | Volume 8 Chương R2 |
+
+**Tính cách tổng quát:**
+> Là một lão kỵ sĩ bộc trực, đầu óc chỉ toàn cơ bắp, có phần đơn giản và ngốc nghếch nhưng sức mạnh kiếm thuật tối cường vô cùng đáng nể. Sở hữu tinh thần hiệp sĩ, tính cách thoải mái và được tất cả binh sĩ dưới quyền kính trọng, yêu mến.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Nói chuyện bộc trực, thẳng thắn và đặc biệt luôn nói cực kỳ to (lớn tiếng). Xưng "ta" và gọi Ronandt là "Ngài Ronandt".
+
+---
+
+### NV-072: Ael
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Ael |
+| **Tên dịch** | Ael |
+| **Biệt danh** | Chị cả / Nhện rối Ael |
+| **Giới tính** | Nữ (hình dáng con rối bé gái) |
+| **Vai trò** | Một trong bốn con nhện rối (Puppet Taratect) của Ariel còn sống sót, đóng vai trò là chị cả và là người quản lý đáng tin cậy nhất của cả nhóm nhện rối. |
+| **Xuất hiện** | Volume 6, Volume 8 |
+
+**Tính cách tổng quát:**
+> Khác với ba cô em ngốc nghếch còn lại, Ael là con nhện rối thông minh, chín chắn và cực kỳ đáng tin cậy. Cô luôn biết cách tiết chế sức mạnh của mình và là người duy nhất có đủ khả năng đấu tập với bé ma cà rồng Sophia mà không vô tình ngộ sát cô bé. Trong hành trình vượt Dãy núi Huyền Bí, cô đã một mình vác cỗ xe ngựa lên núi.
+
+---
+
+### NV-073: Sael
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sael |
+| **Tên dịch** | Sael |
+| **Biệt danh** | Nhện rối Sael |
+| **Giới tính** | Nữ (hình dáng con rối bé gái) |
+| **Vai trò** | Một trong bốn con nhện rối của Ariel, nhút nhát và thụ động nhất nhóm. |
+| **Xuất hiện** | Volume 6, Volume 8 |
+
+**Tính cách tổng quát:**
+> Sael cực kỳ rụt rè, nhút nhát và hầu như không bao giờ tự mình đưa ra quyết định hay hành động trừ khi có mệnh lệnh cụ thể từ Ariel. Cánh tay trái của cô bị hỏng nặng trong trận chiến UFO 2 năm trước, khiến cô thường ru rú trong nhà. Dù nhút nhát, cô vẫn có sức mạnh chỉ số ngang ngửa Ael và luôn chấp hành mệnh lệnh một cách trung thực nhất.
+
+---
+
+### NV-074: Riel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Riel |
+| **Tên dịch** | Riel |
+| **Biệt danh** | Nhện rối Riel |
+| **Giới tính** | Nữ (hình dáng con rối bé gái) |
+| **Vai trò** | Một trong bốn con nhện rối của Ariel, có tính cách ngây thơ, ngốc nghếch. |
+| **Xuất hiện** | Volume 6, Volume 8 |
+
+**Tính cách tổng quát:**
+> Riel là một trong ba cô em "ngốc nghếch" của nhóm nhện rối. Tính tình ngây thơ, hành động tùy hứng và hoàn toàn không biết tiết chế sức mạnh, nên có thể dễ dàng ngộ sát bé ma cà rồng trong các buổi tập nếu không được kiểm soát.
+
+---
+
+### NV-075: Fiel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Fiel |
+| **Tên dịch** | Fiel |
+| **Biệt danh** | Nhện rối Fiel |
+| **Giới tính** | Nữ (hình dáng con rối bé gái) |
+| **Vai trò** | Một trong bốn con nhện rối của Ariel, năng nổ nhưng cũng rất ngốc nghếch. |
+| **Xuất hiện** | Volume 6, Volume 8 |
+
+**Tính cách tổng quát:**
+> Fiel là thành viên năng nổ, thích hành động nhưng cũng ngớ ngẩn và không biết kiềm chế sức mạnh giống như Riel. Cô cùng Riel chịu trách nhiệm di chuyển các sinh vật thồ hàng (như địa phi long) khi cần thiết.
+
+---
+
+### NV-076: Nia (Băng Long Nia / Ice Dragon Nia)
+
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Nia / Ice Dragon Nia |
+| **Tên dịch** | Nia / Băng Long Nia |
+| **Biệt danh** | Băng Long Nia / Kẻ cai trị Dãy núi Huyền Bí |
+| **Giới tính** | Nữ (Dragon) |
+| **Vai trò** | Con rồng điều khiển băng giá, thủ lĩnh băng long cai trị Dãy núi Huyền Bí. |
+| **Xuất hiện** | Volume 8 Chương O5, Đoạn phụ: Ma Vương và Băng Long |
+
+**Tính cách tổng quát:**
+> Là thủ lĩnh kiêu hãnh của loài băng long cư ngụ tại Dãy núi Huyền Bí. Cô sở hữu vẻ ngoài tuyệt đẹp với cơ thể uốn lượn thanh thoát phủ đầy lớp vảy thạch anh như thạch anh trắng. Cô có tính cách kiêu ngạo, coi thường kẻ yếu, nhưng tuân thủ nghiêm ngặt mệnh lệnh của Güli-güli (Chúa tể) là không được chạm vào những người tái sinh. Tuy nhiên, cô lại vô cùng tinh nghịch và đắc ý khi đùa cợt rằng nếu người tái sinh tự chết vì cái lạnh thì đó không phải lỗi của cô.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Đối thoại với Wrath (Quỷ) dùng chất giọng chậm rãi, cổ kính và trang trọng nhưng trong tâm trí Wrath lại vang lên giọng một cô gái trẻ. Với Ariel (Ma Vương), cô có tông giọng trêu chọc, tinh nghịch và có phần hơi lo sợ khi bị đe dọa.
+- **Xưng hô**: Xưng "ta", gọi Wrath là "ngươi".
+
 

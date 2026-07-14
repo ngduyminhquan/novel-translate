@@ -1121,7 +1121,9 @@ graph TD
 | **Nhện xưng** | Tôi |
 | **Sophia xưng** | - |
 | **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf.
-> *Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White. |
+> *Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White.
+> *Sự kiện Volume 7:* White thần hóa và mất sạch chỉ số/kỹ năng, trở nên yếu ớt. Sophia ban đầu lo lắng cho White, nhưng sau khi chuyện ngất xỉu xảy ra mỗi ngày, cô quen dần và tỏ ra thờ ơ (mặc kệ cô).
+> *Sự kiện Volume 8:* Trong chuyến hành trình trên xe kéo, Sophia (Vampy) lớn lên trông thấy và tỏ vẻ cực kỳ đố kỵ/tức tối khi Mera chu đáo chăm sóc White và bế White kiểu công chúa, lườm nguýt White như phim kinh dị do bản tính chiếm hữu Mera cực cao. White cảm thấy gượng gạo và cầu mong Vampy đừng biến thành kẻ bám đuôi cuồng loạn (yandere) khi còn là một nhóc tì. |
 | **Ghi chú** | Cuộc gặp gỡ định mệnh này mở đầu cho mối duyên nợ sâu sắc giữa cả hai sau này, khi Sophia trở thành đồng minh thân cận của Nhện nhỏ (White) và Ariel. |
 
 ### QH-079: Sophia Keren ↔ Seras Keren
@@ -1786,11 +1788,212 @@ graph TD
 
 ---
 
+### QH-130: Buirimus ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhân (thao túng) và Triệu hồi thú (bị bắt buộc) / Kẻ thù không đội trời chung |
+| **Buirimus gọi Kyouya** | Con quỷ (Ogre) / Sinh vật đó / Nó |
+| **Kyouya gọi Buirimus** | Buirimus / Nhà triệu hồi Buirimus / Hắn |
+| **Buirimus xưng** | Ta |
+| **Kyouya xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Thao túng tàn bạo. Sau khi bắt được Ogre (Kyouya) thông qua sự kết hợp của Naming (Đặt tên) và thuần thú, Buirimus đặt tên cho cậu là Wrath và ép cậu phục tùng mệnh lệnh, cướp đi ý chí tự do và bắt cậu làm những việc kinh hoàng. Kyouya mang lòng căm thù tột cùng đối với Buirimus vì hắn đã chỉ huy quân đội tàn sát ngôi làng goblin của cậu và cướp đi em gái nhỏ. |
+| **Ghi chú** | Được nhắc đến trong Chương O2: Ma kiếm của Quỷ và các ghi chép của Buirimus. |
+
+---
+
+### QH-131: Ronandt ↔ Tiva
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp, bạn chiến đấu, trao đổi thông tin ở Đế quốc |
+| **Ronandt gọi Tiva** | Tiva |
+| **Tiva gọi Ronandt** | Ngài Ronandt (Sir Ronandt) |
+| **Ronandt xưng** | Ta |
+| **Tiva xưng** | Tôi |
+| **Trạng thái** | Tiva tôn trọng địa vị Trưởng pháp sư của Ronandt nhưng bất lực trước tính khí tự do và lập dị của lão. Ronandt thấu hiểu nỗi đau mất cả gia đình của Tiva và hứa hỗ trợ ông hết sức trong cuộc điều tra tổ chức bắt cóc. |
+
+---
+
+### QH-132: Buirimus ↔ Vợ của Buirimus
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Vợ chồng |
+| **Buirimus gọi Vợ** | Em / Vợ |
+| **Vợ gọi Buirimus** | Anh / Chồng / Anh Buirimus |
+| **Buirimus xưng** | Anh |
+| **Vợ xưng** | Em |
+| **Trạng thái** | Yêu thương sâu sắc. Người vợ luôn tin tưởng và hy vọng chồng mình sẽ sống sót trở về từ Dãy núi Huyền Bí. Buirimus luôn nhớ về vợ và đứa con đầu lòng vừa chào đời mà hắn chưa từng được nhìn thấy mặt. |
+
+---
+
+### QH-133: Tôi (Nhện/White) ↔ Sael (Nhện Rối Sael)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng hành, Vệ sĩ và Đối tượng bảo vệ |
+| **White gọi Sael** | Sael |
+| **Sael gọi White** | (Vô thanh, không nói chuyện) |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Trong chuyến hành trình ở Volume 8, Sael được giao nhiệm vụ canh gác phòng trọ cho White. Mặc dù Sael nhút nhát và thiếu tự lập, White vẫn tin tưởng giao nhiệm vụ cảnh vệ cho con bé. Ở Chương 6, Sael đọ sức ngang ngửa với Wrath nhưng bị rơi xuống khe nứt sông băng. Ở Chương 7, Sael kịp thời dùng lưới tơ và kỹ năng [Cơ động Chiều không gian] giải cứu thành công cả White, Sophia và Mera thoát chết khi sông băng sụp đổ, khiến White thầm thừa nhận Sael chính là người đáng tin cậy nhất lúc bấy giờ. |
+
+---
+
+### QH-134: Tôi (Nhện/White) ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng hành trên chuyến đi |
+| **White gọi Mera** | Mera |
+| **Mera gọi White** | (Không trực tiếp giao tiếp) |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Trên chuyến hành trình leo núi tuyết ở Volume 8, do White bị mất hết chỉ số sau thần hóa và trở nên cực kỳ yếu ớt, Mera đã chu đáo chăm sóc và bế cô kiểu công chúa mỗi khi cô ngất xỉu hoặc không thể di chuyển. Hành động này làm bé ma cà rồng Sophia (Vampy) đố kỵ tột độ và lườm nguýt White dữ dội vì tính chiếm hữu Mera cực cao của cô bé, khiến White cảm thấy vô cùng e dè và ái ngại. |
+
+---
+
+### QH-135: Ronandt ↔ Nyudoz
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp chỉ huy liên quân Đế quốc Renxandt chống lại Quỷ (Wrath) |
+| **Ronandt gọi Nyudoz** | Nyudoz / Ngươi / Tên ngốc này |
+| **Nyudoz gọi Ronandt** | Ngài Ronandt |
+| **Ronandt xưng** | Ta |
+| **Nyudoz xưng** | Ta |
+| **Trạng thái** | Phối hợp nhịp nhàng trên chiến trường (Nyudoz tiên phong, Ronandt hậu phương). Ronandt coi Nyudoz là một gã ngốc đầu óc chỉ toàn cơ bắp, dễ bị thuyết phục nhưng thừa nhận sức mạnh kiếm thuật ngang tầm Kiếm Vương tiền nhiệm của ông ta. Nyudoz kính trọng ma pháp của Ronandt, luôn bộc trực lớn tiếng quát tháo cổ vũ binh sĩ và nghe theo sắp xếp của Ronandt. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương R2. |
+
+---
+
+### QH-136: Aurel ↔ Nyudoz
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp tại pháo đài phía bắc |
+| **Nyudoz gọi Aurel** | Thiếu nữ kia / Cháu |
+| **Aurel gọi Nyudoz** | Nyudoz |
+| **Nyudoz xưng** | Ta |
+| **Aurel xưng** | Con |
+| **Trạng thái** | Aurel ngán ngẩm trước cái đầu chỉ toàn cơ bắp của Nyudoz. Nyudoz khuyên bảo Aurel không nên từ bỏ trước khi thử làm, nhưng ông ta lại dễ dàng tin lời Ronandt và đẩy Aurel ra chịu phạt trước mặt vị sư phụ của cô, làm cô vô cùng bực bội vì sự ngốc nghếch của ông ta. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương R2. |
+
+---
+
+### QH-137: Giáo hoàng Dustin ↔ Kusama Shinobu (Sajin)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhân (Giáo hoàng) và điệp viên dưới quyền (Người tái sinh) |
+| **Dustin gọi Shinobu** | Sajin / Thằng bé (khi nói chuyện với cha cậu) |
+| **Shinobu gọi Dustin** | Lão già chết tiệt (độc thoại) / Ngài Giáo hoàng / Dustin |
+| **Dustin xưng** | Ta |
+| **Shinobu xưng** | Thần / Tôi / Tớ |
+| **Trạng thái** | Kusama Shinobu (tên dị giới là Sajin) hoạt động như một điệp viên chạy việc cho Thần Ngôn Giáo dưới quyền Giáo hoàng Dustin. Dustin xem các người tái sinh là nạn nhân bị ép buộc đến thế giới này nên có phần thương cảm và e dè việc họ phát hiện ra âm mưu của mình. Trong Volume 8 Đoạn phụ: Giáo hoàng và các Điệp viên Bóng tối, Dustin đã ra lệnh cho cha của Sajin (cũng là một điệp viên bóng tối) giữ kín chuyện họ dồn ép bạn học cũ của cậu (Wrath) vào chỗ chết vì sợ Sajin sẽ vô cùng đau khổ nếu biết chuyện. |
+
+
+---
+
+### QH-138: Gotou ↔ Regg
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp, bạn chiến đấu thân thiết (Mạo hiểm giả hạng A) |
+| **Gotou gọi Regg** | Regg |
+| **Regg gọi Gotou** | Gotou |
+| **Gotou xưng** | Tôi |
+| **Regg xưng** | Tôi |
+| **Trạng thái** | Quan hệ xưng hô thân mật ngang hàng "ông - tôi". Hai người là những mạo hiểm giả mạnh nhất thị trấn ở khu vực Dãy núi Huyền Bí. Trong cuộc đi săn Wrath, Regg đã hy sinh thân mình đỡ đòn ma kiếm phát nổ để Gotou đưa Rukusso bị thương rút lui. Cái chết của Regg để lại khoảng trống lớn và cảm giác tội lỗi cho Gotou, thúc đẩy anh tiếp tục nỗ lực vì thị trấn thay vì giải nghệ. |
+
+---
+
+### QH-139: Gotou ↔ Rukusso
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Tiền bối và hậu bối trong tổ đội mạo hiểm giả |
+| **Gotou gọi Rukusso** | Rukusso / Cậu / Nhóc |
+| **Rukusso gọi Gotou** | Anh Gotou |
+| **Gotou xưng** | Tôi |
+| **Rukusso xưng** | Em |
+| **Trạng thái** | Gotou rất quan tâm bảo vệ Rukusso (đỡ ma kiếm nổ và xốc Rukusso tháo chạy khi cậu bị thương). Rukusso vô cùng kính trọng và biết ơn Gotou vì đã cứu mạng mình. Sau sự cố, Rukusso quyết định giải nghệ mạo hiểm giả để trở về làm ruộng cùng gia đình, Gotou khuyên bảo cậu sống một đời hạnh phúc để sự hy sinh của Regg không uổng phí. Cuộc trò chuyện này cũng tiếp thêm động lực cho Gotou tiếp tục chiến đấu. |
+
+---
+
+### QH-140: Gotou ↔ Ronandt
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Mạo hiểm giả kỳ cựu và Pháp sư tối cường Đế quốc (Trưởng bối) |
+| **Gotou gọi Ronandt** | Ngài Ronandt / Trưởng lão Ronandt |
+| **Ronandt gọi Gotou** | Cậu / Nhóc |
+| **Gotou xưng** | Tôi |
+| **Ronandt xưng** | Ta |
+| **Trạng thái** | Ronandt Thẩm định Gotou và ấn tượng với chỉ số của anh nên cho phép anh vào nghe cuộc họp nội bộ về con quỷ. Ronandt đã ép trao cho Gotou thanh ma kiếm thuộc tính lôi (chiến lợi phẩm do con quỷ Wrath để lại). Món quà đắt giá này khiến Gotou dù băn khoăn về tư cách của mình vẫn buộc phải chấp nhận và quyết tâm làm việc cật lực để khôi phục thị trấn. |
+
+### QH-141: Tôi (Bạch) ↔ Nhóm nhện rối (Ael, Sael, Riel, Fiel)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng hành, "vú nuôi" kiêm người phục vụ và đối tượng quan sát |
+| **Bạch gọi họ** | Ael, Sael, Riel, Fiel / Nhóm nhện rối / Lũ nhện rối / Lũ ngốc (ngoại trừ Ael) |
+| **Họ gọi Bạch** | (Không nói chuyện, chỉ giao tiếp bằng hành động và biểu cảm vô hồn) |
+| **Bạch xưng** | Tôi |
+| **Trạng thái** | Dù Bạch từng tiêu diệt 7 người chị em nhện rối của chúng trong quá khứ, mối quan hệ hiện tại đã trở nên khá thân thiết và tự nhiên. Bạch đánh giá cao sự chín chắn của Ael (chị cả gánh vác cả nhóm) và hay xoa đầu Sael (nhóc nhện nhút nhát thích mặc đồ cho cô). Riel và Fiel vô tư, ngốc nghếch nhưng rất hăng hái giúp đỡ. |
+| **Ghi chú** | Xuất hiện xuyên suốt hành trình đi chung xe kéo ở Volume 8. |
+
+---
+
+### QH-142: Nia (Băng Long Nia) ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Địch thủ (chạm trán ngẫu nhiên), người thi hành mệnh lệnh cấm sát hại người tái sinh |
+| **Nia gọi Kyouya** | Ngươi |
+| **Kyouya gọi Nia** | Con rồng đó / Băng Long |
+| **Nia xưng** | Ta |
+| **Kyouya xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Nia chặn đánh Wrath khi cậu đi vào Mystic Mountains và tàn phá các dãy núi của rồng tộc. Hai bên chiến đấu kịch liệt nhưng đòn tấn công của Wrath (katana lửa bị đóng băng, katana sét không để lại vết xước) đều bị vảy của Nia đẩy lùi. Dù Nia thừa nhận có thể dễ dàng hạ sát Wrath và rất muốn làm vậy để trả thù cho rồng tộc, cô vẫn tuân theo mệnh lệnh của "Chúa tể" (Güli-güli) là không được đụng vào người tái sinh và bỏ đi. Tuy nhiên, cô vẫn đắc ý đùa rằng nếu Wrath chết vì cái lạnh thì đó là tai nạn ngoài ý muốn. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương O5. |
+
+---
+
+### QH-143: Tôi (White/Bạch) ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, đụng độ sinh tử dị giới |
+| **White gọi Kyouya** | Sasajima / Sasajima Kyouya / cậu Oni (trong độc thoại) |
+| **Kyouya gọi White** | (Chưa có hội thoại trực tiếp, hiện đang bị điên cuồng do kỹ năng Phẫn Nộ) |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Kyouya xưng** | - |
+| **Trạng thái** | Chạm trán ở Dãy núi Huyền Bí ở Volume 8 Chương 6 & 7. White nhận ra khuôn mặt cậu Oni chính là Sasajima Kyouya kiếp trước và gọi tên cậu. Kyouya bị kích động dữ dội, chém nứt sông băng làm Sael rơi xuống khe nứt, rồi chém cụt tay Mera và đâm xuyên người Sophia. Ở Chương 7, cậu điên cuồng truy sát White, dù có một giây khựng lại lấy lại lý trí khi nghe White gọi tên nhưng lập tức bị cơn giận dữ của [Phẫn Nộ] nuốt chửng trở lại. Cậu rơi xuống khe nứt sông băng đang đổ sụp sau khi bị Sophia bám cổ hút máu, còn White lần đầu tiên phóng được tơ sau thần hóa để cứu Sophia và Mera. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Chương 6. |
+
+---
+
+### QH-144: Ariel ↔ Nia (Băng Long Nia)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn bè của Chúa tể (Gülie), đe dọa và hợp tác bất đắc dĩ |
+| **Ariel gọi Nia** | Ngươi |
+| **Nia gọi Ariel** | Ngươi |
+| **Ariel xưng** | Ta |
+| **Nia xưng** | Ta |
+| **Trạng thái** | Đối thoại qua thần giao cách cảm. Nia ban đầu trêu chọc đòi rượu bồi thường cho đống hỗn loạn do Ariel gây ra trong lãnh địa của mình, đồng thời lấy Gülie ra đe dọa. Tuy nhiên, sau khi Ariel lạnh lùng tuyên bố đã giết chết Địa Long Gakia và sẵn sàng giết luôn cô ta, Nia hoảng sợ xin lỗi rối rít và thu hồi bão tuyết. Ariel trả tiền thông tin bằng một thùng rượu và được Nia kể lại chuyện goblin (Wrath) tiến hóa thành Ogre rồi Oni ở Dãy núi Huyền Bí. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 8 Đoạn phụ: Ma Vương và Băng Long. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-13
-- **Tổng cặp quan hệ**: 129
+- **Cập nhật lần cuối**: 2026-07-14
+- **Tổng cặp quan hệ**: 144
+
+
+
 
 
 

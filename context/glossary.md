@@ -80,8 +80,14 @@
 | 59 | Hyuvan | Phong Long Hyuvan | Thủ lĩnh Phong Long vùng hoang mạc, thuộc cấp Güli-güli |
 | 60 | Auries | Auries | Thuộc hạ Elf của Potimas (bị đổ lỗi cho thất bại chiến dịch) |
 | 61 | Mirei Urushibara | Urushibara Mirei | Tên dự kiến ban đầu của Shinohara Mirei (được đề cập trong lời bạt Tập 7) |
-
-
+| 62 | Rukusso | Rukusso | Mạo hiểm giả trẻ tuổi (cung thủ) ở Dãy núi Huyền Bí |
+| 63 | Gotou | Gotou | Mạo hiểm giả ở Dãy núi Huyền Bí (được Rukusso báo tin) |
+| 64 | Regg | Regg | Mạo hiểm giả ở Dãy núi Huyền Bí (được Rukusso báo tin) |
+| 65 | Buirimus | Buirimus | Nhà triệu hồi của Đế quốc Renxandt (đã tử trận) |
+| 66 | Nyudoz / Elder Nyudoz | Nyudoz / Trưởng lão Nyudoz | Pháp sư/nhà triệu hồi cấp cao của Đế quốc Renxandt |
+| 67 | Sajin | Sajin | Tên dị giới của Kusama Shinobu, điệp viên Thần Ngôn Giáo |
+| 68 | Nia / Ice Dragon Nia | Nia / Băng Long Nia | Băng Long cai trị Dãy núi Huyền Bí, thuộc cấp Güli-güli |
+| 69 | editor W | Biên tập viên W | Biên tập viên hiện tại của tác giả (được đề cập trong lời bạt Tập 8) |
 
 ---
 
@@ -364,6 +370,11 @@
 | 250 | Black Spear | Hắc Thương | Ma pháp | Phép thuật thuộc Hắc Ma pháp tạo ra ngọn thương màu đen để tấn công |
 | 251 | Wind Nullification | [Vô hiệu hóa Phong] | Kỹ năng thụ động | Kỹ năng kháng tính cấp tối đa, hoàn toàn vô hiệu hóa ma pháp thuộc tính gió |
 | 252 | Recovery Magic | [Ma pháp Hồi phục] | Ma pháp | Phép thuật trị liệu/hồi phục cơ bản, cấp thấp hơn Kỳ Tích Ma Pháp |
+| 253 | Weapon Creation | [Tạo Vũ khí] | Kỹ năng chủ động | Kỹ năng độc nhất của Wrath (Kyouya) cho phép chế tạo vũ khí bằng MP |
+| 254 | Naming | [Đặt tên] | Kỹ năng | Kỹ năng đặt tên cho vật thể hoặc sinh vật để tăng cường hiệu ứng hoặc kiểm soát chúng |
+| 255 | Falling Sky | [Thiên Trụy] | Ma pháp | Phép thuật Cuồng Phong ma pháp giáng luồng không khí mạnh xuống đất |
+| 256 | Inferno Magic | [Hỏa Ngục ma pháp] | Ma pháp | Phép thuật thuộc tính lửa cấp nâng cao |
+| 257 | Anger | [Nổi Giận] | Kỹ năng | Kỹ năng dòng tội lỗi cấp thấp của Phẫn Nộ (Wrath) |
 
 ---
 
@@ -562,6 +573,12 @@
 | 189 | Basics of Godliness | Khái niệm Cơ bản về Thần tính | Thuật ngữ / Kỹ năng | Gói cài đặt đặc biệt của D dành cho White sau khi thần hóa |
 | 190 | Gloria | Gloria | Vũ khí / Vật phẩm | Vũ khí cơ giới cổ đại chính quy do tộc Elf chế tạo |
 | 191 | White Weaver | Bạch Dệt Giả | Danh hiệu | Biệt danh D ban cho Shiraori khi thần hóa, có nghĩa là người dệt màu trắng |
+| 192 | flame katana | katana lửa | Vũ khí | Thanh ma kiếm thuộc tính hỏa của Wrath |
+| 193 | lightning katana | katana sét | Vũ khí | Thanh ma kiếm thuộc tính lôi của Wrath |
+| 194 | land mine swords | ma kiếm địa lôi | Vũ khí | Ma kiếm nạp sẵn MP hoạt động như mìn nổ khi bị giẫm lên |
+| 195 | exploding swords | ma kiếm nổ | Vũ khí | Ma kiếm nạp sẵn MP phát nổ dữ dội khi va chạm (dùng để ném) |
+| 196 | Ogre King | Ogre Vương | Chủng tộc quái vật | Nhánh tiến hóa cấp cao của Ogre |
+| 197 | oni | Oni | Chủng tộc quái vật | Nhánh tiến hóa cấp cao từ Ogre Vương, cơ thể thu nhỏ bằng người thường và có hai sừng |
 
 
 ---
@@ -586,6 +603,6 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-13
-- **Tổng thuật ngữ**: 525
+- **Cập nhật lần cuối**: 2026-07-14
+- **Tổng thuật ngữ**: 534
 
