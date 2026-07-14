@@ -114,8 +114,8 @@ graph TD
 | **Hyrince gọi Julius** | Julius |
 | **Julius xưng** | Tôi / Ta (khi nói chuyện công việc) / Tớ |
 | **Hyrince xưng** | Tôi / Tớ |
-| **Trạng thái** | Tuyệt đối tin tưởng nhau trên chiến trường |
-| **Ghi chú** | Hyrince thường trêu chọc và khuyên can Julius khi anh làm việc quá sức |
+| **Trạng thái** | Julius đã tử trận dưới tay White trong Đại chiến Nhân-Ma tại Pháo đài Kusorion. Hyrince là người sống sót duy nhất trong tổ đội, mang theo chiếc khăn quàng cổ của Julius trở về vương quốc để trao lại cho Yamada Shun. |
+| **Ghi chú** | Hyrince đã bất chấp nguy hiểm che chở cho Julius trước các đòn tấn công của Taratect Nữ Vương và cố gắng kéo cậu rút lui sau cái chết của Yaana, nhưng bất thành. |
 
 ---
 
@@ -129,8 +129,8 @@ graph TD
 | **Yaana gọi Julius** | Anh Julius (Julius-sama) |
 | **Julius xưng** | Tôi |
 | **Yaana xưng** | Tôi / Em |
-| **Trạng thái** | Yaana kính trọng và quan tâm đặc biệt đến Julius; Julius coi trọng và bảo vệ Yaana |
-| **Ghi chú** | Yaana luôn là người cằn nhằn nhiều nhất khi Julius mạo hiểm |
+| **Trạng thái** | Cả hai đã tử trận tại Pháo đài Kusorion trong Đại chiến Nhân-Ma. Yaana hy sinh thân mình đỡ đòn chân của Taratect Nữ Vương để bảo vệ Julius. Julius đau đớn tột cùng trước cái chết của Yaana, từ bỏ danh nghĩa Anh hùng để chiến đấu điên cuồng báo thù cho cô trước khi bị tiêu diệt bởi tà nhãn của White. |
+| **Ghi chú** | Yaana luôn là người cằn nhằn nhiều nhất khi Julius mạo hiểm. Tình cảm sâu sắc của cô dành cho Julius chỉ được bộc lộ đầy đủ trong những khoảnh khắc cuối cùng của cuộc đời cô. |
 
 ---
 
@@ -144,8 +144,8 @@ graph TD
 | **Họ gọi Julius** | Hoàng tử (Prince Julius) / Ngài |
 | **Julius xưng** | Tôi |
 | **Họ xưng** | Tôi |
-| **Trạng thái** | Kính trọng, trung thành |
-| **Ghi chú** | Mối quan hệ gắn kết bất chấp khác biệt về xuất thân (quý tộc vs dân thường/nô lệ) |
+| **Trạng thái** | Cả hai đều tử trận tại Kusorion. Jeskan và Hawkin đã hy sinh tính mạng trong trận chiến ác liệt chống lại chỉ huy ma tộc Agner. Nhận ra vết thương của mình là chí mạng, họ từ chối nhận Trị liệu Ma pháp từ Yaana và bảo cô cùng Hyrince đi tiếp viện cho Julius. |
+| **Ghi chú** | Mối quan hệ gắn kết bất chấp khác biệt về xuất thân. Sự hy sinh của họ là đòn bẩy tinh thần lớn cho Hyrince và Yaana trên chiến trường. |
 
 ---
 
@@ -307,8 +307,8 @@ graph TD
 | **Bloe gọi Balto** | Anh trai |
 | **Balto xưng** | Anh / Tôi |
 | **Bloe xưng** | Tôi / Em |
-| **Trạng thái** | Balto bất lực trước sự bốc đồng của Bloe nhưng vẫn cố che chở; Bloe bất bình vì anh trai phục tùng Ma Vương |
-| **Ghi chú** | Mối quan hệ gia đình ma tộc tiêu biểu giữa quan chức lý trí và võ tướng nóng nảy |
+| **Trạng thái** | Bloe đã tử trận tại Pháo đài Kusorion dưới tay Anh hùng Julius. Balto vô cùng đau buồn và suy sụp khi biết tin em trai qua đời, xin phép được ở một mình trong phòng trung tâm chỉ huy sau khi nghe tin. |
+| **Ghi chú** | Trước khi tử trận, Bloe đã nhận cuộc gọi cuối cùng từ Balto qua công cụ ma thuật thiết bị liên lạc (điện thoại thông minh), nhưng kiên quyết từ chối rút lui cùng White vì muốn ở lại bảo vệ và sơ tán binh lính của mình. |
 
 ---
 
@@ -322,8 +322,8 @@ graph TD
 | **Bloe gọi Ariel** | Con ranh ngẫu nhiên (khi nói sau lưng) / Ma Vương |
 | **Ariel xưng** | Ta |
 | **Bloe xưng** | Ta / Tôi |
-| **Trạng thái** | Bloe coi thường sức mạnh của Ariel cho đến khi bị tơ rối của cô khống chế và đe dọa sát hại; Ariel xem Bloe như đứa trẻ cần bị trừng trị |
-| **Ghi chú** | Mối quan hệ căng thẳng chỉ dịu đi bằng sức mạnh áp đảo của Ariel |
+| **Trạng thái** | Bloe đã tử trận tại Kusorion. Mặc dù Ariel gián tiếp phái Taratect Nữ Vương đến Kusorion nhằm mục đích giải cứu Agner và Bloe, Bloe vẫn kiên quyết không rút lui để bảo vệ binh lính của mình. |
+| **Ghi chú** | Ariel sau trận chiến đã bày tỏ sự nuối tiếc thầm lặng trước cái chết của Bloe và Agner, thừa nhận họ là những chỉ huy tốt. |
 
 ---
 
@@ -2120,8 +2120,8 @@ graph TD
 | **Bloe gọi White** | Ngươi / Cô |
 | **White xưng** | Tôi (trong độc thoại) |
 | **Bloe xưng** | Ta / Tao |
-| **Trạng thái** | Bloe yêu White ngay từ cái nhìn đầu tiên khi cô đến trú ngụ tại dinh thự Phthalo. Tuy nhiên, do tính tình cộc cằn, thô lỗ và không có kinh nghiệm yêu đương, mọi nỗ lực tiếp cận của Bloe đều biến thành sự quấy rầy. White hoàn toàn không nhận ra tình cảm của hắn, coi hắn là "Kẻ Du Côn" phiền phức mở toang cửa phòng và phóng hỏa đốt tơ của cô. Cô lờ hắn đi và nhắm mắt lại để tránh phiền phức, thậm chí từng nghĩ đến việc giết hắn để rảnh nợ. |
-| **Ghi chú** | Bắt đầu từ Volume 9 Chương 3. Mối tình đơn phương dở khóc dở cười của Bloe được tiết lộ trong phần thông tin minh họa của chương. |
+| **Trạng thái** | Bloe đơn phương yêu White nhưng đã tử trận tại Kusorion. Khi ở phòng chỉ huy, White nhận thức được sự nguy hiểm của trận chiến nhưng tôn trọng nguyên tắc và quyết tâm của Bloe nên đã không dùng vũ lực cưỡng chế cứu cậu ta. Sau khi Bloe bị Julius hạ gục, White đã xuất hiện ngay sau đó và dùng tà nhãn tiêu diệt Julius. |
+| **Ghi chú** | Mối tình đơn phương dở khóc dở cười của Bloe kết thúc trong bi kịch tại Kusorion. White mặc dù luôn gọi hắn là "Kẻ Du Côn" phiền phức nhưng vẫn âm thầm tôn trọng sự kiên định trong khoảnh khắc cuối cùng của hắn. |
 
 ### QH-154: Ariel ↔ Kyouya Sasajima (Wrath)
 
@@ -2263,11 +2263,123 @@ graph TD
 
 ---
 
+### QH-164: Wrath ↔ Nyudoz
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ quyết đấu trên chiến trường |
+| **Wrath gọi Nyudoz** | Trưởng lão Nyudoz / Ông |
+| **Nyudoz gọi Wrath** | Thống lĩnh / Ngươi |
+| **Wrath xưng** | Tôi / Ta |
+| **Nyudoz xưng** | Ta |
+| **Trạng thái** | Nyudoz dẫn quân ra ngoài Pháo đài Renxandt để cản bước Quân đoàn 8 dưới quyền Wrath. Ông ta đã đưa ra lời thách đấu tay đôi với Wrath. Wrath đồng ý quyết đấu sòng phẳng, tôn trọng ý chí quả cảm của Nyudoz và tiễn đưa ông sau khi giành chiến thắng trong danh dự. |
+| **Ghi chú** | Xuất hiện ở Volume 12 Chương 13: Wrath. |
+
+---
+
+### QH-165: Agner ↔ Jeskan & Hawkin & Hyrince & Yaana
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ sinh tử trên chiến trường |
+| **Agner gọi họ** | Các ngươi / Tổ đội Anh hùng |
+| **Họ gọi Agner** | Agner / Lão ta |
+| **Agner xưng** | Ta |
+| **Họ xưng** | Chúng tôi / Tôi |
+| **Trạng thái** | Agner cầm chân tổ đội của Anh hùng tại Kusorion. Trận đấu diễn ra vô cùng khốc liệt khi Agner dù bị Ma Vương đẩy vào tử lộ vẫn chiến đấu vì tương lai ma tộc. Jeskan và Hawkin đã hy sinh thân mình tạo sơ hở cho Hyrince đâm trúng ngực Agner, khiến lão ta kiệt sức và hy sinh trong tư thế đứng thẳng chân holding kiếm. |
+| **Ghi chú** | Xuất hiện ở Volume 12 Chương 19: Yaana và Chương 20: Julius. |
+
+---
+
+### QH-166: White (NV-001) ↔ Phelmina
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chỉ huy và phó tướng trung thành |
+| **White gọi Phelmina** | Phelmina |
+| **Phelmina gọi White** | White đại nhân (Lady White) / Ngài |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Phelmina xưng** | Tôi / Thần |
+| **Trạng thái** | Phelmina tuyệt đối trung thành và tôn sùng sức mạnh cũng như trí tuệ của White. Trong khi đó, White đánh giá cao năng lực làm việc xuất sắc của Phelmina nhưng đôi khi cảm thấy e ngại trước tính cách nghiêm túc và sắc sảo như một "nữ quản lý" của cô. |
+| **Ghi chú** | Mối quan hệ được củng cố trong quá trình huấn luyện và tác chiến tại các pháo đài phía Bắc. |
+
+---
+
+### QH-167: Sophia ↔ Phelmina
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Oán hận cũ, đồng nghiệp mới |
+| **Sophia gọi Phelmina** | Phelmina |
+| **Phelmina gọi Sophia** | Sophia đại nhân (Lady Sophia) / Ngài |
+| **Sophia xưng** | Ta / Tôi |
+| **Phelmina xưng** | Tôi |
+| **Trạng thái** | Từng là kẻ thù không đội trời chung tại Học viện Ma tộc, nơi Sophia dùng [Mê Hoặc] cướp đi hôn phu của Phelmina và phá hủy gia đình cô. Hiện tại, họ cùng phục vụ dưới trướng White. Phelmina vẫn giữ khoảng cách và sự lạnh nhạt chuyên nghiệp, trong khi Sophia cảm thấy có phần khó xử nhưng vẫn tỏ thái độ kiêu ngạo đặc trưng. |
+| **Ghi chú** | Trận chiến tâm lý giữa hai người vẫn diễn ra ngầm tại học viện và quân đoàn. |
+
+---
+
+### QH-168: Wald ↔ Phelmina
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cựu hôn phu, đồng nghiệp gượng gạo |
+| **Wald gọi Phelmina** | Phelmina |
+| **Phelmina gọi Wald** | Wald |
+| **Wald xưng** | Ta / Tôi |
+| **Phelmina xưng** | Tôi |
+| **Trạng thái** | Wald từng là hôn phu của Phelmina trước khi bị Sophia biến thành ma huyết tộc và mất đi lý trí. Sau khi gia nhập quân đội của Ma Vương, cả hai trở thành đồng nghiệp dưới trướng Sophia và White. Quan hệ giữa họ vô cùng gượng gạo, lạnh nhạt và gánh chịu nhiều tổn thương chưa lành. |
+| **Ghi chú** | Phelmina luôn cố gắng giữ thái độ công tư phân minh khi làm việc cùng Wald. |
+
+---
+
+### QH-169: Sophia ↔ Wald
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhân (Ma huyết tộc) và quyến thuộc (bị ám ảnh) |
+| **Sophia gọi Wald** | Wald / Tên phiền phức này |
+| **Wald gọi Sophia** | Sophia đại nhân / Chủ nhân |
+| **Sophia xưng** | Ta / Tôi |
+| **Wald xưng** | Tôi / Thần |
+| **Trạng thái** | Wald bị ám ảnh và tôn thờ Sophia tuyệt đối sau khi bị cô biến thành quyến thuộc ma huyết tộc, luôn tìm mọi cách bảo vệ cô và ghen tị với bất kỳ ai tiếp cận cô. Sophia coi Wald là một kẻ phiền phức, bám đuôi dai dẳng và thường xuyên mắng mỏ, trừng phạt cậu ta nhưng vẫn tin cậy năng lực chiến đấu của cậu trên chiến trường. |
+| **Ghi chú** | Mối quan hệ chủ tớ kỳ lạ pha trộn giữa lòng trung thành mù quáng và sự chán ghét của Sophia. |
+
+---
+
+### QH-170: Kusama Shinobu (Sajin) ↔ Hugo
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng phạm ngầm, người giám sát dưới bóng tối |
+| **Shinobu gọi Hugo** | Hugo / Tên khốn kiêu ngạo kia |
+| **Hugo gọi Shinobu** | Sajin / Ngươi |
+| **Shinobu xưng** | Tôi / Tớ |
+| **Hugo xưng** | Ta |
+| **Trạng thái** | Shinobu nhận mệnh lệnh của Giáo hoàng Dustin đóng vai điệp viên hộ tống và hỗ trợ Hugo. Shinobu kiếp trước là bạn học cũ nên rất rõ tính cách kiêu ngạo của Hugo, luôn âm thầm khinh bỉ sự ngu ngốc của hắn nhưng buộc phải phục tùng vì đại cuộc. Hugo coi Shinobu như một kẻ hầu hạ trung thành và công cụ để củng cố quyền lực. |
+| **Ghi chú** | Mối quan hệ được đề cập rõ trong các tập trước và được củng cố ở Volume 11/12 khi Hugo nổi loạn tại vương quốc. |
+
+---
+
+### QH-171: White (NV-001) ↔ Julius
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ thù đối đầu trực diện, người giám sát thầm lặng |
+| **White gọi Julius** | Anh hùng / Cậu ấy (trong độc thoại) |
+| **Julius gọi White** | Cô gái màu trắng / Ngài (khi gặp mặt) |
+| **White xưng** | Tôi (độc thoại) |
+| **Julius xưng** | Tôi |
+| **Trạng thái** | White âm thầm theo dõi hành trình của Julius qua các phân thân nhện của mình trong một thời gian dài, tôn trọng sự cao thượng và tinh thần chính chính trực của cậu. Tuy nhiên, vì mục tiêu thu thập năng lượng hệ thống và loại bỏ mối hiểm họa cho Ariel (do danh hiệu Anh hùng có đặc quyền khắc chế Ma Vương), White buộc phải tiêu diệt Julius. Cậu đã hy sinh dưới tà nhãn của cô sau trận Kusorion. |
+| **Ghi chú** | Trận chiến quyết định ở Volume 12 đánh dấu sự kết thúc của Julius. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 163
+- **Tổng cặp quan hệ**: 171
 
 
 

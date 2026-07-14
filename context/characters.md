@@ -145,14 +145,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Julius Zagan Analeit |
 | **Tên dịch** | Julius |
-| **Biệt danh** | Cựu Anh hùng (Đã tử trận) |
+| **Biệt danh** | Cựu Anh hùng (Đã tử trận ở Volume 12) |
 | **Tuổi** | Thanh niên |
 | **Giới tính** | Nam |
 | **Vai trò** | Anh trai Shun, Anh hùng đương nhiệm trước khi hi sinh |
-| **Xuất hiện** | Chapter J1 (Xuất hiện trực tiếp), Chương S3 (Tử trận qua lời kể), Volume 5 Chương 6 (khi còn là một đứa trẻ) |
+| **Xuất hiện** | Chapter J1 (Xuất hiện trực tiếp), Chương S3 (Tử trận qua lời kể), Volume 5 Chương 6 (khi còn là một đứa trẻ), Volume 12 (Chiến đấu và tử trận tại Pháo đài Kusorion) |
 
 **Tính cách tổng quát:**
-> Một vị Anh hùng chính trực, vị tha và vô cùng dũng cảm. Anh luôn gánh vác trách nhiệm bảo vệ nhân loại khỏi ma tộc trên vai, hết lòng yêu thương gia đình (đặc biệt là Shun) và trân trọng các đồng đội trong tổ đội của mình. Đã hi sinh dưới tay "cô bé màu trắng" bằng một đòn [Hủ thực Công kích].
+> Một vị Anh hùng chính trực, vị tha và vô cùng dũng cảm. Anh luôn gánh vác trách nhiệm bảo vệ nhân loại khỏi ma tộc trên vai, hết lòng yêu thương gia đình (đặc biệt là Shun) và trân trọng các đồng đội trong tổ đội của mình. Đã hi sinh tại Pháo đài Kusorion dưới tay Shiro (White) bằng tà nhãn của cô ta sau khi hạ gục con Taratect Nữ Vương giả và chỉ huy ma tộc Bloe.
 > *Sự kiện Volume 5:* Xuất hiện trong hồi tưởng quá khứ lúc 14 tuổi tại chiến trường Sariella-Ohts, dũng cảm chắn trước Nhện nhỏ. Hiệu ứng danh hiệu Anh hùng của cậu khiến Ariel e dè, nhưng khi cậu bị phân tâm bởi quả cầu lửa khổng lồ, Ariel đã tận dụng thời cơ tiêu diệt Nhện nhỏ.
 
 **Văn phong nói chuyện:**
@@ -191,14 +191,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Yaana |
 | **Tên dịch** | Yaana |
-| **Biệt danh** | Thánh nữ |
+| **Biệt danh** | Thánh nữ đương nhiệm (Đã tử trận ở Volume 12) |
 | **Tuổi** | Thiếu nữ |
 | **Giới tính** | Nữ |
 | **Vai trò** | Nhân vật phụ (Thành viên tổ đội Julius, Thánh nữ đương nhiệm) |
-| **Xuất hiện** | Chapter J1 |
+| **Xuất hiện** | Chapter J1, Volume 12 (Chiến đấu và tử trận tại Kusorion) |
 
 **Tính cách tổng quát:**
-> Thánh nữ của Thánh quốc Alleius. Trái ngược với hình ảnh tôn nghiêm thường thấy, cô là một người có phần mạnh mẽ, thẳng tính (tomboyish) nhưng rất chân thành, luôn dành sự quan tâm và lo lắng đặc biệt cho sự an nguy của Julius.
+> Thánh nữ của Thánh quốc Alleius. Trái ngược với hình ảnh tôn nghiêm thường thấy, cô là một người có phần mạnh mẽ, thẳng tính (tomboyish) nhưng rất chân thành, luôn dành sự quan tâm và lo lắng đặc biệt cho sự an nguy của Julius. Đã hy sinh tại Pháo đài Kusorion khi lấy thân mình đỡ đòn chân của Taratect Nữ Vương để bảo vệ Julius.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Lịch sự nhưng bộc trực, không màu mè quý tộc.
@@ -213,14 +213,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Jeskan |
 | **Tên dịch** | Jeskan |
-| **Biệt danh** | Cựu mạo hiểm giả |
+| **Biệt danh** | Cựu mạo hiểm giả (Đã tử trận ở Volume 12) |
 | **Tuổi** | Trung niên |
 | **Giới tính** | Nam |
 | **Vai trò** | Nhân vật phụ (Thành viên lớn tuổi nhất trong tổ đội Julius) |
-| **Xuất hiện** | Chapter J1 |
+| **Xuất hiện** | Chapter J1, Volume 12 (Chiến đấu và tử trận tại Kusorion) |
 
 **Tính cách tổng quát:**
-> Một cựu mạo hiểm giả giàu kinh nghiệm chiến trường. Ông trầm ổn, lý trí, luôn đưa ra các lời khuyên sắc bén dựa trên kinh nghiệm thực tế của mình để hỗ trợ Julius.
+> Một cựu mạo hiểm giả giàu kinh nghiệm chiến trường. Ông trầm ổn, lý trí, luôn đưa ra các lời khuyên sắc bén dựa trên kinh nghiệm thực tế của mình để hỗ trợ Julius. Đã hy sinh tại Pháo đài Kusorion do vết thương chí mạng trong trận chiến đối đầu với chỉ huy ma tộc Agner.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Nghiêm túc, kính cẩn (gọi Julius là Hoàng tử), điềm đạm.
@@ -235,14 +235,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Hawkin |
 | **Tên dịch** | Hawkin |
-| **Biệt danh** | Cựu tặc |
+| **Biệt danh** | Cựu tặc (Đã tử trận ở Volume 12) |
 | **Tuổi** | Trung niên |
 | **Giới tính** | Nam |
 | **Vai trò** | Nhân vật phụ (Thành viên chuyên do thám trong tổ đội Julius) |
-| **Xuất hiện** | Chapter J1 |
+| **Xuất hiện** | Chapter J1, Volume 12 (Chiến đấu và tử trận tại Kusorion) |
 
 **Tính cách tổng quát:**
-> Từng là một tên trộm bị bắt làm nô lệ, sau đó được Julius chuộc ra và gia nhập tổ đội. Anh rất trung thành với Julius, có tính cách ranh mãnh, thực dụng, nhạy bén trước tiền bạc và nguy hiểm.
+> Từng là một tên trộm bị bắt làm nô lệ, sau đó được Julius chuộc ra và gia nhập tổ đội. Anh rất trung thành với Julius, có tính cách ranh mãnh, thực dụng, nhạy bén trước tiền bạc và nguy hiểm. Đã hy sinh tại Pháo đài Kusorion cùng với Jeskan, từ chối Trị liệu Ma pháp để Yaana dành toàn lực đi tiếp viện cho Julius.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Thô ráp, thực dụng, nhanh nhảu.
@@ -458,14 +458,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Bloe |
 | **Tên dịch** | Bloe |
-| **Biệt danh** | Em trai của Balto |
+| **Biệt danh** | Thống lĩnh Quân đoàn 7 (Đã tử trận ở Volume 12) |
 | **Tuổi** | Trưởng thành |
 | **Giới tính** | Nam |
 | **Vai trò** | Thống lĩnh Quân đoàn 7 của quân đội Ma Vương, em trai của Balto |
-| **Xuất hiện** | Interlude: Lời thở dài của trợ lý Ma Vương, Volume 9 Chương 3, Volume 9 Đoạn phụ: Nỗi u sầu của Công tước Quỷ |
+| **Xuất hiện** | Interlude: Lời thở dài của trợ lý Ma Vương, Volume 9 Chương 3, Volume 9 Đoạn phụ: Nỗi u sầu của Công tước Quỷ, Volume 12 (Chiến đấu và tử trận tại Kusorion) |
 
 **Tính cách tổng quát:**
-> Em trai của Balto. Trái ngược với người anh chín chắn, Bloe là kẻ bốc đồng, nóng nảy, cộc cằn và hành động theo bản năng. Cậu ta cực kỳ bất bình khi anh trai mình (Balto) phải phục tùng Ariel, người trông có vẻ yếu ớt và nhỏ bé. Bloe thường xuyên cãi cọ nảy lửa với Darad và không ngại đặt tay lên vũ khí khi tức giận, nhưng lập tức bị Ariel dùng tơ rối khống chế và dọa sợ đến mức mất khả năng nói.
+> Em trai của Balto. Trái ngược với người anh chín chắn, Bloe là kẻ bốc đồng, nóng nảy, cộc cằn và hành động theo bản năng. Cậu ta cực kỳ bất bình khi anh trai mình (Balto) phải phục tùng Ariel. Trong chiến dịch Kusorion ở Volume 12, cậu kiên quyết từ chối rút lui cùng White vì muốn bảo vệ và sơ tán binh lính của mình, sau đó lao vào đơn chiến với Anh hùng Julius và tử trận.
 > *Sự kiện Volume 9:* Trong Chương 3, Bloe (lúc này là phó chỉ huy Quân đoàn 4) xông vào phòng của White vì bức xúc việc anh trai cho phép cô giăng tơ bừa bãi trong nhà. Cậu ta đã yêu White ngay từ cái nhìn đầu tiên khi gặp cô, nhưng do tính cách cộc cằn và thô lỗ nên cách hành xử lại giống một tên du côn quấy nhiễu. Cậu ta châm lửa đốt tơ của cô khiến Quản gia trưởng phải dập lửa và lôi cậu ta đi. Kể từ đó, cậu ta liên tục tìm đến phòng cô để tiếp cận cô một cách vụng về, nhưng White chỉ xem cậu ta là "Kẻ Du Côn" phiền phức và lờ đi. Trong Đoạn phụ: Nỗi u sầu của Công tước Quỷ, cậu trở về từ phương bắc và lập tức đến gặp anh trai Balto tại lâu đài Ma Vương. Cậu bị anh trai gặng hỏi và đỏ mặt chối phăng việc mình thầm thương trộm nhớ White. Cậu cũng thể hiện sự bức xúc và bất mãn sâu sắc trước việc Balto phục tùng Ma Vương Ariel và đồng ý chuẩn bị chiến tranh với loài người mặc cho ma tộc đang kiệt quệ.
 
 **Văn phong nói chuyện:**
@@ -802,13 +802,13 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Agner |
 | **Tên dịch** | Agner |
-| **Biệt danh** | Thống lĩnh Quân đoàn 1 (Đã tử trận) |
+| **Biệt danh** | Thống lĩnh Quân đoàn 1 (Đã tử trận ở Volume 12) |
 | **Giới tính** | Nam |
-| **Vai trò** | Thống lĩnh Quân đoàn 1 của quân đội Ma Vương, đã bị Ariel thanh trừng ngầm bằng Taratect Nữ Vương vì tội cấu kết với Elf |
-| **Xuất hiện** | Nhắc đến trong cuộc họp ma tộc Tập 4 |
+| **Vai trò** | Thống lĩnh Quân đoàn 1 của quân đội Ma Vương, bị Ariel thanh trừng bằng Taratect Nữ Vương vì cấu kết với Elf |
+| **Xuất hiện** | Nhắc đến trong cuộc họp ma tộc Tập 4, Volume 12 (Chiến đấu và tử trận tại Kusorion) |
 
 **Tính cách tổng quát:**
-> Là một cựu binh dày dạn kinh nghiệm, phục vụ qua nhiều thế hệ Ma Vương. Ông có năng lực xuất sắc và sự kiên định của một quân nhân kiểu mẫu. Để bảo vệ giống loài ma tộc khỏi sự diệt vong trong cuộc chiến vô nghĩa, ông đã bí mật thỏa hiệp với tộc Elf, dẫn đến cái chết dưới sự thanh trừng không khoan nhượng của Ariel.
+> Là một cựu binh dày dạn kinh nghiệm, phục vụ qua nhiều thế hệ Ma Vương. Ông có năng lực xuất sắc và sự kiên định của một quân nhân kiểu mẫu. Để bảo vệ giống loài ma tộc khỏi sự diệt vong trong cuộc chiến vô nghĩa, ông đã bí mật thỏa hiệp với tộc Elf, dẫn đến việc bị Ariel sắp xếp thanh trừng bằng Taratect Nữ Vương tại Kusorion, nhưng ông vẫn chiến đấu kiên cường đến hơi thở cuối cùng và hy sinh trong tư thế đứng thẳng chân trước Hyrince và Yaana.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Chuẩn mực, súc tích, ngắn gọn của một quân nhân.
@@ -1587,13 +1587,13 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 |------------|----------|
 | **Tên gốc** | Nyudoz |
 | **Tên dịch** | Nyudoz |
-| **Biệt danh** | Trưởng lão Nyudoz |
+| **Biệt danh** | Trưởng lão Nyudoz (Đã tử trận ở Volume 12) |
 | **Giới tính** | Nam |
 | **Vai trò** | Lão kỵ sĩ của Đế quốc Renxandt, cựu binh từng chiến đấu bên cạnh Kiếm Vương tiền nhiệm, là kiếm sĩ mạnh nhất đế quốc hiện tại canh giữ pháo đài phía bắc. |
-| **Xuất hiện** | Volume 8 Chương R2 |
+| **Xuất hiện** | Volume 8 Chương R2, Volume 12 (Quyết đấu và tử trận dưới tay Wrath) |
 
 **Tính cách tổng quát:**
-> Là một lão kỵ sĩ bộc trực, đầu óc chỉ toàn cơ bắp, có phần đơn giản và ngốc nghếch nhưng sức mạnh kiếm thuật tối cường vô cùng đáng nể. Sở hữu tinh thần hiệp sĩ, tính cách thoải mái và được tất cả binh sĩ dưới quyền kính trọng, yêu mến.
+> Là một lão kỵ sĩ bộc trực, đầu óc chỉ toàn cơ bắp, có phần đơn giản và ngốc nghếch nhưng sức mạnh kiếm thuật tối cường vô cùng đáng nể. Sở hữu tinh thần hiệp sĩ, tính cách thoải mái và được tất cả binh sĩ dưới quyền kính trọng, yêu mến. Ông tử trận tại Pháo đài phía Bắc sau khi thua cuộc đấu kiếm tay đôi sòng phẳng với Wrath ở Volume 12.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Nói chuyện bộc trực, thẳng thắn và đặc biệt luôn nói cực kỳ to (lớn tiếng). Xưng "ta" và gọi Ronandt là "Ngài Ronandt".
@@ -1888,6 +1888,27 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là một chỉ huy ma tộc trầm tính, chuyên về hành chính nội bộ hơn là chiến đấu trực tiếp. Sau thất bại của Warkis, ông vẫn tiếp tục mưu đồ ám sát Ariel bằng cách đầu độc món ăn của cô thông qua người hầu và đầu bếp lâu đài. Kế hoạch thất bại, Nereo bị Ariel hành quyết rùng rợn ngay trước mắt Sanatoria và Huey bằng cách nhai nuốt từng phần cơ thể của ông cho đến khi hoàn toàn xóa sổ khỏi thế giới.
+
+---
+
+### NV-087: Phelmina
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Phelmina |
+| **Tên dịch** | Phelmina |
+| **Biệt danh** | Phó chỉ huy Quân đoàn 10 |
+| **Giới tính** | Nữ |
+| **Vai trò** | Phó chỉ huy Quân đoàn 10 dưới quyền White, cựu tiểu thư quý tộc ma tộc. |
+| **Xuất hiện** | Volume 11, Volume 12 |
+
+**Tính cách tổng quát:**
+> Là một cô gái ma tộc thông minh, sắc sảo, có năng lực quản lý hành chính và tổ chức cực kỳ xuất sắc. Từng là tiểu thư quý tộc danh giá của ma tộc và là hôn thê của Wald, cô bị tước đoạt tất cả danh dự sau khi Wald bị quyến rũ bởi Sophia. Trải qua biến cố, cô gia nhập Quân đoàn 10 và trung thành phụng sự White, trở thành phó tướng đắc lực hỗ trợ White trong việc huấn luyện các phân thân nhện rối và điều hành quân đoàn.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Chuẩn mực, trang trọng, lịch sự của một tiểu thư quý tộc cũ, nhưng mang đầy khí chất nghiêm khắc và chuyên nghiệp.
+- **Cảm xúc chủ đạo**: Nghiêm túc, trung thành, đôi khi lạnh lùng.
+
 
 
 

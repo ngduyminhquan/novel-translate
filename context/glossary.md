@@ -93,6 +93,9 @@
 | 72 | Head Butler (Phthalo house) | Quản gia trưởng (gia tộc Phthalo) | Quản gia trưởng phụng sự Công tước Phthalo, nhân vật kể chuyện trong đoạn phụ Tập 9 |
 | 73 | Reise / Dark Dragon Reise | Reise / Hắc Long Reise | Hắc Long cổ xưa canh giữ Ma Vương Kiếm |
 | 74 | Sariel / Goddess Sariel | Sariel / Nữ thần Sariel | Nữ thần hiến tế làm lõi cho hệ thống W |
+| 75 | Bloe / Bloe Phthalo | Bloe | Thống lĩnh Quân đoàn 7 dưới quyền Ma Vương (đã tử trận) |
+| 76 | Wald | Wald | Phó chỉ huy Quân đoàn 10, cấp dưới phục vụ Sophia |
+| 77 | Phelmina | Phelmina | Phó chỉ huy Quân đoàn 10, phụ tá của White |
 
 ---
 
@@ -118,6 +121,7 @@
 | 15 | Phthalo | Phthalo | Địa danh | Vùng đất trung tâm của lãnh địa quỷ nơi đặt Lâu đài Ma Vương |
 | 16 | Phthalo region | Vùng Phthalo | Địa danh | Vùng đất do Balto Phthalo cai quản |
 | 17 | Valley of Convenience | Thung lũng Tiện Lợi (Valley of Convenience) | Địa danh | Vùng bán đảo biệt lập được bảo vệ bởi Chân Long và Thủy Long, nơi lánh nạn cho các linh hồn sắp suy kiệt |
+| 18 | Fort Renxandt | Pháo đài Renxandt | Địa danh | Pháo đài lớn của loài người canh giữ biên giới phía Bắc, bị Quân đoàn 8 của Wrath tấn công |
 
 ---
 
