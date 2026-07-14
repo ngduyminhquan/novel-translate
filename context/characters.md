@@ -1755,6 +1755,49 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
   - Đối với Tiểu thư Sophia: xưng "thần", gọi "Tiểu thư Sophia".
   - Độc thoại nội tâm: xưng "tôi", gọi các nhện rối là "Tiểu thư Sael", "Tiểu thư Riel", "Tiểu thư White".
 
+---
+
+### NV-080: Reise (Hắc Long Reise / Dark Dragon Reise)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Reise / Dark Dragon Reise |
+| **Tên dịch** | Reise / Hắc Long Reise |
+| **Biệt danh** | Hắc Long Reise / Reise |
+| **Giới tính** | Draconian (Rồng cổ xưa) |
+| **Vai trò** | Một trong những con rồng cổ xưa nhất thuộc hệ bóng tối, người chịu trách nhiệm canh giữ Ma Vương Kiếm (thanh kiếm thần sát thần) trong căn phòng không gian biệt lập ở tầng hầm Lâu đài Ma Vương. |
+| **Xuất hiện** | Volume 10 Chương 8 |
+
+**Tính cách tổng quát:**
+> Là một long nhân có đầu rồng nhưng thân người, ăn mặc kỳ lạ khi diện một bộ âu phục và đội chiếc mũ chóp cao. Có tính cách thoải mái, cợt nhả và thân thiện một cách bất ngờ. Trò chuyện bằng chất giọng ồm ồm khó khăn do dây thanh quản rồng chưa thích ứng hoàn hảo với tiếng người. Vui vẻ gọi Ariel là "chị hai" (chỉ mối liên kết di truyền giữa các thế hệ được tạo ra) dù Ariel phủ nhận điều này. Reise tôn trọng thỏa thuận và sẵn sàng liên lạc với chúa tể Güli-güli khi Ariel yêu cầu.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Nói năng khó khăn, giọng ồm ồm (văn bản được viết IN HOA toàn bộ trong tiếng Anh để biểu thị giọng nói lạ lùng). Khi đối thoại dùng từ ngữ tương đối thoải mái, suồng sã nhưng thẳng thắn.
+- **Xưng hô**:
+  - Đối với Ma Vương Ariel: gọi "Chị hai" (Sis / CHỊ HAI) hoặc "cô" (cố tình gọi đùa di truyền), xưng "ta" (hoặc "chúng ta").
+  - Đối với Chúa tể Güli-güli: gọi "Chủ nhân" (Master / CHỦ NHÂN).
+
+---
+
+### NV-081: Sariel (Nữ thần Sariel / Goddess Sariel)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Sariel / Goddess Sariel |
+| **Tên dịch** | Sariel / Nữ thần Sariel |
+| **Biệt danh** | Nữ thần Sariel / Sariel / Mẹ (do Ariel gọi) |
+| **Giới tính** | Nữ |
+| **Vai trò** | Thiên sứ/Thần cấp tối cổ, người đã tự nguyện hiến tế bản thân làm lõi vận hành cho hệ thống W để cứu thế giới này khỏi sự hủy diệt trong quá khứ. Được loài người tôn thờ là Nữ thần tối cao của Thần Ngôn Giáo. |
+| **Xuất hiện** | Volume 10 Epilogue |
+
+**Tính cách tổng quát:**
+> Từng là người khuyên răn nhân loại từ bỏ năng lượng MA ở thời đại văn minh cổ đại, nhưng sau đó vẫn bao dung đồng ý hiến tế bản thân khi nhân loại khóc lóc cầu xin cứu vỗi. Hiện tại cô bị giam cầm ở trung tâm hệ thống (sâu trong Tầng Dưới cùng của Đại Mê cung Elroe), cơ thể lơ lửng giữa không trung bị quấn chặt bởi các vòng tròn ma pháp như xiềng xích, nửa dưới cơ thể đã tan biến hoàn toàn. Dù đang chịu đựng nỗi đau khôn xiết, cô vẫn liên tục phát ra thông báo hệ thống cho các cư dân thế giới này. Cô là người mà Ariel coi là "Mẹ" và nguyện đánh đổi tất cả (kể cả việc tàn sát loài người và ma tộc) để giải cứu.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Không thể trò chuyện trực tiếp lúc này. Giọng nói của cô phát ra liên tục chồng chéo lên nhau tạo tiếng vang (Tiếng nói của Thần / Divine Voice) để thông báo tăng cấp kỹ năng, điểm kinh nghiệm.
+- **Xưng hô**: Không xưng hô trực tiếp.
+
+
 
 
 

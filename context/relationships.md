@@ -2137,11 +2137,53 @@ graph TD
 
 ---
 
+### QH-155: Ariel ↔ Reise (Hắc Long Reise)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | "Anh chị em di truyền" (Genetic siblings) |
+| **Ariel gọi Reise** | Ngươi / Reise |
+| **Reise gọi Ariel** | Chị hai (Sis) / cô / ngươi |
+| **Ariel xưng** | Ta |
+| **Reise xưng** | Ta / chúng ta |
+| **Trạng thái** | Xét về mặt di truyền học cơ bản, họ chia sẻ cùng nguồn gốc nhân tạo nên Reise coi Ariel là chị hai (đùa cợt di truyền học). Ariel phủ nhận gay gắt mối quan hệ anh chị em này và chỉ thừa nhận những đứa trẻ ở trại trẻ mồ côi Sariel là anh chị em duy nhất của mình. Dù vậy, họ vẫn có sự tin tưởng tương đối; Reise canh giữ Ma Vương Kiếm một cách trung thành và hỗ trợ Ariel liên lạc với Güli-güli. |
+| **Ghi chú** | Giới thiệu ở Volume 10 Chương 8. |
+
+---
+
+### QH-156: Ariel ↔ Nữ thần Sariel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | "Mẹ con" (Adoptive Mother - Daughter) / Người tôn kính sâu sắc |
+| **Ariel gọi Sariel** | Mẹ (Mother) / Ngài Sariel (Lady Sariel) |
+| **Sariel gọi Ariel** | (Không giao tiếp trực tiếp) |
+| **Ariel xưng** | Con |
+| **Sariel xưng** | - |
+| **Trạng thái** | Ariel coi Sariel là "Mẹ" tối thượng và là lý do duy nhất khiến cô tiếp tục chiến đấu đơn độc suốt hàng trăm năm qua. Ariel sẵn sàng khởi xướng chiến tranh khốc liệt và gánh tiếng ác là kẻ thảm sát để thu thập năng lượng MA nhằm phá hủy hệ thống và giải cứu Sariel. Khi tận mắt chứng kiến thân xác tàn tạ của Sariel ở lõi hệ thống, Ariel khóc nức nở và hứa sẽ đưa cô thoát khỏi xiềng xích bằng mọi giá. |
+| **Ghi chú** | Được làm rõ trong Volume 10 Epilogue. |
+
+---
+
+### QH-157: Tôi (White) ↔ Nữ thần Sariel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người quan sát / Mục tiêu cứu trợ |
+| **White gọi Sariel** | Nữ thần Sariel / Sariel |
+| **Sariel gọi White** | (Không giao tiếp) |
+| **White xưng** | Tôi |
+| **Sariel xưng** | - |
+| **Trạng thái** | White chứng kiến cảnh Sariel bị treo lơ lửng, nửa người tan biến làm lõi cho hệ thống và liên tục chịu đau đớn phát thông báo. White cảm thấy xót xa trước cảnh tượng tàn bạo này. Mặc dù hơi ghen tị với mối liên kết sâu đậm giữa Ariel và Sariel, White đã hạ quyết tâm giúp đỡ Ariel đạt được kết cục hạnh phúc bằng cách giải phóng Sariel, quyết định trở thành vị "tà thần" tàn ác nhất thế giới sẵn sàng thực hiện thảm sát để đạt được mục tiêu. |
+| **Ghi chú** | Bắt đầu từ Volume 10 Epilogue. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 154
+- **Tổng cặp quan hệ**: 157
 
 
 

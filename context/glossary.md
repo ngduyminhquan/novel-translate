@@ -91,6 +91,8 @@
 | 70 | Erguner Ricep | Erguner Ricep | Lãnh chúa biên cảnh ma tộc, chỉ huy chống xâm lược của loài người |
 | 71 | Reigar Baint Renxandt | Reigar Baint Renxandt | Cựu Kiếm Vương, bạn thân và chiến hữu cũ của Ronandt |
 | 72 | Head Butler (Phthalo house) | Quản gia trưởng (gia tộc Phthalo) | Quản gia trưởng phụng sự Công tước Phthalo, nhân vật kể chuyện trong đoạn phụ Tập 9 |
+| 73 | Reise / Dark Dragon Reise | Reise / Hắc Long Reise | Hắc Long cổ xưa canh giữ Ma Vương Kiếm |
+| 74 | Sariel / Goddess Sariel | Sariel / Nữ thần Sariel | Nữ thần hiến tế làm lõi cho hệ thống W |
 
 ---
 
@@ -391,6 +393,7 @@
 | 265 | Enma | [Enma] | Kỹ năng đặc biệt | Kỹ năng độc quyền của Ruler of Wrath |
 | 266 | Long-Distance Teleport | [Dịch chuyển Tầm xa] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển đối tượng đến nơi từng đặt chân qua |
 | 267 | Quick Teleport | [Thần tốc Dịch chuyển] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển tức thời cự ly dài |
+| 268 | Divine Voice (temp.) | Tiếng nói của Thần (tạm thời) | Thuật ngữ / Hệ thống | Giọng đọc thông báo từ hệ thống W do Sariel thực hiện |
 
 ---
 
@@ -604,8 +607,8 @@
 | 204 | Ruler of Wrath | [Kẻ Thống Trị Phẫn Nộ] | Danh hiệu | Danh hiệu dành cho người sở hữu kỹ năng Phẫn nộ |
 | 205 | Ally Slayer | [Kẻ Sát Đồng Minh] | Danh hiệu | Danh hiệu nhận được khi sát hại đồng minh |
 | 206 | Kin Eater | [Kẻ Ăn Thịt Đồng Tộc] | Danh hiệu | Danh hiệu nhận được khi ăn thịt đồng tộc |
-
-
+| 207 | Sword of the Demon Lord | Ma Vương Kiếm | Vũ khí / Vật phẩm | Vũ khí tối thượng dành riêng cho Ma Vương, có thể giết thần nhưng chỉ dùng được một lần |
+| 208 | evil god | Tà Thần | Danh xưng / Thuật ngữ | Danh xưng White tự nhận sau khi thần hóa và dốc lực cứu Ma Vương |
 
 ---
 
