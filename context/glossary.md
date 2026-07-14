@@ -389,6 +389,8 @@
 | 263 | Paralyzing Evil Eye | [Tê Liệt Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn gây tê liệt mục tiêu khi nhìn vào |
 | 264 | Indolence | [Trễ Nải] | Kỹ năng | Kỹ năng liên kết với [Lười Biếng] (Sloth) giúp tăng tốc độ tiêu hao HP, MP, SP của mục tiêu |
 | 265 | Enma | [Enma] | Kỹ năng đặc biệt | Kỹ năng độc quyền của Ruler of Wrath |
+| 266 | Long-Distance Teleport | [Dịch chuyển Tầm xa] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển đối tượng đến nơi từng đặt chân qua |
+| 267 | Quick Teleport | [Thần tốc Dịch chuyển] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển tức thời cự ly dài |
 
 ---
 
