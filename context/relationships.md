@@ -686,15 +686,14 @@ graph TD
 
 ### QH-046: Balto ↔ White (NV-001)
 
-
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Quan chức ma tộc và Thống lĩnh bí ẩn / Quản trị viên giả định |
+| **Quan hệ** | Quan chức ma tộc và Thống lĩnh bí ẩn |
 | **Balto gọi White** | White |
-| **White gọi Balto** | (Không giao tiếp trực tiếp) |
-| **Balto xưng** | Tôi (trong độc thoại) / Dạ (nếu có nói chuyện lịch sự) |
-| **White xưng** | (Không nói chuyện trực tiếp với Balto) |
-| **Trạng thái** | Balto e ngại bản chất kỳ dị, bí ẩn của White, đánh giá cô cư xử rất đúng mực nhưng toát ra vẻ đáng sợ. Balto phỏng đoán cô là một Quản trị viên đứng sau thao túng thế giới. |
+| **White gọi Balto** | Balto (trong độc thoại) |
+| **Balto xưng** | Tôi / thần (khi xưng hô chung với đoàn khách) |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Hai người gặp nhau lần đầu khi Balto quay về diện kiến Ma Vương Ariel tại dinh thự Phthalo. Balto chào xã giao lịch sự với cả nhóm. White đánh giá Balto trông điềm tĩnh, giống như một quan chức hành chính lão luyện, và nhận ra anh ta là nhân vật quyền lực thứ hai của ma tộc sau Ma Vương. |
 
 ---
 
@@ -1986,11 +1985,138 @@ graph TD
 
 ---
 
+### QH-145: Ariel (Ma Vương) ↔ Erguner Ricep
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ tớ (Ma Vương và Lãnh chúa biên cảnh) |
+| **Ariel gọi Erguner** | Erguner / lão này (khi giới thiệu) / ông |
+| **Erguner gọi Ariel** | Ma Vương đại nhân / ngài |
+| **Ariel xưng** | Ta |
+| **Erguner xưng** | Thần |
+| **Trạng thái** | Quan hệ chủ tớ bên ngoài. Erguner thể hiện sự trung thành tuyệt đối và kính cẩn trước Ariel, quỳ gối đón tiếp và lập tức tuân thủ mọi yêu cầu, sắp xếp họp hành của cô mà không chút bất mãn. Ariel cư xử thô lỗ có chủ đích với ông ta tại lâu đài biên ải để thăm dò thái độ phản ứng ngầm và nhằm tự trừng phạt bản thân. Tuy nhiên, đằng sau vỏ bọc trung thành đó, Erguner thực chất đang tìm cách bảo vệ ma tộc khỏi cuộc chiến hủy diệt do Ariel khơi mào. Ông giả vờ tuân lệnh cô để đuổi tộc Elf đi, nhưng thực tế đang mưu đồ ngầm phản kháng và outwit cô cùng tộc Elf. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 9 Chương 1, làm rõ hơn tính cách trong Đoạn phụ: Mối thâm thù bí mật của Quỷ tộc kỳ cựu. |
+
+---
+
+### QH-146: Tôi (White/Bạch) ↔ Erguner Ricep
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Khách quý (thuộc nhóm Ma Vương) và Lãnh chủ chủ nhà |
+| **White gọi Erguner** | Đại tá (Colonel - trong độc thoại) / lão già này / ông chú này |
+| **Erguner gọi White** | Quý khách (trong nhóm tùy tùng) |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Erguner xưng** | Tôi / thần (khi hướng về cả nhóm của Ma Vương) |
+| **Trạng thái** | White quan sát Erguner từ xa và cảm thấy ông ta rất dứt khoát, mang dáng vẻ nhà binh nghiêm túc nên tự ý gọi ông là "Đại tá" (so sánh với "Thiếu tá" là kẻ âm mưu xảo quyệt). Cô nhận định ông ta rất trung thành và có năng lực. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 9 Chương 1. |
+
+---
+
+### QH-147: Potimas Harrifenas ↔ Erguner Ricep
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh lợi dụng lẫn nhau (Tộc trưởng tộc Elf và Lãnh chúa ma tộc) |
+| **Potimas gọi Erguner** | Ngươi |
+| **Erguner gọi Potimas** | Ông / Potimas / Potimas Harrifenas |
+| **Potimas xưng** | Ta |
+| **Erguner xưng** | Tôi |
+| **Trạng thái** | Quan hệ liên minh thực dụng chứa đầy sự đề phòng. Potimas đã cung cấp lương thực và công nghệ giúp phục hưng vùng biên cảnh ma tộc dưới quyền Erguner, đổi lại Erguner phải nợ hắn một món nợ lớn và hợp tác thông tin. Hai người liên lạc bí mật bằng chiếc điện thoại di động cổ đại. Potimas gọi Erguner là "bạn bè" nhưng thực chất coi ông là "quân cờ". Erguner nhận thức rõ dã tâm của Potimas nên vô cùng cảnh giác, đồng thời che giấu lệnh trục xuất tộc Elf của Ariel và bí mật thăm dò thông tin về Wrath (cậu bé có sừng) từ Potimas để tìm đường cứu rỗi ma tộc. |
+| **Ghi chú** | Xuất hiện lần đầu ở Volume 9 Đoạn phụ: Mối thâm thù bí mật của Quỷ tộc kỳ cựu. |
+
+---
+
+### QH-148: Reigar Baint Renxandt ↔ Ronandt
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chiến hữu lâu năm, bạn tri kỷ |
+| **Reigar gọi Ronandt** | Ronandt / Chiến hữu của ta / Bạn của ta |
+| **Ronandt gọi Reigar** | Reigar / Kiếm Vương / Ngươi / Lão già |
+| **Reigar xưng** | Ta |
+| **Ronandt xưng** | Ta |
+| **Trạng thái** | Hai người từng kề vai sát cánh chiến đấu trên sa trường suốt nửa đời người, chống lại quỷ tộc để bảo vệ nhân loại. Reigar ghen tị với lý tưởng thuần khiết và sức mạnh ý chí kiên định của Ronandt, đồng thời tin tưởng sâu sắc rằng loài người sẽ an toàn dưới sự bảo hộ của Ronandt. Sau khi thoái ẩn, Reigar vẫn coi Ronandt là người bạn thân thiết nhất của mình. Ở những giây phút cuối đời, Reigar mỉm cười gửi gắm tương lai đế quốc và nhân loại lại cho Ronandt. Ronandt ở pháo đài phía bắc vô cùng đau đớn cảm ứng được cái chết của Reigar nên đã rơi lệ, nhưng ngoài miệng vẫn quát mắng Aurel để che giấu nỗi đau mất mát. |
+| **Ghi chú** | Xuất hiện trong Volume 9 Chương X1. |
+
+---
+
+### QH-149: Reigar Baint Renxandt ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ quyết tử, người kế thừa danh hiệu |
+| **Reigar gọi Wrath** | Ngươi / Con ác quỷ (the devil / fiend) |
+| **Wrath gọi Reigar** | (Không có đối thoại, trong trạng thái điên cuồng) |
+| **Reigar xưng** | Ta |
+| **Wrath xưng** | - |
+| **Trạng thái** | Reigar chạm trán Wrath (trong trạng thái điên loạn nuốt chửng bởi kỹ năng Phẫn Nộ) khi Wrath tàn sát dãy núi. Nhận thấy sức mạnh áp đảo của đối thủ, Reigar quyết định hy sinh thân mình chiến đấu để câu giờ cho dân làng di tản. Trận chiến kéo dài ròng rã suốt hai ba ngày, Reigar đẩy kiếm thuật của mình đến giới hạn tối thượng, chém đứt cả sấm sét. Mặc dù bị đánh bại hoàn toàn, Reigar nhận thấy Wrath đang học hỏi và hoàn thiện kỹ thuật kiếm của mình ngay trong trận chiến nên đã thầm kính trọng thiên phú của đối thủ. Trước khi ngã xuống, Reigar tuyên bố truyền lại danh hiệu [Thần Kiếm] (Divine Sword title) cho Wrath. |
+| **Ghi chú** | Trận quyết chiến được mô tả trong Volume 9 Chương X1. |
+
+---
+
+### QH-150: Balto Phthalo ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Cấp trên tạm thời (Chỉ huy Quân đoàn 4) và Thuộc hạ |
+| **Balto gọi Merazophis** | Merazophis |
+| **Merazophis gọi Balto** | Ngài Balto / Balto |
+| **Balto xưng** | Tôi / ta |
+| **Merazophis xưng** | Tôi |
+| **Trạng thái** | Merazophis tạm thời gia nhập Quân đoàn 4 để rèn luyện thể chất và tích lũy kinh nghiệm chiến trường thực tế sau khi bị Wrath áp đảo tại Dãy núi Huyền Bí. Balto đồng ý tiếp nhận anh và trực tiếp quản lý anh trong quân đoàn đóng tại vùng Phthalo. |
+| **Ghi chú** | Bắt đầu từ Volume 9 Chương 2. |
+
+---
+
+### QH-151: Balto Phthalo ↔ Lão Quản gia
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhân và quản gia trưởng trung thành |
+| **Balto gọi Lão Quản gia** | Lão già |
+| **Lão Quản gia gọi Balto** | Cậu chủ Balto / Cậu chủ |
+| **Balto xưng** | Ta |
+| **Lão Quản gia xưng** | Thần |
+| **Trạng thái** | Lão quản gia trung thành phụng sự Balto từ thời cha của cậu (Công tước tiền nhiệm). Balto coi ông là người đáng tin cậy nhất trong nhà và gọi ông một cách thân mật là "lão già". Lão quản gia thường báo cáo trực tiếp mọi chuyện bí ẩn diễn ra trong dinh thự cho Balto nghe, dù Balto thường cảm thấy mệt mỏi và than phiền rằng các bản báo cáo của lão đọc như truyện kinh dị. |
+| **Ghi chú** | Xuất hiện trong Volume 9 Đoạn phụ: Trải nghiệm đáng sợ của Lão Quản gia. |
+
+---
+
+### QH-152: Lão Quản gia ↔ Bloe Phthalo
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Quản gia trưởng và Cậu chủ thứ hai trong nhà |
+| **Lão Quản gia gọi Bloe** | Cậu chủ nhỏ (dear boy) / Cậu chủ Bloe |
+| **Bloe gọi Lão Quản gia** | Lão già (old-timer) |
+| **Lão Quản gia xưng** | Thần |
+| **Bloe xưng** | Ta |
+| **Trạng thái** | Lão Quản gia phụng sự gia đình công tước từ nhỏ nên coi Bloe như một đứa trẻ chưa trưởng thành và liên tục gọi cậu là "cậu chủ nhỏ" bất chấp sự giận dữ của cậu. Bloe cực kỳ khó chịu với cách gọi này và thường xuyên quát mắng lão là "lão già". Khi Bloe phóng hỏa giăng tơ trong phòng White, Lão Quản gia đã dùng ma pháp nước dập lửa và trừng mắt cảnh cáo cậu phải rút lui để tránh bị Riel và Fiel băm vằn. |
+| **Ghi chú** | Bắt đầu từ Volume 9 Chương 3. |
+
+---
+
+### QH-153: Tôi (White/Bạch) ↔ Bloe Phthalo
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Khách trú ngụ (đáng ngờ) và Cậu chủ (đơn phương tương tư) |
+| **White gọi Bloe** | Kẻ Du Côn (Hooligan - trong độc thoại) / Hắn |
+| **Bloe gọi White** | Ngươi / Cô |
+| **White xưng** | Tôi (trong độc thoại) |
+| **Bloe xưng** | Ta / Tao |
+| **Trạng thái** | Bloe yêu White ngay từ cái nhìn đầu tiên khi cô đến trú ngụ tại dinh thự Phthalo. Tuy nhiên, do tính tình cộc cằn, thô lỗ và không có kinh nghiệm yêu đương, mọi nỗ lực tiếp cận của Bloe đều biến thành sự quấy rầy. White hoàn toàn không nhận ra tình cảm của hắn, coi hắn là "Kẻ Du Côn" phiền phức mở toang cửa phòng và phóng hỏa đốt tơ của cô. Cô lờ hắn đi và nhắm mắt lại để tránh phiền phức, thậm chí từng nghĩ đến việc giết hắn để rảnh nợ. |
+| **Ghi chú** | Bắt đầu từ Volume 9 Chương 3. Mối tình đơn phương dở khóc dở cười của Bloe được tiết lộ trong phần thông tin minh họa của chương. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 144
+- **Tổng cặp quan hệ**: 153
+
 
 
 

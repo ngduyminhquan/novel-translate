@@ -39,6 +39,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > *Sự kiện Volume 6:* Đồng hành cùng Ariel, Sophia và Merazophis hướng về thủ đô Sariella và huấn luyện đặc biệt cho Sophia. Trong khi đó, các Phân thân Tư duy và bầy nhện con tự sinh tồn ở Mê cung Lớn Elroe tự ý mua thêm Hỏa Ma pháp, chạm trán Trưởng lão Ronandt và ba con Địa Long (Kagna, Gehre, Fuit).
 > *Sự kiện Volume 7:* Đồng hành cùng Ariel đột nhập phi thuyền G-Fleet, nuốt chửng quả bom GMA để cứu mọi người và trải qua quá trình thần hóa (deification), trở thành một vị thần nằm ngoài hệ thống với tên thật Shiraori do D đặt. Vì mất toàn bộ kỹ năng và chỉ số, cô trở nên cực kỳ yếu ớt như người bình thường và phải học cách điều khiển ma lực tự lực dưới sự chăm sóc của Ariel.
 > *Sự kiện Volume 8:* Trở nên cực kỳ yếu đuối sau thần hóa, say xe lử đử trên xe kéo qua vùng biên giới gần Đế quốc Renxandt hướng tới Dãy núi Huyền Bí. Cô sở hữu đôi mắt kép gồm mười con ngươi (mỗi bên năm con ngươi, hai con ngươi kích cỡ bình thường chứa bốn con ngươi nhỏ hơn bên trong), buộc phải nhắm mắt và kéo mũ trùm đầu khi vào thị trấn để tránh bị hiểu nhầm là quý tộc mù ốm yếu. Trong Chương 6, sau khi bị lở tuyết cuốn trôi và tách nhóm, cô thức dậy trong lều tuyết cùng nhóm ma cà rồng và Sael, sau đó căn lều bị chém đôi bởi Wrath (Sasajima Kyouya). Cô là người đầu tiên nhận ra và gọi to tên kiếp trước của cậu ta, kích hoạt đợt tấn công điên cuồng của Wrath. Trong Chương 7, cô chạy trốn giữ mạng trước đòn tấn công của Wrath, cố gắng gọi tên để đánh thức lý trí cậu ta nhưng thất bại. Khi sông băng đổ sụp, cô đã bộc phát phản xạ cũ và lần đầu tiên phóng được tơ trở lại để cứu Sophia và Mera, sau đó cả ba được Sael cứu thoát khỏi vực sâu trong gang tấc.
+> *Sự kiện Volume 9:* Trong chương mở đầu "Tà thần không mỉm cười", cô nhớ lại cuộc đối thoại bên lề với tà thần D, người nói về sự buồn chán khủng khiếp của thần linh và mong đợi cô sẽ dốc sức mua vui. Sau đó, cô tiếp tục say xe lử đử trên xe kéo do Mera lái để tiến sâu vào Lãnh địa Quỷ.
 
 
 **Văn phong nói chuyện:**
@@ -315,20 +316,21 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Tự tin tuyệt đối, tàn bạo ẩn sau vẻ nhí nhảnh.
 
 ---
-### NV-013: Balto
+### NV-013: Balto (Balto Phthalo)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Tên gốc** | Balto |
+| **Tên gốc** | Balto Phthalo |
 | **Tên dịch** | Balto |
-| **Biệt danh** | Trợ lý đắc lực của Ma Vương |
+| **Biệt danh** | Đại công tước vùng Phthalo / Trợ lý đắc lực của Ma Vương |
 | **Tuổi** | Trưởng thành |
 | **Giới tính** | Nam |
-| **Vai trò** | Tướng lĩnh ma tộc, người quản lý hành chính và là trợ lý cận thần cho Ma Vương đương nhiệm |
-| **Xuất hiện** | Chapter J2 (gián tiếp/cuối chương), Interlude: Lời thở dài của trợ lý Ma Vương |
+| **Vai trò** | Đại công tước cai quản vùng Phthalo, chỉ huy Quân đoàn 4, phụ trách quản lý hành chính và là trợ lý cận thần cho Ma Vương đương nhiệm |
+| **Xuất hiện** | Chapter J2 (gián tiếp/cuối chương), Interlude: Lời thở dài của trợ lý Ma Vương, Volume 9 Chương 2, Volume 9 Đoạn phụ: Nỗi u sầu của Công tước Quỷ |
 
 **Tính cách tổng quát:**
 > Một quan chức ma tộc mẫu mực, điềm tĩnh, lý trí và thực tế. Anh là người gánh vác mọi công việc quản trị thực tế của ma tộc khi Ma Vương Ariel lười biếng. Anh trung thành, nghiêm túc, luôn căng thẳng và phải gánh vác khối lượng công việc hành chính khổng lồ của ma tộc. Luôn tôn kính nhưng e sợ sự thất thường của Ma Vương Ariel. Anh thường xuyên đau đầu và bất lực trước tính khí thất thường của Ariel cũng như sự bốc đồng của em trai mình (Bloe), luôn tìm cách giữ thể diện và giữ hòa khí giữa các thống lĩnh. Thói quen đặc trưng là hay thở dài thầm lặng và giữ vẻ mặt vô cảm (poker face).
+> *Sự kiện Volume 9:* Trong Chương 2, anh quay lại dinh thự của mình vào đêm muộn để diện kiến Ma Vương Ariel vừa trở về. Anh sắp xếp các phòng nghỉ cho nhóm của White, tạm thời bổ nhiệm Merazophis vào Quân đoàn 4 (đơn vị phòng thủ khu vực Phthalo do anh trực tiếp quản lý), phân công Ael làm trợ lý bên cạnh Ma Vương, và chuẩn bị gia sư riêng cho Sophia trước khi cô đủ tuổi học học viện quý tộc. Trong Đoạn phụ: Nỗi u sầu của Công tước Quỷ, anh gặp lại em trai Bloe vừa trở về từ phương bắc. Khi phát hiện Bloe ghé qua dinh thự trước và thầm thương trộm nhớ White (dù Bloe chối phăng), anh khuyên em trai nên từ bỏ vì cô ấy có liên quan đến Ma Vương và là một thực thể vô cùng bí ẩn nằm ngoài tầm hiểu biết, đồng thời khuyên Bloe chớ làm điều gì khiến cô ấy ghét. Anh cũng bày tỏ sự lo lắng và bất lực trước việc Ma Vương ép buộc ma tộc khơi mào cuộc chiến chống con người dù ma tộc đang suy kiệt, nhưng nhận thức rõ rằng phản kháng chỉ mang lại sự hủy diệt chắc chắn từ Ma Vương.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Chuẩn mực, trang trọng, ngắn gọn ("Tuân lệnh", "Xin mời tiếp tục"), cực kỳ cung kính, lễ phép.
@@ -419,6 +421,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Một thực thể thần thánh tự xưng là "Quản trị viên Thượng cấp D". Cô kiến tạo ra kỹ năng "Trí Tuệ" để giải trí và trực tiếp theo dõi hành trình của Kumoko. Tính cách vô cùng vặn vẹo, thích đùa cợt, xem thế giới đang sụp đổ và sự sinh tồn của những người tái sinh như một trò chơi giải trí để giết thời gian. Cô là kẻ đứng sau việc tái sinh linh hồn các học sinh vào thế giới này.
+> *Sự kiện Volume 9:* Trong chương mở đầu "Tà thần không mỉm cười", cô chơi một tựa game cực khó mà không chịu sát thương nào để giết thời gian. Cô giải thích lý do hạn chế can thiệp trực tiếp vì việc biết trước kết quả quá nhàm chán, đồng thời bày tỏ sự kỳ vọng White sẽ giải trí cho cô hết mức.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Đều đều vô hồn khi giao tiếp qua hệ thống Thần ngôn, nhưng cợt nhả, châm chọc và tự mãn khi trực tiếp đàm thoại.
@@ -459,10 +462,11 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tuổi** | Trưởng thành |
 | **Giới tính** | Nam |
 | **Vai trò** | Thống lĩnh Quân đoàn 7 của quân đội Ma Vương, em trai của Balto |
-| **Xuất hiện** | Interlude: Lời thở dài của trợ lý Ma Vương |
+| **Xuất hiện** | Interlude: Lời thở dài của trợ lý Ma Vương, Volume 9 Chương 3, Volume 9 Đoạn phụ: Nỗi u sầu của Công tước Quỷ |
 
 **Tính cách tổng quát:**
 > Em trai của Balto. Trái ngược với người anh chín chắn, Bloe là kẻ bốc đồng, nóng nảy, cộc cằn và hành động theo bản năng. Cậu ta cực kỳ bất bình khi anh trai mình (Balto) phải phục tùng Ariel, người trông có vẻ yếu ớt và nhỏ bé. Bloe thường xuyên cãi cọ nảy lửa với Darad và không ngại đặt tay lên vũ khí khi tức giận, nhưng lập tức bị Ariel dùng tơ rối khống chế và dọa sợ đến mức mất khả năng nói.
+> *Sự kiện Volume 9:* Trong Chương 3, Bloe (lúc này là phó chỉ huy Quân đoàn 4) xông vào phòng của White vì bức xúc việc anh trai cho phép cô giăng tơ bừa bãi trong nhà. Cậu ta đã yêu White ngay từ cái nhìn đầu tiên khi gặp cô, nhưng do tính cách cộc cằn và thô lỗ nên cách hành xử lại giống một tên du côn quấy nhiễu. Cậu ta châm lửa đốt tơ của cô khiến Quản gia trưởng phải dập lửa và lôi cậu ta đi. Kể từ đó, cậu ta liên tục tìm đến phòng cô để tiếp cận cô một cách vụng về, nhưng White chỉ xem cậu ta là "Kẻ Du Côn" phiền phức và lờ đi. Trong Đoạn phụ: Nỗi u sầu của Công tước Quỷ, cậu trở về từ phương bắc và lập tức đến gặp anh trai Balto tại lâu đài Ma Vương. Cậu bị anh trai gặng hỏi và đỏ mặt chối phăng việc mình thầm thương trộm nhớ White. Cậu cũng thể hiện sự bức xúc và bất mãn sâu sắc trước việc Balto phục tùng Ma Vương Ariel và đồng ý chuẩn bị chiến tranh với loài người mặc cho ma tộc đang kiệt quệ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Thô lỗ, thẳng thắn, bộc trực ("con ranh ngẫu nhiên", "anh trai", "thủ lĩnh của tôi").
@@ -1248,7 +1252,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thực tế, luôn phân tích cục diện từ góc nhìn chiến lược lâu dài và sẵn sàng đi những nước cờ táo bạo nhưng kín kẽ.
 
 
-- **Tổng nhân vật**: 76
+- **Tổng nhân vật**: 77
 
 ---
 
@@ -1675,5 +1679,78 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Đối thoại với Wrath (Quỷ) dùng chất giọng chậm rãi, cổ kính và trang trọng nhưng trong tâm trí Wrath lại vang lên giọng một cô gái trẻ. Với Ariel (Ma Vương), cô có tông giọng trêu chọc, tinh nghịch và có phần hơi lo sợ khi bị đe dọa.
 - **Xưng hô**: Xưng "ta", gọi Wrath là "ngươi".
+
+---
+
+### NV-077: Erguner Ricep
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Erguner Ricep |
+| **Tên dịch** | Erguner Ricep |
+| **Biệt danh** | Đại tá (do White gọi) / Lãnh chúa biên cảnh |
+| **Giới tính** | Nam |
+| **Vai trò** | Lãnh chúa cai quản vùng biên ải giáp ranh đất loài người của Lãnh địa Quỷ, chỉ huy lão luyện chống xâm lược suốt nhiều năm. |
+| **Xuất hiện** | Volume 9 Chương 1, Đoạn phụ: Mối thâm thù bí mật của Quỷ tộc kỳ cựu |
+
+**Tính cách tổng quát:**
+> Là một ác quỷ lớn tuổi có phong thái quân nhân nghiêm nghị, kỷ luật, dứt khoát. Bên ngoài, ông tiếp đón Ma Vương và đoàn tùy tùng vô cùng trọng thể tại lâu đài của mình, nhẫn nhịn và tuân theo mọi yêu cầu thô lỗ hoặc thất thường của Ma Vương mà không bộc lộ một tia bất mãn nào. Tuy nhiên, thực chất ông là một chính trị gia lão luyện và thực dụng, mong muốn tìm con đường sinh tồn cho ma tộc chứ không muốn đi theo vết xe đổ diệt vong của chiến tranh. Ông đóng vai trò gián điệp hai chiều: giả vờ tuân lệnh Ma Vương trục xuất tộc Elf nhưng vẫn ngầm liên lạc bí mật với Potimas Harrifenas để trao đổi thông tin và tìm kiếm cơ hội sống sót, mưu đồ outwit cả Ma Vương lẫn tộc Elf.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, kính cẩn, chuẩn mực khi đối ngoại. Có phần mệt mỏi, dằn vặt khi độc thoại nội tâm hoặc nói chuyện với người thư ký lâu năm.
+- **Xưng hô**:
+  - Đối với Ma Vương Ariel: xưng "thần", gọi "ngài" (hoặc "Ma Vương đại nhân").
+  - Đối với đoàn của Ariel (White, Sophia, Mera): xưng "tôi", gọi "quý khách".
+  - Đối với Potimas Harrifenas (qua điện thoại): xưng "tôi", gọi "ông" (quan hệ đồng minh thực dụng nhưng luôn đề phòng đối phương xem mình là quân cờ).
+  - Đối với người thư ký: xưng "tôi", gọi "cậu" (hoặc bằng chức danh/tên).
+  - Độc thoại nội tâm: xưng "tôi".
+
+---
+
+### NV-078: Reigar Baint Renxandt
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Reigar Baint Renxandt |
+| **Tên dịch** | Reigar Baint Renxandt |
+| **Biệt danh** | Cựu Kiếm Vương / Kiếm Vương đời trước / Kiếm Thần |
+| **Giới tính** | Nam |
+| **Vai trò** | Cựu Kiếm Vương của Đế quốc Renxandt, bạn thân và chiến hữu cũ của Trưởng lão Ronandt. |
+| **Xuất hiện** | Volume 9 Chương X1 |
+
+**Tính cách tổng quát:**
+> Kiếm sĩ mạnh nhất thế giới một thời, người đã cống hiến hơn nửa đời mình trên sa trường. Từng mang lý tưởng diệt quỷ cứu thế, nhưng càng trải qua trận mạc, ông càng mệt mỏi trước vòng lặp tàn sát vô nghĩa và sự tàn khốc của cái chết. Khi thời thế tạm yên bình, ông nhận thấy bản thân chỉ giỏi kiếm thuật chứ không có tài trị quốc nên đã chủ động thoái vị nhường ngôi cho con trai và đi ẩn cư. Khi Wrath (trong cơn cuồng nộ điên loạn) đe dọa vùng đất ẩn cư dưới chân núi, ông đã mặc bộ giáp Hắc Long dự phòng và quyết tử nghênh chiến để câu giờ cho dân làng di tản. Ông ngã xuống trong sự thanh thản và hạnh phúc vì được sống và chết cùng thanh kiếm, đồng thời truyền lại danh hiệu [Thần Kiếm] cho đối thủ mà ông vô cùng kính trọng và tiếc nuối cho thiên phú của cậu ta.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại nội tâm mang tính tự sự trầm mặc, thấu hiểu nhân sinh và sự vô nghĩa của chiến tranh. Lời xưng danh khiêu chiến trang nghiêm, đĩnh đạc.
+- **Xưng hô**:
+  - Đối thoại/Độc thoại nội tâm: xưng "ta".
+  - Đối thoại hồi tưởng với Ronandt: xưng "ta", gọi "lão".
+  - Đối thoại với Wrath: xưng "ta", gọi "ngươi" (hoặc "con ác quỷ").
+
+---
+
+### NV-079: Lão Quản gia (Quản gia trưởng gia tộc Phthalo)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Head Butler |
+| **Tên dịch** | Quản gia trưởng (Lão Quản gia) |
+| **Biệt danh** | Lão già (Balto gọi) |
+| **Giới tính** | Nam |
+| **Vai trò** | Quản gia trưởng của dinh thự Công tước Phthalo, chịu trách nhiệm quản lý gia sự và bí mật bảo vệ an ninh cho Công tước. |
+| **Xuất hiện** | Volume 9 Đoạn phụ: Trải nghiệm đáng sợ của Lão Quản gia |
+
+**Tính cách tổng quát:**
+> Là một quản gia trung thành, tận tụy, đã phụng sự gia tộc Công tước Phthalo từ thời Công tước tiền nhiệm cho đến nay. Ông vô cùng tự hào về công việc của mình và có lòng trung thành tuyệt đối với gia tộc Phthalo (đặc biệt là đối với cậu chủ trẻ Balto). Bên cạnh vai trò quản gia, ông còn là người bảo vệ an ninh thầm lặng, đã đẩy lùi vô số thích khách trong quá khứ nhờ thực lực chiến đấu đáng nể. Ông sở hữu kỹ năng [Vô hiệu Kiệt sức] và [Dạ Nhãn] có được từ việc khổ luyện dài lâu. Mặc dù giàu kinh nghiệm và điềm tĩnh, ông vẫn không khỏi sợ hãi và kinh hồn bạt vía trước các hành động quái dị kỳ lạ của nhóm nhện rối (đặc biệt là Riel) mỗi đêm khi ông đi tuần tra quanh dinh thự.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại nội tâm mang phong thái nghiêm túc, lễ độ của một quản gia kỳ cựu nhưng đầy yếu tố tự trào và dở khóc dở cười trước nhóm khách quái dị của Ma Vương. Lời thoại trực tiếp dùng từ ngữ vô cùng trang trọng, tôn kính đối với chủ nhân và khách khứa.
+- **Xưng hô**:
+  - Đối với Cậu chủ Balto: xưng "thần", gọi "Cậu chủ Balto".
+  - Đối với Tiểu thư Sophia: xưng "thần", gọi "Tiểu thư Sophia".
+  - Độc thoại nội tâm: xưng "tôi", gọi các nhện rối là "Tiểu thư Sael", "Tiểu thư Riel", "Tiểu thư White".
+
+
 
 

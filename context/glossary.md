@@ -88,6 +88,9 @@
 | 67 | Sajin | Sajin | Tên dị giới của Kusama Shinobu, điệp viên Thần Ngôn Giáo |
 | 68 | Nia / Ice Dragon Nia | Nia / Băng Long Nia | Băng Long cai trị Dãy núi Huyền Bí, thuộc cấp Güli-güli |
 | 69 | editor W | Biên tập viên W | Biên tập viên hiện tại của tác giả (được đề cập trong lời bạt Tập 8) |
+| 70 | Erguner Ricep | Erguner Ricep | Lãnh chúa biên cảnh ma tộc, chỉ huy chống xâm lược của loài người |
+| 71 | Reigar Baint Renxandt | Reigar Baint Renxandt | Cựu Kiếm Vương, bạn thân và chiến hữu cũ của Ronandt |
+| 72 | Head Butler (Phthalo house) | Quản gia trưởng (gia tộc Phthalo) | Quản gia trưởng phụng sự Công tước Phthalo, nhân vật kể chuyện trong đoạn phụ Tập 9 |
 
 ---
 
@@ -110,6 +113,9 @@
 | 12 | Mt. Uine | Núi Uine | Địa danh | Ngọn núi bị Taratect Nữ Vương phá hủy bằng một cú phun thở |
 | 13 | Zatona Plain | Đồng bằng Zatona | Địa danh | Nơi diễn ra Thảm kịch Zatona giữa Sariella và Liên minh Ohts |
 | 14 | Mystic Mountains | Dãy núi Huyền Bí | Địa danh | Dãy núi hiểm trở, khí hậu khắc nghiệt, có nhiều quái vật mạnh (nơi Buirimus bị đày tới) |
+| 15 | Phthalo | Phthalo | Địa danh | Vùng đất trung tâm của lãnh địa quỷ nơi đặt Lâu đài Ma Vương |
+| 16 | Phthalo region | Vùng Phthalo | Địa danh | Vùng đất do Balto Phthalo cai quản |
+| 17 | Valley of Convenience | Thung lũng Tiện Lợi (Valley of Convenience) | Địa danh | Vùng bán đảo biệt lập được bảo vệ bởi Chân Long và Thủy Long, nơi lánh nạn cho các linh hồn sắp suy kiệt |
 
 ---
 
@@ -579,6 +585,11 @@
 | 195 | exploding swords | ma kiếm nổ | Vũ khí | Ma kiếm nạp sẵn MP phát nổ dữ dội khi va chạm (dùng để ném) |
 | 196 | Ogre King | Ogre Vương | Chủng tộc quái vật | Nhánh tiến hóa cấp cao của Ogre |
 | 197 | oni | Oni | Chủng tộc quái vật | Nhánh tiến hóa cấp cao từ Ogre Vương, cơ thể thu nhỏ bằng người thường và có hai sừng |
+| 198 | earth wyrm | địa phi long | Chủng tộc quái vật | Loại phi long hệ thổ dùng kéo xe kéo ở dị giới (đồng bộ với Vol 8) |
+| 199 | marcher lord | lãnh chúa biên cảnh | Thuật ngữ / Chức vụ | Vị trí lãnh chúa cai quản vùng biên cương chống xâm lược |
+| 200 | Colonel | Đại tá | Biệt danh / Thuật ngữ | Biệt danh White dùng đặt cho Erguner do tác phong quân đội của ông |
+| 201 | Major | Thiếu tá | Biệt danh / Thuật ngữ | Từ dùng so sánh chỉ những kẻ mưu đồ hoạt động trong bóng tối |
+| 202 | Divine Sword | [Thần Kiếm] | Danh hiệu | Danh hiệu dành cho kiếm sĩ thăng hoa tối thượng của kiếm thuật |
 
 
 ---
@@ -604,5 +615,5 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-14
-- **Tổng thuật ngữ**: 534
+- **Tổng thuật ngữ**: 541
 
