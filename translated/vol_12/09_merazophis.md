@@ -362,4 +362,4 @@ Tôi cũng sẽ nghiến răng và tiếp tục chạy.
 
 ---
 
-[◀ Chương trước: Aurel](08_aurel.md) | [Chương tiếp theo: White 2 ▶](10_white_2.md)
+[◀ Chương trước: Aurel](08_aurel.md) | [Chương tiếp theo: Phelmina ▶](10_phelmina.md)

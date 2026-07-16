@@ -302,7 +302,7 @@ Nhưng thật dại dột khi tỏ lòng nhân từ với kẻ thù.
 
 Với tư cách là một tướng quân, tôi biết cũng có những binh sĩ đã giao phó mạng sống của họ vào tay tôi.
 
-Các người không được nghĩ xấu về tôi vì điều đó.
+Các bạn không được nghĩ xấu về tôi vì điều đó.
 
 Nhưng dù vậy, tôi tin mình ít nhất có thể dành một khoảnh khắc để cầu nguyện cho linh hồn của cậu bé này được ra đi thanh thản.
 

@@ -204,7 +204,7 @@ Trong khi kẻ thù hoảng loạn, các binh sĩ Quân đoàn 10 chỉ lặng l
 
 Sửa lại một chút: ngoại trừ một người, kẻ đang hét lớn khi vung thanh đại kiếm của mình.
 
-“Ra là các người đã chờ đợi chúng ta ở đây sao, hửm?”
+“Ra là các ngươi đã chờ đợi chúng ta ở đây sao, hửm?”
 
 Đứng đối diện với một Sophia đang hét lớn là một người đàn ông tộc elf với một ánh nhìn hiểm ác trong mắt.
 

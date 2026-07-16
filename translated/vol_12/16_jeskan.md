@@ -850,4 +850,4 @@ Nghe vậy, Hyrince và những người khác chuyển sang chế độ chiến
 
 ---
 
-[◀ Chương trước: Hawkin](14_hawkin.md) | [Chương tiếp theo: Bloe ▶](17_bloe.md)
+[◀ Chương trước: Agner](15_agner.md) | [Chương tiếp theo: Bloe ▶](17_bloe.md)

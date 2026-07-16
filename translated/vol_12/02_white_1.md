@@ -128,4 +128,4 @@ Chúng ta sắp sửa tìm ra câu trả lời rồi!
 
 ---
 
-[◀ Chương trước: Thông tin xuất bản & Ảnh minh họa](00_insert_copyright.md) | [Chương tiếp theo: Sanatoria ▶](03_sanatoria.md)
+[◀ Chương trước: Nhận định của nhà sử học tương lai: Mở đầu](01_prologue.md) | [Chương tiếp theo: Sanatoria ▶](03_sanatoria.md)

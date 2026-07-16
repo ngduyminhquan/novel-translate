@@ -646,8 +646,6 @@ Nhưng nó quay về phía các binh sĩ đang lao tới.
 
 Cái miệng của con quái vật khổng lồ mở ra.
 
-It’s going to use a breath attack.
-
 Nó sắp sử dụng một đòn tấn công hơi thở.
 
 Đòn tấn công tương tự đã phá hủy Pháo đài Kusorion!

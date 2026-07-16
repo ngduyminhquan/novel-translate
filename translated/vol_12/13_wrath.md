@@ -182,7 +182,7 @@ Nyudoz lao về phía trước một cách sắc bén.
 
 Thật khó tin ông ta là một ông lão, chưa nói đến việc đang mặc một bộ giáp nặng nề, đánh giá qua tốc độ di chuyển của ông ta.
 
-Con người được cho là có chỉ số thấp hơn ma tộc, nhưng ông ta chắc chắn có bộ pháp tốt hơn một ma tộc trung bình của các người.
+Con người được cho là có chỉ số thấp hơn ma tộc, nhưng ông ta chắc chắn có bộ pháp tốt hơn một ma tộc thông thường.
 
 Có bao nhiêu binh sĩ của Quân đoàn 8 có thể di chuyển như thế này chứ?
 
@@ -212,4 +212,4 @@ Chỉ như thế, Quân đoàn 8 đã giành được chiến thắng của mìn
 
 ---
 
-[◀ Chương trước: Sophia](12_sophia.md) | [Chương tiếp theo: Hawkin ▶](13_hawkin.md)
+[◀ Chương trước: Sophia](12_sophia.md) | [Chương tiếp theo: Hawkin ▶](14_hawkin.md)
