@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 9)*
 
+![Minh họa: page_178_img_37.jpg](../../source/images/vol_11/page_178_img_37.jpg)
+
 Măm. Khúc xương hôm nay khá ngon đấy.
 
 Hả? Mình bị sốt hay sao á?

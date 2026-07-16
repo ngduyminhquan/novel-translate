@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 8)*
 
+![Minh họa: page_158_img_34.jpg](../../source/images/vol_11/page_158_img_34.jpg)
+
 Xương!
 
 Hửm? Khúc xương hôm nay đặc biệt giòn rụm nha.

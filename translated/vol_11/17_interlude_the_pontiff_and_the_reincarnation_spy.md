@@ -2,6 +2,8 @@
 
 *(Interlude: The Pontiff and the Reincarnation Spy)*
 
+![Minh họa: page_135_img_27.jpg](../../source/images/vol_11/page_135_img_27.jpg)
+
 “Alo, alo, một-hai-ba. Xin chào? Giáo hoàng có nghe thấy tôi nói không?”
 
 “Có, ta nghe thấy.”

@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 1)*
 
+![Minh họa: page_21_img_8.jpg](../../source/images/vol_11/page_21_img_8.jpg)
+
 Cháaaan quá đi mất.
 
 Hôm nay mình lại không được gặp Merazophis rồi, vẫn như mọi khi.

@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 6)*
 
+![Minh họa: page_138_img_28.jpg](../../source/images/vol_11/page_138_img_28.jpg)
+
 Ưưư, mình bựựực-mììình quá đi mất!
 
 Hửm?

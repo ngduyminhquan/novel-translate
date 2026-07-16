@@ -2,6 +2,8 @@
 
 *(Julius, Age 15: Partner)*
 
+![Minh họa: page_160_img_35.jpg](../../source/images/vol_11/page_160_img_35.jpg)
+
 Cảnh tượng đẹp đẽ một cách kỳ lạ khiến tôi gần như nín thở.
 
 Nếu nó không phải là hiện thân của tai họa, có lẽ tôi thậm chí đã muốn tiếp tục ngắm nhìn nó mãi mãi.
@@ -61,8 +63,6 @@ Nó không để lại gì ngoài đất cháy xém phía sau, không có lấy 
 Nếu tình cờ có một khu định cư của con người ở phía dưới nó, thì thảm họa sẽ là điều không thể tránh khỏi.
 
 Do đó, bất cứ khi nào Phượng Hoàng di cư, mọi người thường đi theo phía sau nó và canh gác như thế này.
-
-And in a way, it’s sort of like a festival, too.
 
 Và theo một cách nào đó, chuyện này cũng giống như một lễ hội vậy.
 
@@ -666,8 +666,6 @@ Hyrince nhìn tôi nghiêm túc.
 
 Tôi chắc chắn cậu ấy đang cố nói với tôi rằng tôi nên ngừng việc mù quáng chìa tay giúp đỡ bất kỳ ai gặp trên đường đi.
 
-And in a way, he’s saying that this is my fault, too.
-
 Và theo một cách nào đó, cậu ấy cũng đang bảo rằng đây là lỗi của tôi.
 
 Chúng tôi đã đồng ý với yêu cầu của người đàn ông đó vì sự bướng bỉnh ích kỷ của chính tôi.
@@ -789,6 +787,8 @@ Chúng tôi tiếp tục tranh cãi qua lại cho đến khi Hyrince cuối cùn
 Cậu biết không, Hyrince...
 
 Giống như tớ đã nói về Yaana, tớ cũng muốn cậu được hạnh phúc.
+
+![Minh họa: page_177_img_36.jpg](../../source/images/vol_11/page_177_img_36.jpg)
 
 ---
 

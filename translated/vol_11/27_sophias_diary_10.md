@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 10)*
 
+![Minh họa: page_205_img_40.jpg](../../source/images/vol_11/page_205_img_40.jpg)
+
 Aah! Máu tươi hôm nay vẫn ngon như mọi khi!
 
 Người ta nói rồi mà. Kìm nén thèm muốn là không tốt cho sức khỏe đâu!

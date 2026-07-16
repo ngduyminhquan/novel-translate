@@ -2,6 +2,8 @@
 
 *(Julius, Age 11: Beginnings)*
 
+![Minh họa: page_10_img_6.jpg](../../source/images/vol_11/page_10_img_6.jpg)
+
 Khi còn nhỏ, tôi rất thích nghe những câu chuyện sử thi về những người anh hùng mà mẹ thường đọc cho nghe.
 
 Được nghe giọng nói dịu dàng của người mẹ kính yêu mô tả những chiến tích vĩ đại của những người anh hùng luôn khiến trái tim tôi nhảy múa.
@@ -393,6 +395,8 @@ Tôi sẽ suy nghĩ, hành động và tiến về phía trước từng bước
 Để tôi có thể sống xứng đáng với hình mẫu lý tưởng về người anh hùng trong mắt mình.
 
 Khi củng cố thêm quyết tâm, tôi siết chặt chiếc khăn quàng cổ quấn quanh cổ mình.
+
+![Minh họa: page_20_img_7.jpg](../../source/images/vol_11/page_20_img_7.jpg)
 
 ---
 

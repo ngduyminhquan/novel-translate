@@ -2,6 +2,8 @@
 
 *(Julius, Age 14: Youth)*
 
+![Minh họa: page_148_img_32.jpg](../../source/images/vol_11/page_148_img_32.jpg)
+
 “Yaaaah!”
 
 Jeskan hét lớn một tiếng và vung rìu xuống, chặt đứt cái xúc tu đang vươn thẳng về phía mình.
@@ -169,6 +171,8 @@ Bất kể thứ đó là gì, nó lập tức phát nổ, làm đóng băng cá
 “Ha-ha! Thấy sao hả?! [Bom Băng] không hề rẻ chút nào, nhưng hoàn toàn xứng đáng!”
 
 Một vật phẩm ma pháp dùng một lần sao?!
+
+![Minh họa: page_152_img_33.jpg](../../source/images/vol_11/page_152_img_33.jpg)
 
 Những vật phẩm ma pháp chỉ sử dụng một lần như vậy là rất đắt đỏ, chủ yếu là vì không có nhiều nghệ nhân có thể chế tạo ra chúng.
 

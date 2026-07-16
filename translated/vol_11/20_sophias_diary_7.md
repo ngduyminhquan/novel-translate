@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 7)*
 
+![Minh họa: page_146_img_31.jpg](../../source/images/vol_11/page_146_img_31.jpg)
+
 Măm măm, xương ngon thật!
 
 Ừm, một cô gái có thể bị nghiện cái kết cấu giòn rụm này mất.

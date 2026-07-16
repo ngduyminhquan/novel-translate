@@ -10,6 +10,8 @@
 
 ![Minh họa 3](../../source/images/vol_11/page_3_img_4.jpg)
 
+![Minh họa: page_9_img_5.jp2](../../source/images/vol_11/page_9_img_5.jp2)
+
 ---
 
 [Chương tiếp theo: J1 Julius, 11 tuổi: Khởi đầu ▶](01_j1_julius_age_11_beginnings.md)

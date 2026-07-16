@@ -2,6 +2,8 @@
 
 *(Julius, Age 21: Family)*
 
+![Minh họa: page_217_img_42.jpg](../../source/images/vol_11/page_217_img_42.jpg)
+
 “Mừng anh đã về, thưa anh trai.”
 
 Tôi đã trở lại vương thành lần đầu tiên sau một thời gian dài.

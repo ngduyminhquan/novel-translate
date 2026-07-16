@@ -2,6 +2,8 @@
 
 *(Julius, Age 16: Friends)*
 
+![Minh họa: page_179_img_38.jpg](../../source/images/vol_11/page_179_img_38.jpg)
+
 “Chào cậu. Lâu rồi không gặp.”
 
 Hai khối đồi lắc lư.

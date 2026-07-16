@@ -2,6 +2,8 @@
 
 *(Interlude: An Unopposable Force)*
 
+![Minh họa: page_193_img_39.jpg](../../source/images/vol_11/page_193_img_39.jpg)
+
 Rột. Rột.
 
 Đáng lẽ ra tôi không còn nghe thấy nó nữa mới phải.
@@ -17,8 +19,6 @@ Tôi không khỏi hét lên trong thất vọng.
 Kế hoạch của chúng tôi chắp vá đến mức ban đầu chỉ hy vọng tóm được một hoặc hai thủ lĩnh của Đế quốc, nhưng thay vào đó, chúng tôi lại câu được cả Anh hùng, con cá lớn nhất trong số đó.
 
 Thế rồi chúng tôi lại để cậu ta tuột khỏi kẽ tay!
-
-If we’d succeeded, it would’ve been a big enough achievement to put all our trespasses behind us!
 
 Nếu thành công, đó sẽ là một thành tựu đủ lớn để xóa bỏ mọi tội lỗi trước đây của chúng tôi!
 
@@ -254,7 +254,7 @@ Tôi có quá nhiều câu hỏi và không có câu trả lời nào cả.
 
 Tất cả những gì tôi biết là đây có thể là dấu chấm hết.
 
-“Hi-hi. Ta nghe từ Shiro nói rằng các người đang bày ra trò gì đó thú vị, nên ta quyết định đến xem thử, chỉ có thế thôi.”
+“Hi-hi. Ta nghe từ Shiro nói rằng các ngươi đang bày ra trò gì đó thú vị, nên ta quyết định đến xem thử, chỉ có thế thôi.”
 
 Ma Vương mỉm cười vô hại.
 
@@ -304,7 +304,7 @@ Tôi đoán chuyện con người khi trải qua nỗi sợ hãi vượt quá gi
 
 Nhưng tôi sẽ không bao giờ chế giễu cậu ấy vì điều này, bởi vì bản thân tôi cũng đang ở trong tình trạng tương tự.
 
-“Chắc chắn, việc các người tự ý hành động rất phiền phức, nhưng bất kỳ trò đùa nhỏ nhặt nào các người bày ra cũng không thực sự quan trọng lắm về lâu về dài.”
+“Chắc chắn, việc các ngươi tự ý hành động rất phiền phức, nhưng bất kỳ trò đùa nhỏ nhặt nào các ngươi bày ra cũng không thực sự quan trọng lắm về lâu về dài.”
 
 Cô ta về cơ bản đang gọi chúng tôi là những kẻ tầm thường vô giá trị, nhưng thay vì cảm giác nhục nhã tôi có thể cảm nhận được thông thường, phần lớn trong tôi lúc này chỉ là sự nhẹ nhõm.
 
@@ -346,7 +346,7 @@ Mặc dù đáng lẽ họ nên đưa ra gợi ý cho những người còn lạ
 
 Tôi biết chẳng có ích gì khi suy nghĩ về chuyện đó lúc này, nhưng tôi không khỏi ước mình có thể quay ngược thời gian và làm lại mọi thứ.
 
-“Hơn nữa, các người đã bị trừng phạt vì dám hành động sau lưng ta rồi.”
+“Hơn nữa, các ngươi đã bị trừng phạt vì dám hành động sau lưng ta rồi.”
 
 Lời nói của Ma Vương kéo tôi trở lại thực tại một cách tàn nhẫn.
 
@@ -364,13 +364,13 @@ Có phải cô ta đã làm gì đó với gia đình của chúng tôi không?!
 
 Trí tưởng tượng của tôi bắt đầu chạy loạn xạ.
 
-“Các người có biết những kẻ mà các người bảo chưa quay lại không? Đó là vì ta đã quét sạch bọn chúng rồi.”
+“Các ngươi có biết những kẻ mà các ngươi bảo chưa quay lại không? Đó là vì ta đã quét sạch bọn chúng rồi.”
 
 Mặc dù ghét phải thừa nhận, tôi cảm thấy nhẹ nhõm một chút khi nghe thấy điều đó.
 
 Tôi thấy tiếc cho những binh sĩ đó, nhưng tôi biết Ma Vương hoàn toàn có thể làm những điều tồi tệ hơn nhiều.
 
-“Nên các người không cần phải xin lỗi vì làm mất những binh sĩ quý giá đâu, hiểu chưa? Ta mới là người đã ra tay ngay từ đầu.”
+“Nên các ngươi không cần phải xin lỗi vì làm mất những binh sĩ quý giá đâu, hiểu chưa? Ta mới là người đã ra tay ngay từ đầu.”
 
 ---
 
@@ -396,7 +396,7 @@ Các binh sĩ trong biệt đội kia là người của Huey từ Quân đoàn 
 
 Có lẽ tôi đang trở nên xúc động từ sự nhẹ nhõm rằng chúng tôi sẽ không bị trừng phạt thêm nữa?
 
-“Chắc chắn rồi. Sẽ rất phiền phức cho ta nếu Anh hùng chết ngay lúc này, nên ta phải cản đường các người một chút xíu.”
+“Chắc chắn rồi. Sẽ rất phiền phức cho ta nếu Anh hùng chết ngay lúc này, nên ta phải cản đường các ngươi một chút xíu.”
 
 Thay vì nổi giận như tôi lo sợ, Ma Vương trả lời một cách bình tĩnh.
 
@@ -408,7 +408,7 @@ Huey, đồ ngốc này!
 
 Cái gì đã xui khiến cậu dám thách thức Ma Vương khi cô ta có vẻ không quá giận dữ với chúng tôi thế hả?!
 
-“Phải đấy, thấy chưa, đây là lý do ta không muốn các người làm những việc như thế này khi chưa được phép. Mặc dù ta đoán chúng ta chưa từng đưa ra thông báo không được đụng vào Anh hùng, nên chúng ta sẽ coi như huề lần này nhé? Lỗi của ta.”
+“Phải đấy, thấy chưa, đây là lý do ta không muốn các ngươi làm những việc như thế này khi chưa được phép. Mặc dù ta đoán chúng ta chưa từng đưa ra thông báo không được đụng vào Anh hùng, nên chúng ta sẽ coi như huề lần này nhé? Lỗi của ta.”
 
 “Tôi không thể tin được... Nên binh lính của tôi đã chết vì một lý do độc đoán như thế sao...?”
 
@@ -422,7 +422,7 @@ Tôi không thể trách cậu ấy vì đã bị sốc.
 
 “Tại sao ngài lại không muốn Anh hùng bị đánh bại chứ?”
 
-“Các người không cần biết điều đó.”
+“Các ngươi không cần biết điều đó.”
 
 Huey có lẽ đã hy vọng ít nhất tìm ra lý do tại sao người của mình phải chết, nhưng Ma Vương đã cộc lốc dập tắt nó.
 
@@ -436,7 +436,7 @@ Cậu ấy không có lựa chọn nào khác ngoài việc chấp nhận nó, n
 
 Tôi thầm thở dài nhẹ nhõm khi Huey lùi lại.
 
-“Chuyện này có thể không an ủi các người được nhiều, nhưng họ là những binh sĩ giỏi đấy.”
+“Chuyện này có thể không an ủi các ngươi được nhiều, nhưng họ là những binh sĩ giỏi đấy.”
 
 “...Vâng. Cảm ơn ngài.”
 
@@ -472,7 +472,7 @@ Chỉ có cô ta và tôi, Huey, cùng các binh sĩ của Quân đoàn 6, mặc
 
 Điều này có nghĩa là chúng tôi đang áp đảo về số lượng.
 
-“Các người muốn làm gì nào?”
+“Các ngươi muốn làm gì nào?”
 
 ---
 
@@ -494,7 +494,7 @@ Không còn nghi ngờ gì nữa cô ta có thể nhìn thấu những lời nó
 
 Khóe miệng Ma Vương nhếch lên thành một nụ cười, nên có vẻ chiến thuật của tôi đã có tác dụng trước mắt.
 
-“Ồ, tốt lắm. Vậy thì, ta mong chờ được thấy sự thể hiện của các người đấy.”
+“Ồ, tốt lắm. Vậy thì, ta mong chờ được thấy sự thể hiện của các ngươi đấy.”
 
 Điều đó nghĩa là cô ta muốn tôi chết và đóng vai trò làm “chất dinh dưỡng cho thế giới” giống như cô ta nói về những binh sĩ đó sao? Bởi vì nếu vậy, tôi thà không thực hiện điều đó.
 
@@ -514,7 +514,7 @@ Cô ấy quá lạc lõng trong môi trường xung quanh đến mức trông gi
 
 “Được rồi, chúng ta sẽ quay lại. Cấm tự ý bày trò nghịch ngợm khi chưa được phép của ta nữa đấy nhé?”
 
-Hoặc không ta sẽ ăn thịt các người đấy.
+Hoặc không ta sẽ ăn thịt các ngươi đấy.
 
 Nói xong, Ma Vương và cô gái áo trắng biến mất.
 

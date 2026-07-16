@@ -2,6 +2,8 @@
 
 *(Special Chapter: The Empire Veteran’s Final Hours)*
 
+![Minh họa: page_102_img_22.jpg](../../source/images/vol_11/page_102_img_22.jpg)
+
 Tôi quyết định gia nhập lực lượng đặc nhiệm chống buôn người vì một mối thâm thù cá nhân.
 
 Con trai và con dâu tôi rốt cuộc cũng có con, cùng thời điểm đó đứa con đầu lòng của Kiếm Vương cũng chào đời, nên cả đế quốc dường như chìm trong bầu không khí ăn mừng hân hoan.
@@ -560,8 +562,6 @@ Không thể để ông ta sống sót.
 
 Nếu ông ta sống, chắc chắn ông ta sẽ chỉ mang đến những thảm họa lớn hơn nữa.
 
-And then Sir Hero would be in danger.
-
 Và khi đó Ngài Anh hùng sẽ gặp nguy hiểm.
 
 Tôi siết chặt tay bám vào chân ông ta hết mức có thể.
@@ -576,4 +576,4 @@ Ngài Anh hùng.
 
 ---
 
-[◀ Chương trước: J5 Julius, 13 tuổi: Âm mưu](12_j5_julius_age_12_machinations.md) | [Chương tiếp theo: Đoạn phụ: Yêu tinh ghét lãng phí thời gian ▶](14_interlude_the_elf_despises_wasting_time.md)
+[◀ Chương trước: J5 Julius, 13 tuổi: Âm mưu](12_j5_julius_age_13_machinations.md) | [Chương tiếp theo: Đoạn phụ: Yêu tinh ghét lãng phí thời gian ▶](14_interlude_the_elf_despises_wasting_time.md)

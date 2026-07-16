@@ -2,6 +2,8 @@
 
 *(Julius, Age 12: First Expedition)*
 
+![Minh họa: page_22_img_9.jpg](../../source/images/vol_11/page_22_img_9.jpg)
+
 Đã khoảng sáu tháng kể từ khi tôi đồng ý tham gia lực lượng đặc nhiệm đặc biệt để chống lại tổ chức buôn người.
 
 Điều đó có nghĩa là năm mới đã qua đi, và tôi đã tăng thêm một tuổi.

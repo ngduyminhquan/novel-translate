@@ -2,6 +2,8 @@
 
 *(Sophia’s Diary 5)*
 
+![Minh họa: page_120_img_25.jpg](../../source/images/vol_11/page_120_img_25.jpg)
+
 Ưưư, mình cực-kỳ-bực-mình!
 
 Lần này là chuyện gì á?
