@@ -17,9 +17,9 @@ Nếu mũi tôi có trở nên siêu dài giống như thiên cẩu?
 
 Đó là thiên cẩu đấy! Thiên cẩu đã làm thế đấy!
 
-Nhưng đáng tiếc là, dù có anh Quỷ, vẫn không hề có bất kỳ con thiên cẩu nào xuất hiện trong bộ truyện này cả.
+Nhưng đáng tiếc là, dù có cậu Oni, vẫn không hề có bất kỳ con thiên cẩu nào xuất hiện trong bộ truyện này cả.
 
-Tuy nhiên, anh Quỷ cùng bộ đôi ma cà rồng đã có rất nhiều cơ hội để tung hoành trong tập truyện này đấy!
+Tuy nhiên, cậu Oni cùng bộ đôi ma cà rồng đã có rất nhiều cơ hội để tung hoành trong tập truyện này đấy!
 
 Nhưng họ chiến đấu vì có lý do, chứ không chỉ quậy phá điên cuồng như loài thiên cẩu đâu.
 

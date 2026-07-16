@@ -1,6 +1,8 @@
 # Đoạn phụ: Người cô giáo chỉ muốn những gì tốt nhất cho học sinh
 *(Interlude: A Teacher Wants Only What Is Best for Her Students)*
 
+![Minh họa: page_202_img_29.jpg](../../source/images/vol_10/page_202_img_29.jpg)
+
 "Oka. Cô vẫn ổn chứ?"
 
 "Vâng."
@@ -252,7 +254,7 @@ Tất nhiên, mục tiêu chính là giúp đỡ quân phản loạn lật đổ
 
 Nhưng việc tìm kiếm học sinh của tôi ở một khu vực nguy hiểm đã biết sẽ là yêu cầu ích kỷ của riêng tôi.
 
-Chắc chắn tôi không thể kéo các người elf khác vào vòng nguy hiểm gần như chắc chắn chỉ vì những lý do cá nhân như vậy được.
+Chắc chắn tôi không thể kéo các bạn elf khác vào vòng nguy hiểm gần như chắc chắn chỉ vì những lý do cá nhân như vậy được.
 
 "Vậy thì ít nhất hãy để tôi đi một mình—"
 

@@ -1,6 +1,8 @@
 # Đoạn phụ: Huynh đệ
 *(Interlude: Brothers)*
 
+![Minh họa: page_125_img_19.jpg](../../source/images/vol_10/page_125_img_19.jpg)
+
 Lôi kéo cổ áo phía sau của Bloe, tôi nhanh chóng sải bước về phía phòng riêng của mình trong lâu đài Ma Vương, nơi tôi thường nghỉ ngơi mỗi đêm.
 
 Với tư cách là người đứng đầu một gia tộc công tước, tôi được huấn luyện tương đối bài bản, nhưng chỉ số của tôi không thể so sánh với Bloe, người đã trực tiếp dẫn dắt các quân đoàn xông pha trận mạc.
@@ -295,4 +297,4 @@ Tôi không có lựa chọn nào khác ngoài việc tin tưởng vào lời tu
 
 ---
 
-[◀ Chương trước: Chương 5: Hãy quan sát một cuộc họp](05_lets_observe_a_meeting.md) | [Chương tiếp theo: Đoạn phụ: Cựu Quỷ thừa nhận thất bại ▶](interlude_the_elder_demon_admits_defeat.md)
+[◀ Chương trước: Chương 5: Hãy quan sát một cuộc họp](05_lets_observe_a_meeting.md) | [Chương tiếp theo: Đoạn phụ: Trưởng lão Ma tộc thừa nhận thất bại ▶](interlude_the_elder_demon_admits_defeat.md)

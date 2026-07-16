@@ -1,6 +1,8 @@
 # Hãy gieo rắc đau thương
 *(Let’s Bring the Pain)*
 
+![Minh họa: page_96_img_16.jpg](../../source/images/vol_10/page_96_img_16.jpg)
+
 Này, lại là tôi đây. Người vừa đột ngột xuất hiện từ hư không và đấm thẳng vào mặt Potimas ấy.
 
 Hèn nhát á?

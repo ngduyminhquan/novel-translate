@@ -1,5 +1,7 @@
-# Đoạn phụ: Cựu Quỷ thừa nhận thất bại
+# Đoạn phụ: Trưởng lão Ma tộc thừa nhận thất bại
 *(Interlude: The Elder Demon Admits Defeat)*
+
+![Minh họa: page_133_img_20.jpg](../../source/images/vol_10/page_133_img_20.jpg)
 
 "Đợi đã."
 
@@ -376,6 +378,8 @@ Tất cả những gì còn lại là cảnh tượng căn phòng của tôi ở
 Nhưng đôi bàn tay nắm chặt của tôi, siết mạnh đến mức rớm máu—cách duy nhất tôi có thể giữ được sự bình tĩnh của mình—nhắc nhở tôi rằng mọi chuyện là quá đỗi chân thực.
 
 Có vẻ như mặc dù tôi đã chấp nhận số phận khả dĩ là bị xóa sổ, tôi vẫn không khỏi cảm nhận nỗi sợ hãi vào khoảnh khắc đối mặt với sự thật.
+
+![Minh họa: page_142_img_21.jpg](../../source/images/vol_10/page_142_img_21.jpg)
 
 Tôi đoán Warkis, người đã ngã xuống một cách cao quý như vậy, là một người đàn ông tốt hơn tôi nhiều.
 

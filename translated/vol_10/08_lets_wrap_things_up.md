@@ -1,6 +1,8 @@
 # Hãy dứt điểm mọi chuyện
 *(Let’s Wrap Things Up)*
 
+![Minh họa: page_210_img_30.jpg](../../source/images/vol_10/page_210_img_30.jpg)
+
 Nhóm Đưa Cô Oka Về Nhà: Nhiệm vụ hoàn thành!
 
 Trời ạ, thỉnh thoảng mọi chuyện thực sự lại diễn ra theo chiều hướng tốt đẹp nhất.
@@ -25,7 +27,7 @@ Làm thế nào để lười biếng huấn luyện ư? Xin lỗi, tôi không 
 
 Thực sự, đối với toàn bộ cái vấn đề tận thế của thế giới này, tôi kiểu như không mấy quan tâm lắm miễn là nó có thể chờ cho đến SAU KHI tôi rời khỏi hành tinh này.
 
-Nhưng các người biết đấy.
+Nhưng các bạn biết đấy.
 
 Nếu tôi thực sự muốn giúp đỡ Ma Vương, thái độ đó sẽ không thể chấp nhận được.
 
@@ -344,8 +346,300 @@ Vậy tại sao không cứu nó theo một cách phi logic chứ?
 
 Cả Güli-güli lẫn Ma Vương đều nhìn tôi đầy hoài nghi.
 
-Ngay cả Reise, người nãy giờ vẫn im lặng lắng nghe, cũng quay sang nhìn chằm chằm vào tôi. Mặc dù...
+Ngay cả Reise, người nãy giờ vẫn im lặng lắng nghe, cũng quay sang nhìn chằm chằm vào tôi. Mặc dù tôi không thể đọc được nét mặt của cái bản mặt thằn lằn đó đang biểu lộ cảm xúc gì.
+
+"Ngươi nói thế nghĩa là sao?"
+
+Güli-güli hỏi câu hỏi mà chắc hẳn tất cả bọn họ đều đang nghĩ trong đầu.
+
+Thế giới này được duy trì bởi hệ thống, nên tôi cũng không thể trách bọn họ khi nhìn tôi như thể tôi bị mất trí khi đề xuất phá hủy nó.
+
+Nhưng nghĩ lại mà xem—ý tôi là, thực sự nghĩ kỹ lại đi.
+
+Hệ thống này được tạo ra bởi không ai khác ngoài D.
+
+Bạn biết đấy, tà thần siêu cấp xấu tính tự phong ấy?
+
+Cái tên khốn thối tha đó chính là kẻ đã thiết kế nên toàn bộ hệ thống này.
+
+Sẽ thật vô nghĩa nếu chúng ta cố gắng đối đầu trực diện với nó.
+
+Không, chắc chắn phải có một loại mánh khóe bẩn thỉu nào đó mà chúng ta có thể lợi dụng.
+
+Hiểu rõ tính cách của D, tôi chắc chắn có một lối thoát khác, thứ gì đó được giấu kín theo một cách cực kỳ hèn hạ mà bình thường bạn sẽ không bao giờ tìm ra được.
+
+Tôi đã thề là sẽ cứu Ma Vương, nhớ không?
+
+Nên tôi đã suy nghĩ về cách để cứu lấy thế giới này.
+
+Và cuối cùng, kết luận mà tôi đạt được chính là chúng ta phải phá vỡ hệ thống.
+
+Tôi nuốt nước bọt và cố gắng trấn tĩnh bản thân trước khi nói tiếp.
+
+Với một chủ đề siêu cấp nghiêm túc thế này, ngay cả một đứa dốt giao tiếp như tôi cũng biết rằng việc nói ngắn gọn sẽ không giải quyết được vấn đề.
+
+Nhất là khi số phận của Ma Vương đang phụ thuộc vào màn thuyết trình bán hàng này.
+
+"Hệ thống là một thuật kiến tạo khổng lồ nâng đỡ thế giới này. Nó tái tạo hành tinh đã bị tàn phá này, bóp méo quy luật sinh tử, và ban cho sức mạnh siêu nhiên được gọi là kỹ năng."
+
+Hệ thống thực chất chỉ là một thuật kiến tạo vĩ đại.
+
+Chức năng chính của nó là giữ cho hành tinh đổ nát này tiếp tục tồn tại.
+
+Nhưng nó cũng có một vài chức năng khác.
+
+Thành thật mà nói, nếu tất cả những gì bạn muốn chỉ là phục hồi thế giới, bạn không thực sự cần tất cả những thứ phức tạp đó.
+
+Hệ thống ép buộc con người phải luân hồi ở thế giới này đi luân hồi lại nhiều lần, giam cầm họ tại đây.
+
+Nó khuyến khích họ cài đặt thật nhiều gói mở rộng linh hồn được gọi là kỹ năng, sau đó thu hồi các kỹ năng đó khi họ chết và tái sinh, biến chúng thành năng lượng MA để giúp duy trì sự sống cho thế giới.
+
+Về cơ bản: Hệ thống thực chất là một cỗ máy dùng con người làm nhiên liệu.
+
+Nhưng như tôi vừa nói, nếu chỉ muốn hành tinh hồi phục, bạn không cần phải làm việc đó theo một cách vòng vo như vậy.
+
+"Ông có biết cần bao nhiêu năng lượng để duy trì tất cả các chức năng phức tạp của hệ thống không?"
+
+Người duy nhất có thể trả lời chính xác câu hỏi đó có lẽ là Güli-güli, vì ông ta là một vị thần có thể thực sự sử dụng thuật kiến tạo.
+
+Nhưng có vẻ như những gì tôi đang cố gắng nói cũng đã truyền tải được đến Ma Vương.
+
+"Nếu chúng ta dùng nguồn năng lượng đó cho việc phục hồi thay thế, liệu có đủ không?" cô ấy hỏi.
+
+Hệ thống bóp méo trật tự tự nhiên của sinh tử luân hồi ở thế giới này, tăng cường sức mạnh cho con người bằng thuật kiến tạo lố bịch được gọi là chỉ số, và thậm chí chất đống kỹ năng lên như một cách để vắt kiệt thêm năng lượng từ các linh hồn.
+
+Rõ ràng, việc vận hành một thuật kiến tạo phức tạp đến mức lố bịch như vậy phải tiêu tốn một lượng năng lượng tương ứng.
+
+Chúng ta chỉ cần phá vỡ các phần không cần thiết của hệ thống, lấy nguồn năng lượng được giải phóng từ đó, và dồn toàn bộ vào phần phục hồi hành tinh.
+
+Hệ thống giữ chúng ta sống, nhưng giờ chúng ta sẽ tiêu diệt hệ thống.
+
+Bình thường, không một người tỉnh táo nào lại đi đề xuất cách tiếp cận đó.
+
+Nhưng chúng ta đang nói về D ở đây. Tôi cá là cô ta đã cố tình đưa vào một phương pháp tục tĩu mà đáng lẽ không ai có thể tìm ra hay thực hiện được.
+
+Tuy nhiên, thật không may là Ma Vương chỉ đúng một nửa.
+
+"Với tình trạng hiện tại của chúng ta thì không. Chưa được đâu."
+
+Đúng vậy. Khi tôi tính toán lượng năng lượng trong hệ thống và so sánh nó với tình trạng tàn phá hiện tại của hành tinh, tôi xác định rằng nó sẽ không đủ để khôi phục hoàn toàn hành tinh này.
+
+Nếu chúng ta phá vỡ các bộ phận thu hồi năng lượng của hệ thống, chúng ta sẽ không thể tạo ra thêm năng lượng để sửa chữa hành tinh nữa, nên việc phục hồi sẽ không bao giờ hoàn thành.
+
+Nói cách cách khác, phương pháp bí mật này chỉ hoạt động một khi chúng ta đã tích lũy đủ năng lượng để khôi phục hoàn toàn hành tinh.
+
+"Chúng ta chỉ cần bù đắp phần còn thiếu mà thôi."
+
+Thế giới này vẫn còn các kỹ năng, một phương pháp sản sinh năng lượng bằng cách sử dụng sức mạnh của linh hồn.
+
+Chúng ta cần con người nâng cao kỹ năng của họ, tích lũy thêm năng lượng và sau đó để hệ thống thu hồi nó—nói cách khác, chúng ta cần họ chết.
+
+"Ta hiểu rồi. Vậy thì ta đoán chuyện đó không làm thay đổi những gì ta buộc phải làm."
+
+Những gì Ma Vương đã và đang cố gắng thực hiện là châm ngòi cho một cuộc chiến tranh giữa con người và ma tộc, ép buộc cả hai bên phải nâng cao kỹ năng của mình, và sau đó thu hồi thêm năng lượng cho thế giới khi họ ngã xuống trong trận chiến.
+
+Vì chúng ta cần thu thập nhiều năng lượng hơn nữa, kế hoạch này vẫn hoạt động cực kỳ hoàn hảo.
+
+Khác biệt duy nhất là trong khi Ma Vương lên kế hoạch trả lại nguồn năng lượng đó cho hệ thống đang thiếu hụt năng lượng theo cách thông thường, tôi lại có những kế hoạch khác về cách sử dụng nó.
+
+"Khoan đã. Về mặt lý thuyết thì chuyện đó có vẻ khả thi, nhưng D sẽ không bao giờ đứng nhìn khi có ai đó cố tình phá hủy hệ thống đâu."
+
+Một lời phản đối từ Güli-güli.
+
+Cũng hợp lý thôi. Vì về mặt kỹ thuật, ông ta chịu trách nhiệm duy trì hệ thống với tư cách là một quản trị viên, nên ông ta có lẽ không thể dễ dàng chấp nhận kế hoạch này, ngay cả khi ông ta hiểu logic đằng sau nó.
+
+Và tôi chắc chắn ông ta nghĩ rằng cấp trên của mình, D, sẽ nổi giận nếu chúng tôi làm điều gì đó như thế.
+
+Nhưng tôi có thể khẳng định chắc chắn điều này.
+
+"Chuyện đó sẽ không phải là vấn đề đâu."
+
+Ý tôi là, chúng ta đang nói về D đấy, biết chứ?
+
+Cô ta sẽ không gặp vấn đề gì với việc hệ thống bị phá hủy miễn là cô ta nghĩ chuyện đó sẽ mang tính giải trí hơn.
+
+Nếu có gì xảy ra, tôi cá là D đã và đang chờ đợi Güli-güli thực hiện một bước đi nguy hiểm như vậy, chỉ để xem kịch hay mà thôi.
+
+Một kế hoạch điên rồ như phá hủy hệ thống chỉ khả thi đối với một vị thần như Güli-güli.
+
+Nếu D thực sự cố tình đưa lựa chọn đó vào hệ thống, tôi nghĩ có thể đoán chắc rằng cô ta đang hy vọng Güli-güli sẽ chọn nó.
+
+"Nhưng..."
+
+"Sẽ ổn thôi mà. Tôi hứa đấy."
+
+Bên cạnh đó, giờ đây khi D đã bị cô Hầu Gái lôi đi rồi, cô ta dù thế nào cũng không thể can thiệp vào chuyện của chúng tôi nữa.
+
+Khi mèo đi vắng thì chuột sẽ tung hoành thôi!
+
+Cô ta có thể nổi giận sau này, nhưng tôi không quan tâm.
+
+Và tôi khá chắc chắn là cô ta cũng sẽ không giận đâu.
+
+Nên tôi cứ khăng khăng là sẽ ổn thôi.
+
+"Nhưng dù thế—"
+
+"Thành thật mà nói, chuyện này cơ bản là do sự tắc trách của ông với tư cách là quản trị viên đấy."
+
+Trước câu nói đó, khuôn mặt của Güli-güli sụp đổ.
+
+Trời ạ, tôi có ác quá không nhỉ?
+
+Nhưng đó là sự thật mà! Nếu Güli-güli làm tốt công việc của mình hơn, chúng ta đã không rơi vào tình cảnh này.
+
+Ngay cả khi việc nói toạc móng heo ra khiến tôi trở thành kẻ tồi tệ nhất, điều đó cũng không thay đổi được sự thật!
+
+Đặc biệt là khi những gì tôi đề xuất ngay từ đầu là ông ta cơ bản hãy từ bỏ vị trí quản trị viên của mình để chúng ta có thể phá hủy hệ thống.
+
+"Tôi sẽ không yêu cầu ông giúp đỡ. Nhưng đừng có cố cản chúng tôi."
+
+Trở ngại lớn nhất đối với kế hoạch này chính là khả năng Güli-güli can thiệp.
+
+Những người duy nhất trên thế giới này có khả năng đánh bại tôi vào lúc này chỉ có Ma Vương, Potimas, và Güli-güli.
+
+Và cái tên cuối cùng kia chính là người duy nhất tôi có thể khẳng định không một chút nghi ngờ là mạnh hơn tôi rất, rất nhiều.
+
+Nếu Güli-güli cố gắng ngăn cản, kế hoạch của chúng tôi coi như tiêu đời.
+
+"HÍ HÍ. XEM RA LẦN NÀY NGÀI THUA RỒI NHỈ, CHỦ NHÂN?"
+
+Reise chọn đúng thời điểm này để cuối cùng cũng cất tiếng nói.
+
+"Ta đoán vậy."
+
+Güli-güli thở dài một tiếng thật sâu, trông giống hệt như một nhân viên văn phòng đang kiệt sức.
+
+"Được rồi. Ta sẽ không ngăn cản các ngài... Không, chính vì thất bại của ta mà chúng ta mới rơi vào tình cảnh khó khăn này. Ta không thể sử dụng trực tiếp sức mạnh của mình cho mục đích này, nhưng ta sẽ hỗ trợ các ngài hết mức có thể."
+
+Ông ta nở một nụ cười cay đắng.
+
+Ồ? Ồôồ!
+
+Tôi vốn dĩ đã thấy vui mừng khi ông ta đồng ý không can thiệp rồi, thế mà ông ta lại thực sự định giúp đỡ.
+
+Lời nói mỉa mai của tôi có vẻ lại có tác dụng quá mức cần thiết rồi hả?
+
+Dù thế nào đi nữa, tôi vẫn tính đây là một chiến thắng!
+
+"Ồ, thật sao? Vậy thì ông có thể, kiểu như, tập hợp một lũ rồng và phi long các thứ có thể biến thành dạng người để tạo thành một quân đội không?"
+
+Ma Vương giáng ngay cho ông ta một yêu cầu siêu to khổng lồ ngay từ bước đầu tiên.
+
+Oa! Cô ấy hoàn toàn lên kế hoạch bóc lột không chỉ Güli-güli mà ngay cả đám thuộc hạ của ông ta đến tận xương tủy!
+
+Chà, THẾ MỚI LÀ độc ác chứ!
+
+Cô ấy tận dụng mọi thứ và mọi người có thể, bắt tất cả bọn họ làm việc, rồi tự mình ru rú ở nhà.
+
+Đúng chuẩn NEET tối thượng!
+
+"Ông có thể làm Quân đoàn 9. Ta sẽ tước bỏ danh hiệu của thống lĩnh hiện tại và giao cho ông quản lý thay thế."
+
+"Như ngài muốn. Ta sẽ tuân theo mệnh lệnh của ngài, trong phạm vi hợp lý."
+
+Oa, cái yêu cầu vô lý đùng đoàng của cô ấy thực sự đã được chấp thuận kìa.
+
+Nghiêm túc đấy chứ? Một quản trị viên mà lại được phép đứng về một bên trong những chuyện thế này sao?
+
+Chà, tôi đoán điều đó chỉ cho thấy Güli-güli cảm thấy mắc nợ Ma Vương nhiều đến mức nào thôi.
+
+"Reise. Ngươi cũng đi cùng đi."
+
+"Ồ?"
+
+"Nếu Ma Vương Kiếm không còn ở đây nữa, thì ngươi cũng không cần phải ở lại đây làm gì."
+
+"TA HIỂU RỒI. TA VỐN ĐÃ QUEN VỚI KHÔNG GIAN NƠI THỜI GIAN NGƯNG ĐỌNG NÀY, NHƯNG NẾU NGÀI BẢO TA ĐI, TA SẼ THEO CHỦ NHÂN CỦA MÌNH."
+
+Hửm. Hóa ra thời gian bình thường được dừng lại bên trong căn phòng này sao?
+
+Tôi đoán điều đó giải thích cách Reise sinh sống trong chiều không gian trống rỗng này.
+
+Nếu bạn bị đóng băng thời gian, trừ khi có ai đó triệu hồi căn phòng lên thế này, bạn sẽ không cần thức ăn hay bất cứ thứ gì khác.
+
+Dù vậy, quả đúng là phong cách của D khi thản nhiên kiến tạo ra một thứ lố bịch như một căn phòng nơi thời gian ngưng đọng.
+
+Hình dáng của Reise bắt đầu thay đổi thành một con người, bằng cách sử dụng một loại kỹ thuật nào đó.
+
+Hình dạng con người kết quả có làn da ngăm đen và ngoại hình phi giới tính.
+
+Bộ âu phục và chiếc mũ lụa trông giống như trang phục của nam giới, nhưng chúng cũng có thể dễ dàng phù hợp với một người phụ nữ tuyệt đẹp.
+
+Nên ngay cả ở dạng người, ngươi cũng không có giới tính rõ ràng sao?!
+
+"Cho phép tôi tự giới thiệu lại bản thân. Tôi là Hắc Long Reise. Vì tôi đã sống trong thời gian ngưng đọng suốt thời gian dài như vậy, nên tôi hoàn toàn tràn trề sức trẻ so với những con cổ long khác. Ngài có thể tin tưởng vào tôi bất cứ khi nào ngài muốn."
+
+Reise đưa ra lời giới thiệu này với một nụ cười nhăn nhở.
+
+Là do tôi tưởng tượng ra, hay loài rồng thường có tính cách cực kỳ cường điệu nhỉ?
+
+Hay là tôi chỉ tình cờ gặp phải những con kỳ quặc nhất?
+
+Ngoài ra, tôi đoán bọn họ có thể nói chuyện bình thường khi ở dạng người.
+
+"Ta sẽ đi thu thập rồng và phi long từ mỗi vùng đất có thể biến hình. Ta sẽ không mang tất cả bọn họ đến đây, vì họ vẫn cần phải canh giữ lãnh thổ tương ứng của mình, nhưng đó vẫn sẽ là một số lượng đáng kể. Ariel, nếu không có gì khác, làm ơn hãy sắp xếp chuẩn bị tiếp nhận bọn họ trước khi ta trở lại nhé."
+
+"Được rồi."
+
+Trời ạ. Tôi hoàn toàn có thể biết chắc chắn rằng Ma Vương không hề có ý định tự mình làm việc đó.
+
+Cô ấy có lẽ sẽ đùn đẩy nhiệm vụ đó cho Balto.
+
+Cố gắng lên nhé, người anh em.
+
+"Chủ nhân, tôi sẽ đi cùng ngài. Tôi muốn được ngắm nhìn thế giới bên ngoài một chút."
+
+"Nếu ngươi muốn. Ngươi đã phải nhận lấy vai diễn khó chịu khi bị bỏ lại đông cứng trong thời gian suốt thời gian dài như vậy. Từ bây giờ, hãy làm những gì ngươi muốn, trong phạm vi vai diễn tiếp theo mà ngươi được giao."
+
+"Ồ, cảm ơn ngài."
+
+Reise trông thực sự vui mừng.
+
+Tôi không có cách nào biết được cảm giác một mình trong một căn phòng nhỏ nơi thời gian đứng im sẽ thế nào.
+
+Nhưng tôi nghi ngờ có ai lại muốn làm việc đó.
+
+Ấy thế mà, Reise lại không có lựa chọn nào khác, vì đó là vai diễn mà họ được ban cho.
+
+Thế giới này luôn có cách hy sinh những người như vậy để tiếp tục duy trì.
+
+Chuyện đó bao gồm cả Ma Vương và Güli-güli nữa.
+
+Tôi sẽ phá hủy cái lối sống tồi tệ đó.
+
+"Được rồi, cả đội! Hãy cứu lấy thế giới nào!"
+
+Ma Vương hét lên bằng một giọng nói cố ý tỏ ra tràn đầy năng lượng.
+
+Vì họ đã tìm thấy con đường phía trước sau khi không thể nhìn thấy ánh sáng suốt thời gian dài, cô ấy và Güli-güli trông đều vui vẻ hơn thường ngày.
+
+Tôi...
+
+Tôi đã không nói dối.
+
+Nếu chúng ta sử dụng hệ thống như một khoản bồi hoàn, chúng ta có thể nhận được lượng năng lượng mà thế giới cần.
+
+Có điều, phá vỡ hệ thống đồng nghĩa với việc loại bỏ các kỹ năng và chỉ số.
+
+Điều đó nghĩa là chúng sẽ bị cưỡng bức tước đoạt ra khỏi các linh hồn mà chúng đã gắn kết vào.
+
+Nên khi chúng ta thu thập toàn bộ nguồn năng lượng đó, nó sẽ cực kỳ khắc nghiệt đối với linh hồn của những người có nhiều kỹ năng và chỉ số cao.
+
+Tôi đã không nói dối.
+
+Nếu chúng ta phá vỡ hệ thống, chúng ta có thể cứu thế giới.
+
+Chỉ là, đổi lại, một lượng khổng lồ con người sống ở thế giới này sẽ phải chết.
+
+Tôi chỉ giữ phần đó cho riêng mình mà thôi, chỉ vậy thôi.
+
+Nếu điều đó nghĩa là cứu được Ma Vương và cô Oka, tôi không quan tâm nếu mình phải hy sinh hầu hết con người trên thế giới này để làm được việc đó.
+
+Mọi chuyện chỉ đơn giản là thế mà thôi.
+
+![Minh họa: page_225_img_31.jpg](../../source/images/vol_10/page_225_img_31.jpg)
 
 ---
 
-[◀ Chương trước: Đoạn phụ: Người cô giáo chỉ muốn những gì tốt nhất cho học sinh](interlude_a_teacher_wants_only_what_is_best_for_her_students.md) | [Chương tiếp theo: Vĩ thanh: Tà Thần ra đời như thế đó ▶](epilogue_thus_an_evil_god_is_born.md)
+[◀ Chương trước: Người cô giáo chỉ muốn những gì tốt nhất cho học sinh](interlude_a_teacher_wants_only_what_is_best_for_her_students.md) | [Chương tiếp theo: Vĩ thanh: Tà Thần ra đời như thế đó ▶](epilogue_thus_an_evil_god_is_born.md)

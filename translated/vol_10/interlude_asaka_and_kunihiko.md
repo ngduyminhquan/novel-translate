@@ -1,6 +1,8 @@
 # Đoạn phụ: Asaka và Kunihiko
 *(Interlude: Asaka and Kunihiko)*
 
+![Minh họa: page_183_img_25.jpg](../../source/images/vol_10/page_183_img_25.jpg)
+
 Tên tôi là Kushitani Asaka.
 
 Tôi cũng được đặt một cái tên mới ở thế giới này, nhưng tôi có cảm giác mơ hồ rằng mình sẽ không bao giờ được gọi bằng cái tên đó nữa.
@@ -148,6 +150,10 @@ Tôi không biết liệu điều đó có thực sự khả thi hay không, và
 Nên bất kể cậu ấy quyết định làm gì, tôi cũng sẽ đi theo cậu ấy.
 
 Nhưng hiện tại, tôi chỉ muốn khóc thật to như đứa trẻ con mà tôi đang khoác lên mình lúc này mà thôi.
+
+![Minh họa: page_187_img_26.jpg](../../source/images/vol_10/page_187_img_26.jpg)
+
+![Minh họa: page_188_img_27.jpg](../../source/images/vol_10/page_188_img_27.jpg)
 
 ---
 

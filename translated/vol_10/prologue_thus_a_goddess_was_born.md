@@ -1,6 +1,8 @@
 # Nữ thần ra đời như thế đó
 *(Prologue: Thus a Goddess Was Born)*
 
+![Minh họa: page_10_img_6.jpg](../../source/images/vol_10/page_10_img_6.jpg)
+
 Ngày xửa ngày xưa…
 
 Thế giới khi ấy đã vô cùng tân tiến.

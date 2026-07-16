@@ -1,6 +1,8 @@
 # Ma Vương lười biếng
 *(The Slacker Demon Lord)*
 
+![Minh họa: page_44_img_11.jpg](../../source/images/vol_10/page_44_img_11.jpg)
+
 Khi tôi đang thư giãn trong văn phòng của mình tại lâu đài Ma Vương, hai chân gác lên bàn, thì tiếng bước chân rầm rập như sấm truyền vào tai tôi.
 
 Kẻ đó xông thẳng tới phòng tôi và đẩy mạnh cửa bước vào mà không thèm gõ lấy một tiếng.

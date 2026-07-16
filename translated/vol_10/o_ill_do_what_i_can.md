@@ -1,6 +1,8 @@
 # Tôi sẽ làm những gì có thể
 *(I’ll Do What I Can)*
 
+![Minh họa: page_78_img_14.jpg](../../source/images/vol_10/page_78_img_14.jpg)
+
 Kể từ lần đầu tiên mở mắt ở lãnh địa ma tộc, cuộc sống của tôi trôi qua vô cùng yên bình.
 
 Tôi vẫn chưa gặp phải bất kỳ sự bất tiện nào, một phần là vì tôi đang trú ngụ tại dinh thự của một vị công tước đặc biệt giàu có.
@@ -526,6 +528,8 @@ Cô ấy tuyên bố mình làm việc này để bảo vệ các học trò cũ
 Cô thực sự có thể gọi điều đó là chính nghĩa sao?
 
 "Cô Oka."
+
+![Minh họa: page_91_img_15.jpg](../../source/images/vol_10/page_91_img_15.jpg)
 
 Khi tôi gọi cô bằng giọng trầm thấp, đôi vai cô run lên ở một mức độ gần như buồn cười.
 
