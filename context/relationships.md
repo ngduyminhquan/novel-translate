@@ -69,7 +69,7 @@ graph TD
 | **Sue gọi Shun** | Anh trai / Hoàng huynh (Nii-sama) / Anh |
 | **Shun xưng** | Anh / Tôi |
 | **Sue xưng** | Em |
-| **Trạng thái** | Shun yêu quý em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere), coi Shun là cả thế giới. |
+| **Trạng thái** | Shun yêu quý em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere), coi Shun là cả thế giới. <br><br>*Sự kiện Volume 13:* Để bảo vệ tính mạng cho Shun trước thế lực của Ma Vương, Sue chấp nhận hợp tác với White và để Natsume tẩy não bằng `[Ái Dục]`, giả vờ đóng vai phản diện phản bội anh trai. |
 | **Ghi chú** | Sue luôn tỏ ra ghen tị với bất kỳ ai tiếp cận Shun và cố gắng tỏ ra ngoan ngoãn dịu dàng nhất trước mặt Shun. |
 
 ---
@@ -470,7 +470,7 @@ graph TD
 | **Potimas gọi Cô Oka** | Con / Filimõs |
 | **Cô Oka xưng** | Con / Tôi |
 | **Potimas xưng** | Ta |
-| **Trạng thái** | Xa cách, thực dụng và căng thẳng ngầm. Cô Oka tuy là con gái Potimas nhưng hiểu rất rõ bản chất tàn nhẫn của ông ta. Cô biết rằng nếu mình xóa kỹ năng bằng [Xóa Kỹ Năng] (đồng nghĩa với việc dâng nộp sức mạnh cho các quản trị viên, kẻ thù của tộc Elf), Potimas sẽ sẵn sàng thanh trừng cô mà không hề biến sắc. Cô Oka vừa phải lợi dụng quyền lực của cha để bảo hộ các học sinh, vừa phải giữ lại các kỹ năng của mình để tự vệ và tránh bị thanh trừng, đồng thời bảo vệ các học sinh khỏi việc bị tộc Elf lợi dụng hay vứt bỏ. Trong Chương cuối Volume 7, sau khi White hóa thần, Potimas quyết tâm trả thù và đã ra lệnh mang Oka theo cùng lực lượng quân đội tộc Elf để dàn dựng cảnh các người tái sinh tự tàn sát lẫn nhau, một kế hoạch tàn độc mà hắn cho rằng sẽ rất thú vị và gây ra đau khổ tột cùng cho cả Oka lẫn White. |
+| **Trạng thái** | Xa cách, thực dụng và căng thẳng ngầm. Cô Oka tuy là con gái Potimas nhưng hiểu rất rõ bản chất tàn nhẫn của ông ta. Cô biết rằng nếu mình xóa kỹ năng bằng [Xóa Kỹ Năng] (đồng nghĩa với việc dâng nộp sức mạnh cho các quản trị viên, kẻ thù của tộc Elf), Potimas sẽ sẵn sàng thanh trừng cô mà không hề biến sắc. Cô Oka vừa phải lợi dụng quyền lực của cha để bảo hộ các học sinh, vừa phải giữ lại các kỹ năng của mình để tự vệ và tránh bị thanh trừng, đồng thời bảo vệ các học sinh khỏi việc bị tộc Elf lợi dụng hay vứt bỏ. Trong Chương cuối Volume 7, sau khi White hóa thần, Potimas quyết tâm trả thù và đã ra lệnh mang Oka theo cùng lực lượng quân đội tộc Elf để dàn dựng cảnh các người tái sinh tự tàn sát lẫn nhau, một kế hoạch tàn độc mà hắn cho rằng sẽ rất thú vị và gây ra đau khổ tột cùng cho cả Oka lẫn White.<br><br>*Sự kiện Volume 13:* Việc cô Oka kích hoạt quyền hạn thống trị của `[Nhân Ái]` để cứu học sinh của mình đã vô tình tiêu thụ phần linh hồn ký sinh của Potimas bám trên cô, giúp cô thoát khỏi sự kiểm soát của hắn. |
 
 ---
 ### QH-030: Hugo ↔ Cylis
@@ -2408,14 +2408,38 @@ graph TD
 | **Sue gọi Hugo** | Anh hùng giả mạo (false hero) / Ngươi / Tên khốn |
 | **Hugo xưng** | Ta / Tao |
 | **Sue xưng** | Tôi |
-| **Trạng thái** | Dưới sự sắp xếp của Tà thần (White/D), Hugo và Sue được công bố đính hôn để hợp thức hóa việc hành động cùng nhau dưới danh nghĩa quân đội đế quốc. Sue vô cùng kinh tởm và căm ghét Hugo, coi hắn là "tên anh hùng giả mạo" và "con sâu/ký sinh trùng", sẵn sàng giết hắn bất cứ lúc nào nếu không vì sự an toàn của hoàng huynh (Shun). Hugo thì luôn cười toe toét đểu giả trêu chọc và chế giễu cô, xem cô là "công chúa nhỏ được nuông chiều" nhưng cũng có phần e dè trước sự u ám căm hận của cô. |
+| **Trạng thái** | Dưới sự sắp xếp của White, Hugo dùng `[Ái Dục]` tẩy não Sue và cả hai được công bố đính hôn để hợp thức hóa việc hành động cùng nhau dưới danh nghĩa quân đội đế quốc. Sue vô cùng kinh tởm và căm ghét Hugo, coi hắn là "tên anh hùng giả mạo" và "con sâu/ký sinh trùng", sẵn sàng giết hắn bất cứ lúc nào nếu không vì sự an toàn của hoàng huynh (Shun). Hugo thì luôn cười toe toét đểu giả trêu chọc và chế giễu cô, xem cô là "công chúa nhỏ được nuông chiều" nhưng cũng có phần e dè trước sự u ám căm hận của cô. |
 | **Ghi chú** | Được thể hiện rõ trong Volume 13 Đoạn phụ: Em gái Anh hùng, con rối của Tà thần, và chú chó săn. |
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-19
-- **Tổng cặp quan hệ**: 174
+- **Tổng cặp quan hệ**: 176
+
+---
+
+### QH-175: Tôi (Nhện / White) ↔ Sue (Suelecia Analeit)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ mưu/Chủ nhân đứng sau ↔ Đồng minh/Quân cờ mật thiết bảo vệ Shun |
+| **White gọi Sue** | Sue / Cô bé / Em gái của Yamada |
+| **Sue gọi White** | White / Cô ta |
+| **Trạng thái** | White đã chủ động tiếp cận Sue để đề xuất hợp tác bảo vệ tính mạng của Shun, đổi lấy việc Sue phải làm việc cho cô. Sue đồng ý và chấp nhận để White sắp xếp cho Natsume dùng `[Ái Dục]` tẩy não cô. White làm việc này một phần để giúp Sue tránh được mặc cảm tội lỗi trực tiếp khi ám hại cha mình (Vua Analeit). White hứa sẽ cứu Sue khỏi các biến cố khi hủy diệt hệ thống để đền ơn cô đã giúp đỡ. |
+| **Ghi chú** | Xuất hiện trong Volume 13 Chương 7. |
+
+---
+
+### QH-176: Tôi (Nhện / White) ↔ Hugo (Natsume Kengo)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Chủ nhân (Tẩy não) ↔ Tay sai/Người sở hữu chìa khóa hệ thống |
+| **White gọi Hugo** | Natsume / Hugo |
+| **Hugo gọi Hugo** | - |
+| **Trạng thái** | White đã cấy một phân thân nhện nhỏ vào trong não của Natsume để tẩy não và thu phục hắn về phe mình, biến hắn thành một công cụ sở hữu hai kỹ năng Kẻ thống trị `[Ái Dục]` và `[Tham Lam]`. White sử dụng quyền năng tẩy não của Natsume để gián tiếp kiểm soát các học sinh tái sinh khác (như Ooshima, Hasebe) và buộc Sue ám hại phụ hoàng. |
+| **Ghi chú** | Xuất hiện trong Volume 13 Chương 7. |
 
 
 
