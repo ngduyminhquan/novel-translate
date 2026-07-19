@@ -48,7 +48,7 @@
 | 27 | Sophia / Sophia Keren | Sophia / Sophia Keren | Học sinh tái sinh (Vampire) |
 | 28 | Klevea | Klevea | Hầu gái cũ của Shun và Sue |
 | 29 | D / Administrator D | D / Quản trị viên D | Quản trị viên tối cao đứng sau hệ thống |
-| 30 | Güliedistodiez (Gyuristodief) / Black | Güliedistodiez (Gyuristodief) / Quản trị viên Hắc / Güli-güli | Quản trị viên cấp cao của thế giới |
+| 30 | Güliedistodiez (Güliedistodiez) / Black | Güliedistodiez (Güliedistodiez) / Quản trị viên Hắc / Güli-güli | Quản trị viên cấp cao của thế giới |
 | 31 | Merazophis | Merazophis | Thống lĩnh Quân đoàn 4 dưới quyền Ma Vương |
 | 32 | Balto | Balto | Tướng lĩnh ma tộc, phụ tá đắc lực quản lý hành chính cho Ma Vương |
 | 33 | White / Shiraori | White / Bạch | Thống lĩnh Quân đoàn 10, danh phận tương lai của Nhện nhỏ |

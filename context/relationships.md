@@ -521,19 +521,19 @@ graph TD
 
 ---
 
-### QH-034: Tôi (Nhện) ↔ Gyuristodief (Quản trị viên Hắc)
+### QH-034: Tôi (Nhện) ↔ Güliedistodiez (Quản trị viên Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Đối tác thương lượng bất đắc dĩ / Thần linh và Người tái sinh |
-| **Tôi gọi Gülie** | Güli-güli / anh ta / hắn / Quản trị viên Gyuristodief / Gã áo đen |
+| **Tôi gọi Gülie** | Güli-güli / anh ta / hắn / Quản trị viên Güliedistodiez / Gã áo đen |
 | **Gülie gọi Tôi** | Ngươi |
 | **Tôi xưng** | Tôi (trong độc thoại / thần giao cách cảm) / Ta (độc thoại) |
 | **Gülie xưng** | Ta |
 | **Trạng thái** | Sau khi đạt [Cấm kỵ LV 10], Nhện nhận ra người đàn ông da ngăm đen mặc giáp đen này là Quản trị viên Güliedistodiez. Trong Chương 7 Volume 5, Güli-güli trực tiếp dịch chuyển đến gặp cô sau khi cô hồi sinh từ trứng. Anh ta tặng cô xác bầy địa long để cô ăn hồi phục như lời xin lỗi vì đã gián tiếp giúp Ariel tìm ra cô, đồng thời cam kết không can thiệp vào người tái sinh nữa. Tuy nhiên, Nhện nhỏ từ chối yêu cầu ngừng can thiệp vào Ariel (vì phân thân não thể xác cũ của cô bị kẹt trong Ariel) và con người. Güli-güli cảnh báo cô nếu cô đi ngược lại lợi ích của anh ta, anh ta sẽ đứng ra ngăn cản. Ở Volume 6 Chương R4, Güli-güli dịch chuyển đến ngăn chặn đàn nhện con do các Phân thân Tư duy dẫn dắt khi chúng định ăn bầy phi long bảo vệ trứng, tuyên bố bất kỳ hành động gây hấn nào tiếp theo sẽ là tuyên chiến với hắn. Trong Cuộc họp Phân thân Tư duy #4, các Phân thân Tư duy gọi hắn là "trùm cuối" và quyết định rút lui khỏi Tầng Dưới để tránh chọc giận hắn, đồng thời lên kế hoạch đi săn loài người để lấy EXP nuôi bầy nhện con. Trong Volume 6 Chương 5, sau khi cô tiêu diệt các Phân thân Tư duy nổi loạn, cả hai đã uống rượu cùng Ariel. Güli-güli nhận định tính cách ích kỷ và kiêu ngạo của cô rất giống D, định ra tay trừng trị cô vì quá nguy hiểm nhưng bị D gọi điện thoại ngăn cản. Khi anh ta hỏi về dự định tương lai, cô tuyên bố sẽ chỉ hành động theo ý chí và lòng tự tôn của chính mình, không để ai can thiệp. Ở Volume 9 Chương 6, Güli-güli trực tiếp tìm đến White tại buổi trà chiều để nhờ cô ngăn chặn Wrath (vì hắn bị ràng buộc bởi giao ước với D nên không thể tự can thiệp). White đồng ý giúp đỡ. Sau trận đấu, Güli-güli hết lời khen ngợi khả năng làm chủ ma pháp không gian của cô, thừa nhận cô đã vượt mặt hắn và có thể dễ dàng rời khỏi hành tinh này. Hắn cũng đồng ý với yêu cầu không can thiệp của cô đối với Wrath thay cho phần thưởng.<br><br>*Sự kiện Volume 13:* Trong Chương 5, Güli-güli dưới dạng phân thân Hyrince đã đối thoại riêng tư với White tại lâu đài hoàng thành Analeit sau khi cô thực hiện thành công thí nghiệm giết rồi hồi sinh Leston bằng kỹ năng [Từ Bi] của Shun. Hyrince chất vấn cô về việc để Ronandt chiến đấu với Shun và than phiền về nỗi đau của bản thân khi chứng kiến Julius chết và Shun chịu khổ. Dù vậy, ông thừa nhận con đường cô chọn là lối thoát tốt nhất và cam kết không can thiệp. White cũng xác nhận qua thí nghiệm rằng linh hồn ký sinh của Potimas đã bị trục xuất sau khi đối tượng chết, mở ra hy vọng giải thoát cô Oka. Trong Chương 8, White phát hiện thanh Anh Hùng Kiếm vẫn kết thúc ở thắt lưng của Yamada do Hyrince chuyển giao (dưới danh nghĩa di nguyện của Julius) và cảm thấy cực kỳ bực bội trước hành động thiếu trách nhiệm của ông ta khi trao vũ khí chống thần cực kỳ nguy hiểm này cho người khác. |
 
 ---
-### QH-035: Gyuristodief (Quản trị viên Hắc) ↔ Quản trị viên D
+### QH-035: Güliedistodiez (Quản trị viên Hắc) ↔ Quản trị viên D
 
 
 | Thuộc tính | Chi tiết |
@@ -697,7 +697,7 @@ graph TD
 
 ---
 
-### QH-047: Balto ↔ Gyuristodief (Black / NV-030)
+### QH-047: Balto ↔ Güliedistodiez (Black / NV-028)
 
 
 | Thuộc tính | Chi tiết |
@@ -1411,7 +1411,7 @@ graph TD
  
 ---
 
-### QH-101: Ariel ↔ Gyuristodief (Quản trị viên Hắc)
+### QH-101: Ariel ↔ Güliedistodiez (Quản trị viên Hắc)
 
 
 | Thuộc tính | Chi tiết |
@@ -1683,7 +1683,7 @@ graph TD
 
 ---
 
-### QH-121: Ronandt ↔ Gyuristodief (Quản trị viên Hắc)
+### QH-121: Ronandt ↔ Güliedistodiez (Quản trị viên Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1783,7 +1783,7 @@ graph TD
 
 ---
 
-### QH-129: Potimas Harrifenas ↔ Gyuristodief (Quản trị viên Hắc)
+### QH-129: Potimas Harrifenas ↔ Güliedistodiez (Quản trị viên Hắc)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -2399,12 +2399,12 @@ graph TD
 
 ---
 
-### QH-174: Hugo ↔ Sue (Suresia)
+### QH-174: Hugo ↔ Sue (Suelecia)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Quan hệ** | Đính hôn giả tạo cưỡng ép (vì mục đích chính trị/quản lý) |
-| **Hugo gọi Sue** | Sue / Công chúa Suresia / Vị hôn thê yêu quý (my dear fiancée) |
+| **Hugo gọi Sue** | Sue / Công chúa Suelecia / Vị hôn thê yêu quý (my dear fiancée) |
 | **Sue gọi Hugo** | Anh hùng giả mạo (false hero) / Ngươi / Tên khốn |
 | **Hugo xưng** | Ta / Tao |
 | **Sue xưng** | Tôi |

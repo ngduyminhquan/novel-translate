@@ -25,7 +25,7 @@ Với vẻ mặt không chút bận tâm, hắn bước vào phòng rồi tự n
 
 “Cũng đừng gọi tôi là Sue. Chỉ có hoàng huynh yêu quý và những người thân thiết nhất của tôi mới được phép gọi như thế.”
 
-“Được rồi, được rồi. Vậy thì là Công chúa Suresia nhé.”
+“Được rồi, được rồi. Vậy thì là Công chúa Suelecia nhé.”
 
 Hugo nhún vai cùng một nụ cười toe toét đểu giả.
 

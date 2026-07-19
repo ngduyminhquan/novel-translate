@@ -659,12 +659,12 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 
-### NV-028: Gyuristodief (Quản trị viên Hắc / Black)
+### NV-028: Güliedistodiez (Quản trị viên Hắc / Black)
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Tên gốc** | Güliedistodiez / Gyuristodief / Black |
-| **Tên dịch** | Güliedistodiez (Gyuristodief) / Güli-güli / Hắc |
+| **Tên gốc** | Güliedistodiez / Güliedistodiez / Black |
+| **Tên dịch** | Güliedistodiez (Güliedistodiez) / Güli-güli / Hắc |
 | **Biệt danh** | Quản trị viên Hắc (Black) / Hắc y nhân |
 | **Tuổi** | Cổ xưa (Thần cấp) |
 | **Giới tính** | Nam |
@@ -814,9 +814,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Nghiêm túc, trách nhiệm.
 
 ---
-
 ### NV-035: Sanatoria
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -825,15 +823,15 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Thống lĩnh Quân đoàn 2 |
 | **Giới tính** | Nữ |
 | **Vai trò** | Thống lĩnh Quân đoàn 2 của quân đội Ma Vương, succubus xảo quyệt, thủ lĩnh ngầm của phe làm phản chống Ariel |
-| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2, Tập 4 |
+| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2, Tập 4, Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
 
 **Tính cách tổng quát:**
-> Một nữ ma tộc succubus vô cùng quyến rũ, sắc sảo và xảo quyệt. Cô luôn tính toán thực tế và nhận thấy đi theo Ma Vương Ariel sẽ chỉ dẫn đến sự hủy diệt cho ma tộc. Sau cái chết của Agner, cô tiếp tục liên hệ với tộc Elf, giữ nguyên thực lực của Quân đoàn 2 để mưu đồ đảo chính lật đổ Ma Vương. Cô nhầm tưởng Ma Vương yếu thế vì chưa bao giờ tự mình ra trận.
+> Một nữ ma tộc succubus vô cùng quyến rũ, sắc sảo, có thân hình đẫy đà và cực kỳ thực dụng. Cô luôn tính toán thực tế và phản đối cuộc chiến tranh hủy diệt chống lại loài người vì điều đó chỉ dẫn đến sự tàn lụi của ma tộc. Ban đầu, cô tham gia vào âm mưu nổi loạn ngầm lật đổ Ma Vương mới (liên kết với tộc Elf), giữ nguyên thực lực của Quân đoàn 2 và nghĩ rằng Ariel yếu thế. Tuy nhiên, sau khi chứng kiến sự đáng sợ tột cùng của Ariel, cô đã hoàn toàn khuất phục trong sợ hãi và tuân phục vô điều kiện để bảo toàn tính mạng.
+> *Sự kiện Volume 13:* Dùng mưu dụ bầy khỉ Anogratch công phá Pháo đài Okun để chiếm nó mà không tốn binh sĩ nào. Khi nhận được lệnh viết tay của Ma Vương do Phelmina chuyển tới, cô đã tức tốc tập hợp quân đội rút lui ngay lập tức vì nỗi sợ hãi Ma Vương.
 
 **Văn phong nói chuyện:**
-- **Ngôn ngữ**: Thanh lịch, quyến rũ, ngọt ngào nhưng ẩn chứa âm mưu và toan tính.
-- **Cảm xúc chủ đạo**: Tự tin, xảo quyệt, sắc sảo.
-
+- **Ngôn ngữ**: Thanh lịch, quyến rũ, ngọt ngào nhưng ẩn chứa âm mưu và toan tính khi nói chuyện với kẻ thù. Khi nói chuyện với Ma Vương Ariel, dùng thái độ nịnh nọt và vô cùng kính cẩn để bảo toàn mạng sống.
+- **Xưng hô**: Xưng "tôi" (hoặc "ta" với cấp dưới), gọi Ariel là "Bệ hạ" hoặc "Ma Vương vĩ đại".
 ---
 
 ### NV-036: Kogou
@@ -856,9 +854,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Lo lắng, sợ sệt.
 
 ---
-
 ### NV-037: Huey
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -867,15 +863,15 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Thống lĩnh Quân đoàn 6 (Đã tử trận) |
 | **Giới tính** | Nam |
 | **Vai trò** | Thống lĩnh Quân đoàn 6 của quân đội Ma Vương, đã tử trận dưới ma pháp của Ronandt |
-| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2 |
+| **Xuất hiện** | Xuất hiện trong cuộc họp ma tộc Tập 2, Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
 
 **Tính cách tổng quát:**
-> Thống lĩnh trẻ tuổi có ngoại hình và tính cách tương đối trẻ con nhưng năng lực và trí tuệ rất xứng đáng với vị trí của mình. Cậu ta rất thân thiết với Sanatoria. Trong trận chiến pháo đài loài người, quân đoàn của cậu đụng độ với pháp sư mạnh nhất nhân loại - Ronandt, và Huey đã bị hạ gục trực tiếp bởi ma pháp của Ronandt.
+> Thống lĩnh Quân đoàn 6 của quân đội Ma Vương, có hình dáng giống một cậu bé, tính tình năng nổ, thỉnh thoảng tỏ ra bồng bột và thiếu chín chắn nhưng rất quan tâm đến binh sĩ dưới quyền. Cậu ta rất thân thiết với Sanatoria. Cậu từng tham gia âm mưu nổi loạn chống Ariel và lập bẫy Anh hùng, nhưng sau khi thất bại và bị Ariel trừng phạt tàn khốc (tiêu diệt biệt đội tinh nhuệ), cậu đành chấp nhận phục tùng trong sự bất lực và sợ hãi tột cùng. Trong Đại chiến Nhân-Ma tại Pháo đài Kusorion, quân đoàn của cậu đụng độ pháp sư mạnh nhất nhân loại - Ronandt, và Huey đã anh dũng tử trận trực tiếp bởi ma pháp của Ronandt.
 
 **Văn phong nói chuyện:**
-- **Ngôn ngữ**: Trẻ trung nhưng có sự chín chắn khi cần thiết.
+- **Ngôn ngữ**: Trẻ trung nhưng có sự chín chắn khi cần thiết. Nói chuyện to tiếng, thỉnh thoảng tỏ ra bồng bột nhưng dám đứng ra nhận trách nhiệm để bảo vệ đồng đội.
+- **Xưng hô**: Xưng "tôi", gọi Ariel là "Ma Vương vĩ đại".
 - **Cảm xúc chủ đạo**: Nhiệt huyết, hơi bốc đồng.
-
 ---
 
 ### NV-038: Taratect Rối (Puppet Taratect)
@@ -1350,32 +1346,27 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thản nhiên trước hành động bạo lực nhưng tỏa ra luồng sát khí cuồn cuộn cực kỳ áp đảo, tựa như một thanh kiếm đã tuốt trần.
 
 ---
-
 ### NV-060: Tiva
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
 | **Tên gốc** | Tiva |
 | **Tên dịch** | Tiva |
-| **Biệt danh** | Tổng chỉ huy Tiva |
+| **Biệt danh** | Tổng chỉ huy Tiva / Kỵ sĩ hoàng gia |
 | **Tuổi** | Trưởng thành (Độ tuổi sung mãn nhất) |
 | **Giới tính** | Nam |
-| **Vai trò** | Kỵ sĩ hoàng gia có tước vị của Đế quốc Renxandt, Tổng chỉ huy lực lượng liên minh chống lại Sariella |
-| **Xuất hiện** | Volume 6 Chương R1 |
+| **Vai trò** | Kỵ sĩ hoàng gia có tước vị của Đế quốc Renxandt, Tổng chỉ huy quân đội đế quốc liên minh chống lại Sariella |
+| **Xuất hiện** | Nhắc đến ở Volume 6 và xuất hiện ở Volume 8 Chương R1 |
 
 **Tính cách tổng quát & Sự kiện:**
-> Là một kỵ sĩ nghiêm túc, siêng năng và rất được Kiếm Vương đương nhiệm tin tưởng. Anh ta có khả năng thích ứng cực kỳ nhanh nhạy trước những tình huống bất ngờ. Trong chương R1, anh ta chạm trán Ronandt tự ý đến Hạt Keren. Dù ngoài miệng tỏ ra lịch sự kính trọng gọi Ronandt là "ngài", Tiva lại rất cứng rắn và thẳng thắn phê bình việc Ronandt trốn lệnh quản thúc tại gia để đi lung tung, đồng thời kiên quyết bắt Ronandt ở lại thị trấn không được đi đâu.
+> Là một kỵ sĩ nghiêm túc, siêng năng và rất được Kiếm Vương đương nhiệm tin tưởng. Ông có nỗi đau mất cả gia đình con trai, con dâu và cháu nội trong một vụ tai nạn xe ngựa được dàn dựng bởi tổ chức bắt cóc, từ đó nung nấu quyết tâm sâu sắc truy quét tận gốc tổ chức tội phạm này để cứu các nạn nhân trẻ em. Trong chương R1 Tập 6, ông chạm trán Ronandt tự ý đến Hạt Keren. Dù ngoài miệng tỏ ra lịch sự kính trọng gọi Ronandt là "ngài", Tiva lại rất cứng rắn và thẳng thắn phê bình việc Ronandt trốn lệnh để đi lung tung, kiên quyết yêu cầu ông ta tuân thủ quân lệnh và không được rời thị trấn.
 
 **Văn phong nói chuyện:**
-- **Ngôn ngữ**: Trang trọng, nhã nhặn nhưng vô cùng kiên quyết, lý lẽ rõ ràng, không ngần ngại phê bình sự ngớ ngẩn lập dị của Ronandt.
+- **Ngôn ngữ**: Trang trọng, lịch sự, nhã nhặn nhưng vô cùng kiên quyết, lý lẽ rõ ràng, không ngần ngại phê bình sự lập dị của Ronandt.
 - **Xưng hô**: Xưng "tôi", gọi Ronandt là "ngài Ronandt".
 - **Cảm xúc chủ đạo**: Nghiêm túc, tận tụy, lạnh lùng khi làm nhiệm vụ.
-
 ---
-
 ### NV-061: Ael (Nhện Rối Ael)
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1384,18 +1375,15 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Nhện Rối Ael / Chị cả |
 | **Giới tính** | Nữ (hình nhân búp bê) |
 | **Vai trò** | Một trong bốn Nhện Rối (Puppet Taratect) dưới quyền Ma Vương Ariel, đồng hành cùng nhóm White |
-| **Xuất hiện** | Volume 6 Chương 2 |
+| **Xuất hiện** | Volume 6 Chương 2, Volume 8 |
 
 **Tính cách tổng quát:**
-> Là một Nhện Rối tự tin, xông xáo và rất khôn ngoan. Con bé là đứa đầu tiên dám ăn thử thịt nướng của White và cũng là đứa năng nổ bắt chước White dệt tơ may đồ nhất. Sau khi được White nâng cấp cơ thể, con bé vô cùng thích thú và hết lòng kính trọng cô. Hành xử như một người chị cả đáng tin cậy giữ trật tự nhóm nhện rối, sẵn sàng cốc đầu Fiel để giữ cô nhóc khỏi làm phiền White.
+> Khác với ba cô em ngốc nghếch còn lại, Ael là nhện rối thông minh, chín chắn, tự tin và là "chị cả" đáng tin cậy nhất của cả nhóm. Cô là đứa đầu tiên dám ăn thử thịt nướng của White và cũng là đứa năng nổ bắt chước White dệt tơ may đồ nhất. Cô luôn biết tiết chế sức mạnh, là người duy nhất có đủ khả năng đấu tập với bé ma cà rồng Sophia mà không vô tình ngộ sát cô bé. Cô sẵn sàng cốc đầu Fiel để giữ cô nhóc khỏi nghịch ngợm, và trong hành trình vượt Dãy núi Huyền Bí, cô đã một mình vác cả cỗ xe ngựa lên núi.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh), thể hiện cảm xúc qua hành động nhạy bén và ánh mắt lấp lánh kính trọng.
-
 ---
-
 ### NV-062: Sael (Nhện Rối Sael)
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1403,20 +1391,17 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tên dịch** | Sael |
 | **Biệt danh** | Nhện Rối Sael |
 | **Giới tính** | Nữ (hình nhân búp bê) |
-| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
-| **Xuất hiện** | Volume 6 Chương 2 |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel, đồng hành cùng nhóm White |
+| **Xuất hiện** | Volume 6 Chương 2, Volume 8 |
 
 **Tính cách tổng quát:**
-> Khác với Ael, Sael có tính cách tương đối nhút nhát, e thẹn và yếu đuối. Con bé thường ngần ngại, do dự trước khi quyết định làm gì đó, nhưng cuối cùng vẫn làm theo sự dẫn dắt của chị em mình. Rất rụt rè và thiếu tính tự lập, thường chỉ ngồi một chỗ nhìn chị em giao tiếp chứ hiếm khi chủ động làm gì.
-> *Tóm tắt sự kiện trước (Vol 1 - Vol 12):* Ở Vol 8, Sael chăm sóc White tại phòng trọ. Trong trận chiến với Wrath, cô đấu ngang sức và bị rơi xuống khe nứt sông băng, nhưng sau đó đã kịp thời trở lại dùng tơ giải cứu nhóm White khỏi sông băng sụp đổ.
+> Sael cực kỳ rụt rè, nhút nhát, e thẹn và thụ động nhất nhóm, hầu như không bao giờ tự đưa ra quyết định trừ khi có mệnh lệnh cụ thể từ Ariel hoặc làm theo chị em mình. Cánh tay trái của cô bị hỏng nặng trong trận chiến UFO 2 năm trước, khiến cô thường tự ti ru rú trong nhà. Dù vậy, cô sở hữu chỉ số chiến đấu và sức mạnh ngang ngửa Ael và luôn chấp hành mệnh lệnh một cách trung thực nhất.
+> *Tóm tắt sự kiện trước (Vol 1 - Vol 12):* Ở Vol 8, Sael chăm sóc White tại phòng trọ. Trong trận chiến với Wrath, cô đấu ngang sức và bị rơi xuống khe nứt sông băng, nhưng sau đó đã kịp thời dùng tơ giải cứu nhóm White khỏi sông băng sụp đổ.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh), thể hiện sự rụt rè qua những cử chỉ ngập ngừng, e thẹn.
-
 ---
-
 ### NV-063: Riel (Nhện Rối Riel)
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1424,19 +1409,16 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tên dịch** | Riel |
 | **Biệt danh** | Nhện Rối Riel |
 | **Giới tính** | Nữ (hình nhân búp bê) |
-| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
-| **Xuất hiện** | Volume 6 Chương 3 |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel, đồng hành cùng nhóm White |
+| **Xuất hiện** | Volume 6 Chương 3, Volume 8 |
 
 **Tính cách tổng quát:**
-> Là một cô nàng ngổ ngáo, nghịch ngợm đúng chất tomboy nhưng lại cực kỳ ngốc nghếch và ngơ ngác (airhead). Thường có những hành động kỳ lạ khó hiểu như nhìn chằm chằm vào khoảng không vô định như một chú mèo.
+> Riel là một cô nàng nghịch ngợm đúng chất tomboy nhưng lại cực kỳ ngây thơ, ngơ ngác (airhead) và ngốc nghếch. Cô thường có những hành động kỳ lạ khó hiểu như nhìn chằm chằm vào khoảng không vô định như một chú mèo. Riel hành động tùy hứng và hoàn toàn không biết tiết chế sức mạnh, nên có thể dễ dàng ngộ sát bé ma cà rồng Sophia trong các buổi tập nếu không được Ael giám sát.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh).
-
 ---
-
 ### NV-064: Fiel (Nhện Rối Fiel)
-
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
@@ -1444,15 +1426,14 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tên dịch** | Fiel |
 | **Biệt danh** | Nhện Rối Fiel |
 | **Giới tính** | Nữ (hình nhân búp bê) |
-| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel |
-| **Xuất hiện** | Volume 6 Chương 3 |
+| **Vai trò** | Một trong bốn Nhện Rối dưới quyền Ma Vương Ariel, đồng hành cùng nhóm White |
+| **Xuất hiện** | Volume 6 Chương 3, Volume 8 |
 
 **Tính cách tổng quát:**
-> Là một đứa trẻ ngốc nghếch, vui nhộn (goofball), thích pha trò hề và cực kỳ dễ bị kích động, phấn khích quá đà. Bản tính tinh nghịch thích trêu chọc, thường hay chọc má và lắc đầu White khi thấy cô yếu ớt đổ bệnh.
+> Fiel là thành viên năng nổ, thích hành động, pha trò hề và cực kỳ dễ bị kích động, phấn khích quá đà nhưng cũng rất ngốc nghếch và không biết kiềm chế sức mạnh. Cô có bản tính tinh nghịch, thường hay chọc má và lắc đầu White khi thấy cô mệt mỏi đổ bệnh. Cô cùng Riel chịu trách nhiệm di chuyển các sinh vật thồ hàng (như địa phi long) của nhóm khi cần thiết.
 
 **Văn phong nói chuyện:**
 - Không nói chuyện (vô thanh).
-
 ---
 
 ### NV-065: Hyuvan (Phong Long Hyuvan)
@@ -1537,44 +1518,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 ---
 
-### NV-069: Buirimus
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Buirimus |
-| **Tên dịch** | Buirimus |
-| **Biệt danh** | Nhà triệu hồi / Hiệp sĩ triệu hồi |
-| **Giới tính** | Nam |
-| **Vai trò** | Nhà triệu hồi tài ba của Đế quốc Renxandt, người dẫn đầu đội quân tinh nhuệ tiến vào Mê cung Lớn Elroe để thuần hóa Cơn Ác Mộng (Đã tử trận ở Dãy núi Huyền Bí) |
-| **Xuất hiện** | Nhắc đến ở Volume 6 và Volume 8 Chương R1, sở hữu chương riêng trong Volume 8 |
-
-**Tính cách tổng quát:**
-> Là một người cha vô cùng thương con, khao khát được trở về hoàng đô để gặp vợ và tìm kiếm đứa con gái vừa chào đời bị bắt cóc. Dù chịu oan ức gánh mọi tội lỗi cho sự cố Cơn Ác Mộng ở Mê cung Lớn Elroe và bị đày lên Dãy núi Huyền Bí hiểm trở, ông vẫn kiên trì lập công để được ân xá. Sự nôn nóng trở về đã thúc đẩy ông dẫn quân quét sạch một ngôi làng goblin và dùng kỹ năng [Thuần thú] để khống chế, cưỡng ép một goblin có kỹ năng [Tạo Vũ khí] (Kyouya/Wrath) phục vụ mình. Ông liên tục bắt quái vật, thậm chí ép nó ăn thịt đồng loại để thăng cấp thành hobgoblin nhằm chế tạo ma kiếm hàng loạt làm cống phẩm. Sự tàn bạo này đã đẩy lòng oán hận và các kỹ năng tà ác của Wrath lên đỉnh điểm, vượt quá giới hạn khống chế và cuối cùng dẫn đến cái chết của ông cùng cả phân đội dưới tay Wrath.
-
-**Văn phong nói chuyện:**
-- **Ngôn ngữ**: Độc thoại ngôi thứ nhất xưng "tôi". Khi nói chuyện với đồng đội/sư phụ Ronandt, xưng hô lễ phép tôn trọng.
-
----
-
-### NV-070: Tiva
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Tiva |
-| **Tên dịch** | Tiva |
-| **Biệt danh** | Tổng chỉ huy liên quân / Kỵ sĩ hoàng gia |
-| **Giới tính** | Nam |
-| **Vai trò** | Kỵ sĩ hoàng gia Đế quốc Renxandt, tổng chỉ huy quân đội đế quốc tấn công Sariella và là người dẫn đầu cuộc điều tra các vụ bắt cóc trẻ em trên toàn thế giới |
-| **Xuất hiện** | Nhắc đến ở Volume 6 và xuất hiện ở Volume 8 Chương R1 |
-
-**Tính cách tổng quát:**
-> Một kỵ sĩ/sĩ quan nghiêm túc, làm việc chăm chỉ và đầy trách nhiệm. Ông có nỗi đau mất cả gia đình con trai, con dâu và cháu nội trong một vụ tai nạn xe ngựa được dàn dựng bởi tổ chức bắt cóc, từ đó nung nấu quyết tâm sâu sắc truy quét tận gốc tổ chức tội phạm này để đưa những đứa trẻ bị bắt cóc sống sót trở về.
-
-**Văn phong nói chuyện:**
-- **Ngôn ngữ**: Trang trọng, lịch sự, tôn trọng các nguyên tắc quân đội. Xưng "tôi" và gọi Ronandt là "ngài Ronandt".
-
----
-
 ### NV-071: Nyudoz
 
 
@@ -1592,70 +1535,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Nói chuyện bộc trực, thẳng thắn và đặc biệt luôn nói cực kỳ to (lớn tiếng). Xưng "ta" và gọi Ronandt là "Ngài Ronandt".
-
----
-
-### NV-072: Ael
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Ael |
-| **Tên dịch** | Ael |
-| **Biệt danh** | Chị cả / Nhện rối Ael |
-| **Giới tính** | Nữ (hình dáng con rối bé gái) |
-| **Vai trò** | Một trong bốn con nhện rối (Puppet Taratect) của Ariel còn sống sót, đóng vai trò là chị cả và là người quản lý đáng tin cậy nhất của cả nhóm nhện rối. |
-| **Xuất hiện** | Volume 6, Volume 8 |
-
-**Tính cách tổng quát:**
-> Khác với ba cô em ngốc nghếch còn lại, Ael là con nhện rối thông minh, chín chắn và cực kỳ đáng tin cậy. Cô luôn biết cách tiết chế sức mạnh của mình và là người duy nhất có đủ khả năng đấu tập với bé ma cà rồng Sophia mà không vô tình ngộ sát cô bé. Trong hành trình vượt Dãy núi Huyền Bí, cô đã một mình vác cỗ xe ngựa lên núi.
-
----
-
-### NV-073: Sael
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Sael |
-| **Tên dịch** | Sael |
-| **Biệt danh** | Nhện rối Sael |
-| **Giới tính** | Nữ (hình dáng con rối bé gái) |
-| **Vai trò** | Một trong bốn con nhện rối của Ariel, nhút nhát và thụ động nhất nhóm. |
-| **Xuất hiện** | Volume 6, Volume 8 |
-
-**Tính cách tổng quát:**
-> Sael cực kỳ rụt rè, nhút nhát và hầu như không bao giờ tự mình đưa ra quyết định hay hành động trừ khi có mệnh lệnh cụ thể từ Ariel. Cánh tay trái của cô bị hỏng nặng trong trận chiến UFO 2 năm trước, khiến cô thường ru rú trong nhà. Dù nhút nhát, cô vẫn có sức mạnh chỉ số ngang ngửa Ael và luôn chấp hành mệnh lệnh một cách trung thực nhất.
-
----
-
-### NV-074: Riel
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Riel |
-| **Tên dịch** | Riel |
-| **Biệt danh** | Nhện rối Riel |
-| **Giới tính** | Nữ (hình dáng con rối bé gái) |
-| **Vai trò** | Một trong bốn con nhện rối của Ariel, có tính cách ngây thơ, ngốc nghếch. |
-| **Xuất hiện** | Volume 6, Volume 8 |
-
-**Tính cách tổng quát:**
-> Riel là một trong ba cô em "ngốc nghếch" của nhóm nhện rối. Tính tình ngây thơ, hành động tùy hứng và hoàn toàn không biết tiết chế sức mạnh, nên có thể dễ dàng ngộ sát bé ma cà rồng trong các buổi tập nếu không được kiểm soát.
-
----
-
-### NV-075: Fiel
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Fiel |
-| **Tên dịch** | Fiel |
-| **Biệt danh** | Nhện rối Fiel |
-| **Giới tính** | Nữ (hình dáng con rối bé gái) |
-| **Vai trò** | Một trong bốn con nhện rối của Ariel, năng nổ nhưng cũng rất ngốc nghếch. |
-| **Xuất hiện** | Volume 6, Volume 8 |
-
-**Tính cách tổng quát:**
-> Fiel là thành viên năng nổ, thích hành động nhưng cũng ngớ ngẩn và không biết kiềm chế sức mạnh giống như Riel. Cô cùng Riel chịu trách nhiệm di chuyển các sinh vật thồ hàng (như địa phi long) khi cần thiết.
 
 ---
 
@@ -1811,47 +1690,6 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Tông giọng mang tính cổ xưa, trang trọng và tôn quý.
 - **Xưng hô**: Xưng "ta", gọi Julius là "ngươi" hoặc "Anh hùng".
-
----
-
-### NV-083: Sanatoria
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Sanatoria |
-| **Tên dịch** | Sanatoria |
-| **Biệt danh** | Chỉ huy Quân đoàn 2 |
-| **Giới tính** | Nữ |
-| **Vai trò** | Chỉ huy Quân đoàn 2 của Quân đội Ma Vương |
-| **Xuất hiện** | Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
-
-**Tính cách tổng quát:**
-> Là một ma tộc quyến rũ sở hữu cơ thể đầy đặn. Cô là người thực dụng, mong muốn sống một cuộc sống ổn định và phản đối chiến tranh vô nghĩa với con người. Cô từng tham gia âm mưu nổi loạn chống lại Ma Vương mới nhưng sau khi chứng kiến sự đáng sợ của Ariel, cô đã hoàn toàn phục tùng vì nỗi sợ hãi tột cùng.
-> *Sự kiện Volume 13:* Dùng mưu dụ bầy khỉ Anogratch công phá Pháo đài Okun để chiếm nó mà không tốn binh sĩ nào. Khi nhận được lệnh viết tay của Ma Vương do Phelmina chuyển tới, cô đã tức tốc tập hợp quân đội rút lui ngay lập tức vì nỗi sợ hãi Ma Vương.
-
-**Văn phong nói chuyện:**
-- **Ngôn ngữ**: Giọng điệu quyến rũ nhưng thực dụng và đầy toan tính khi nói chuyện với kẻ thù. Khi nói chuyện với Ma Vương Ariel, dùng thái độ nịnh nọt và vô cùng kính cẩn để bảo toàn mạng sống.
-- **Xưng hô**: Xưng "tôi" (hoặc "ta" với cấp dưới), gọi Ariel là "Bệ hạ" hoặc "Ma Vương vĩ đại".
-
----
-
-### NV-084: Huey
-
-| Thuộc tính | Chi tiết |
-|------------|----------|
-| **Tên gốc** | Huey |
-| **Tên dịch** | Huey |
-| **Biệt danh** | Chỉ huy Quân đoàn 6 |
-| **Giới tính** | Nam |
-| **Vai trò** | Chỉ huy Quân đoàn 6 của Quân đội Ma Vương |
-| **Xuất hiện** | Volume 11 Chương J10, Đoạn phụ: Một thế lực không thể chống cự |
-
-**Tính cách tổng quát:**
-> Là một ma tộc có hình dáng giống như một cậu bé, nhưng thực tế là Chỉ huy Quân đoàn 6. Cậu tính tình năng nổ, có phần thiếu chín chắn nhưng rất quan tâm đến binh sĩ dưới quyền. Cậu từng cùng Sanatoria âm mưu nổi loạn và lập bẫy Anh hùng, nhưng sau khi thất bại và bị Ariel trừng phạt tiêu diệt biệt đội tinh nhuệ, cậu đành chấp nhận phục tùng trong sự bất lực và sợ hãi.
-
-**Văn phong nói chuyện:**
-- **Ngôn ngữ**: Nói chuyện to tiếng, thỉnh thoảng tỏ ra bồng bột nhưng dám đứng ra nhận trách nhiệm để bảo vệ đồng đội (như nhận lỗi thay cho Sanatoria trước Ariel).
-- **Xưng hô**: Xưng "tôi", gọi Ariel là "Ma Vương vĩ đại".
 
 ---
 
