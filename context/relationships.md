@@ -2399,11 +2399,23 @@ graph TD
 
 ---
 
+### QH-174: Hugo ↔ Sue (Suresia)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đính hôn giả tạo cưỡng ép (vì mục đích chính trị/quản lý) |
+| **Hugo gọi Sue** | Sue / Công chúa Suresia / Vị hôn thê yêu quý (my dear fiancée) |
+| **Sue gọi Hugo** | Anh hùng giả mạo (false hero) / Ngươi / Tên khốn |
+| **Hugo xưng** | Ta / Tao |
+| **Sue xưng** | Tôi |
+| **Trạng thái** | Dưới sự sắp xếp của Tà thần (White/D), Hugo và Sue được công bố đính hôn để hợp thức hóa việc hành động cùng nhau dưới danh nghĩa quân đội đế quốc. Sue vô cùng kinh tởm và căm ghét Hugo, coi hắn là "tên anh hùng giả mạo" và "con sâu/ký sinh trùng", sẵn sàng giết hắn bất cứ lúc nào nếu không vì sự an toàn của hoàng huynh (Shun). Hugo thì luôn cười toe toét đểu giả trêu chọc và chế giễu cô, xem cô là "công chúa nhỏ được nuông chiều" nhưng cũng có phần e dè trước sự u ám căm hận của cô. |
+| **Ghi chú** | Được thể hiện rõ trong Volume 13 Đoạn phụ: Em gái Anh hùng, con rối của Tà thần, và chú chó săn. |
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-19
-- **Tổng cặp quan hệ**: 173
+- **Tổng cặp quan hệ**: 174
 
 
 
