@@ -272,7 +272,7 @@
 | 140 | Mirror Shield | [Khiên Gương] | Ma pháp | Một phép thuật phản đòn của Thánh Quang Ma pháp giúp phản xạ hoặc làm chệch hướng đòn tấn công |
 | 141 | Wyrm Barrier | [Phi Long Mạc] | Kỹ năng chủ động | Kết giới ma pháp giúp giảm uy lực ma pháp đối phương tương tự như vảy phi long |
 | 142 | Wyrm Scales | [Phi Long Lân] | Kỹ năng thụ động | Vảy phi long giúp giảm sát thương ma pháp và vật lý |
-| 143 | Mercy | [Từ Bi] | Kỹ năng | Kỹ năng Ruler thuộc dòng Thất Đại Tội giúp hồi sinh người chết |
+| 143 | Mercy | [Từ Bi] | Kỹ năng | Kỹ năng Ruler thuộc dòng Bảy Đức Tính giúp hồi sinh người chết |
 | 144 | Concealment | [Che giấu] | Kỹ năng chủ động | Giúp che giấu các chỉ số và kỹ năng khỏi Thẩm định |
 | 145 | Presence Perception | [Cảm nhận Hiện diện] | Kỹ năng thụ động | Giúp cảm nhận sự hiện diện của các sinh thể xung quanh |
 | 146 | Terrain Wall | [Tường Địa hình] | Ma pháp | Phép thuật tạo tường chắn bằng đất thuộc Ma pháp Địa hình |

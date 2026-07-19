@@ -55,7 +55,7 @@ graph TD
 | **Katia gọi Shun** | Shun |
 | **Shun xưng** | Tôi / Tớ / Tao (khi nói chuyện thân mật riêng tư) |
 | **Katia xưng** | Tôi / Tớ / Tao (do kiếp trước là nam nên khi nói riêng tư vẫn xưng hô thô lỗ như bạn thân) |
-| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối; tình cảm nữ tính của Katia bắt đầu trỗi dậy và chấp nhận sâu sắc sau khi được Shun bế cứu mạng. |
+| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối; tình cảm nữ tính của Katia bắt đầu trỗi dậy và chấp nhận sâu sắc sau khi được Shun cứu mạng (đặc biệt là sau khi được cậu dùng [Từ Bi] hồi sinh khi cô tự sát bằng vụ nổ để thoát khỏi sự tẩy não trong Tập 13). |
 | **Ghi chú** | Ở nơi công cộng, họ dùng lễ nghi quý tộc (Ta - Các hạ / Hoàng tử - Tiểu thư). Sau sự kiện ở chương phụ K1, phần linh hồn nam tính của Katia hoàn toàn biến mất, khiến cách xưng hô riêng tư và thái độ của cô đối với Shun dần trở nên nữ tính hơn. |
 
 ---
