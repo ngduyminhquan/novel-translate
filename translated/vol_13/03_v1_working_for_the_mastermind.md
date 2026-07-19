@@ -209,7 +209,7 @@ Thật tình. Hắn cũng gan dạ gớm cho một kẻ đang phải đi mượn
 
 Nhưng chính bản tính đó lại giúp chúng tôi dắt mũi hắn dễ dàng hơn bao giờ hết.
 
-“And không có ai nhìn thấy mặt ngươi chứ?”
+“Và không có ai nhìn thấy mặt ngươi chứ?”
 
 “Tất nhiên! Nhìn xem ta đang mặc cái gì này!”
 
@@ -451,7 +451,7 @@ Mắt cô ấy trợn tròn.
 
 Dẫu sao thì chúng tôi cũng vừa chạm trán nhau gần đây thôi.
 
-And đó quả là một cảnh tượng khá chấn động.
+Và đó quả là một cảnh tượng khá chấn động.
 
 Chẳng trách cô ấy lại kinh ngạc đến vậy khi thấy tôi xuất hiện ở đây.
 

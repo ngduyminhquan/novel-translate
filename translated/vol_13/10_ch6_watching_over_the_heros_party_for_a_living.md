@@ -141,7 +141,7 @@ Họ chắc chắn chưa bị bắt một lần nào.
 
 Các tính toán của tôi đều dựa trên việc họ đi bộ, nhưng với tốc độ di chuyển bằng đường hàng không thế này, có khi họ sẽ đến kịp thật sao?
 
-...Không, no, dĩ nhiên là không đời nào!
+...Không, không, dĩ nhiên là không đời nào!
 
 Ý tôi là, các bạn có biết họ đang hướng tới đâu không? Mê! Cung! Lớn! Elroe!
 
@@ -495,7 +495,7 @@ Vì vậy, mặc dù tôi chắc chắn những người này hoàn toàn nghiê
 
 Xem những người như Agner chỉ tổ thêm căng thẳng, và cuối cùng tôi lại phải tự mình tiễn ông ta vào chỗ chết, nên chuyện đó cũng chẳng giúp ích gì.
 
-...But nếu Yamada và đồng bọn thực sự tới được làng Elf, họ chắc chắn sẽ bị cuốn vào cơn bão sắp đổ bộ.
+...Nhưng nếu Yamada và đồng bọn thực sự tới được làng Elf, họ chắc chắn sẽ bị cuốn vào cơn bão sắp đổ bộ.
 
 Tôi nghi ngờ lúc đó mọi chuyện sẽ còn ấm lòng đối với họ nữa.
 

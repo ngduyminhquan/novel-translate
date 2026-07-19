@@ -357,7 +357,7 @@ Bóng đen tốc độ đâm vào bức tường `[Phân tách Không gian]` khi
 
 Một bức tường bình thường có lẽ sẽ hấp thụ một phần lực tác động, nhưng đây là một vết cắt thực sự trong cấu trúc không gian chứ không phải bức tường vật lý thông thường.
 
-If tông vào nó, bạn sẽ phải chịu đựng từng chút lực tác động trực diện vào mặt mình.
+Nếu tông vào nó, bạn sẽ phải chịu đựng từng chút lực tác động trực diện vào mặt mình.
 
 Bóng đen tốc độ ngã quỵ xuống sàn.
 

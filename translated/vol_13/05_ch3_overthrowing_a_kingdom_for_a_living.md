@@ -97,7 +97,7 @@ Nên đứng từ góc độ của tôi, trông họ cứ như thể đang đùa
 
 Tôi nhắc lại là họ thực sự đang chiến đấu hết mình đấy nhé, được chưa?
 
-But khi bạn đã từng giao chiến với những quái vật cấp huyền thoại và những thứ tương tự rồi thì, ừm... bạn tự hiểu đi?
+Nhưng khi bạn đã từng giao chiến với những quái vật cấp huyền thoại và những thứ tương tự rồi thì, ừm... bạn tự hiểu đi?
 
 Thế nhưng, vì tôi vừa xem vừa lơ đãng một cách khá là bất lịch sự, kết cục là tôi đã phản ứng quá trễ.
 
@@ -185,7 +185,7 @@ Tôi không nghĩ phần lớn con người ở thế giới này có thể sở
 
 Và nếu có ai đó có thể đạt được [Từ Bi], người đó rất có thể chính là Yamada.
 
-Thực tế, một phần lý do tôi để Natsume tẩy não những người tái sinh như Ooshima và Hasebe was để tìm hiểu xem có ai trong số họ sở hữu kỹ năng dòng Bảy Đức Tính hay không.
+Thực tế, một phần lý do tôi để Natsume tẩy não những người tái sinh như Ooshima và Hasebe là để tìm hiểu xem có ai trong số họ sở hữu kỹ năng dòng Bảy Đức Tính hay không.
 
 Cả Ooshima và Hasebe đều không phải, nên bằng phương pháp loại trừ, người nắm giữ [Từ Bi] chắc chắn phải là một trong số những người: Yamada, cô Oka, Tagawa hoặc Kushitani.
 
