@@ -721,7 +721,7 @@ graph TD
 | **White gọi Ariel** | Ariel / Ma Vương |
 | **Ariel xưng** | Ta / Tớ |
 | **White xưng** | Tôi |
-| **Trạng thái** | Ariel thu phục và đưa White vào làm Thống lĩnh Quân đoàn 10. Hai người có mối liên kết chặt chẽ và sâu sắc, Ariel rất tin tưởng giao phó nhiệm vụ quan trọng cho nhóm White. Sau khi White thần hóa và mất hết sức mạnh trong sự kiện UFO (Volume 7), mối quan hệ chuyển biến rõ rệt: Ariel quyết tâm bảo bọc, chăm sóc cô cho đến khi cô phục hồi sức mạnh mà không hề có ý định bỏ rơi cô. White cũng chính thức buông bỏ đề phòng, chấp nhận Ariel là đồng minh thực sự và quyết định ăn bám cô một thời gian. Trong cuộc hành quân đến làng Elf (tuyến thời gian tương lai), cả hai đồng hành trong xe kéo trên lưng Taratect Thượng cổ. |
+| **Trạng thái** | Ariel thu phục và đưa White vào làm Thống lĩnh Quân đoàn 10. Hai người có mối liên kết chặt chẽ và sâu sắc, Ariel rất tin tưởng giao phó nhiệm vụ quan trọng cho nhóm White. Sau khi White thần hóa và mất hết sức mạnh trong sự kiện UFO (Volume 7), mối quan hệ chuyển biến rõ rệt: Ariel quyết tâm bảo bọc, chăm sóc cô cho đến khi cô phục hồi sức mạnh mà không hề có ý định bỏ rơi cô. White cũng chính thức buông bỏ đề phòng, chấp nhận Ariel là đồng minh thực sự và quyết định ăn bám cô một thời gian. Trong cuộc hành quân đến làng Elf (tuyến thời gian tương lai), cả hai đồng hành trong xe kéo trên lưng Taratect Thượng cổ.<br><br>*Sự kiện Volume 13:* Ariel cùng White đi đàm phán với Giáo hoàng Dustin. Thấy White kiệt sức vì làm việc quá độ, Ariel dùng tơ trói cô lại bắt đi ngủ. Độc thoại nội tâm của Ariel thể hiện tình cảm gia đình ấm áp, coi White như hậu duệ của mình và thề sẽ làm mọi cách chiến đấu bảo vệ cô và cứu thế giới. |
 
 ---
 

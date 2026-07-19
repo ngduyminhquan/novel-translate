@@ -626,6 +626,8 @@
 | 216 | Fenrir | Fenrir | Chủng tộc quái vật | Loài quái vật sói khổng lồ cấp huyền thoại |
 | 217 | clone / mini-me | phân thân nhỏ / phân thân nhện nhỏ | Thuật ngữ | Các phân thân nhỏ do White tạo ra từ linh hồn và tơ nhện |
 | 218 | pocket dimension / storage dimension | chiều không gian túi / chiều không gian lưu trữ | Thuật ngữ | Chiều không gian ảo do White tạo ra để cất trữ đồ đạc và năng lượng |
+| 219 | first Rulers | những Kẻ Thống Trị đời đầu / những Kẻ Thống Trị đầu tiên | Thuật ngữ | Các Kẻ thống trị đầu tiên trong hệ thống W |
+| 220 | original Ruler of Sloth | Kẻ Thống Trị Lười Biếng đời đầu / Kẻ Thống Trị Lười Biếng đầu tiên | Thuật ngữ | Người sở hữu kỹ năng Lười Biếng đầu tiên |
 
 ---
 
