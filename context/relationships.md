@@ -2381,13 +2381,28 @@ graph TD
 | **Trạng thái** | Kyouya được diện kiến Giáo hoàng Dustin trong một cuộc gặp gỡ bí mật tại Alleius cùng với cô Ariel và cô White trước khi cuộc chiến bắt đầu. Ban đầu Kyouya nhận thấy Giáo hoàng là một người cực kỳ yếu đuối về mặt thể chất, nhưng sau đó vô cùng chấn động trước ý chí sắt đá và tổ chức tôn giáo vững chắc của ông ta. Những lời của Giáo hoàng về việc sẵn sàng hy sinh số ít để cứu lấy số đông và chịu trách nhiệm cho vô số cái chết đã soi sáng cho Kyouya, giúp cậu quyết định chọn con đường hành động tàn sát để chuộc tội vì tương lai của thế giới. |
 | **Ghi chú** | Được thể hiện rõ trong Volume 13 Chương đặc biệt: Con đường của Oni. |
 
+
+---
+
+### QH-173: Giáo hoàng Dustin ↔ Güliedistodiez (Quản trị viên Hắc / Hắc Long)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối tác lâu năm có bối cảnh phức tạp (chia sẻ mục tiêu cứu thế nhưng khác biệt đối tượng cần bảo vệ) |
+| **Dustin gọi Gülie** | Ngài Hắc Long / Ngài |
+| **Gülie gọi Dustin** | Giáo hoàng / ngươi / ông |
+| **Dustin xưng** | Ta |
+| **Gülie xưng** | Ta |
+| **Trạng thái** | Dù Dustin chọn hy sinh Nữ thần Sariel để bảo vệ nhân loại (điều đi ngược lại với mong muốn bảo vệ Nữ thần của Güliedistodiez), họ vẫn hợp tác để duy trì sự ổn định của thế giới. Hai người duy trì mối quan hệ bề nổi, chỉ nói chuyện công việc mà không can thiệp đời tư. Trong Volume 13 Đoạn phụ, họ có một buổi uống rượu cùng nhau xuyên đêm tại Alleius, ôn lại chuyện xưa khi thế giới mới thay đổi bởi Hệ thống, chia sẻ sự tiếc nuối và hối hận về các quyết định trong quá khứ, và nhận thức rõ đây là cơ hội cuối cùng để uống rượu yên bình trước khi biến động lớn xảy ra. |
+| **Ghi chú** | Được thể hiện chi tiết trong Volume 13 Đoạn phụ: Giáo hoàng và Quản trị viên cùng uống rượu. |
+
 ---
 
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-19
-- **Tổng cặp quan hệ**: 172
+- **Tổng cặp quan hệ**: 173
 
 
 

@@ -398,6 +398,7 @@
 | 266 | Long-Distance Teleport | [Dịch chuyển Tầm xa] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển đối tượng đến nơi từng đặt chân qua |
 | 267 | Quick Teleport | [Thần tốc Dịch chuyển] | Ma pháp | Phép thuật hệ ma pháp không gian dịch chuyển tức thời cự ly dài |
 | 268 | Divine Voice (temp.) | Tiếng nói của Thần (tạm thời) | Thuật ngữ / Hệ thống | Giọng đọc thông báo từ hệ thống W do Sariel thực hiện |
+| 269 | Records | [Lưu Trữ] | Kỹ năng | Kỹ năng cho phép ghi nhớ hoặc lưu trữ ký ức dài hạn |
 
 ---
 
