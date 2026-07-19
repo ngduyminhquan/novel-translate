@@ -2369,11 +2369,25 @@ graph TD
 
 ---
 
+### QH-172: Giáo hoàng Dustin ↔ Kyouya Sasajima (Wrath)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người gây ảnh hưởng tư tưởng (Giáo hoàng) và Người tiếp nhận lý tưởng (Wrath) |
+| **Dustin gọi Kyouya** | Wrath / Cậu nhóc |
+| **Kyouya gọi Dustin** | Giáo hoàng / Giáo hoàng Dustin / Ông ta |
+| **Dustin xưng** | Ta |
+| **Kyouya xưng** | Tôi (trong độc thoại) |
+| **Trạng thái** | Kyouya được diện kiến Giáo hoàng Dustin trong một cuộc gặp gỡ bí mật tại Alleius cùng với cô Ariel và cô White trước khi cuộc chiến bắt đầu. Ban đầu Kyouya nhận thấy Giáo hoàng là một người cực kỳ yếu đuối về mặt thể chất, nhưng sau đó vô cùng chấn động trước ý chí sắt đá và tổ chức tôn giáo vững chắc của ông ta. Những lời của Giáo hoàng về việc sẵn sàng hy sinh số ít để cứu lấy số đông và chịu trách nhiệm cho vô số cái chết đã soi sáng cho Kyouya, giúp cậu quyết định chọn con đường hành động tàn sát để chuộc tội vì tương lai của thế giới. |
+| **Ghi chú** | Được thể hiện rõ trong Volume 13 Chương đặc biệt: Con đường của Oni. |
+
+---
+
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-14
-- **Tổng cặp quan hệ**: 171
+- **Cập nhật lần cuối**: 2026-07-19
+- **Tổng cặp quan hệ**: 172
 
 
 
