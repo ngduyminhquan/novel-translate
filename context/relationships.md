@@ -834,7 +834,8 @@ graph TD
 | **Chúng gọi Shun** | Kẻ thống trị / Người tái sinh / Anh hùng |
 | **Shun xưng** | Tôi / Ta |
 | **Chúng xưng** | Chúng ta (hoặc không xưng hô rõ ràng) |
-| **Trạng thái** | Căng thẳng tột độ. Sau trận chiến với Địa Long Ekisa, cả nhóm bị bao vây bởi hàng chục con Tàn tích của Cơn Ác Mộng. Chúng dùng Thần giao cách cảm xác nhận danh tính nhóm Shun là "Người tái sinh" và "quyến thuộc của chủ nhân", đồng thời cảnh cáo về "Khởi đầu của sự kết thúc" và "Thế giới sẽ kết thúc" trước khi biến mất mà không tấn công. |
+| **Trạng thái** | Căng thẳng tột độ. Sau trận chiến với Địa Long Ekisa, cả nhóm bị bao vây bởi hàng chục con Tàn tích của Cơn Ác Mộng. Chúng dùng Thần giao cách cảm xác nhận danh tính nhóm Shun là "Người tái sinh" và "quyến thuộc của chủ nhân", đồng thời cảnh cáo về "Khởi đầu của sự kết thúc" và "Thế giới sẽ kết thúc" trước khi biến mất mà không tấn công. Trong Volume 13 Chương 6, sự kiện này được kể lại dưới góc nhìn của White: lũ nhện con (do tò mò hoặc muốn chuẩn bị tinh thần cho nhóm Yamada) đã chủ động bắt chuyện qua Thần giao cách cảm và hù dọa họ trước khi đắc ý biến mất, khiến White (lúc này đang rất bận rộn và phải âm thầm giám sát) thở phào nhẹ nhõm vì chúng không kích động tấn công. |
+
 
 ---
 

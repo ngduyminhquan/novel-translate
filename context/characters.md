@@ -937,6 +937,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Vô cùng lạnh lùng, hành động chuẩn xác và có tổ chức. Chúng tôn thờ "Chủ nhân" (Master) và "Kẻ thống trị" (Ruler). Chúng không chủ động tấn công trừ khi bị coi là mối đe dọa hoặc bị khiêu khích. Bản chất vô cùng đáng sợ nhưng đối với người chuyển sinh, chúng có thái độ kỳ lạ (cho qua vì nhận diện là người quen hoặc quyến thuộc của chủ nhân).
+> *Sự kiện Volume 13:* Trong Chương 6, khi phát hiện ra nhóm Yamada tiến vào Mê cung Lớn Elroe, chúng đã chạm trán họ và sử dụng Thần giao cách cảm chất vấn về các kỹ năng dòng Ruler và trạng thái người tái sinh. White lo sợ chúng quá khích sẽ giết chết nhóm Yamada nên đã theo dõi chặt chẽ, nhưng chúng chỉ tung ra vài tuyên bố đầy ẩn ý rồi đắc ý rút lui.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng Thần giao cách cảm (Telepathy) để truyền tải suy nghĩ.
