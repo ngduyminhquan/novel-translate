@@ -29,7 +29,7 @@
 | 8 | Sue / Suriya | Sue / Suriya | Em gái cùng cha khác mẹ của Schlain |
 | 9 | Fei / Feirune / Mirei Shinohara | Fei / Feirune / Shinohara Mirei | Tái sinh thành Quang Phi Long |
 | 10 | Hugo Baint Renxandt / Hugo Bando Vandwald | Hugo Baint Renxandt | Tên kiếp sau của Kengo Natsume (Thái tử Đế quốc Renxandt) |
-| 11 | Yuri Uren | Yuri Uren | Tái sinh thành thánh nữ |
+| 11 | Yurin Ullen / Yuri | Yurin Ullen / Yuri | Tái sinh thành thánh nữ |
 | 12 | Julius | Julius | Anh trai Schlain (Anh hùng hiện tại) |
 | 13 | Leston | Leston | Hoàng huynh của Schlain |
 | 14 | Hyrince | Hyrince | Đồng đội của Anh hùng Julius |
@@ -177,7 +177,7 @@
 | 45 | Instantaneous | Bộc phát lực | Kỹ năng thụ động | Cộng thêm vào chỉ số SP tức thời |
 | 46 | Persistent | Bền bỉ | Kỹ năng thụ động | Cộng thêm vào chỉ số SP bền bỉ |
 | 47 | Faint Resistance | Kháng Ngất | Kỹ năng thụ động | Giảm khả năng rơi vào trạng thái ngất xỉu khi bị sát thương mạnh |
-| 48 | Heresy Resistance | Kháng Ngoại đạo | Kỹ năng thụ động | Giảm bớt sát thương và ảnh hưởng của Ma pháp Ngoại đạo |
+| 48 | Heresy Resistance | Kháng Dị giáo | Kỹ năng thụ động | Giảm bớt sát thương và ảnh hưởng của Ma pháp Dị giáo |
 | 49 | Herculean Strength | Cự lực | Kỹ năng thụ động | Dạng tiến hóa của Sức mạnh (Strength), gia tăng mạnh sức mạnh vật lý |
 | 50 | Sturdy | Vững chãi | Kỹ năng thụ động | Dạng tiến hóa của Cứng cáp (Solidity), gia tăng mạnh phòng ngự vật lý |
 | 51 | Magic Mass | Ma lượng | Kỹ năng thụ động | Tăng lượng cực đại MP của cá thể |
@@ -619,6 +619,10 @@
 | 212 | small spirit | tiểu linh thể | Quái vật | Những linh thể con cấp C do Thổ Linh Quỷ sinh ra |
 | 213 | Great Human-Demon War | Đại chiến Người - Ma / Nhân - Ma Đại chiến | Thuật ngữ / Sự kiện | Cuộc chiến quy mô lớn toàn diện giữa loài người và ma tộc bùng nổ ở năm 856 |
 | 214 | light dragon | quang long / bạch long | Chủng tộc rồng | Chủng tộc chân long hệ ánh sáng cực kỳ quý hiếm |
+| 215 | Hypocryte / Hypocrisy | Hypocrite / Hypocrisy | Chủng tộc quái vật | Tên chủng tộc quái vật cá voi phương bắc cấp huyền thoại |
+| 216 | Fenrir | Fenrir | Chủng tộc quái vật | Loài quái vật sói khổng lồ cấp huyền thoại |
+| 217 | clone / mini-me | phân thân nhỏ / phân thân nhện nhỏ | Thuật ngữ | Các phân thân nhỏ do White tạo ra từ linh hồn và tơ nhện |
+| 218 | pocket dimension / storage dimension | chiều không gian túi / chiều không gian lưu trữ | Thuật ngữ | Chiều không gian ảo do White tạo ra để cất trữ đồ đạc và năng lượng |
 
 ---
 

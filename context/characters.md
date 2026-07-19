@@ -40,6 +40,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > *Sự kiện Volume 7:* Đồng hành cùng Ariel đột nhập phi thuyền G-Fleet, nuốt chửng quả bom GMA để cứu mọi người và trải qua quá trình thần hóa (deification), trở thành một vị thần nằm ngoài hệ thống với tên thật Shiraori do D đặt. Vì mất toàn bộ kỹ năng và chỉ số, cô trở nên cực kỳ yếu ớt như người bình thường và phải học cách điều khiển ma lực tự lực dưới sự chăm sóc của Ariel.
 > *Sự kiện Volume 8:* Trở nên cực kỳ yếu đuối sau thần hóa, say xe lử đử trên xe kéo qua vùng biên giới gần Đế quốc Renxandt hướng tới Dãy núi Huyền Bí. Cô sở hữu đôi mắt kép gồm mười con ngươi (mỗi bên năm con ngươi, hai con ngươi kích cỡ bình thường chứa bốn con ngươi nhỏ hơn bên trong), buộc phải nhắm mắt và kéo mũ trùm đầu khi vào thị trấn để tránh bị hiểu nhầm là quý tộc mù ốm yếu. Trong Chương 6, sau khi bị lở tuyết cuốn trôi và tách nhóm, cô thức dậy trong lều tuyết cùng nhóm ma cà rồng và Sael, sau đó căn lều bị chém đôi bởi Wrath (Sasajima Kyouya). Cô là người đầu tiên nhận ra và gọi to tên kiếp trước của cậu ta, kích hoạt đợt tấn công điên cuồng của Wrath. Trong Chương 7, cô chạy trốn giữ mạng trước đòn tấn công của Wrath, cố gắng gọi tên để đánh thức lý trí cậu ta nhưng thất bại. Khi sông băng đổ sụp, cô đã bộc phát phản xạ cũ và lần đầu tiên phóng được tơ trở lại để cứu Sophia và Mera, sau đó cả ba được Sael cứu thoát khỏi vực sâu trong gang tấc.
 > *Sự kiện Volume 9:* Trong chương mở đầu "Tà thần không mỉm cười", cô nhớ lại cuộc đối thoại bên lề với tà thần D, người nói về sự buồn chán khủng khiếp của thần linh và mong đợi cô sẽ dốc sức mua vui. Sau đó, cô tiếp tục say xe lử đử trên xe kéo do Mera lái để tiến sâu vào Lãnh địa Quỷ. Trong chương "Tà thần không cười", cô dịch chuyển về Trái Đất, đối chất trực tiếp với D tại nhà riêng và bàng hoàng phát hiện ra sự thật: cô không phải Wakaba Hiiro thật sự tái sinh mà chỉ là một con nhện ở lớp học được D ban cấp ký ức giả của Wakaba Hiiro để làm kẻ thế thân trốn việc. Nhận ra việc đặt tên Shiraori đã gắn kết linh hồn cô với D, cô trở lại thế giới cũ, quyết tâm tích lũy sức mạnh để thực hiện kế hoạch đào tẩu khỏi D.
+> *Sự kiện Volume 13:* Giám sát cuộc săn lùng quái vật cá voi cấp huyền thoại ở cực bắc của nhóm Sophia/Wrath; thu gom cái xác vào chiều không gian lưu trữ để các phân thân nhện nhỏ hấp thụ năng lượng. Phái Quân đoàn 10 tiêu diệt bầy khỉ Anogratch tại Pháo đài Okun và buộc Sanatoria rút quân. Lên kế hoạch phái Quân đoàn 10 thâm nhập và tàn phá Vương quốc Analeit từ bên trong để chuẩn bị cho kế hoạch cứu thế giới.
 
 
 **Văn phong nói chuyện:**
@@ -92,7 +93,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tên dịch** | Katia / Karnatia |
 | **Biệt danh** | — |
 | **Tuổi** | Thiếu niên (kiếp trước là nam sinh) |
-| **Giới tính** | Kiếp trước: Nam | Kiếp sau: Nữ |
+| **Giới tính** | Kiếp trước: Nam / Kiếp sau: Nữ |
 | **Vai trò** | Nhân vật phụ quan trọng (nhánh phụ S) |
 | **Xuất hiện** | Chapter S1 |
 
@@ -119,7 +120,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Tên gốc** | Ms. Oka / Okazaki Kanami / Filimõs |
 | **Tên dịch** | Cô Oka / Filimõs |
 | **Biệt danh** | Oka-chan (do học sinh gọi) |
-| **Tuổi** | Kiếp trước là giáo viên trẻ | Kiếp sau là Elf |
+| **Tuổi** | Kiếp trước là giáo viên trẻ / Kiếp sau là Elf |
 | **Giới tính** | Nữ |
 | **Vai trò** | Nhân vật phụ quan trọng (nhánh phụ S) |
 | **Xuất hiện** | Chapter S1 (nhắc tới), S5 (xuất hiện) |
@@ -375,7 +376,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát & Quá khứ:**
 > Vô cùng tận tụy, trung thành và chu đáo. Cô chăm sóc Shun từ nhỏ và luôn bảo vệ cậu hết mình. Cô cũng là người hỗ trợ huấn luyện Fei tăng cấp bằng cách ép Fei ăn thịt quái vật để mau lớn. Trong Tập 5, Fei nhận xét cô có tình mẫu tử sâu sắc (maternal instinct) và đóng vai trò như một người mẹ nuôi/cha mẹ đỡ đầu (foster parent) đối với Shun, sẵn sàng hy sinh để bảo vệ cậu.
-> **Quá khứ tại làng Elf:** Từng có tuổi thơ bị ngược đãi và bạo lực thể xác tàn nhẫn ở làng Elf vì là bán Elf (chủng tộc bị xem là thấp hèn, là sản phẩm lỗi của sự lai tạp). Cô không bị giết chỉ vì tất cả những gì liên quan đến Elf (kể cả bán Elf) đều được coi là tài sản của ngài Potimas, và người khác không được tự ý phá hủy. Ký ức về cha mẹ hoàn toàn không tồn tại. Cuối cùng cô bị Potimas xuất bản khỏi làng và phải lang thang vô định như một con búp bê vô hồn, một "bao cát sống".
+> **Quá khứ tại làng Elf:** Từng có tuổi thơ bị ngược đãi và bạo lực thể xác tàn nhẫn ở làng Elf vì là bán Elf (chủng tộc bị xem là thấp hèn, là sản phẩm lỗi của sự lai tạp). Cô không bị giết chỉ vì tất cả những gì liên quan đến Elf (kể cả bán Elf) đều được coi là tài sản của ngài Potimas, và người khác không được tự ý phá hủy. Ký ức về cha mẹ hoàn toàn không tồn tại. Cuối cùng cô bị Potimas trục xuất khỏi làng và phải lang thang vô định như một con búp bê vô hồn, một "bao cát sống".
 > **Sự cứu rỗi ở Vương quốc Analeit:** Được Quốc vương Analeit đời trước đón nhận khi nghe danh tài năng ma pháp của cô. Đây là lần đầu tiên cô được cần đến và cảm nhận được trái tim mình sinh ra. Cô tận tụy phục vụ hoàng gia Analeit từ đó, và được Quốc vương gửi gắm chăm sóc cho con trai ông (Quốc vương hiện tại) trên giường bệnh.
 > **Hiện tại:** Luôn tự dằn vặt và mang áp lực tâm lý cực kỳ nặng nề sau khi bị Hugo tẩy não làm hại Shun. Cô sợ mình làm vướng chân cả nhóm (từng bị hội chứng sợ mê cung ở Elroe) và luôn khao khát chứng minh giá trị bản thân để chuộc lỗi. Cô thề sẽ chiến đấu và có ích trong trận chiến bảo vệ làng Elf sắp tới.
 
@@ -632,6 +633,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > *Sự kiện Volume 6:* Trải qua khóa huấn luyện khắc nghiệt (giật dây rối, ăn độc tố) của Nhện nhỏ (White) để tăng kỹ năng. Ban đầu đố kỵ và thù ghét White vô cớ, nhưng sau khi hiểu được nỗ lực sinh tồn phi thường của White, cô quyết định thay đổi thái độ. Khi tới thủ đô Sariella, cô chọn cùng Merazophis đồng hành với Ariel và White sang lãnh thổ ma tộc để tự trưởng thành, từ bỏ quá khứ.
 > *Sự kiện Volume 8:* Con bé lớn lên trông thấy, bắt đầu bộc lộ nét đẹp thanh tú thừa hưởng từ mẹ và đôi mắt từ cha. Vô cùng sở hữu Mera và tỏ vẻ cáu kỉnh, ghen tị (lườm nguýt mặt như phim kinh dị) khi thấy Mera chăm sóc bế bồng White. Trong Chương V2, sau khi tỉnh dậy trong lều sau trận sập sông băng, cô kể lại chi tiết trận chiến với Wrath cho Ariel, đồng thời bày tỏ quyết tâm rèn luyện thể chất mạnh mẽ hơn nữa để đánh bại hắn và bảo vệ White trong tương lai.
 > *Sự kiện Volume 9:* Trong Chương 2, cô được sắp xếp phòng nghỉ và chuẩn bị gia sư riêng dạy lễ nghĩa tại dinh thự Phthalo. Trong Chương 4, cô lôi kéo White cùng tham gia các bài học lễ nghĩa và khiêu vũ. Cô đố kỵ với cuộc sống lười nhác nhàn nhã của White, thường xuyên xông vào phòng White quấy nhiễu và cướp đồ ăn nhẹ. Khi Bloe mang rượu đến, cô đe dọa Sael lao vào khống chế White nhưng bị White dùng Xích Lực Tà Nhãn và Hắc Sóng Thần Công đánh bật, sau đó cô bị trói ngược lên trần nhà và cù lét tơi tả. Sau sự cố, cô và các nhện rối bị treo lơ lửng ngất đi. Trong Đoạn phụ "Bài học nửa đêm của Công chúa Ma cà rồng", vì tức tối trước khoảng cách sức mạnh áp đảo của White, cô dành đêm mất ngủ để tự huấn luyện thao tác phép thuật và nước/axit. Cô quyết định học thêm kỹ năng [Axit Công Kích], [Tăng Cường Axit] và dùng điểm kỹ năng tự ý nâng cấp [Ghen Tị LV 9] tiến hóa thành kỹ năng tội lỗi [Đố Kỵ], qua đó nhận danh hiệu [Kẻ Thống Trị Đố Kỵ] cùng các kỹ năng [Thần Lân LV 10] và [Cội Nguồn Cái Ác]. Cô hy vọng đây sẽ là quân bài tẩy giúp cô phong ấn [Phẫn Nộ] của Wrath để đánh bại hắn. Trong Chương 6, cô cùng White đi ngăn cản Wrath theo thỉnh cầu của Güli-güli. Dưới sự hỗ trợ của các kỹ năng mới như [Đố Kỵ] và [Long Lân], cô đã có thể chiến đấu sòng phẳng chống lại Wrath và phong ấn thành công kỹ năng [Phẫn Nộ] của cậu ta. Sau trận đấu, cô được Güli-güli ban thưởng bằng cách truyền vảy của Băng Long Nia vào thanh đại kiếm Fenrir của mình, biến nó thành món vũ khí cấp thần thoại thuộc tính băng.
+> *Sự kiện Volume 13:* Tham gia săn lùng quái vật cá voi phương bắc cùng Wrath và Mera. Muốn thu hoạch nguyên liệu từ cái xác của nó để nâng cấp thanh đại kiếm nhưng bị White từ chối. Cô phản đối việc Phelmina làm phó chỉ huy Quân đoàn 10 và bị White dùng lời nguyền bắt quỳ xuống để răn đe. Trong các trận luyện tập, cô bị các thành viên khác của Quân đoàn 10 lườm nguýt do oán hận việc cô đã khiến Phelmina bị trục xuất trước đây.
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Trầm tĩnh, giễu cợt nhẹ nhàng ("Ồ thế à?", "Không ngờ lại gặp cô ở đây đấy").
 - **Cảm xúc chủ đạo**: Điềm tĩnh, thờ ơ trước Hugo và những kẻ xung quanh, tự tin vào sức mạnh của mình.
@@ -939,7 +941,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng Thần giao cách cảm (Telepathy) để truyền tải suy nghĩ.
 - **Văn phong**: Nói những câu cực ngắn, lặp đi lặp lại các từ khóa đơn giản, mang tính chất chất vấn hệ thống hoặc xác minh danh tính.
-- **Từ khóa thường dùng**: "Chủ nhân", "Người tái sinh", "Quy Nhến", "Địch ý? Không địch ý?", "Thông qua".
+- **Từ khóa thường dùng**: "Chủ nhân", "Người tái sinh", "Quyến thuộc", "Địch ý? Không địch ý?", "Thông qua".
 
 ---
 
@@ -981,6 +983,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát & Sự kiện:**
 > Là một ma tộc/ma cà rồng đi theo Sophia Keren. Anh ta vô cùng kiêu ngạo nhưng lại có lòng trung thành mù quáng và tình cảm đơn phương đối với Sophia. Rất bận tâm đến việc thể hiện bản thân trước mặt cô, coi thất bại bị phi long thiêu cháy ở trận chiến trước là nỗi nhục nhã cá nhân ê chề. Anh ta luôn cố gắng bù đắp sai lầm bằng cách làm việc cật lực và lăng xăng như một chú chó trung thành để nâng cao giá trị của mình trong mắt Sophia. Ở Chương S4 (Volume 5), dù tỏ thái độ bất mãn và khó chịu trước tính khí tùy hứng của Sophia, cậu vẫn tuân lệnh trị liệu cho Yuri và bế cô ấy rút lui an toàn khỏi chiến trường theo lệnh của cô.
+> *Sự kiện Volume 13:* Mặc dù hiệu ứng [Mê Hoặc] đã hết, cậu vẫn tơ tưởng đến Sophia, gia nhập Quân đoàn 10 và thuyết phục cô biến mình thành ma cà rồng. Cậu thường xuyên đau bụng và lo lắng vì vị hôn thê cũ Phelmina (người bị cậu gián tiếp hủy hoại cuộc đời) nay lại là cấp trên trực tiếp của mình trong Quân đoàn 10.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Cộc lốc, ngắn gọn, thể hiện sự nghiêm túc, cật lực khi làm việc để chứng tỏ bản thân; cung kính hoặc bằng giọng nhượng bộ trước Sophia.
@@ -1345,6 +1348,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > **Sự kiện Volume 5:** Xuất hiện dưới thân phận Wrath (Thống lĩnh Quân đoàn 8), dễ dàng hạ gục nhóm Tagawa và đối mặt với Shun. Cậu khuyên Shun rút lui và vạch trần tội ác của tộc Elf. Trong trận chiến, cậu chém trọng thương Anna khi cô lao ra đỡ đòn cho Shun.
 > **Sự kiện Volume 8:** Trở thành người dẫn chuyện chính trong tuyến chương "O" (Ogres). Kể về hành trình quá khứ từ khi chuyển sinh thành goblin, tiến hóa thành ogre, trải qua biến cố bị con người truy sát và tiêu diệt làng, bộc phát sự điên cuồng báo thù. Cậu sở hữu kỹ năng độc nhất [Tạo Vũ khí] cho phép chế tạo ma kiếm địa lôi, ma kiếm nổ và hai ma kiếm katana cá nhân (katana lửa và katana sét). Trong Chương 6, Wrath (trong trạng thái nửa khỏa thân) tấn công căn lều tuyết của nhóm White, đọ kiếm ngang ngửa với Sael. Khi White gọi to tên thật kiếp trước của cậu "Sasajima Kyouya", cậu lập tức gầm lên điên cuồng, vung ma kiếm lửa chém đôi nền sông băng tạo ra khe nứt lớn, đánh gục Sael bằng ma kiếm sét rồi lao vào tấn công nhóm White. Trong Chương 7, cậu điên cuồng truy đuổi nhóm White, chém cụt tay Mera và đâm xuyên người Sophia. Dù dao động khi White gọi tên kiếp trước "Sasajima", cậu vẫn bị nuốt chửng bởi kỹ năng [Phẫn Nộ]. Cuối cùng, cậu bị Sophia bám cổ hút máu và rơi xuống khe vực sông băng đang đổ sụp trong khi Sophia được White cứu. Trong Chương V2, Ariel xác nhận rằng sau khi rơi xuống sông băng và bị lở tuyết cuốn đi, cậu mất tích nhưng vẫn còn sống vì cấp độ của Sophia chưa hề tăng lên. Trong chương "Tiếng gầm của Quỷ" (The Ogre's Roar), sự phẫn nộ trong lòng hắn tiếp tục thiêu rụi nhân tính, biến hắn thành một con quỷ hoàn toàn mất đi lý trí và cất tiếng gầm cuồng loạn giữa vùng đất tuyết đóng băng.
 > **Sự kiện Volume 9:** Trong Chương X3, cậu có trận quyết chiến khốc liệt chống lại Băng Long Nia tại biên giới và dễ dàng áp đảo cô ta nhờ sức mạnh của [Phẫn Nộ], chém vỡ lớp [Thần Lân] và ném kiếm nổ hạ gục Nia cận kề cái chết. Trong Chương 6, sau khi đánh bại Nia, cậu bị nhóm của White và Sophia ngăn cản. Mặc dù kích hoạt [Đấu Thần Đấu Pháp LV 10] kết hợp với [Phẫn Nộ] tăng sức tấn công lên hơn hai mươi ngàn, cậu vẫn bị White dùng dịch chuyển câu giờ và thả rơi tự do từ độ cao ba dặm xuống đất bất tỉnh. Kỹ năng [Phẫn Nộ] sau đó bị kỹ năng [Đố Kỵ] của Sophia phong ấn hoàn toàn giúp cậu dần lấy lại lý trí, và cậu được White dùng [Kỳ Tích Ma Pháp] chữa lành rồi trói lại đưa về dinh thự. Trong Chương O (Wrath), cậu tỉnh dậy trên giường ở biệt thự, trò chuyện với cô Ariel và Sophia (Negishi Shouko), chấp nhận lỗi lầm tàn sát vô tội của mình dưới ảnh hưởng của kỹ năng [Phẫn Nộ] và quyết tâm tiếp tục sống có mục đích vì tương lai của thế giới.
+> **Sự kiện Volume 13:** Tham gia đội hình săn quái vật cá voi phương bắc cùng Sophia, các nhện rối và Mera. Chế tạo ma kiếm cho các binh sĩ Quân đoàn 10. Cậu chỉ ra sự tởm lợm của xác con cá voi khiến Sophia từ bỏ ý định dung hợp nguyên liệu của nó vào thanh đại kiếm.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Thản nhiên, bình dị khi nói chuyện với Sophia; dùng giọng điệu quen thuộc, thân thiết (xưng "tớ", gọi "cậu") khi nhận ra và trò chuyện với người bạn thân cũ Shun.
@@ -1791,7 +1795,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 10 Epilogue |
 
 **Tính cách tổng quát:**
-> Từng là người khuyên răn nhân loại từ bỏ năng lượng MA ở thời đại văn minh cổ đại, nhưng sau đó vẫn bao dung đồng ý hiến tế bản thân khi nhân loại khóc lóc cầu xin cứu vỗi. Hiện tại cô bị giam cầm ở trung tâm hệ thống (sâu trong Tầng Dưới cùng của Đại Mê cung Elroe), cơ thể lơ lửng giữa không trung bị quấn chặt bởi các vòng tròn ma pháp như xiềng xích, nửa dưới cơ thể đã tan biến hoàn toàn. Dù đang chịu đựng nỗi đau khôn xiết, cô vẫn liên tục phát ra thông báo hệ thống cho các cư dân thế giới này. Cô là người mà Ariel coi là "Mẹ" và nguyện đánh đổi tất cả (kể cả việc tàn sát loài người và ma tộc) để giải cứu.
+> Từng là người khuyên răn nhân loại từ bỏ năng lượng MA ở thời đại văn minh cổ đại, nhưng sau đó vẫn bao dung đồng ý hiến tế bản thân khi nhân loại khóc lóc cầu xin cứu rỗi. Hiện tại cô bị giam cầm ở trung tâm hệ thống (sâu trong Tầng Dưới cùng của Đại Mê cung Elroe), cơ thể lơ lửng giữa không trung bị quấn chặt bởi các vòng tròn ma pháp như xiềng xích, nửa dưới cơ thể đã tan biến hoàn toàn. Dù đang chịu đựng nỗi đau khôn xiết, cô vẫn liên tục phát ra thông báo hệ thống cho các cư dân thế giới này. Cô là người mà Ariel coi là "Mẹ" và nguyện đánh đổi tất cả (kể cả việc tàn sát loài người và ma tộc) để giải cứu.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Không thể trò chuyện trực tiếp lúc này. Giọng nói của cô phát ra liên tục chồng chéo lên nhau tạo tiếng vang (Tiếng nói của Thần / Divine Voice) để thông báo tăng cấp kỹ năng, điểm kinh nghiệm.
@@ -1832,6 +1836,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là một ma tộc quyến rũ sở hữu cơ thể đầy đặn. Cô là người thực dụng, mong muốn sống một cuộc sống ổn định và phản đối chiến tranh vô nghĩa với con người. Cô từng tham gia âm mưu nổi loạn chống lại Ma Vương mới nhưng sau khi chứng kiến sự đáng sợ của Ariel, cô đã hoàn toàn phục tùng vì nỗi sợ hãi tột cùng.
+> *Sự kiện Volume 13:* Dùng mưu dụ bầy khỉ Anogratch công phá Pháo đài Okun để chiếm nó mà không tốn binh sĩ nào. Khi nhận được lệnh viết tay của Ma Vương do Phelmina chuyển tới, cô đã tức tốc tập hợp quân đội rút lui ngay lập tức vì nỗi sợ hãi Ma Vương.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Giọng điệu quyến rũ nhưng thực dụng và đầy toan tính khi nói chuyện với kẻ thù. Khi nói chuyện với Ma Vương Ariel, dùng thái độ nịnh nọt và vô cùng kính cẩn để bảo toàn mạng sống.
@@ -1904,6 +1909,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là một cô gái ma tộc thông minh, sắc sảo, có năng lực quản lý hành chính và tổ chức cực kỳ xuất sắc. Từng là tiểu thư quý tộc danh giá của ma tộc và là hôn thê của Wald, cô bị tước đoạt tất cả danh dự sau khi Wald bị quyến rũ bởi Sophia. Trải qua biến cố, cô gia nhập Quân đoàn 10 và trung thành phụng sự White, trở thành phó tướng đắc lực hỗ trợ White trong việc huấn luyện các phân thân nhện rối và điều hành quân đoàn.
+> *Sự kiện Volume 13:* Trao thư mệnh lệnh của Ma Vương cho Sanatoria và buộc cô ta phải lập tức rút quân về thủ đô. Dẫn dắt Quân đoàn 10 càn quét bầy khỉ Anogratch tại Pháo đài Okun. Đảm nhận việc xử lý giấy tờ, công việc hành chính và giao tiếp thay cho chỉ huy White. Hiện tại cô là cấp trên trực tiếp của Wald và Sophia trong Quân đoàn 10.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Chuẩn mực, trang trọng, lịch sự của một tiểu thư quý tộc cũ, nhưng mang đầy khí chất nghiêm khắc và chuyên nghiệp.

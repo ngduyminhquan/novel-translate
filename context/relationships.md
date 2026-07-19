@@ -805,8 +805,7 @@ graph TD
 | **Taratect Rối gọi Nhện** | (Không giao tiếp) |
 | **Nhện xưng** | Ta / Tôi |
 | **Taratect Rối xưng** | (Không giao tiếp) |
-| **Trạng thái** | Thù địch sâu sắc ở tuyến thời gian khác. Ở chương 10, sau khi bị tăng cường quân số lên 11 con (5 đuổi theo ngoài biển, 6 phục kích trong mê cung), Nhện nhỏ đã lập mưu dụ thành công 6 con nhện rối trong mê cung vào một căn phòng hình mái vòm bị niêm phong bằng Thổ Ma pháp. Nhờ việc mua kỹ năng [Bơi] và kết hợp với phép [Lưu trữ Không gian] chứa sẵn lượng lớn nước biển, cô đã dìm chết toàn bộ 6 con nhện rối không biết bơi do tơ và các khớp rối của chúng bị thấm nước và mất đi tính cơ động dưới sức nổi lớn.
-> *Sự kiện Volume 6:* Trong Chương 2, khi hai con nhện rối được phái đi canh chừng Nhện nhỏ ngoài trời lạnh giá, mối quan hệ của chúng đã có sự xoay chuyển. Ban đầu chúng đề phòng cảnh giác, nhưng sau khi đầu hàng trước sự cám dỗ của thịt nướng do cô chia sẻ và được cô tận tình nâng cấp cơ thể thành dạng búp bê khớp cầu xinh xắn, chúng đã chuyển sang nhìn Nhện nhỏ bằng ánh mắt lấp lánh đầy tôn kính và ngưỡng mộ sâu sắc. |
+| **Trạng thái** | Thù địch sâu sắc ở tuyến thời gian khác. Ở chương 10, sau khi bị tăng cường quân số lên 11 con (5 đuổi theo ngoài biển, 6 phục kích trong mê cung), Nhện nhỏ đã lập mưu dụ thành công 6 con nhện rối trong mê cung vào một căn phòng hình mái vòm bị niêm phong bằng Thổ Ma pháp. Nhờ việc mua kỹ năng [Bơi] và kết hợp với phép [Lưu trữ Không gian] chứa sẵn lượng lớn nước biển, cô đã dìm chết toàn bộ 6 con nhện rối không biết bơi do tơ và các khớp rối của chúng bị thấm nước và mất đi tính cơ động dưới sức nổi lớn.<br><br>*Sự kiện Volume 6:* Trong Chương 2, khi hai con nhện rối được phái đi canh chừng Nhện nhỏ ngoài trời lạnh giá, mối quan hệ của chúng đã có sự xoay chuyển. Ban đầu chúng đề phòng cảnh giác, nhưng sau khi đầu hàng trước sự cám dỗ của thịt nướng do cô chia sẻ và được cô tận tình nâng cấp cơ thể thành dạng búp bê khớp cầu xinh xắn, chúng đã chuyển sang nhìn Nhện nhỏ bằng ánh mắt lấp lánh đầy tôn kính và ngưỡng mộ sâu sắc. |
 | **Ghi chú** | Trong Chương 9, Nhện nhỏ phát hiện ra bản chất của Nhện Rối: thực chất là một con nhện cỡ nắm tay nằm giữa lõi một con búp bê ma-nơ-canh hình người, sử dụng tơ luồn khắp cơ thể búp bê và dùng [Điều khiển Tơ] để di chuyển. Nó sở hữu chỉ số vượt qua 10.000 ở mọi mặt, sử dụng sáu kiếm kiểu Tu La điêu luyện và có các kỹ năng dùng vũ khí cao cấp giống con người. Nhện nhỏ nhận định không thể đối đầu trực diện mà phải dùng bẫy sau khi đã dọn sạch quân nhện thường. |
 
 ---
@@ -1132,11 +1131,7 @@ graph TD
 | **Sophia gọi Nhện** | (Là trẻ sơ sinh nên chưa thể giao tiếp hay nhận thức rõ ràng) |
 | **Nhện xưng** | Tôi |
 | **Sophia xưng** | - |
-| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf.
-> *Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White.
-> *Sự kiện Volume 7:* White thần hóa và mất sạch chỉ số/kỹ năng, trở nên yếu ớt. Sophia ban đầu lo lắng cho White, nhưng sau khi chuyện ngất xỉu xảy ra mỗi ngày, cô quen dần và tỏ ra thờ ơ (mặc kệ cô).
-> *Sự kiện Volume 8:* Trong chuyến hành trình trên xe kéo, Sophia (Vampy) lớn lên trông thấy và tỏ vẻ cực kỳ đố kỵ/tức tối khi Mera chu đáo chăm sóc White và bế White kiểu công chúa, lườm nguýt White như phim kinh dị do bản tính chiếm hữu Mera cực cao. White cảm thấy gượng gạo và cầu mong Vampy đừng biến thành kẻ bám đuôi cuồng loạn (yandere) khi còn là một nhóc tì.
-> *Sự kiện Volume 9:* Trong Chương 4, Sophia lôi kéo White cùng tham gia các bài học lễ nghĩa và khiêu vũ. Cô đố kỵ với cuộc sống lười nhác nhàn nhã của White, thường xuyên xông vào phòng White quấy nhiễu và cướp đồ ăn nhẹ. Khi Bloe mang rượu đến, cô đe dọa Sael lao vào khống chế White nhưng bị White dùng Xích Lực Tà Nhãn và Hắc Sóng Thần Công đánh bật, sau đó cô bị trói ngược lên trần nhà và cù lét tơi tả. Sau sự cố, cô và các nhện rối bị treo lơ lửng ngất đi. |
+| **Trạng thái** | Duyên nợ đầu tiên. Nhện nhỏ tình cờ cứu cỗ xe ngựa chở Sophia khỏi bọn cướp. Khi Thẩm định Sophia, Nhện phát hiện ra cô là bạn học cũ tái sinh Negishi Shouko. Nhện nhỏ cảm thấy đố kỵ cực độ trước xuất thân quý tộc và lượng điểm kỹ năng khởi đầu khổng lồ 75.000 của cô, cùng các kỹ năng gian lận từ danh hiệu Chân Tổ giúp triệt tiêu mọi điểm yếu. Tuy nhiên, Nhện vẫn dành sự đồng cảm nhẹ và mong cô có một cuộc sống an lành, hạnh phúc hơn kiếp làm nhện của mình. Trong Chương cuối, sau khi dinh thự gia đình Sophia bị phá hủy, cô đồng ý đi cùng Ariel và Nhện nhỏ làm một chuyến du hành thử nghiệm đến thủ đô của Sariella để tránh nguy cơ từ tộc Elf.<br><br>*Sự kiện Volume 6:* Trong Chương 1, Sophia phải trải qua sự huấn luyện thể lực và ma pháp cực kỳ khắc nghiệt dưới dạng 'giật dây rối' của Nhện nhỏ (White). Trong Chương V2, cô phản đối kịch liệt yêu cầu tự dùng ma pháp tấn công mình của White, nhưng sau khi được Ariel giải thích lý do, cô đã nhận lỗi vì tự hiểu lầm. Sophia cũng thừa nhận thù ghét vô cớ White do lòng đố kỵ kiếp trước với vẻ ngoài của Wakaba Hiiro. Sau khi thấu hiểu nỗ lực sinh tồn khắc nghiệt của White trong Mê cung Elroe, cô từ bỏ đố kỵ và quyết định đối xử tốt hơn với White.<br><br>*Sự kiện Volume 7:* White thần hóa và mất sạch chỉ số/kỹ năng, trở nên yếu ớt. Sophia ban đầu lo lắng cho White, nhưng sau khi chuyện ngất xỉu xảy ra mỗi ngày, cô quen dần và tỏ ra thờ ơ (mặc kệ cô).<br><br>*Sự kiện Volume 8:* Trong chuyến hành trình trên xe kéo, Sophia (Vampy) lớn lên trông thấy và tỏ vẻ cực kỳ đố kỵ/tức tối khi Mera chu đáo chăm sóc White và bế White kiểu công chúa, lườm nguýt White như phim kinh dị do bản tính chiếm hữu Mera cực cao. White cảm thấy gượng gạo và cầu mong Vampy đừng biến thành kẻ bám đuôi cuồng loạn (yandere) khi còn là một nhóc tì.<br><br>*Sự kiện Volume 9:* Trong Chương 4, Sophia lôi kéo White cùng tham gia các bài học lễ nghĩa và khiêu vũ. Cô đố kỵ với cuộc sống lười nhác nhàn nhã của White, thường xuyên xông vào phòng White quấy nhiễu và cướp đồ ăn nhẹ. Khi Bloe mang rượu đến, cô đe dọa Sael lao vào khống chế White nhưng bị White dùng Xích Lực Tà Nhãn và Hắc Sóng Thần Công đánh bật, sau đó cô bị trói ngược lên trần nhà và cù lét tơi tả. Sau sự cố, cô và các nhện rối bị treo lơ lửng ngất đi. |
 | **Ghi chú** | Cuộc gặp gỡ định mệnh này mở đầu cho mối duyên nợ sâu sắc giữa cả hai sau này, khi Sophia trở thành đồng minh thân cận của Nhện nhỏ (White) và Ariel. |
 
 ### QH-079: Sophia Keren ↔ Seras Keren
@@ -1597,8 +1592,7 @@ graph TD
 | **Sophia gọi Ariel** | Cô Ariel / Ma Vương |
 | **Ariel xưng** | Ta / Tớ |
 | **Sophia xưng** | Cháu / Tôi |
-| **Trạng thái** | Ariel chăm sóc và bảo vệ Sophia trên hành trình, vừa vì cảm thông vừa muốn lấy lòng White để có điểm thiện cảm lâu dài. Sophia ban đầu cảnh giác nhưng dần nhận ra Ariel rất tốt bụng và chu đáo, khéo léo dùng vẻ ngoài vui vẻ của mình để hòa giải không khí ngột ngạt giữa các thành viên.
-> *Sự kiện Volume 6:* Trong Chương V2, Sophia hỏi xin Ariel lời khuyên về vấn đề của Merazophis nhưng bị cô từ chối và khuyên nên cư xử bình thường. Qua đó, Ariel thẳng thắn vạch trần thói ích kỷ, chỉ biết nghĩ cho bản thân và sự tự ghét bỏ giả tạo để lảng tránh trách nhiệm của Sophia. Dù bị tổn thương sâu sắc, Sophia nhận ra sự thật, biết ơn lời trấn an không bỏ rơi của Ariel và quyết tâm thay đổi bản thân. |
+| **Trạng thái** | Ariel chăm sóc và bảo vệ Sophia trên hành trình, vừa vì cảm thông vừa muốn lấy lòng White để có điểm thiện cảm lâu dài. Sophia ban đầu cảnh giác nhưng dần nhận ra Ariel rất tốt bụng và chu đáo, khéo léo dùng vẻ ngoài vui vẻ của mình để hòa giải không khí ngột ngạt giữa các thành viên.<br><br>*Sự kiện Volume 6:* Trong Chương V2, Sophia hỏi xin Ariel lời khuyên về vấn đề của Merazophis nhưng bị cô từ chối và khuyên nên cư xử bình thường. Qua đó, Ariel thẳng thắn vạch trần thói ích kỷ, chỉ biết nghĩ cho bản thân và sự tự ghét bỏ giả tạo để lảng tránh trách nhiệm của Sophia. Dù bị tổn thương sâu sắc, Sophia nhận ra sự thật, biết ơn lời trấn an không bỏ rơi của Ariel và quyết tâm thay đổi bản thân. |
 
 ---
 
@@ -2295,13 +2289,13 @@ graph TD
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Chỉ huy và phó tướng trung thành |
+| **Quan hệ** | Chỉ huy và phó chỉ huy (phó tướng) trung thành |
 | **White gọi Phelmina** | Phelmina |
 | **Phelmina gọi White** | White đại nhân (Lady White) / Ngài |
 | **White xưng** | Tôi (trong độc thoại) |
 | **Phelmina xưng** | Tôi / Thần |
-| **Trạng thái** | Phelmina tuyệt đối trung thành và tôn sùng sức mạnh cũng như trí tuệ của White. Trong khi đó, White đánh giá cao năng lực làm việc xuất sắc của Phelmina nhưng đôi khi cảm thấy e ngại trước tính cách nghiêm túc và sắc sảo như một "nữ quản lý" của cô. |
-| **Ghi chú** | Mối quan hệ được củng cố trong quá trình huấn luyện và tác chiến tại các pháo đài phía Bắc. |
+| **Trạng thái** | Phelmina tuyệt đối trung thành và tôn sùng sức mạnh cũng như trí tuệ của White. Trong khi đó, White đánh giá cao năng lực làm việc xuất sắc của Phelmina nhưng đôi khi cảm thấy e ngại trước tính cách nghiêm túc và sắc sảo như một "nữ quản lý" của cô. Trong Volume 13, Phelmina trở thành nhân vật không thể thiếu đối với Quân đoàn 10, đảm nhận toàn bộ việc quản lý hành chính, giấy tờ và giao tiếp thay cho White (vì White quá dở nói chuyện). |
+| **Ghi chú** | Mối quan hệ được củng cố qua việc huấn luyện và chiến dịch Pháo đài Okun ở Volume 13. |
 
 ---
 
@@ -2309,13 +2303,13 @@ graph TD
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Oán hận cũ, đồng nghiệp mới |
+| **Quan hệ** | Oán hận cũ, cấp trên - cấp dưới mới |
 | **Sophia gọi Phelmina** | Phelmina |
 | **Phelmina gọi Sophia** | Sophia đại nhân (Lady Sophia) / Ngài |
 | **Sophia xưng** | Ta / Tôi |
 | **Phelmina xưng** | Tôi |
-| **Trạng thái** | Từng là kẻ thù không đội trời chung tại Học viện Ma tộc, nơi Sophia dùng [Mê Hoặc] cướp đi hôn phu của Phelmina và phá hủy gia đình cô. Hiện tại, họ cùng phục vụ dưới trướng White. Phelmina vẫn giữ khoảng cách và sự lạnh nhạt chuyên nghiệp, trong khi Sophia cảm thấy có phần khó xử nhưng vẫn tỏ thái độ kiêu ngạo đặc trưng. |
-| **Ghi chú** | Trận chiến tâm lý giữa hai người vẫn diễn ra ngầm tại học viện và quân đoàn. |
+| **Trạng thái** | Từng là kẻ thù không đội trời chung tại Học viện Ma tộc, nơi Sophia dùng [Mê Hoặc] cướp đi hôn phu của Phelmina và phá hủy gia đình cô. Hiện tại, họ cùng phục vụ dưới trướng White. Trong Volume 13, Phelmina được chọn làm phó chỉ huy của Quân đoàn 10 (cấp trên trực tiếp của Sophia). Sophia là người duy nhất phản đối điều này nhưng bị White dùng lời nguyền bắt quỳ rạp mặt xuống đất để trừng phạt. Các thành viên khác trong quân đoàn (những người biết rõ những gì Sophia đã làm với Phelmina) luôn lườm nguýt Sophia đầy thù hận, nhưng Sophia không mẩy may bận tâm. |
+| **Ghi chú** | Mối quan hệ đảo ngược khi vị thế của Phelmina lúc này cao hơn Sophia trong quân đoàn. |
 
 ---
 
@@ -2323,13 +2317,13 @@ graph TD
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Cựu hôn phu, đồng nghiệp gượng gạo |
+| **Quan hệ** | Cựu hôn phu, cấp dưới - cấp trên |
 | **Wald gọi Phelmina** | Phelmina |
 | **Phelmina gọi Wald** | Wald |
 | **Wald xưng** | Ta / Tôi |
 | **Phelmina xưng** | Tôi |
-| **Trạng thái** | Wald từng là hôn phu của Phelmina trước khi bị Sophia biến thành ma huyết tộc và mất đi lý trí. Sau khi gia nhập quân đội của Ma Vương, cả hai trở thành đồng nghiệp dưới trướng Sophia và White. Quan hệ giữa họ vô cùng gượng gạo, lạnh nhạt và gánh chịu nhiều tổn thương chưa lành. |
-| **Ghi chú** | Phelmina luôn cố gắng giữ thái độ công tư phân minh khi làm việc cùng Wald. |
+| **Trạng thái** | Wald từng là hôn phu của Phelmina trước khi bị Sophia quyến rũ và biến thành ma cà rồng. Trong Volume 13, Phelmina trở thành phó chỉ huy (cấp trên trực tiếp) của Wald trong Quân đoàn 10. Điều này khiến Wald vô cùng áp lực, thường xuyên đau bụng và lo lắng mỗi ngày. Phelmina luôn duy trì thái độ công tư phân minh, lạnh nhạt và nghiêm túc khi làm việc với Wald, không biểu lộ cảm xúc cá nhân. |
+| **Ghi chú** | Quan hệ gượng gạo đến mức cực điểm khi vị hôn thê cũ bị phản bội nay lại là cấp trên trực tiếp quản lý Wald. |
 
 ---
 
@@ -2342,8 +2336,8 @@ graph TD
 | **Wald gọi Sophia** | Sophia đại nhân / Chủ nhân |
 | **Sophia xưng** | Ta / Tôi |
 | **Wald xưng** | Tôi / Thần |
-| **Trạng thái** | Wald bị ám ảnh và tôn thờ Sophia tuyệt đối sau khi bị cô biến thành quyến thuộc ma huyết tộc, luôn tìm mọi cách bảo vệ cô và ghen tị với bất kỳ ai tiếp cận cô. Sophia coi Wald là một kẻ phiền phức, bám đuôi dai dẳng và thường xuyên mắng mỏ, trừng phạt cậu ta nhưng vẫn tin cậy năng lực chiến đấu của cậu trên chiến trường. |
-| **Ghi chú** | Mối quan hệ chủ tớ kỳ lạ pha trộn giữa lòng trung thành mù quáng và sự chán ghét của Sophia. |
+| **Trạng thái** | Wald bị ám ảnh và tôn thờ Sophia tuyệt đối. Ngay cả khi hiệu ứng [Mê Hoặc] đã hết, cậu vẫn tự nguyện gia nhập Quân đoàn 10 để đeo bám cô, thậm chí xin cô biến mình thành ma cà rồng. Cậu hành xử giống như một fan cuồng đeo bám cô mọi lúc mọi nơi. Sophia coi Wald là một gã bám đuôi phiền phức, phiền hà và thường xuyên mắng mỏ, lạnh nhạt với cậu ta. |
+| **Ghi chú** | Mối quan hệ chủ tớ kỳ lạ pha trộn giữa lòng trung thành mù quáng (fan cuồng) của Wald và sự chán ghét của Sophia. |
 
 ---
 
