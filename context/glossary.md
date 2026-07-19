@@ -401,6 +401,7 @@
 | 269 | Records | [Lưu Trữ] | Kỹ năng | Kỹ năng cho phép ghi nhớ hoặc lưu trữ ký ức dài hạn |
 | 270 | Chastity | [Trinh Tiết] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
 | 271 | Humility | [Khiêm Nhường] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
+| 272 | Spatial Separation | [Phân tách Không gian] | Ma pháp | Kỹ năng/thuật thức hệ không gian dùng để cô lập hoặc cắt rời không gian |
 
 ---
 
