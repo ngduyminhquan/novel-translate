@@ -1241,7 +1241,7 @@ graph TD
 | **Kyouya gọi Shun** | Shun / Yamada |
 | **Shun xưng** | Tôi / Tớ |
 | **Kyouya xưng** | Tớ |
-| **Trạng thái** | Đối đầu trực diện. Trong chương S6, Kyouya đột ngột xuất hiện ở làng Elf, chém gãy ma kiếm của Tagawa và hạ Kushitani, đẩy cả hai vào trạng thái mất khả năng chiến đấu. Khi đối mặt với Shun, Kyouya chào hỏi bằng tông giọng quen thuộc của bạn cũ kiếp trước (xưng "tớ" gọi "cậu"), khẳng định cậu hiện đang đứng về phía các quản trị viên cùng với Sophia. |
+| **Trạng thái** | Đối đầu trực diện. Trong chương S6, Kyouya đột ngột xuất hiện ở làng Elf, chém gãy ma kiếm của Tagawa và hạ Kushitani, đẩy cả hai vào trạng thái mất khả năng chiến đấu. Khi đối mặt với Shun, Kyouya chào hỏi bằng tông giọng quen thuộc của bạn cũ kiếp trước (xưng "tớ" gọi "cậu"), khẳng định cậu hiện đang đứng về phía các quản trị viên cùng với Sophia.<br><br>*Volume 15 Chương S2:* Sau khi trận chiến ở làng Elf kết thúc, Shun lỡ lời đổ lỗi cho Kyouya vì đã tàn sát tộc Elf, nhưng sau đó nhìn thấy biểu cảm đau đớn, kiệt quệ của Kyouya và nhận ra cậu cũng không thực lòng muốn giết họ. Shun bình tĩnh lại và xin lỗi Kyouya. Kyouya khẽ lắc đầu chấp nhận lời xin lỗi và bày tỏ sự ghen tị với khả năng kiên trì bảo vệ lẽ phải của Shun, song vẫn khẳng định sẽ không thay đổi con đường mình chọn và không hối hận về những việc đã làm. Cả hai nhận ra đức tin của họ không bao giờ có thể dung hòa. |
  
 ---
  
