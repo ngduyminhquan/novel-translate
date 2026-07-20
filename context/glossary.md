@@ -418,6 +418,7 @@
 | 276 | Scorched Earth | [Tiêu Thổ] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 1 |
 | 277 | Frozen Earth | [Đông Thổ] | Ma pháp | Phép tấn công thuộc ma pháp Sương Giá cấp 1 |
 | 278 | Heat Haze | [Ảo Ảnh Nhiệt] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 4 |
+| 279 | Past-Vision Evil Eye | [Khứ Hồi Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn cho phép xem các cảnh tượng từ quá khứ |
 
 ---
 
@@ -691,6 +692,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 569
+- **Tổng thuật ngữ**: 570
 
 
