@@ -107,6 +107,9 @@
 | 86 | Payton Campbell | Payton Campbell | Biên tập viên tiếng Anh (Yen On) |
 | 87 | Wendy Chan | Wendy Chan | Thiết kế bìa/sách (Yen Press) |
 | 88 | Chie Nanase | Nanase Chie | Học sinh tái sinh, hiện đang sống tại khu bảo hộ của tộc Elf. |
+| 89 | Nguyen | Nguyen / Hỏa Long Nguyen | Thủ lĩnh Hỏa Long cổ xưa |
+| 90 | Iena | Iena / Thủy Long Iena | Thủ lĩnh Thủy Long cổ xưa |
+| 91 | Gohka | Gohka / Lôi Long Gohka | Thủ lĩnh Lôi Long cổ xưa |
 
 ---
 

@@ -2525,3 +2525,43 @@ graph TD
 | **Phelmina xưng** | Thần / Tôi |
 | **Trạng thái** | Phelmina chịu trách nhiệm báo cáo trực tiếp tình hình cho Ariel khi White vắng mặt. Ariel đánh giá cao năng lực làm việc nghiêm túc, nhanh nhẹn của Phelmina. Trong Volume 15 Chương đặc biệt: Ma vương bị bỏ lại phía sau, Phelmina đã tức tốc đến báo cáo tình hình biến mất của Shun và việc mất liên lạc với White cho Ariel. Ariel đã trấn an Phelmina rằng White chắc chắn sẽ thắng và giao cho cô chịu trách nhiệm giải quyết hậu quả tại làng Elf cùng Wrath. |
 | **Ghi chú** | Xuất hiện trong Volume 15 Chương đặc biệt: Ma vương bị bỏ lại phía sau.
+
+---
+
+### QH-183: Shun ↔ Giáo hoàng Dustin
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thoại thẳng thắn giữa hai đại diện cho hai lý tưởng cứu thế khác nhau |
+| **Shun gọi Dustin** | Giáo hoàng / Giáo hoàng Dustin |
+| **Dustin gọi Shun** | Cậu / Anh hùng mới / Yamada / Các cậu |
+| **Shun xưng** | Tôi |
+| **Dustin xưng** | Ta |
+| **Trạng thái** | Shun gặp Giáo hoàng Dustin tại Thánh quốc Alleius. Giáo hoàng cư xử vô cùng nhã nhặn, khiêm nhường nhưng bộc lộ dã tâm và ý chí sắt đá, sẵn sàng hiến tế vô số sinh mạng để cứu nhân loại. Shun thẳng thắn từ chối tham gia phe Giáo hoàng vì không chấp nhận các phương thức tàn nhẫn hiến tế mạng người và các vị thần của ông, đồng thời tuyên bố đi theo con đường của hoàng huynh Julius là tìm giải pháp cứu tất cả không hy sinh. Giáo hoàng rất bất ngờ trước đức tin kiên định của Shun, quyết định nhượng bộ tôn trọng lựa chọn của Shun và chúc cậu may mắn. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 3. |
+
+---
+
+### QH-184: Shun ↔ Thủ lĩnh Rồng Cổ Xưa (Hyuvan, Nia, Reise)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh bất đắc dĩ từ cuộc gặp gỡ tại Thánh quốc Alleius |
+| **Shun gọi rồng** | Các vị / Thủ lĩnh rồng |
+| **Rồng gọi Shun** | Cậu / Anh hùng / Nhóc con |
+| **Shun xưng** | Tôi |
+| **Rồng xưng** | Ta / Tôi |
+| **Trạng thái** | Trong cuộc họp tại Alleius, khi Shun tuyên bố từ chối hai phe và theo đuổi lý tưởng của Julius, ba thủ lĩnh rồng là Hyuvan, Nia và Reise đã quyết định tách khỏi phe Giáo hoàng để gia nhập phe của Shun. Hyuvan muốn báo đáp ân tình của White và thích đi theo lý tưởng điên rồ của Shun. Nia cũng nợ ân tình của vị thần sắc ngà và không muốn chiến đấu vô ích. Reise quyết định đặt cược vào nỗ lực quyết tâm của Shun, cảnh cáo Shun không được nuốt lời. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 3. |
+
+---
+
+### QH-185: Thủ lĩnh Rồng Cổ Xưa (Phe Dustin ↔ Phe Shun)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Rạn nứt phe cánh giữa các thủ lĩnh rồng cổ xưa dưới trướng Güliedistodiez |
+| **Các thủ lĩnh gọi nhau** | Ngươi / Em gái / Chị gái / Reise / Hyuvan / Nia / Nguyen / Iena |
+| **Xưng hô** | Ta / Tôi / Em |
+| **Trạng thái** | Các thủ lĩnh rồng bị chia rẽ sâu sắc trong việc lựa chọn phe phái. Trong khi Iena, Nguyen và Gohka quyết định trung thành tuân theo mệnh lệnh của Chúa tể Güliedistodiez và Giáo hoàng Dustin (chấp nhận hiến tế bản thân để cứu nhân loại), thì Hyuvan, Nia và Reise lại chọn đi theo Anh hùng Shun để tìm kiếm một con đường khác cứu sống tất cả. Iena cực kỳ tức giận chỉ trích Nia và Hyuvan bất tuân lệnh, suýt động thủ với Nia nhưng được Reise can ngăn kịp thời. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 3. |

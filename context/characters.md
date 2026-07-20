@@ -1798,10 +1798,62 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Là một cựu học sinh tái sinh cùng lớp với nhóm của Shun. Cô là một cô gái chu đáo và cẩn thận. Trong Đoạn phụ của Tagawa Kunihiko ở Tập 15, cô được Asaka gọi vào thay ca để túc trực và chăm sóc cho sự phục hồi của cô Oka khi Asaka và Kunihiko đi gặp Merazophis.
 
+---
 
+### NV-090: Nguyen (Hỏa Long Nguyen / Fire Dragon Nguyen)
 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Nguyen |
+| **Tên dịch** | Nguyen / Hỏa Long Nguyen |
+| **Biệt danh** | Hỏa Long / Thủ lĩnh hỏa long |
+| **Giới tính** | Nam |
+| **Vai trò** | Thủ lĩnh hỏa long cổ xưa, thuộc cấp Güli-güli |
+| **Xuất hiện** | Volume 16 Chương 3 |
 
+**Tính cách tổng quát & Sự kiện:**
+> Là thủ lĩnh của tất cả các loài hỏa long, bao gồm cả những con rồng cổ xưa khác thuộc hệ đó. Là một người đàn ông bán khỏa thân cơ bắp lực lưỡng, nghiêm túc và trung thành với Chúa tể Güliedistodiez.
+> *Sự kiện Volume 16:* Xuất hiện tại cuộc họp chiến thuật cùng Giáo hoàng Dustin ở Thánh quốc Alleius. Ông đồng ý với việc tuân thủ mệnh lệnh của Chúa tể là bảo vệ nhân loại và hiến tế bản thân, đồng thời phản đối hành động đào tẩu gia nhập phe Anh hùng của Hyuvan và Nia.
 
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, nghiêm túc, xưng "ta" và gọi người khác là "ngươi" hoặc xưng hô trung lập.
 
+---
 
+### NV-091: Iena (Thủy Long Iena / Water Dragon Iena)
 
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Iena |
+| **Tên dịch** | Iena / Thủy Long Iena |
+| **Biệt danh** | Thủy Long / Thủ lĩnh thủy long |
+| **Giới tính** | Nữ |
+| **Vai trò** | Thủ lĩnh thủy long cổ xưa, thuộc cấp Güli-güli |
+| **Xuất hiện** | Volume 16 Chương 3 |
+
+**Tính cách tổng quát & Sự kiện:**
+> Là thủ lĩnh của loài thủy long cổ xưa. Cô có ngoại hình của một người phụ nữ dịu dàng nhưng tính cách thực chất lại vô cùng lạnh lùng, nghiêm khắc và hiếu chiến nhất trong số các thủ lĩnh rồng. Rất trung thành với Chúa tể Güliedistodiez.
+> *Sự kiện Volume 16:* Tham dự cuộc họp tại Thánh quốc Alleius. Cô cực kỳ tức giận trước quyết định đào tẩu của em gái Nia và Hyuvan, chỉ trích họ bất tuân lệnh của Chúa tể. Cô suýt nữa đã động thủ với Nia nếu không có sự can ngăn của Reise. Cô quyết định trung thành với mệnh lệnh hiến tế bản thân của Chúa tể.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Lạnh lùng, nghiêm nghị, xưng "ta" và gọi Nia là "em".
+
+---
+
+### NV-092: Gohka (Lôi Long Gohka / Lightning Dragon Gohka)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Gohka |
+| **Tên dịch** | Gohka / Lôi Long Gohka |
+| **Biệt danh** | Lôi Long / Thủ lĩnh lôi long |
+| **Giới tính** | Nam |
+| **Vai trò** | Thủ lĩnh lôi long cổ xưa, thuộc cấp Güli-güli |
+| **Xuất hiện** | Volume 16 Chương 3 |
+
+**Tính cách tổng quát & Sự kiện:**
+> Là thủ lĩnh của loài lôi long cổ xưa. Có ngoại hình của một gã côn đồ hơi ngốc nghếch.
+> *Sự kiện Volume 16:* Tham gia cuộc họp tại Thánh quốc Alleius. Dù không hoàn toàn hiểu rõ đầu đuôi câu chuyện đang xảy ra, ông vẫn chọn trung thành đi theo phe Giáo hoàng Dustin vì mục tiêu đập cho Ariel một trận.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Bộc trực, ngốc nghếch, xưng "ta" và nói chuyện đơn giản.
