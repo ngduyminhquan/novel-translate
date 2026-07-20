@@ -1776,6 +1776,22 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Ngôn ngữ**: Độc thoại xưng "tôi" và nói chuyện với người đọc/người nghe giả định xưng "bạn". Khi đối thoại trực tiếp, xưng "ta" và gọi đối phương là "ngươi" hoặc xưng hô trang trọng ("Ngài" với Sariel và Dustin). Tông giọng trầm lặng, chín chắn, nghiêm nghị nhưng đượm buồn và suy tư sâu sắc.
 - **Cảm xúc chủ đạo**: Trầm mặc, điềm đạm, mang gánh nặng trách nhiệm và sự hối hận khôn nguôi về quá khứ.
 
+---
+
+### NV-089: Nanase Chie
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Chie Nanase |
+| **Tên dịch** | Nanase Chie |
+| **Biệt danh** | — |
+| **Giới tính** | Nữ |
+| **Vai trò** | Người tái sinh, hiện đang sống tại khu bảo hộ của tộc Elf. |
+| **Xuất hiện** | Volume 15 Đoạn phụ: Kunihiko Tagawa |
+
+**Tính cách tổng quát:**
+> Là một cựu học sinh tái sinh cùng lớp với nhóm của Shun. Cô là một cô gái chu đáo và cẩn thận. Trong Đoạn phụ của Tagawa Kunihiko ở Tập 15, cô được Asaka gọi vào thay ca để túc trực và chăm sóc cho sự phục hồi của cô Oka khi Asaka và Kunihiko đi gặp Merazophis.
+
 
 
 

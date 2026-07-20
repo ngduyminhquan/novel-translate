@@ -2484,3 +2484,18 @@ graph TD
 | **Ronandt xưng** | Ta |
 | **Trạng thái** | Khi Ronandt bị cỗ golem kim loại của Elf đánh trọng thương và sắp chết, Fiel cùng ba nhện rối khác đã lao xuống tiêu diệt lũ golem. Fiel chế nhạo Ronandt là "Thả thảm" (Loooser) và sau đó sửa lại là "Lão già" (Geeezer), rồi ghép lại thành "Thả-già" (Loo-gee). Dù Ronandt hết sức bất bình và gào thét phản đối, ông vẫn cố gắng gượng dậy thi triển liên hoàn ma pháp Tiêu Thổ và Đông Thổ để tiêu diệt bầy golem mới nhằm chứng minh lòng kiêu hãnh của mình. Fiel vỗ tay tán thưởng đầy phấn khích nhưng vẫn tiếp tục gọi ông là "Thả-già". Mặc dù thiếu MP và sức lực, Ronandt vẫn quyết định ở lại hỗ trợ nhóm nhện rối chiến đấu chống lại bầy golem tiếp theo để bảo vệ lòng tự tôn. |
 | **Ghi chú** | Xuất hiện trong Volume 14 Đoạn phụ: Lão già và những tiểu thư phù thủy. |
+
+---
+
+### QH-180: Tagawa Kunihiko ↔ Merazophis
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Kẻ thù diệt tộc (Merazophis tiêu diệt bộ tộc lính đánh thuê của Kunihiko và Asaka) |
+| **Kunihiko gọi Merazophis** | Merazophis / Anh (khi nói chuyện trực tiếp lịch sự) |
+| **Merazophis gọi Kunihiko** | Cậu / Tagawa Kunihiko (xưng hô lịch sự) |
+| **Kunihiko xưng** | Tôi / Tớ (nói với Asaka) |
+| **Merazophis xưng** | Tôi / các cậu |
+| **Trạng thái** | Merazophis tôn trọng sự khiêu chiến của Kunihiko; Kunihiko căm ghét anh ta vì mối thù diệt tộc nhưng sau khi nghe giải thích về lý do đằng sau (để bảo vệ cô Oka khỏi Potimas và đưa người tái sinh ra khỏi vùng chiến sự), cậu thầm hiểu anh ta chỉ đang tuân lệnh cấp trên, dẫn đến cảm xúc mâu thuẫn phức tạp và hoang mang về con đường báo thù của mình. |
+| **Ghi chú** | Xuất hiện trong Volume 15 Đoạn phụ: Kunihiko Tagawa. |
+

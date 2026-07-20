@@ -106,6 +106,7 @@
 | 85 | Jenny McKeon | Jenny McKeon | Dịch giả tiếng Anh |
 | 86 | Payton Campbell | Payton Campbell | Biên tập viên tiếng Anh (Yen On) |
 | 87 | Wendy Chan | Wendy Chan | Thiết kế bìa/sách (Yen Press) |
+| 88 | Chie Nanase | Nanase Chie | Học sinh tái sinh, hiện đang sống tại khu bảo hộ của tộc Elf. |
 
 ---
 
@@ -692,6 +693,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 570
+- **Tổng thuật ngữ**: 571
 
 
