@@ -101,6 +101,7 @@
 | 80 | first saint | vị thánh nữ đời đầu / thánh nữ đầu tiên | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
 | 81 | beast lord | Thú Vương (Beast Lord) | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
 | 82 | agitator lord | Cổ Động Vương / Vua kích động (Agitator Lord) | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
+| 83 | President Dustin | Tổng thống Dustin | Nhân vật lịch sử cổ đại | Tiền kiếp của Giáo hoàng Dustin khi còn là Tổng thống của quốc gia Daztrudia thời cổ đại |
 
 ---
 
