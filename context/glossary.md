@@ -649,6 +649,7 @@
 | 227 | spy clone | phân thân gián điệp | Thuật ngữ | Phân thân nhện nhỏ chuyên thu thập tin tức của White |
 | 228 | Vampy | Vampy | Biệt danh | Biệt danh White dùng để gọi Sophia Keren |
 | 229 | vampire | ma cà rồng | Chủng tộc / Thuật ngữ | Chủng tộc bất tử hút máu được tạo ra bằng ma pháp triệu hồi thời cổ đại |
+| 230 | dragon god | Long Thần | Thuật ngữ / Chủng tộc | Vị thần tối cao dẫn dắt loài rồng ở kinh đô |
 
 ---
 
