@@ -110,6 +110,7 @@
 | 89 | Nguyen | Nguyen / Hỏa Long Nguyen | Thủ lĩnh Hỏa Long cổ xưa |
 | 90 | Iena | Iena / Thủy Long Iena | Thủ lĩnh Thủy Long cổ xưa |
 | 91 | Gohka | Gohka / Lôi Long Gohka | Thủ lĩnh Lôi Long cổ xưa |
+| 92 | Darad | Darad | Thống lĩnh Quân đoàn 5 dưới quyền Ma Vương |
 
 ---
 
@@ -673,6 +674,7 @@
 | 241 | Conditions After System Installation | Tình trạng Sau khi Thiết lập Hệ thống | Thuật ngữ / Hệ thống | Trạng thái và cơ chế vận hành của hành tinh sau khi Hệ thống W được khởi chạy |
 | 242 | ivory god | vị thần sắc ngà | Thuật ngữ / Hệ thống | Vị thần sắc trắng ngà (đại diện cho Shiraori/White) được nhắc tới trong Nhiệm vụ Thế giới |
 | 243 | ebony god | vị thần sắc mun | Thuật ngữ / Hệ thống | Vị thần sắc gỗ mun (đại diện cho Güliedistodiez/Hắc) được nhắc tới trong Nhiệm vụ Thế giới |
+| 244 | MA energy | năng lượng MA | Thuật ngữ | Năng lượng đặc thù của thế giới, tích lũy bằng cách hiến tế sinh mạng hoặc vận hành hệ thống |
 
 ---
 

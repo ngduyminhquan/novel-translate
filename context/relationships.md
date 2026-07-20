@@ -2565,3 +2565,32 @@ graph TD
 | **Xưng hô** | Ta / Tôi / Em |
 | **Trạng thái** | Các thủ lĩnh rồng bị chia rẽ sâu sắc trong việc lựa chọn phe phái. Trong khi Iena, Nguyen và Gohka quyết định trung thành tuân theo mệnh lệnh của Chúa tể Güliedistodiez và Giáo hoàng Dustin (chấp nhận hiến tế bản thân để cứu nhân loại), thì Hyuvan, Nia và Reise lại chọn đi theo Anh hùng Shun để tìm kiếm một con đường khác cứu sống tất cả. Iena cực kỳ tức giận chỉ trích Nia và Hyuvan bất tuân lệnh, suýt động thủ với Nia nhưng được Reise can ngăn kịp thời. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 3. |
+
+---
+
+### QH-186: Balto ↔ Darad
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thống lĩnh cùng cấp, đồng nghiệp tôn trọng lẫn nhau |
+| **Balto gọi Darad** | Darad |
+| **Darad gọi Balto** | Ngài Balto (Sir Balto) |
+| **Balto xưng** | Tôi |
+| **Darad xưng** | Tôi |
+| **Trạng thái** | Darad là thống lĩnh ma tộc thuần chủng duy nhất giữ lòng trung thành chân thành với Ariel, nhưng khi Balto quyết định phản kháng chống lại Ma Vương vì lợi ích ma tộc, Darad không ngăn cản. Ông thấu hiểu cho nỗi đau của Balto khi Bloe hy sinh và quyết định trung lập, ở lại lãnh địa giữ trị an cho dân chúng. Balto tôn trọng sự lựa chọn của Darad và hai người chia tay trong hòa bình. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 4. |
+
+---
+
+### QH-187: Balto ↔ Kogou
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thống lĩnh cùng cấp, đồng nghiệp kề vai chiến đấu |
+| **Balto gọi Kogou** | Kogou |
+| **Kogou gọi Balto** | Ngài Balto (Mr. Balto) |
+| **Balto xưng** | Tôi |
+| **Kogou xưng** | Tôi |
+| **Trạng thái** | Kogou vốn là kẻ nhút nhát và ghét chiến tranh, nhưng trong cuộc đối đầu sinh tử với đàn nhện Tàn tích của Cơn Ác Mộng tại lối vào Đại Mê cung Elroe, Kogou đã dũng cảm xung phong cản hậu bảo vệ cho quân ma tộc rút lui. Balto vô cùng chấn động và đau đớn trước lòng dũng cảm tự hiến của Kogou, buộc phải nuốt nước mắt ra lệnh cho toàn quân rút lui theo ý nguyện của cậu ta. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 4. |
+

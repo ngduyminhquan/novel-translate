@@ -1857,3 +1857,25 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bộc trực, ngốc nghếch, xưng "ta" và nói chuyện đơn giản.
+
+---
+
+### NV-093: Darad
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Darad |
+| **Tên dịch** | Darad |
+| **Biệt danh** | Thống lĩnh Quân đoàn 5 |
+| **Giới tính** | Nam |
+| **Vai trò** | Thống lĩnh Quân đoàn 5 của quân đội Ma Vương, quý tộc ma tộc |
+| **Xuất hiện** | Volume 16 Chương 4 (và nhắc tới ở các volume trước) |
+
+**Tính cách tổng quát & Sự kiện:**
+> Là Thống lĩnh Quân đoàn 5 của quân đội Ma Vương và là một quý tộc ma tộc. Khác với nhiều thống lĩnh ma tộc thuần chủng khác phục tùng Ariel chỉ vì sợ hãi hoặc vì sinh tồn của ma tộc, Darad sở hữu một lòng trung thành chân thành và sâu sắc dành cho Ma Vương. Sự trung thành này một phần đến từ truyền thống gia tộc lâu đời của ông. Ông cũng là một chiến lược gia sắc sảo và nhạy bén.
+> *Sự kiện Volume 16:* Trong cuộc họp sau khi Nhiệm vụ Thế giới được công bố, ông đề xuất giải pháp tạm thời để trấn an lòng dân và tăng cường tuần tra dưới danh nghĩa khảo sát ý kiến để giữ gìn trật tự trị an. Khi được tự do lựa chọn chiến đấu chống lại Ma Vương hay không, ông bị giằng xé dữ dội giữa lòng trung thành với Ariel và nghĩa vụ bảo vệ gia tộc và thuộc hạ của mình. Cuối cùng ông chọn đứng trung lập, ở lại giữ gìn hòa bình và trật tự cho lãnh địa ma tộc để tránh việc binh lính chết vô ích, đồng thời chúc Balto đi tiếp.
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Trang trọng, điềm tĩnh, nhạy bén của một chiến lược gia và quý tộc.
+- **Xưng hô**: Xưng "tôi", gọi Balto là "ngài Balto" (Sir Balto), gọi Ariel là "Ma Vương đại nhân".
+
