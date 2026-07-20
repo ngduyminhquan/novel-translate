@@ -97,6 +97,10 @@
 | 76 | Wald | Wald | Phó chỉ huy Quân đoàn 10, cấp dưới phục vụ Sophia |
 | 77 | Phelmina | Phelmina | Phó chỉ huy Quân đoàn 10, phụ tá của White |
 | 78 | Foduey | Foduey | Tiền kiếp đầu tiên của Giáo hoàng Dustin thời kỳ cổ đại, một tỷ phú sở hữu biệt danh "Ma Vương giới kinh doanh" |
+| 79 | first hero | vị anh hùng đời đầu / anh hùng đầu tiên | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
+| 80 | first saint | vị thánh nữ đời đầu / thánh nữ đầu tiên | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
+| 81 | beast lord | Thú Vương (Beast Lord) | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
+| 82 | agitator lord | Cổ Động Vương / Vua kích động (Agitator Lord) | Nhân vật lịch sử cổ đại | Một trong những đứa trẻ ở cô nhi viện của Sariel thời cổ đại |
 
 ---
 
