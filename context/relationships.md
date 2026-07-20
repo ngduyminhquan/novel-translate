@@ -1792,7 +1792,7 @@ graph TD
 | **Hắc gọi Potimas** | Potimas |
 | **Potimas xưng** | Ta |
 | **Hắc xưng** | Ta |
-| **Trạng thái** | Hai thực thể tồn tại từ thời cổ đại. Hắc Long coi Potimas là kẻ ích kỷ, xảo quyệt luôn tìm cách thao túng mọi thứ có lợi cho mình. Khi G-Fleet trỗi dậy ở Volume 7, Hắc Long chấp nhận đề xuất của Potimas đi vào vũ trụ để xử lý G-Meteo vì chỉ có anh ta mới có thể chiến đấu ngoài không gian. Hắc Long biết thừa Potimas cố tình đẩy mình đi để giở trò mưu đồ riêng trên mặt đất, và anh ta thề sẽ đập tan mưu đồ của Potimas không chút nương tay sau khi quay về. Potimas luôn đề phòng sức mạnh thần cấp của Hắc Long và tìm cách vô hiệu hóa hoặc cô lập anh ta để thực hiện các kế hoạch ích kỷ của mình. |
+| **Trạng thái** | Hai thực thể tồn tại từ thời cổ đại. Hắc Long coi Potimas là kẻ ích kỷ, xảo quyệt luôn tìm cách thao túng mọi thứ có lợi cho mình. Trong quá khứ, Potimas là kẻ giật dây đứng sau vụ bắt cóc một đứa trẻ rồng nhằm phục vụ nghiên cứu sinh học rồng tộc và chế tạo sinh vật lai (chimera), sự kiện khiến Hắc Long phải đi canh giám sát đứa trẻ và gián tiếp dẫn đến cuộc gặp gỡ đầu tiên của anh với Sariel. Khi G-Fleet trỗi dậy ở Volume 7, Hắc Long chấp nhận đề xuất của Potimas đi vào vũ trụ để xử lý G-Meteo vì chỉ có anh ta mới có thể chiến đấu ngoài không gian. Hắc Long biết thừa Potimas cố tình đẩy mình đi để giở trò mưu đồ riêng trên mặt đất, và anh ta thề sẽ đập tan mưu đồ của Potimas không chút nương tay sau khi quay về. Potimas luôn đề phòng sức mạnh thần cấp của Hắc Long và tìm cách vô hiệu hóa hoặc cô lập anh ta để thực hiện các kế hoạch ích kỷ của mình. |
 
 ---
 
@@ -2414,8 +2414,8 @@ graph TD
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-19
-- **Tổng cặp quan hệ**: 176
+- **Cập nhật lần cuối**: 2026-07-20
+- **Tổng cặp quan hệ**: 177
 
 ---
 
@@ -2440,6 +2440,19 @@ graph TD
 | **Hugo gọi Hugo** | - |
 | **Trạng thái** | White đã cấy một phân thân nhện nhỏ vào trong não của Natsume để tẩy não và thu phục hắn về phe mình, biến hắn thành một công cụ sở hữu hai kỹ năng Kẻ thống trị `[Ái Dục]` và `[Tham Lam]`. White sử dụng quyền năng tẩy não của Natsume để gián tiếp kiểm soát các học sinh tái sinh khác (như Ooshima, Hasebe) và buộc Sue ám hại phụ hoàng. |
 | **Ghi chú** | Xuất hiện trong Volume 13 Chương 7. |
+
+---
+
+### QH-177: Güliedistodiez (Quản trị viên Hắc / Hắc Long) ↔ Nữ thần Sariel
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Mối lương duyên sâu sắc từ thời viễn cổ (Hắc Long kính trọng, bảo vệ và thầm thương Nữ thần Sariel) |
+| **Hắc gọi Sariel** | Sariel / Nữ thần Sariel / ngài Sariel |
+| **Sariel gọi Hắc** | Rồng (Dragon) / native species (chủng tộc bản địa - khi làm nhiệm vụ) |
+| **Hắc xưng** | Ta / tôi (khi hoài niệm) |
+| **Trạng thái** | Hắc Long luôn kính trọng và muốn bảo vệ Nữ thần Sariel bằng mọi giá. Cuộc chạm trán đầu tiên của họ diễn ra đầy bạo lực khi Hắc Long định sát hại đám thanh niên loài người côn đồ đe dọa mình và bị Sariel ngăn chặn, đánh ngã xuống đất và cảnh báo tiêu diệt nếu tiếp tục có hành vi can thiệp vật lý vào chủng tộc bản địa. Mặc dù khởi đầu không chút lãng mạn, đó là khởi đầu cho mối lương duyên lâu dài của hai người. Khi thế giới đứng trước nguy cơ diệt vong và Hệ thống được vận hành, Hắc Long dù đau đớn khi thấy Sariel hiến tế làm lõi vẫn phải chấp nhận và đồng ý duy trì trật tự thế giới để bảo vệ nhân loại theo ước nguyện của cô. |
+| **Ghi chú** | Được làm rõ trong Volume 14 Chương 3 (Hồi tưởng: Cuộc gặp đầu tiên). |
 
 
 
