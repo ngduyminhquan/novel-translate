@@ -639,6 +639,9 @@
 | 223 | angel | thiên sứ / thiên thần | Thuật ngữ / Chủng tộc | Chủng tộc chiến đấu chống lại các vị thần, hành động hoàn toàn vì sứ mệnh |
 | 224 | lost angel | thiên sứ lạc lối / thiên thần lạc lối | Thuật ngữ / Chủng tộc | Thiên sứ đi chệch khỏi đồng loại, hành động độc lập vì một sứ mệnh duy nhất |
 | 225 | Conjuring | Ma pháp triệu hồi | Thuật ngữ | Ma pháp thời cổ đại hoạt động ngoài Hệ thống W, được sử dụng bởi Long tộc |
+| 226 | battle clone | phân thân chiến đấu | Thuật ngữ | Phân thân nhện có sức chiến đấu mạnh do White tạo ra |
+| 227 | spy clone | phân thân gián điệp | Thuật ngữ | Phân thân nhện nhỏ chuyên thu thập tin tức của White |
+| 228 | Vampy | Vampy | Biệt danh | Biệt danh White dùng để gọi Sophia Keren |
 
 ---
 
@@ -663,5 +666,5 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 549
+- **Tổng thuật ngữ**: 552
 
