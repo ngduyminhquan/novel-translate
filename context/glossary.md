@@ -638,6 +638,7 @@
 | 222 | Gloria Type Ω | Gloria Loại Ω | Vũ khí / Vật phẩm | Mẫu vũ khí cơ giới mạnh nhất của Potimas chế tạo để đối đầu với Güliedistodiez |
 | 223 | angel | thiên sứ / thiên thần | Thuật ngữ / Chủng tộc | Chủng tộc chiến đấu chống lại các vị thần, hành động hoàn toàn vì sứ mệnh |
 | 224 | lost angel | thiên sứ lạc lối / thiên thần lạc lối | Thuật ngữ / Chủng tộc | Thiên sứ đi chệch khỏi đồng loại, hành động độc lập vì một sứ mệnh duy nhất |
+| 225 | Conjuring | Ma pháp triệu hồi | Thuật ngữ | Ma pháp thời cổ đại hoạt động ngoài Hệ thống W, được sử dụng bởi Long tộc |
 
 ---
 
