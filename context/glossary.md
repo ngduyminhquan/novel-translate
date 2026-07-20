@@ -651,6 +651,8 @@
 | 228 | Vampy | Vampy | Biệt danh | Biệt danh White dùng để gọi Sophia Keren |
 | 229 | vampire | ma cà rồng | Chủng tộc / Thuật ngữ | Chủng tộc bất tử hút máu được tạo ra bằng ma pháp triệu hồi thời cổ đại |
 | 230 | dragon god | Long Thần | Thuật ngữ / Chủng tộc | Vị thần tối cao dẫn dắt loài rồng ở kinh đô |
+| 231 | sea urchin | nhím biển | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại hình nhím biển bay lơ lửng của Potimas |
+| 232 | pyramid | kim tự tháp | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại khổng lồ hình kim tự tháp bay lơ lửng của Potimas |
 
 ---
 
