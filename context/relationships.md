@@ -2415,7 +2415,7 @@ graph TD
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng cặp quan hệ**: 177
+- **Tổng cặp quan hệ**: 178
 
 ---
 
@@ -2453,6 +2453,22 @@ graph TD
 | **Hắc xưng** | Ta / tôi (khi hoài niệm) |
 | **Trạng thái** | Hắc Long luôn kính trọng và muốn bảo vệ Nữ thần Sariel bằng mọi giá. Cuộc chạm trán đầu tiên của họ diễn ra đầy bạo lực khi Hắc Long định sát hại đám thanh niên loài người côn đồ đe dọa mình và bị Sariel ngăn chặn, đánh ngã xuống đất và cảnh báo tiêu diệt nếu tiếp tục có hành vi can thiệp vật lý vào chủng tộc bản địa. Mặc dù khởi đầu không chút lãng mạn, đó là khởi đầu cho mối lương duyên lâu dài của hai người. Khi thế giới đứng trước nguy cơ diệt vong và Hệ thống được vận hành, Hắc Long dù đau đớn khi thấy Sariel hiến tế làm lõi vẫn phải chấp nhận và đồng ý duy trì trật tự thế giới để bảo vệ nhân loại theo ước nguyện của cô. |
 | **Ghi chú** | Được làm rõ trong Volume 14 Chương 3 (Hồi tưởng: Cuộc gặp đầu tiên). |
+ 
+ 
+ ---
+ 
+ ### QH-178: Kusama Shinobu ↔ Kyouya Sasajima (Wrath)
+ 
+ | Thuộc tính | Chi tiết |
+ |------------|----------|
+ | **Quan hệ** | Bạn thân kiếp trước, đồng minh cùng phe cánh dưới quyền Ma Vương |
+ | **Shinobu gọi Kyouya** | Kyouya / cậu Oni (Mr. Oni) |
+ | **Kyouya gọi Shinobu** | Kusama / Shinobu |
+ | **Shinobu xưng** | Tớ |
+ | **Kyouya xưng** | Tớ |
+ | **Trạng thái** | Kiếp trước hai người là bạn khá thân thiết. Ở dị giới, khi phe Thần Ngôn Giáo gặp gỡ phe Ma Vương/White, họ đã gặp lại nhau vài lần và nối lại tình bạn cũ. Kyouya đã tặng Kusama thanh kiếm nổ làm quà chia tay. Kusama sau đó đã dùng chính thanh kiếm nổ này để thực hiện nhiệm vụ bí mật phá hủy các cổng dịch chuyển của tộc Elf từ bên trong kết giới. |
+ | **Ghi chú** | Xuất hiện trong Volume 14 Chương 2. |
+
 
 
 
