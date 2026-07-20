@@ -409,6 +409,10 @@
 | 272 | Spatial Separation | [Phân tách Không gian] | Ma pháp | Kỹ năng/thuật thức hệ không gian dùng để cô lập hoặc cắt rời không gian |
 | 273 | Dimension Cutter | [Không Gian Trảm] | Ma pháp / Kỹ năng | Đòn tấn công cắt đứt không gian xung quanh mục tiêu, bỏ qua mọi thuộc tính phòng ngự thông thường |
 | 274 | Gluttonous Evil Eye | [Bạo Thực Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn hấp thụ năng lượng từ mục tiêu và phân rã các thuật thức |
+| 275 | Hoarfrost Magic | [ma pháp Sương Giá] | Ma pháp | Phép thuật thuộc tính băng sương cấp nâng cao |
+| 276 | Scorched Earth | [Tiêu Thổ] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 1 |
+| 277 | Frozen Earth | [Đông Thổ] | Ma pháp | Phép tấn công thuộc ma pháp Sương Giá cấp 1 |
+| 278 | Heat Haze | [Ảo Ảnh Nhiệt] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 4 |
 
 ---
 
@@ -662,6 +666,7 @@
 | 6 | Zombie attack | Tấn công kiểu zombie | Độc thoại nội tâm của Nhện | Chiến thuật hồi sinh liên tục để bào mòn đối phương |
 | 7 | sweatshop | xưởng bóc lột | Lời thoại của Ariel | Ví von bóc lột sức lao động |
 | 8 | egg-revival technique / egg revival | thuật hồi sinh từ trứng | Độc thoại nội tâm của Nhện | Phương pháp chuyển linh hồn vào trứng dự phòng khi chết để hồi sinh của Nhện |
+| 9 | Loo-gee | Thả-già | Đối thoại giữa Fiel và Ronandt | Cách Fiel gọi kết hợp giữa "Loooser" (Thả thảm/Thảm hại) và "Geeezer" (Lão già) |
 
 ---
 
@@ -669,6 +674,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 555
+- **Tổng thuật ngữ**: 560
 
 

@@ -2469,12 +2469,18 @@ graph TD
  | **Kyouya xưng** | Tớ |
  | **Trạng thái** | Kiếp trước hai người là bạn khá thân thiết. Ở dị giới, khi phe Thần Ngôn Giáo gặp gỡ phe Ma Vương/White, họ đã gặp lại nhau vài lần và nối lại tình bạn cũ. Kyouya đã tặng Kusama thanh kiếm nổ làm quà chia tay. Kusama sau đó đã dùng chính thanh kiếm nổ này để thực hiện nhiệm vụ bí mật phá hủy các cổng dịch chuyển của tộc Elf từ bên trong kết giới. |
  | **Ghi chú** | Xuất hiện trong Volume 14 Chương 2. |
+ 
+ 
+ ---
+ 
+### QH-179: Ronandt ↔ Fiel (Nhóm nhện rối)
 
-
-
-
-
-
-
-
-
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng minh bất đắc dĩ tại rừng Elf (Fiel trêu chọc và cứu mạng Ronandt, Ronandt cố gắng chứng minh thực lực của mình) |
+| **Fiel gọi Ronandt** | Loooser (Thảảảm hại) / Geeezer (Lããão già) / Loo-gee (Thả-già) |
+| **Ronandt gọi Fiel** | Fiel / Con nhóc / Đứa trẻ cưỡi nhện này |
+| **Fiel xưng** | - |
+| **Ronandt xưng** | Ta |
+| **Trạng thái** | Khi Ronandt bị cỗ golem kim loại của Elf đánh trọng thương và sắp chết, Fiel cùng ba nhện rối khác đã lao xuống tiêu diệt lũ golem. Fiel chế nhạo Ronandt là "Thả thảm" (Loooser) và sau đó sửa lại là "Lão già" (Geeezer), rồi ghép lại thành "Thả-già" (Loo-gee). Dù Ronandt hết sức bất bình và gào thét phản đối, ông vẫn cố gắng gượng dậy thi triển liên hoàn ma pháp Tiêu Thổ và Đông Thổ để tiêu diệt bầy golem mới nhằm chứng minh lòng kiêu hãnh của mình. Fiel vỗ tay tán thưởng đầy phấn khích nhưng vẫn tiếp tục gọi ông là "Thả-già". Mặc dù thiếu MP và sức lực, Ronandt vẫn quyết định ở lại hỗ trợ nhóm nhện rối chiến đấu chống lại bầy golem tiếp theo để bảo vệ lòng tự tôn. |
+| **Ghi chú** | Xuất hiện trong Volume 14 Đoạn phụ: Lão già và những tiểu thư phù thủy. |
