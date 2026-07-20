@@ -2499,3 +2499,18 @@ graph TD
 | **Trạng thái** | Merazophis tôn trọng sự khiêu chiến của Kunihiko; Kunihiko căm ghét anh ta vì mối thù diệt tộc nhưng sau khi nghe giải thích về lý do đằng sau (để bảo vệ cô Oka khỏi Potimas và đưa người tái sinh ra khỏi vùng chiến sự), cậu thầm hiểu anh ta chỉ đang tuân lệnh cấp trên, dẫn đến cảm xúc mâu thuẫn phức tạp và hoang mang về con đường báo thù của mình. |
 | **Ghi chú** | Xuất hiện trong Volume 15 Đoạn phụ: Kunihiko Tagawa. |
 
+---
+
+### QH-181: Fei ↔ Hugo (Natsume Kengo)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Bạn học kiếp trước, quan hệ bắt nạt/giám sát kiếp này |
+| **Fei gọi Hugo** | Cậu / Natsume |
+| **Hugo gọi Fei** | Shinohara |
+| **Fei xưng** | Tớ / Bọn tớ (khi nói cùng nhóm) |
+| **Hugo xưng** | Tao / Tao (khi đối thoại) / Tôi (khi độc thoại) |
+| **Trạng thái** | Trong Volume 15 Đoạn phụ: Kengo Natsume, khi Hugo lầm lũi rời đi sau cuộc họp vì cảm thấy bản thân bị cô lập và không còn bận tâm đến việc sống chết, Fei đã đuổi theo gặng hỏi và thẳng thắn vạch trần việc cậu ta chỉ đang trút giận lên người khác để trốn tránh thực tại. Sau đó, cô quật ngã và đấm cậu ta để trừng phạt, đồng thời tuyên bố bắt cậu ta làm "nô lệ" cho nhóm bạn học cho đến chết. Hugo thản nhiên chấp nhận hình phạt và cảm thấy bớt nặng nề hơn dưới sự giám sát thô bạo nhưng thẳng thắn của Fei. |
+| **Ghi chú** | Xuất hiện trong Volume 15 Đoạn phụ: Kengo Natsume. |
+
+
