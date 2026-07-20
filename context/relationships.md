@@ -2636,3 +2636,18 @@ graph TD
 | **Trạng thái** | Hyrince (phân thân của Hắc Thần Güliedistodiez) đã ra tay cứu cô Oka cùng các học sinh trên chiếc đĩa bay (UFO) khỏi sự tấn công của bầy quái vật và cất cánh thành công nhờ ký ức của Hắc Thần. Hyrince tiết lộ thân phận thực sự của mình cho cô Oka và Anna biết, đồng thời đề nghị đối thoại bí mật với cô Oka qua [Thần giao cách cảm] để tìm hiểu cột tương lai trong kỹ năng độc quyền [Danh Sách Học Sinh] của cô. Qua cuộc nói chuyện, cô Oka phát hiện một sự thật kinh hoàng: "Tà thần" thực sự muốn hiến tế một nửa nhân loại không phải là Thần sắc ngà, mà chính là Tà thần D - kẻ sáng tạo ra [Danh Sách Học Sinh]. Hyrince cũng bàng hoàng trước thông tin này và nhận ra D sẽ hiến tế một nửa nhân loại bất kể kết cục trận chiến giữa Hắc Thần và Thần sắc ngà thế nào.<br><br>*Sự kiện Volume 16:* Trong hành trình băng qua Mê cung Elroe bằng Greater Taratect ở Chương 16, Hyrince đã có một cuộc trò chuyện giúp làm dịu tinh thần của cô Oka khi cô tự dằn vặt và cảm thấy những việc mình làm đều vô ích. Hyrince khẳng định các nỗ lực của cô không hề vô nghĩa và khuyến khích cô ngừng ủ rũ và nhìn về tương lai. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 12 và Chương 16. |
 
+---
+
+### QH-191: Schlain (Shun) ↔ Byaku (Quang Long Byaku)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Người bảo hộ (Byaku) và Anh hùng kế thừa (Schlain) |
+| **Schlain gọi Byaku** | Byaku / Quang long Byaku |
+| **Byaku gọi Schlain** | Cậu / Dũng sĩ đương nhiệm |
+| **Schlain xưng** | Tôi |
+| **Byaku xưng** | Ta |
+| **Trạng thái** | Trong Chương 17 Volume 16, Ariel lôi Byaku ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu. Schlain vô cùng bàng hoàng và ngơ ngác khi đón nhận thanh kiếm cùng người bạn đồng hành thần thánh mới này. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 17. |
+
+

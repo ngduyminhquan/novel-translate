@@ -1716,8 +1716,8 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Vai trò** | Quang long bảo vệ Thánh Kiếm Anh Hùng trong phòng ẩn của vương thành Analeit |
 | **Xuất hiện** | Volume 11 Chương J12 |
 
-**Tính cách tổng quát:**
-> Là một con rồng nhỏ màu trắng tinh khiết bảo vệ Thánh Kiếm Anh Hùng dưới hầm lâu đài Analeit. Mặc dù nhỏ bé nhưng sở hữu sức mạnh vô cùng to lớn. Ông rất có hứng thú trước lý tưởng của Julius và tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và chờ đợi thời khắc Julius cần đến.
+**Tính cách tổng quát & Sự kiện:**
+> Là một con rồng nhỏ màu trắng tinh khiết bảo vệ Thánh Kiếm Anh Hùng dưới hầm lâu đài Analeit. Mặc dù nhỏ bé nhưng sở hữu sức mạnh vô cùng to lớn. Ông rất có hứng thú trước lý tưởng của Julius và tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và chờ đợi thời khắc Julius cần đến.<br>*Sự kiện Volume 16:* Trong Chương 17, Ariel gọi ông ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Tông giọng mang tính cổ xưa, trang trọng và tôn quý.
