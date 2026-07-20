@@ -642,6 +642,7 @@
 | 226 | battle clone | phân thân chiến đấu | Thuật ngữ | Phân thân nhện có sức chiến đấu mạnh do White tạo ra |
 | 227 | spy clone | phân thân gián điệp | Thuật ngữ | Phân thân nhện nhỏ chuyên thu thập tin tức của White |
 | 228 | Vampy | Vampy | Biệt danh | Biệt danh White dùng để gọi Sophia Keren |
+| 229 | vampire | ma cà rồng | Chủng tộc / Thuật ngữ | Chủng tộc bất tử hút máu được tạo ra bằng ma pháp triệu hồi thời cổ đại |
 
 ---
 
@@ -666,5 +667,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 552
+- **Tổng thuật ngữ**: 553
+
 
