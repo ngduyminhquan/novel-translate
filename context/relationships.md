@@ -159,8 +159,8 @@ graph TD
 | **Hugo gọi Shun** | Yamada / Shun / Kẻ yếu đuối |
 | **Shun xưng** | Tôi / Tao (khi nói chuyện cá nhân) |
 | **Hugo xưng** | Ta / Tao |
-| **Trạng thái** | Đối đầu gay gắt, thù địch |
-| **Ghi chú** | Hugo luôn cảm thấy kiêu ngạo muốn vượt qua và chà đạp Shun |
+| **Trạng thái** | Đối đầu gay gắt, thù địch. <br><br>*Sự kiện Volume 15:* Trong Chương S3, sau khi được giải thoát khỏi sự tẩy não, Hugo kiên quyết từ bỏ cái tên "Hugo" và yêu cầu Shun gọi mình là "Natsume Kengo". Cậu ta tỏ ra hoàn toàn uể oải, bất cần đời và sẵn sàng chịu đựng bất kỳ sự trừng phạt hay đe dọa nào từ bạn học cũ. Cậu ta cũng đã cảnh báo Shun rằng phe ma tộc và White sẽ không dừng lại sau khi tiêu diệt tộc Elf, và tiết lộ việc Sue đang bị đe dọa bằng tính mạng của Shun để làm việc cho họ. |
+| **Ghi chú** | Hugo từng luôn cảm thấy kiêu ngạo muốn vượt qua và chà đạp Shun, nhưng sau khi được giải thoát tẩy não thì đã hoàn toàn suy sụp và bất lực. |
 
 ---
 
@@ -492,10 +492,10 @@ graph TD
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Kẻ tẩy não và Con rối |
+| **Quan hệ** | Kẻ tẩy não và Con rối (giả tạo) |
 | **Hugo gọi Sue** | Sue |
 | **Sue gọi Hugo** | (Không rõ, nhưng cô ấy nghe lệnh tuyệt đối vì "tình yêu đích thực" giả tạo) |
-| **Trạng thái** | Sue bị Hugo sử dụng kỹ năng đặc biệt [Ái Dục] để tẩy não, ép cô tự sát hại cha mình và vu khống Shun. Xưng xấp với Shun cũng chuyển sang lạnh lùng, khinh bỉ. |
+| **Trạng thái** | Sue bị Hugo sử dụng kỹ năng đặc biệt [Ái Dục] để tẩy não, ép cô tự sát hại cha mình và vu khống Shun. Tuy nhiên, theo tiết lộ của Natsume trong Volume 15 S3, cậu ta chỉ thực sự tẩy não Sue vào thời điểm ép cô giết vua cha, còn lại Sue làm việc cho phe ma tộc của White vì bị đe dọa bằng sự an toàn của Shun. |
 
 ---
 
@@ -2408,7 +2408,7 @@ graph TD
 | **Sue gọi Hugo** | Anh hùng giả mạo (false hero) / Ngươi / Tên khốn |
 | **Hugo xưng** | Ta / Tao |
 | **Sue xưng** | Tôi |
-| **Trạng thái** | Dưới sự sắp xếp của White, Hugo dùng `[Ái Dục]` tẩy não Sue và cả hai được công bố đính hôn để hợp thức hóa việc hành động cùng nhau dưới danh nghĩa quân đội đế quốc. Sue vô cùng kinh tởm và căm ghét Hugo, coi hắn là "tên anh hùng giả mạo" và "con sâu/ký sinh trùng", sẵn sàng giết hắn bất cứ lúc nào nếu không vì sự an toàn của hoàng huynh (Shun). Hugo thì luôn cười toe toét đểu giả trêu chọc và chế giễu cô, xem cô là "công chúa nhỏ được nuông chiều" nhưng cũng có phần e dè trước sự u ám căm hận của cô. |
+| **Trạng thái** | Dưới sự sắp xếp của White, Hugo dùng `[Ái Dục]` tẩy não Sue và cả hai được công bố đính hôn để hợp thức hóa việc hành động cùng nhau dưới danh nghĩa quân đội đế quốc. Sue vô cùng kinh tởm và căm ghét Hugo, coi hắn là "tên anh hùng giả mạo" và "con sâu/ký sinh trùng", sẵn sàng giết hắn bất cứ lúc nào nếu không vì sự an toàn của hoàng huynh (Shun). Hugo thì luôn cười toe toét đểu giả trêu chọc và chế giễu cô. Trong Volume 15 S3, Natsume tiết lộ rằng cậu ta chỉ thực sự tẩy não Sue khi cô giết đức vua, còn lại Sue giúp đỡ họ vì bị đe dọa bằng tính mạng của Shun. |
 | **Ghi chú** | Được thể hiện rõ trong Volume 13 Đoạn phụ: Em gái Anh hùng, con rối của Tà thần, và chú chó săn. |
 
 ## Ghi Chú

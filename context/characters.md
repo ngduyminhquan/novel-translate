@@ -266,8 +266,8 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chapter S1 |
 
 **Tính cách tổng quát:**
-> Kiếp trước là Kengo Natsume, thủ lĩnh học sinh hống hách, kiêu ngạo. Kiếp này tái sinh thành thái tử của Đế quốc Renxandt quân phiệt, càng làm tăng thêm sự kiêu căng, độc đoán và ham muốn quyền lực tuyệt đối của cậu ta. Coi Shun là cái gai trong mắt cần phải nhổ bỏ. Trong Volume 5, cậu ta sử dụng thêm kỹ năng [Tham Lam] (đoạt lấy sức mạnh của kẻ bị giết) và trang bị chế tác từ Hắc Long để gia tăng sức mạnh vượt bậc nhằm báo thù cô Oka và thôn tính làng Elf. Ở Chương S4, cậu ta dùng cả sức mạnh của danh hiệu [Ma Vương] và [Kẻ Thống Trị Ái Dục/Tham Lam] để khiêu chiến Shun nhưng bị đánh bại một cách dễ dàng và bất lực nhận ra mình chỉ là một quân cờ bị Sophia và phe ma tộc vứt bỏ khi hết giá trị lợi dụng.
 > *Sự kiện Volume 13:* Gặp gỡ White và bị cô chiêu mộ/tẩy não (đặt phân thân nhện nhỏ vào trong não). Đạt được hai kỹ năng Kẻ thống trị là `[Tham Lam]` và `[Ái Dục]`. Dưới sự điều khiển của White, hắn dùng `[Ái Dục]` để tẩy não Sue và thực hiện âm mưu đính hôn chính trị để che mắt thế gian.
+> *Sự kiện Volume 15:* Trong Chương S3, sau khi được giải thoát khỏi sự kiểm soát của White, cậu ta xuất hiện trở lại trong trạng thái hoàn toàn mất đi sự ngạo mạn trước đó, tỏ ra vô cùng uể oải, bất cần đời và chấp nhận bất kỳ hình phạt nào từ các bạn học cũ. Cậu ta kiên quyết từ chối cái tên "Hugo" và yêu cầu được gọi bằng tên kiếp trước "Natsume Kengo". Cậu ta cũng tiết lộ cho Shun biết rằng em gái cậu ta, Sue, không hề bị tẩy não mà đang tự nguyện làm việc cho White vì bị đe dọa bằng tính mạng của Shun.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Kiêu căng, tự phụ, ngạo mạn, xem thường người khác. Khi đối thoại với cô Oka thì tự xưng "tao" gọi "cô" đầy vô lễ. Khi nói chuyện với Shun ở kiếp này thì xưng "tao" gọi "mày", thể hiện sự điên cuồng mất trí và tin tưởng mù quáng rằng thế giới quay quanh mình.
@@ -406,6 +406,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Kiếp trước là một nữ sinh trung học bình thường. Sau khi tái sinh sang thế giới mới và bị bỏ rơi ở cô nhi viện nhà thờ, cô đã bấu víu vào "Thần ngôn" như điểm tựa tinh thần duy nhất. Cô trở thành một kẻ cuồng tín tôn giáo, luôn bị ám ảnh bởi việc nâng cấp kỹ năng để nghe thấy giọng nói của Thượng đế, có quan điểm cực đoan đối với kỹ năng "Cấm kỵ" (cho rằng người sở hữu nó phải bị tiêu diệt) và liên tục ép người khác cải đạo. Trong Volume 5, cô bị Hugo tẩy não/thao túng nhưng trạng thái cuồng tín tôn giáo vẫn cực kỳ mãnh liệt, cô liên tục gào thét đòi tàn sát tộc Elf dưới danh nghĩa Thượng đế và tấn công cô Oka.
+> *Sự kiện Volume 15:* Trong Chương S3, sau khi được giải thoát khỏi sự thao túng của Natsume, cô cùng một cô gái mặc áo choàng trắng của ma tộc bước vào căn phòng, biểu lộ sự phẫn nộ và đấm mạnh vào bụng Natsume để trừng phạt cậu ta. Tuy nhiên, khi nghe Shun tiết lộ bí mật về kỹ năng Cấm Kỵ và việc Thần Ngôn Giáo thực chất đã biết tất cả sự thật nhưng che giấu, bưng bít tội lỗi của nhân loại, niềm tin tôn giáo mãnh liệt của cô bị rạn nứt hoàn toàn, khiến cô rơi vào trạng thái hoang mang, hoảng hốt tột độ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Cực kỳ sùng đạo, hay dùng các từ mang tính tôn giáo ("Thần ngôn", "Thượng đế", "Thánh vụ", "Phước lành", "cải đạo", "dị giáo"). Khi nói chuyện với cô Oka thì xưng "em" gọi "cô" nhưng lời lẽ lại cuồng loạn, ép buộc cải đạo và đe dọa trừng phạt.
