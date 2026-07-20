@@ -424,6 +424,7 @@
 | 277 | Frozen Earth | [Đông Thổ] | Ma pháp | Phép tấn công thuộc ma pháp Sương Giá cấp 1 |
 | 278 | Heat Haze | [Ảo Ảnh Nhiệt] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 4 |
 | 279 | Past-Vision Evil Eye | [Khứ Hồi Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn cho phép xem các cảnh tượng từ quá khứ |
+| 280 | Freezing Attack | Băng Công Kích | Kỹ năng chủ động | Kỹ năng áp thuộc tính băng vào đòn tấn công |
 
 ---
 

@@ -2594,3 +2594,17 @@ graph TD
 | **Trạng thái** | Kogou vốn là kẻ nhút nhát và ghét chiến tranh, nhưng trong cuộc đối đầu sinh tử với đàn nhện Tàn tích của Cơn Ác Mộng tại lối vào Đại Mê cung Elroe, Kogou đã dũng cảm xung phong cản hậu bảo vệ cho quân ma tộc rút lui. Balto vô cùng chấn động và đau đớn trước lòng dũng cảm tự hiến của Kogou, buộc phải nuốt nước mắt ra lệnh cho toàn quân rút lui theo ý nguyện của cậu ta. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 4. |
 
+---
+
+### QH-188: Sophia ↔ Thủy Long Iena
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ đối đầu trực diện trong trận chiến |
+| **Sophia gọi Iena** | Cô / Cô ta / Thủy Long Iena |
+| **Iena gọi Sophia** | Cô bé / Cô bé loài người (little girl) |
+| **Sophia xưng** | Tôi |
+| **Iena xưng** | Ta |
+| **Trạng thái** | Trong cuộc chạm trán tại Tầng Trên của Mê cung Lớn Elroe, Thủy Long Iena tìm cách dìm nước mê cung bằng việc đục trần kết nối với đại dương. Sophia đã sử dụng Băng Công Kích để chặn đứng dòng nước ngập và đối đầu với Iena. Iena tìm cách kéo dài thời gian và giữ khoảng cách bằng các đòn tấn công dạng rắn nước để 37 cổ thủy long khác đồng loạt đục trần mê cung ở các khu vực khác. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 5. |
+
