@@ -399,7 +399,7 @@ graph TD
 | **Hyrince gọi Shun** | Shun / Nhị hoàng tử Schlain / Hoàng tử Schlain |
 | **Shun xưng** | Tôi |
 | **Hyrince xưng** | Tôi |
-| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới.<br><br>*Sự kiện Volume 16:* Hyrince cùng Anna hội ngộ Shun sau khi chiếc UFO được nhóm Shun giải cứu khỏi bầy quái vật. Tại đây, Hyrince đã tiết lộ cho Shun biết thân phận thực sự của mình là một phân thân của Hắc Thần, đồng thời chia sẻ thông tin chấn động rằng Tà thần thực sự là D chứ không phải Thần sắc ngà, và D sẽ tiêu diệt một nửa nhân loại bất kể kết cục thế nào. |
+| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới.<br><br>*Sự kiện Volume 16:* Hyrince cùng Anna hội ngộ Shun sau khi chiếc UFO được nhóm Shun giải cứu khỏi bầy quái vật. Tại đây, Hyrince đã tiết lộ cho Shun biết thân phận thực sự của mình là một phân thân của Hắc Thần, đồng thời chia sẻ thông tin chấn động rằng Tà thần thực sự là D chứ không phải Thần sắc ngà, và D sẽ tiêu diệt một nửa nhân loại bất kể kết cục thế nào. Trong Chương 18, khi D mở ra màn chơi phụ thử thách cả nhóm tại lõi hệ thống và bất ngờ ra tay, Hyrince đã lao ra chắn đòn tấn công của D cứu mạng cho Shun và bị D đâm thủng tim, hy sinh ngay tại chỗ. |
 | **Ghi chú** | Quan hệ chuyển từ người quen cũ thành đồng đội chung chí hướng kế thừa ý chí của Julius. |
 
 ---
@@ -930,7 +930,7 @@ graph TD
 | **Fei gọi Wakaba** | Wakaba |
 | **Wakaba gọi Fei** | (Không có giao tiếp trực tiếp) |
 | **Fei xưng** | Tớ / Tôi |
-| **Trạng thái** | Phức tạp. Kiếp trước, Fei (Shinohara Mirei) đố kỵ vì đàn anh khóa trên thầm thích Wakaba nên đã bắt nạt cô thậm tệ (giấu và phá đồ đạc, lăng mạ thẳng mặt, thậm chí bỏ lưỡi dao lam vào hộc bàn). Wakaba phớt lờ với vẻ lạnh lùng khiến Fei càng giận dữ vì cảm thấy mình không lọt nổi vào tầm mắt đối phương. Sau khi tái sinh thành phi long, cô vô cùng dằn vặt và hối hận về lỗi lầm cũ. Nghe tin Wakaba đã chết từ lâu, Fei nhận ra mình sẽ phải mang nỗi dằn vặt này suốt đời như một sự trừng phạt thực sự từ thần linh. |
+| **Trạng thái** | Phức tạp. Kiếp trước, Fei (Shinohara Mirei) đố kỵ vì đàn anh khóa trên thầm thích Wakaba nên đã bắt nạt cô thậm tệ (giấu và phá đồ đạc, lăng mạ thẳng mặt, thậm chí bỏ lưỡi dao lam vào hộc bàn). Wakaba phớt lờ với vẻ lạnh lùng khiến Fei càng giận dữ vì cảm thấy mình không lọt nổi vào tầm mắt đối phương. Sau khi tái sinh thành phi long, cô vô cùng dằn vặt và hối hận về lỗi lầm cũ. Nghe tin Wakaba đã chết từ lâu, Fei nhận ra mình sẽ phải mang nỗi dằn vặt này suốt đời như một sự trừng phạt thực sự từ thần linh. <br><br>*Sự kiện Volume 16:* Trong Chương 18, Fei gặp lại Wakaba Hiiro (thân phận thật là tà thần D) tại lõi hệ thống. Khi biết D chính là kẻ đứng sau vụ nổ khiến cả lớp thiệt mạng và việc cô được đầu thai thực chất chỉ là "khuyến mãi đi kèm" cho trò chơi giải trí của D, Fei đã trút bỏ hoàn toàn mặc cảm tội lỗi kiếp trước. Cô phẫn nộ trước thái độ thờ ơ coi thường mạng người của D và quyết định biến hình thành dạng phi long để quyết chiến cùng D. |
 
 ---
 
