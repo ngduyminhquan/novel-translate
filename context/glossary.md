@@ -677,6 +677,7 @@
 | 242 | ivory god | vị thần sắc ngà | Thuật ngữ / Hệ thống | Vị thần sắc trắng ngà (đại diện cho Shiraori/White) được nhắc tới trong Nhiệm vụ Thế giới |
 | 243 | ebony god | vị thần sắc mun | Thuật ngữ / Hệ thống | Vị thần sắc gỗ mun (đại diện cho Güliedistodiez/Hắc) được nhắc tới trong Nhiệm vụ Thế giới |
 | 244 | MA energy | năng lượng MA | Thuật ngữ | Năng lượng đặc thù của thế giới, tích lũy bằng cách hiến tế sinh mạng hoặc vận hành hệ thống |
+| 245 | draconic merman | nhân ngư lai rồng | Chủng tộc quái vật | Thủy Long cổ xưa dạng người lai cá |
 
 ---
 
@@ -702,6 +703,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 572
+- **Tổng thuật ngữ**: 573
 
 
