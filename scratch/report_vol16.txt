@@ -1,0 +1,5 @@
+Total potential issues found: 1
+File: 00_insert_copyright.md | Line: 40
+  Line content: 150 West 30th Street, 19th Floor
+  Potential typos: ["Double 'e' in word 'Street'", "Double 'o' in word 'Floor'"]
+----------------------------------------
