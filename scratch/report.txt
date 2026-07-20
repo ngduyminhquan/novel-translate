@@ -1,165 +1,197 @@
-Total potential issues found: 41
-File: 02_ch1_before_the_battle.md | Line: 74
-  Line content: “Á hàaa~”
-  Potential typos: ["Double 'a' in word 'hàaa'"]
-----------------------------------------
-File: 02_ch1_before_the_battle.md | Line: 336
-  Line content: ĐAUUUU?!
-  Potential typos: ["Double 'u' in word 'ĐAUUUU'"]
-----------------------------------------
-File: 05_ch2_the_starting_bell_of_the_final_battle.md | Line: 266
-  Line content: Nhưng người chúng tôi đang nói đến ở đây là Potimas Harrifenas.
-  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
-----------------------------------------
-File: 05_ch2_the_starting_bell_of_the_final_battle.md | Line: 422
-  Line content: Linh nghiệm giùm cái điii!
-  Potential typos: ["Double 'i' in word 'điii'"]
-----------------------------------------
-File: 06_l2_the_lord_who_was_once_a_lab_rat.md | Line: 6
-  Line content: Đáng căm phẫn thay, gã đàn ông tên Potimas Harrifenas lại đóng một phần không thể tách rời trong phần lớn cuộc đời tôi.
-  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
-----------------------------------------
-File: 13_ch4_showdown_spider_vs_robot.md | Line: 16
-  Line content: Làm saooo mà nhà phát triển nghĩ có người phá đảo nổi cái trò này chứ!
-  Potential typos: ["Double 'o' in word 'saooo'"]
-----------------------------------------
-File: 13_ch4_showdown_spider_vs_robot.md | Line: 18
-  Line content: Cái quái gì thế này, boss không thể đánh bại à?
-  Potential typos: ["Double 's' in word 'boss'", "Possible Telex typo in word 'boss'"]
-----------------------------------------
-File: 13_ch4_showdown_spider_vs_robot.md | Line: 220
-  Line content: Với một con robot cấp boss cuối ở bên trong!
-  Potential typos: ["Double 's' in word 'boss'", "Possible Telex typo in word 'boss'"]
-----------------------------------------
-File: 13_ch4_showdown_spider_vs_robot.md | Line: 228
-  Line content: Vậy thì tôi đoán con robot boss cuối kia được chế tạo dựa trên bản thiết kế cải tiến từ cỗ máy "Gloria" hay gì đó của lão.
-  Potential typos: ["Double 's' in word 'boss'", "Possible Telex typo in word 'boss'"]
-----------------------------------------
-File: 17_ch5_showdown_spider_vs_mega_robot.md | Line: 68
-  Line content: Vậy nên hoàn toàn có khả năng là lão chỉ đang nói quá lên, chứ thực tế chúng không đến mức đáng sợ như vậy đâu, phải không nàooo?
-  Potential typos: ["Double 'o' in word 'nàooo'"]
-----------------------------------------
-File: 17_ch5_showdown_spider_vs_mega_robot.md | Line: 318
-  Line content: Phảiii rồi.
-  Potential typos: ["Double 'i' in word 'Phảiii'"]
-----------------------------------------
-File: 17_ch5_showdown_spider_vs_mega_robot.md | Line: 644
-  Line content: Húuuuuuuu!
-  Potential typos: ["Double 'u' in word 'Húuuuuuuu'"]
-----------------------------------------
-File: 17_ch5_showdown_spider_vs_mega_robot.md | Line: 712
-  Line content: Các phân thân chiến đấu, dịch chuyển! Và rồi, đợi một chúuuut nhé... đạn thiên thạch, bắắắn!
-  Potential typos: ["Double 'u' in word 'chúuuut'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 12
-  Line content: Nhưng mà phải nói thật—cảnh tượng một cô bé sáu tay ngồi trên đỉnh phân thân chiến đấu, hay nói cách khác là một con nhện cao ba feet...
-  Potential typos: ["Double 'e' in word 'feet'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 34
-  Line content: Tiếp đó là Ooshima, cô ấy đang ngồi sát bên và ôm lấy Yamada.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 130
-  Line content: Đó là Ooshima, cô ấy đang nhìn tôi bằng ánh mắt tuyệt vọng, lăm lăm thanh kiếm gãy trong tay để cố gắng bảo vệ Yamada.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 134
-  Line content: Tôi liếc nhìn Hyrince, người đang đứng ngay cạnh Ooshima, nhưng anh ta lại cả gan phớt lờ ánh mắt kiểu “làm gì đó đi chứ!” của tôi.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 136
-  Line content: Thực tế là anh ta cũng đang đứng cản đường tôi cùng với Ooshima luôn.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 164
-  Line content: Ooshima đang gào lên với tôi, nhưng việc đó phải đợi sau đã, vì tôi đang bận thẩm vấn kẻ mà tôi nghi ngờ là thủ phạm thực sự đã làm gì đó với Shun.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 200
-  Line content: Câu nói cuối cùng kia là hướng thẳng về phía Ooshima, người vẫn đang kiên cường giơ thanh kiếm gãy lên.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 202
-  Line content: Ooshima đang mở to mắt nhìn với vẻ đầy hoang mang, nhưng đồng thời vẫn lấp lánh tia nhìn của một người đang cố gắng đánh giá tình hình, tuyệt vọng tìm kiếm lối thoát khỏi mớ bòng bong này.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 240
-  Line content: Ooshima tội nghiệp hứng chịu trực diện luồng sát khí đó, khiến cơ thể cô ấy run rẩy dữ dội và mồ hôi vã ra như tắm.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 242
-  Line content: Nghiêm túc mà nói, trông cô ấy cứ như vừa bị ai đó dội cả xô nước lên đầu vậy, đến nỗi tôi phải ngạc nhiên khi Ooshima vẫn còn có thể đứng vững được.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 252
-  Line content: Về phần mục tiêu kém may mắn kia, Ooshima chỉ còn giữ được chút ý thức mong manh trước cuộc tấn công bằng sát khí của cậu Oni.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 260
-  Line content: Đôi chân Ooshima khuỵu xuống, khiến cô nàng tội nghiệp ngã sụp xuống đất.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 266
-  Line content: Tôi tự hỏi liệu sự tuyệt vọng mà Ooshima đang cảm nhận lúc này có giống như cảm giác của tôi lần đầu tiên chạm trán Araba hay không.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 270
-  Line content: Dù sao thì, Ooshima đã mất đi ý chí chiến đấu và rút lui khỏi trận chiến.
-  Potential typos: ["Double 'o' in word 'Ooshima'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 282
-  Line content: D đã nói với tôi rằng cô Oka có một kỹ năng độc nhất cho cô ấy biết tình trạng hiện tại của tất cả những người tái sinh, và rõ ràng nó hiển thị rằng Wakaba Hiiro đã chết.
-  Potential typos: ["Double 'i' in word 'Hiiro'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 288
-  Line content: Mà thật ra… Wakaba Hiiro thực sự, tức là D, vốn dĩ ngay từ đầu đâu có đầu thai vào thế giới này, còn kẻ đóng thế của cô ta (là tôi) thì chưa chết, nghĩa là thông tin của cô Oka từ lâu đã đầy lỗ hổng rồi…
-  Potential typos: ["Double 'i' in word 'Hiiro'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 380
-  Line content: Đó là một khối cầu có đường kính khoảng ba mươi feet.
-  Potential typos: ["Double 'e' in word 'feet'"]
-----------------------------------------
-File: 21_ch6_showdown_chance_meeting.md | Line: 420
-  Line content: Chắc chắn nó phải thừa sức hủy diệt một khối kim loại rộng ba mươi feet mà không để lại dấu vết.
-  Potential typos: ["Double 'e' in word 'feet'"]
-----------------------------------------
-File: 22_interlude_the_old_man_and_the_witchy_little_ladies.md | Line: 322
-  Line content: “Aaargh! Ta không phải là 'Thả-già', khốn khiếếếếp thật chứ!”
-  Potential typos: ["Double 'a' in word 'Aaargh'"]
-----------------------------------------
-File: 22_interlude_the_old_man_and_the_witchy_little_ladies.md | Line: 352
-  Line content: “Hyooo-ho-ho-sho! Thế nào hả?! Có thấy chưa?!”
-  Potential typos: ["Double 'o' in word 'Hyooo'"]
-----------------------------------------
-File: 22_interlude_the_old_man_and_the_witchy_little_ladies.md | Line: 360
-  Line content: “Oooh!”
-  Potential typos: ["Double 'o' in word 'Oooh'"]
-----------------------------------------
-File: 22_interlude_the_old_man_and_the_witchy_little_ladies.md | Line: 396
-  Line content: “Yaargh! Cứ chờ đó mà xem! Ta sẽ chứng tỏ cho các ngươi thấy ai mới là kẻ thảảảm hại!”
-  Potential typos: ["Double 'a' in word 'Yaargh'"]
-----------------------------------------
-File: 25_interlude_the_presidents_decision.md | Line: 30
-  Line content: “Theo lời Potimas Harrifenas, chúng ta có lẽ còn chưa đầy một năm.”
-  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
-----------------------------------------
-File: 25_interlude_the_presidents_decision.md | Line: 82
-  Line content: “Hãy bảo Potimas Harrifenas tiến hành các chuẩn bị cần thiết.”
-  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
-----------------------------------------
-File: 27_ch7_showdown_countless_spider_eyes.md | Line: 12
-  Line content: Không thể nàooo.
-  Potential typos: ["Double 'o' in word 'nàooo'"]
-----------------------------------------
-File: 27_ch7_showdown_countless_spider_eyes.md | Line: 166
-  Line content: Vàaa giờ tôi sẽ trả nó lại cho ông đây!
-  Potential typos: ["Double 'a' in word 'Vàaa'"]
-----------------------------------------
-File: 29_b7_ruminate_thus_history_moves_again.md | Line: 118
-  Line content: Yaana, Jeskan, Hawkin... Gặp gỡ tất cả bọn họ cũng là một ân huệ lớn lao, nhưng điều đó chỉ xảy ra vì tôi đã gặp Julius trước.
-  Potential typos: ["Double 'a' in word 'Yaana'"]
-----------------------------------------
-File: 32_copyright.md | Line: 27
+Total potential issues found: 49
+File: 00_insert_copyright.md | Line: 40
   Line content: 150 West 30th Street, 19th Floor
   Potential typos: ["Double 'e' in word 'Street'", "Double 'o' in word 'Floor'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 616
+  Line content: Trong số hai người tái sinh bị Natsume tẩy não, Ooshima đã tự mình thoát ra được mà không cần giúp đỡ, nhưng Hasebe thì bị tẩy não suốt thời gian qua.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 682
+  Line content: Tất cả những người tái sinh này đều biết Hiiro Wakaba.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 734
+  Line content: Chưa kể, tôi đang mang gương mặt của Hiiro Wakaba.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 740
+  Line content: Thế nên nếu tôi xuất hiện với ngoại hình của Hiiro Wakaba, người được cho là hiểu rõ chuyện gì đang xảy ra, họ sẽ bắt đầu dồn dập hỏi tôi hàng tá câu hỏi cho mà xem! Tôi có thể hình dung ra cảnh đó ngay lúc này rồi!
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 742
+  Line content: Aaa, tôi không muốn đối mặt với chuyện đó chút nào.
+  Potential typos: ["Double 'a' in word 'Aaa'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 1152
+  Line content: Aaa! Uầy! Umm!
+  Potential typos: ["Double 'a' in word 'Aaa'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 1176
+  Line content: Đó là ký ức của Hiiro Wakaba, thân xác con người tạm thời của D.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 1178
+  Line content: Tôi có thể sử dụng những ký ức đó để tái tạo lại tính cách của Hiiro Wakaba.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 1180
+  Line content: Đó là thứ tôi gọi là Chế độ Wakaba Hiiro.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 01_ch1_a_new_dawn.md | Line: 1184
+  Line content: Dù sao thì Hiiro Wakaba cũng đâu phải là một kẻ tệ nói năng như tôi đâu. Sẽ thật kỳ lạ nếu cô ấy không thể ăn nói lưu loát được.
+  Potential typos: ["Double 'i' in word 'Hiiro'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 40
+  Line content: Ooshima vội vã chạy đi lấy một chiếc ghế cho Yamada.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 42
+  Line content: Yamada cảm ơn Ooshima khi ngồi xuống, và Ooshima lấy thêm một chiếc ghế khác rồi ngồi xuống cạnh cậu ta.
+  Potential typos: ["Double 'o' in word 'Ooshima'", "Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 156
+  Line content: “Kẻ đứng đầu tộc Elf, Potimas Harrifenas, là một mối đe dọa đối với toàn bộ thế giới này. Lão ta không mang lại gì ngoài tai họa cho thế giới. Quân đội ma tộc và Thần Ngôn Giáo đã bắt tay nhau để ngăn chặn lão, đó là lý do dẫn đến trận chiến này.”
+  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 164
+  Line content: Bên cạnh cậu ta, Ooshima mang một vẻ mặt phức tạp, vừa bất ngờ lại vừa như đã hiểu ra điều gì đó, nên chắc chuyện về Potimas là thông tin hoàn toàn mới đối với họ.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 166
+  Line content: “Trước hết, tộc Elf đã là mối đe dọa đối với thế giới này từ rất, rất lâu rồi. Về mặt chính thức, họ tuyên bố muốn ngăn chặn cuộc chiến giữa loài người và ma tộc và hoạt động nhân danh nền hòa bình thế giới thực sự, nhưng tất cả chỉ là một lớp mặt nạ để che giấu bản chất thật của mình. Đằng sau hậu trường, họ đã liên tục vắt kiệt năng lượng của hành tinh này, rút ngắn nghiêm trọng tuổi thọ của nó. Potimas Harrifenas chính là kẻ chủ mưu; mặc dù lão đã bị cảnh báo nhiều lần bởi nhiều bên hiểu rõ sự tình để dừng các hành vi độc ác của mình lại, lão vẫn từ chối lắng nghe. Sự thật là hành tinh này đang trên bờ vực hủy diệt, nên cần phải áp dụng các biện pháp cực đoan để ngăn chặn lão.”
+  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 534
+  Line content: Sakurazaki Issei.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 656
+  Line content: Nhìn vẻ lo lắng, Ooshima nhẹ nhàng đặt tay lên vai cậu ta vỗ về.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 960
+  Line content: Khoan đã, sao lại nhìn tôiiiii chứ?!
+  Potential typos: ["Double 'i' in word 'tôiiiii'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 1012
+  Line content: Ooshima ngồi phía sau Yamada khẽ run rẩy trước những lời nói đó.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 03_ch2_the_world_is_terribly_cruel.md | Line: 1014
+  Line content: Tôi đoán điều đó có nghĩa là Ooshima cũng đã từ bỏ hệ giá trị cũ của mình trong suốt quá trình sống ở thế giới này.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 48
+  Line content: …Ừm, không đờiii nào.
+  Potential typos: ["Double 'i' in word 'đờiii'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 92
+  Line content: Phía sau cậu ta, Ooshima cũng đi theo, như thể chẳng có việc gì tốt hơn để làm.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 482
+  Line content: Ngay cả những người tái sinh có khả năng chiến đấu tốt như Ooshima và Tagawa có lẽ cũng không thể theo kịp chuyển động của Vampy.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 532
+  Line content: Khi Ooshima định xông vào ngăn cản, Vampy tiễn cô ta đo sàn bằng một cái tát.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 536
+  Line content: …Mà Ooshima bây giờ là một cô gái rồi đúng không nhỉ? Cơ mà thôi đi, lúc này bận tâm chuyện đó làm gì chứ.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 542
+  Line content: Yamada lặng lẽ lê người đến cạnh Ooshima và sử dụng Ma pháp Trị liệu lên chỗ cô ta bị tát, ngoài ra không một ai dám nhúc nhích dù chỉ một chút.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 588
+  Line content: Sau khi cô nàng vừa hạ đo ván Yamada và Ooshima xong, không một ai dại dột lên tiếng để rồi thu hút sự chú ý của cô nàng cả.
+  Potential typos: ["Double 'o' in word 'Ooshima'"]
+----------------------------------------
+File: 05_ch3_if_you_re_not_strong_enough_you_d_better_get_groveling.md | Line: 820
+  Line content: Thế có cách nào tôi sử dụng quyền năng của mình để loại bỏ [n% I = W] không á? Không bao giờ có chuyện đó đâuuu.
+  Potential typos: ["Double 'u' in word 'đâuuu'"]
+----------------------------------------
+File: 06_s3_there_s_no_point_dwelling_on_past_misfortunes.md | Line: 406
+  Line content: “Aaa. Thế có phải dễ chịu hơn không!”
+  Potential typos: ["Double 'a' in word 'Aaa'"]
+----------------------------------------
+File: 07_ch4_friends.md | Line: 960
+  Line content: Tôi có một công việc siêuuu to khổng lồ cho anh xử lý sau chuyện này đấy nhé.
+  Potential typos: ["Double 'u' in word 'siêuuu'"]
+----------------------------------------
+File: 08_interlude_kunihiko_tagawa.md | Line: 346
+  Line content: “Tôi e rằng việc đó là bất khả thi, vì năng lực đặc biệt của Potimas Harrifenas.”
+  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 12
+  Line content: Nếu có Issei ở đây, có lẽ tôi đã cố gắng bắt chuyện với họ rồi.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 16
+  Line content: Khoảnh khắc tôi hoàn toàn từ bỏ thế giới này là khi cô Oka nói với tôi rằng Issei đã chết.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 22
+  Line content: Sakurazaki Issei là bạn thân nhất của tôi, thực sự chẳng khác nào một nửa của tôi vậy.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 26
+  Line content: “Nèee? Cậu tính đi đâu đấy hả?”
+  Potential typos: ["Double 'e' in word 'Nèee'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 112
+  Line content: Có lẽ nếu Issei còn sống, tôi đã cảm thấy khác.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 09_interlude_kengo_natsume.md | Line: 118
+  Line content: Nhưng Issei không còn ở đây nữa.
+  Potential typos: ["Double 's' in word 'Issei'", "Possible Telex typo in word 'Issei'"]
+----------------------------------------
+File: 11_ch5_world_quest.md | Line: 131
+  Line content: Vàaa như tôi đã nói đấy, tôi chẳng thể thuyết phục lão ta làm bất cứ điều gì!
+  Potential typos: ["Double 'a' in word 'Vàaa'"]
+----------------------------------------
+File: 11_ch5_world_quest.md | Line: 539
+  Line content: Về cơ bản thì nó giống như việc liên tục buff cho bản thân và áp debuff lên đối thủ vậy.
+  Potential typos: ["Possible Telex typo in word 'buff'", "Possible Telex typo in word 'debuff'"]
+----------------------------------------
+File: 11_ch5_world_quest.md | Line: 709
+  Line content: Nhưng cái thân xác nhỏ bé này của tôi thì không làm được điều đóuu.
+  Potential typos: ["Double 'u' in word 'đóuu'"]
+----------------------------------------
+File: 13_interlude_katia.md | Line: 8
+  Line content: Shun... biến mất tiêeeu rồi sao?!
+  Potential typos: ["Double 'e' in word 'tiêeeu'"]
+----------------------------------------
+File: 13_interlude_katia.md | Line: 54
+  Line content: “Rốt cuộc các người đã đưa Shuuuun đi đâu rồi?!”
+  Potential typos: ["Double 'u' in word 'Shuuuun'"]
+----------------------------------------
+File: 13_interlude_katia.md | Line: 58
+  Line content: Aaaaaah!
+  Potential typos: ["Double 'a' in word 'Aaaaaah'"]
+----------------------------------------
+File: 13_interlude_katia.md | Line: 318
+  Line content: “Chị Katiaaaa... Đang đến đoạn hay... Tại sao chị lại phải xen vào phá bĩnh hả?!”
+  Potential typos: ["Double 'a' in word 'Katiaaaa'"]
+----------------------------------------
+File: 13_interlude_katia.md | Line: 376
+  Line content: “Áaaa! Đủ rồi đấy cả ba người kia! Người Shun đang phát ra mấy tiếng răng rắc tớ chắc chắn là không bình thường chút nào đâu, buông tay ra mauuu!”
+  Potential typos: ["Double 'u' in word 'mauuu'"]
+----------------------------------------
+File: 16_interlude_dustin.md | Line: 102
+  Line content: Potimas Harrifenas.
+  Potential typos: ["Double 'r' in word 'Harrifenas'", "Possible Telex typo in word 'Harrifenas'"]
+----------------------------------------
+File: 17_special_chapter_the_demon_lord_makes_her_move.md | Line: 158
+  Line content: “N-Nhưng... aaaaa!”
+  Potential typos: ["Double 'a' in word 'aaaaa'"]
+----------------------------------------
+File: 20_afterword.md | Line: 76
+  Line content: Cảm ơn Asahiro Kakashi-sensei, họa sĩ vẽ bản chuyển thể manga, và Gratinbird-sensei, họa sĩ vẽ bản spinoff manga.
+  Potential typos: ["Possible Telex typo in word 'spinoff'"]
 ----------------------------------------

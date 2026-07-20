@@ -322,7 +322,7 @@ Bởi vì đó là những gì Ma Vương mong muốn.
 
 Cô ấy là người đã quyết định thực hiện chuyện đó, ngay cả khi điều đó có nghĩa là chống lại cả thế giới, ngay cả khi người cô ấy đang cố cứu sẽ căm ghét cô ấy vì việc đó.
 
-And tại sao Ma Vương lại không thể có ai đó đứng về phía mình chứ?
+Và tại sao Ma Vương lại không thể có ai đó đứng về phía mình chứ?
 
 Nên tôi đã hạ quyết tâm này nọ rồi, nhưng thôi nào!
 

@@ -668,6 +668,8 @@
 | 239 | Reincarnation History | Lịch sử Tái sinh | Thuật ngữ / Hệ thống | Lịch sử ghi nhận thông tin về các cá thể được tái sinh qua Hệ thống W |
 | 240 | Conditions Prior to System Installation | Tình trạng Trước khi Thiết lập Hệ thống | Thuật ngữ / Hệ thống | Trạng thái của hành tinh và năng lượng trước khi Güliedistodiez thiết lập hệ thống |
 | 241 | Conditions After System Installation | Tình trạng Sau khi Thiết lập Hệ thống | Thuật ngữ / Hệ thống | Trạng thái và cơ chế vận hành của hành tinh sau khi Hệ thống W được khởi chạy |
+| 242 | ivory god | vị thần sắc ngà | Thuật ngữ / Hệ thống | Vị thần sắc trắng ngà (đại diện cho Shiraori/White) được nhắc tới trong Nhiệm vụ Thế giới |
+| 243 | ebony god | vị thần sắc mun | Thuật ngữ / Hệ thống | Vị thần sắc gỗ mun (đại diện cho Güliedistodiez/Hắc) được nhắc tới trong Nhiệm vụ Thế giới |
 
 ---
 

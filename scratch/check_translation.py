@@ -1,8 +1,8 @@
 import os
 import re
 
-# Path to the translated volume 14
-translated_dir = r"d:\workspace\translate\translated\vol_14"
+# Path to the translated volume 15
+translated_dir = r"d:\workspace\translate\translated\vol_15"
 
 # Common English words that shouldn't appear in normal Vietnamese translation text
 english_words = {

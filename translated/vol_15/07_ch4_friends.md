@@ -617,7 +617,7 @@ Nhưng đây là lúc Hắc phạm phải sai lầm.
 
 Nói ngắn gọn, anh ta không nhận ra gã P đã tiếp cận cựu Anh hùng và Ma Vương tiền nhiệm từ trước.
 
-And giống hệt như những gì lão đã làm với cô Oka, lão đã thuyết phục họ rằng các quản trị viên chính là kẻ thù.
+Và giống hệt như những gì lão đã làm với cô Oka, lão đã thuyết phục họ rằng các quản trị viên chính là kẻ thù.
 
 Biết đấy, kiểu như tuyên bố rằng họ đang lợi dụng Anh hùng và Ma Vương để bắt cư dân thế giới này tàn sát lẫn nhau, rồi thu hoạch năng lượng của họ sau khi chết cùng hàng tá thứ hay ho khác.
 
@@ -673,7 +673,7 @@ Trên hết, khi đối phó với một vị thần, lượng năng lượng MA
 
 Nhưng tính năng này vẫn tồn tại.
 
-And bạn đoán xem? Phạm vi đối tượng áp dụng cho tính năng này bằng cách nào đó bao gồm cả các quản trị viên.
+Và bạn đoán xem? Phạm vi đối tượng áp dụng cho tính năng này bằng cách nào đó bao gồm cả các quản trị viên.
 
 Cái gì cơ?
 
@@ -757,7 +757,7 @@ Hửmmm.
 
 Ý tôi là, anh ta không nói dối.
 
-But anh ta đang bỏ sót một chi tiết cực kỳ quan trọng.
+Nhưng anh ta đang bỏ sót một chi tiết cực kỳ quan trọng.
 
 Đúng là cựu Anh hùng và Ma Vương tiền nhiệm đã làm một chuyện ngu xuẩn.
 
@@ -929,7 +929,7 @@ Tôi cá là một vị ác thần nào đó đã rất chu đáo kể cho anh t
 
 Nếu không, anh ta sẽ không bao giờ biết chuyện gì đã xảy ra sau bức màn.
 
-And vị ác thần đó là người duy nhất nắm rõ toàn bộ câu chuyện.
+Và vị ác thần đó là người duy nhất nắm rõ toàn bộ câu chuyện.
 
 Nghiêm túc đấy, đúng là ác độc thật.
 
