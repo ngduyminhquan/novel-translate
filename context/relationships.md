@@ -2494,8 +2494,8 @@ graph TD
 | **Merazophis gọi Kunihiko** | Cậu / Tagawa Kunihiko (xưng hô lịch sự) |
 | **Kunihiko xưng** | Tôi / Tớ (nói với Asaka) |
 | **Merazophis xưng** | Tôi / các cậu |
-| **Trạng thái** | Merazophis tôn trọng sự khiêu chiến của Kunihiko; Kunihiko căm ghét anh ta vì mối thù diệt tộc nhưng sau khi nghe giải thích về lý do đằng sau (để bảo vệ cô Oka khỏi Potimas và đưa người tái sinh ra khỏi vùng chiến sự), cậu thầm hiểu anh ta chỉ đang tuân lệnh cấp trên, dẫn đến cảm xúc mâu thuẫn phức tạp và hoang mang về con đường báo thù của mình. |
-| **Ghi chú** | Xuất hiện trong Volume 15 Đoạn phụ: Kunihiko Tagawa. |
+| **Trạng thái** | Merazophis tôn trọng sự khiêu chiến của Kunihiko; Kunihiko căm ghét anh ta vì mối thù diệt tộc nhưng sau khi nghe giải thích về lý do đằng sau (để bảo vệ cô Oka khỏi Potimas và đưa người tái sinh ra khỏi vùng chiến sự), cậu thầm hiểu anh ta chỉ đang tuân lệnh cấp trên, dẫn đến cảm xúc mâu thuẫn phức tạp và hoang mang về con đường báo thù của mình. Trong Volume 16, họ đối đầu trước lối vào Mê cung Lớn Elroe, nhưng trận chiến không xảy ra vì Asaka chủ động đánh ngất Kunihiko và tuyên bố đầu hàng để bảo vệ tính mạng cho cả hai. Merazophis dõi theo bóng lưng họ rời đi và thầm chúc phúc cho tương lai hạnh phúc của họ. |
+| **Ghi chú** | Xuất hiện trong Volume 15 Đoạn phụ: Kunihiko Tagawa và Volume 16 Chương 8: Merazophis. |
 
 ---
 

@@ -758,6 +758,10 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 > Là một Ma tộc có vẻ ngoài nhợt nhạt và vô cảm, cực kỳ trung thành với Ma Vương Ariel và luôn tận tụy bảo vệ Sophia Keren (vốn là tiểu thư của gia tộc Keren kiếp trước). Merazophis luôn xử lý mọi việc một cách nghiêm túc, cẩn trọng và giữ thái độ đúng mực tuyệt đối trước mặt Ariel.
 > *Tóm tắt sự kiện trước (Vol 1 - Vol 12):* Ở Vol 6, anh đồng hành và chịu huấn luyện khắc nghiệt cùng Sophia, rũ bỏ hoài nghi để thề nguyện trung thành bảo vệ cô. Vol 8 ghi nhận anh tăng cấp kỹ năng [Ma Cà Rồng] giúp tích lũy máu.
 > **Sự kiện Volume 13:** Có được kỹ năng Kẻ thống trị `[Kiên Trì]` (Perseverance) nhờ nỗ lực rèn luyện của bản thân, đóng vai trò như một trong sáu chiếc chìa khóa mà White đang có.
+> **Sự kiện Volume 14:** Tham gia vào trận quyết chiến tại làng Elf. Một phân thân bóng của anh đã chiến đấu và giao kiếm với Tagawa Kunihiko và Kushitani Asaka.
+> **Sự kiện Volume 15:** Đi cùng Sophia đến đống đổ nát của làng Elf và trực tiếp gặp gỡ Kunihiko cùng Asaka để nói chuyện và giải thích mọi sự tình đằng sau.
+> **Sự kiện Volume 16:** Đứng trước lối vào Mê cung Lớn Elroe, anh đối đầu trực tiếp với Kunihiko và Asaka. Khi Asaka quyết định đánh ngất Kunihiko để đầu hàng nhằm giữ mạng sống cho cả hai, anh đã chấp nhận và dõi theo bóng lưng họ rời đi, thầm chúc phúc cho hạnh phúc tương lai của họ.
+
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Vô cùng trang trọng, tôn kính, ít lời.
