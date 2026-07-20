@@ -634,7 +634,7 @@
 | 207 | Sword of the Demon Lord | Ma Vương Kiếm | Vũ khí / Vật phẩm | Vũ khí tối thượng dành riêng cho Ma Vương, có thể giết thần nhưng chỉ dùng được một lần |
 | 208 | evil god | Tà Thần | Danh xưng / Thuật ngữ | Danh xưng White tự nhận sau khi thần hóa và dốc lực cứu Ma Vương |
 | 209 | Sword of the Hero | Thánh Kiếm Anh Hùng / Kiếm của Anh Hùng | Vũ khí / Vật phẩm | Vũ khí tối thượng dành riêng cho Anh hùng, có thể diệt thần nhưng chỉ dùng được một lần |
-| 210 | Unlimited Telephone | [Điện thoại Vô hạn] | Kỹ năng | Kỹ năng độc nhất của Shinobu Kusama |
+| 210 | Unlimited Telephone | [Điện thoại Vô hạn] | Kỹ năng | Kỹ năng độc nhất của Ogiwara Kenichi |
 | 211 | earth specter | Thổ Linh Quỷ / Thổ Linh | Quái vật | Quái vật thuộc tính đất giống tinh linh hạng S có sức nguy hiểm tương đương rồng |
 | 212 | small spirit | tiểu linh thể | Quái vật | Những linh thể con cấp C do Thổ Linh Quỷ sinh ra |
 | 213 | Great Human-Demon War | Đại chiến Người - Ma / Nhân - Ma Đại chiến | Thuật ngữ / Sự kiện | Cuộc chiến quy mô lớn toàn diện giữa loài người và ma tộc bùng nổ ở năm 856 |
@@ -658,6 +658,14 @@
 | 231 | sea urchin | nhím biển | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại hình nhím biển bay lơ lửng của Potimas |
 | 232 | pyramid | kim tự tháp | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại khổng lồ hình kim tự tháp bay lơ lửng của Potimas |
 | 233 | World Quest | Nhiệm vụ Thế giới | Thuật ngữ / Sự kiện | Sự kiện lớn kích hoạt World Quest ảnh hưởng đến toàn thế giới |
+| 234 | Taboo Menu | Menu Cấm kỵ | Thuật ngữ / Hệ thống | Giao diện menu ẩn xuất hiện khi kỹ năng Cấm kỵ đạt cấp tối đa |
+| 235 | System Overview | Tổng quan Hệ thống | Thuật ngữ / Hệ thống | Mục khái quát các thông tin vận hành cốt lõi của Hệ thống W |
+| 236 | System Header Descriptions | Mô tả Đầu mục Hệ thống | Thuật ngữ / Hệ thống | Phần mô tả chi tiết các tiêu đề và đầu mục chức năng của Hệ thống W |
+| 237 | Update History | Lịch sử Cập nhật | Thuật ngữ / Hệ thống | Lịch sử ghi nhận các phiên bản chỉnh sửa và cập nhật của Hệ thống W |
+| 238 | Points List | Danh sách Điểm số | Thuật ngữ / Hệ thống | Danh sách thống kê điểm tích lũy của các đối tượng trong Hệ thống W |
+| 239 | Reincarnation History | Lịch sử Tái sinh | Thuật ngữ / Hệ thống | Lịch sử ghi nhận thông tin về các cá thể được tái sinh qua Hệ thống W |
+| 240 | Conditions Prior to System Installation | Tình trạng Trước khi Thiết lập Hệ thống | Thuật ngữ / Hệ thống | Trạng thái của hành tinh và năng lượng trước khi Güliedistodiez thiết lập hệ thống |
+| 241 | Conditions After System Installation | Tình trạng Sau khi Thiết lập Hệ thống | Thuật ngữ / Hệ thống | Trạng thái và cơ chế vận hành của hành tinh sau khi Hệ thống W được khởi chạy |
 
 ---
 
@@ -683,6 +691,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 561
+- **Tổng thuật ngữ**: 569
 
 
