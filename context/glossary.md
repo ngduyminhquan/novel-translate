@@ -642,7 +642,7 @@
 | 207 | Sword of the Demon Lord | Ma Vương Kiếm | Vũ khí / Vật phẩm | Vũ khí tối thượng dành riêng cho Ma Vương, có thể giết thần nhưng chỉ dùng được một lần |
 | 208 | evil god | Tà Thần | Danh xưng / Thuật ngữ | Danh xưng White tự nhận sau khi thần hóa và dốc lực cứu Ma Vương |
 | 209 | Sword of the Hero | Thánh Kiếm Anh Hùng / Kiếm của Anh Hùng | Vũ khí / Vật phẩm | Vũ khí tối thượng dành riêng cho Anh hùng, có thể diệt thần nhưng chỉ dùng được một lần |
-| 210 | Unlimited Telephone | [Điện thoại Vô hạn] | Kỹ năng | Kỹ năng độc nhất của Ogiwara Kenichi |
+| 210 | Unlimited Telephone | [Điện Thoại Vô Hạn] | Kỹ năng | Kỹ năng độc quyền của Ogiwara Kenichi (Ogi) giúp truyền tin tức bất chấp kết giới |
 | 211 | earth specter | Thổ Linh Quỷ / Thổ Linh | Quái vật | Quái vật thuộc tính đất giống tinh linh hạng S có sức nguy hiểm tương đương rồng |
 | 212 | small spirit | tiểu linh thể | Quái vật | Những linh thể con cấp C do Thổ Linh Quỷ sinh ra |
 | 213 | Great Human-Demon War | Đại chiến Người - Ma / Nhân - Ma Đại chiến | Thuật ngữ / Sự kiện | Cuộc chiến quy mô lớn toàn diện giữa loài người và ma tộc bùng nổ ở năm 856 |

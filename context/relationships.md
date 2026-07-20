@@ -399,7 +399,7 @@ graph TD
 | **Hyrince gọi Shun** | Shun / Nhị hoàng tử Schlain / Hoàng tử Schlain |
 | **Shun xưng** | Tôi |
 | **Hyrince xưng** | Tôi |
-| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới. |
+| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới.<br><br>*Sự kiện Volume 16:* Hyrince cùng Anna hội ngộ Shun sau khi chiếc UFO được nhóm Shun giải cứu khỏi bầy quái vật. Tại đây, Hyrince đã tiết lộ cho Shun biết thân phận thực sự của mình là một phân thân của Hắc Thần, đồng thời chia sẻ thông tin chấn động rằng Tà thần thực sự là D chứ không phải Thần sắc ngà, và D sẽ tiêu diệt một nửa nhân loại bất kể kết cục thế nào. |
 | **Ghi chú** | Quan hệ chuyển từ người quen cũ thành đồng đội chung chí hướng kế thừa ý chí của Julius. |
 
 ---
