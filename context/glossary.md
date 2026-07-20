@@ -657,6 +657,7 @@
 | 230 | dragon god | Long Thần | Thuật ngữ / Chủng tộc | Vị thần tối cao dẫn dắt loài rồng ở kinh đô |
 | 231 | sea urchin | nhím biển | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại hình nhím biển bay lơ lửng của Potimas |
 | 232 | pyramid | kim tự tháp | Thuật ngữ / Vũ khí | Vũ khí cơ giới cổ đại khổng lồ hình kim tự tháp bay lơ lửng của Potimas |
+| 233 | World Quest | Nhiệm vụ Thế giới | Thuật ngữ / Sự kiện | Sự kiện lớn kích hoạt World Quest ảnh hưởng đến toàn thế giới |
 
 ---
 
@@ -682,6 +683,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 560
+- **Tổng thuật ngữ**: 561
 
 
