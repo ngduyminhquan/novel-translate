@@ -1287,7 +1287,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát & Sự kiện:**
 > Ở kiếp trước, cậu là "chú hề" của lớp (class clown), tính tình vui vẻ, cởi mở, dễ bị sai vặt và thường chạy việc cho người khác. Trong kiếp này, cậu trở thành tay chân chạy vặt cho Thần Ngôn Giáo (phục vụ Giáo hoàng Dustin) và tham gia quân đội Đế quốc.
 > *Tóm tắt sự kiện trước (Vol 1 - Vol 12):* Ở Vol 5, cậu thâm nhập làng Elf, dùng ma kiếm tự bạo để giam lỏng nhóm Shun rồi tẩu thoát. Vol 8 thuật lại việc cậu gián tiếp chấp nhận việc dồn bạn học cũ Wrath vào chỗ chết vì lợi ích chung của Giáo hội.
-> *Sự kiện Volume 16:* Tại hậu phương liên quân ở đại lục Daztrudia, cậu làm hộ vệ bảo vệ sở chỉ huy lâm thời của Giáo hoàng Dustin. Khi nơi này bị Quân đoàn 10 của ma tộc đột kích, cậu đã đối đầu trực diện với phó chỉ huy Phelmina. Dù Phelmina ngỏ ý tha mạng nếu cậu chịu khai ra nơi Giáo hoàng ẩn nấp, cậu vẫn kiên quyết từ chối để bảo vệ người bố điệp viên của mình đang chiến đấu gần đó và để trả ơn dưỡng dục của Giáo hội.
+> *Sự kiện Volume 16:* Tại hậu phương liên quân ở đại lục Daztrudia, cậu làm hộ vệ bảo vệ sở chỉ huy lâm thời của Giáo hoàng Dustin. Khi nơi này bị Quân đoàn 10 của ma tộc đột kích, cậu đã đối đầu trực diện với phó chỉ huy Phelmina. Dù Phelmina ngỏ ý tha mạng nếu cậu chịu khai ra nơi Giáo hoàng ẩn nấp, cậu vẫn kiên quyết từ chối để bảo vệ người bố điệp viên của mình đang chiến đấu gần đó và để trả ơn dưỡng dục của Giáo hội. Sau trận chiến ác liệt khiến cả hai kiệt sức, cậu được Phelmina tha mạng và cô ra lệnh rút lui vì không muốn giết người tái sinh.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Năng động, hoạt bát, dùng từ ngữ xuề xòa thân mật.
@@ -1752,13 +1752,13 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Biệt danh** | Phó chỉ huy Quân đoàn 10 |
 | **Giới tính** | Nữ |
 | **Vai trò** | Phó chỉ huy Quân đoàn 10 dưới quyền White, cựu tiểu thư quý tộc ma tộc. |
-| **Xuất hiện** | Volume 11, Volume 12, Volume 13, Volume 15 |
+| **Xuất hiện** | Volume 11, Volume 12, Volume 13, Volume 15, Volume 16 |
 
 **Tính cách tổng quát:**
 > Là một cô gái ma tộc thông minh, sắc sảo, có năng lực quản lý hành chính và tổ chức cực kỳ xuất sắc. Từng là tiểu thư quý tộc danh giá của ma tộc và là hôn thê của Wald, cô bị tước đoạt tất cả danh dự sau khi Wald bị quyến rũ bởi Sophia. Trải qua biến cố, cô gia nhập Quân đoàn 10 và trung thành phụng sự White, trở thành phó tướng đắc lực hỗ trợ White trong việc huấn luyện các phân thân nhện rối và điều hành quân đoàn.
 > *Sự kiện Volume 13:* Trao thư mệnh lệnh của Ma Vương cho Sanatoria và buộc cô ta phải lập tức rút quân về thủ đô. Dẫn dắt Quân đoàn 10 càn quét bầy khỉ Anogratch tại Pháo đài Okun. Đảm nhận việc xử lý giấy tờ, công việc hành chính và giao tiếp thay cho chỉ huy White. Hiện tại cô là cấp trên trực tiếp của Wald và Sophia trong Quân đoàn 10.
 > *Sự kiện Volume 15:* Khi Shun đột ngột biến mất, cô bình tĩnh đối mặt cuộc chất vấn giận dữ của Katia và Yuri, dùng phân thân nhện nhỏ xác nhận tình hình với White rồi vội vã rời đi khi phát hiện bất thường liên quan đến kết giới của Hắc. Sau đó, cô tức tốc đến báo cáo tình hình cho Ariel và nhận nhiệm vụ giải quyết hậu quả tại làng Elf cùng Wrath.
-> *Sự kiện Volume 16:* Được Ariel giao phó cùng Wrath chịu trách nhiệm dọn dẹp chiến trường làng Elf, sau đó cô dẫn dắt lực lượng Quân đoàn 10 thực hiện cuộc tập kích đánh thọc sâu vào sở chỉ huy lâm thời của Giáo hoàng Dustin ở hậu phương. Tại đây, cô chạm trán và đối đầu với người tái sinh Kusama Shinobu, đề nghị tha mạng cho cậu nếu chịu khai ra vị trí của Giáo hoàng, nhưng bị từ chối và cả hai đã nổ ra trận giao chiến quyết liệt.
+> *Sự kiện Volume 16:* Được Ariel giao phó cùng Wrath chịu trách nhiệm dọn dẹp chiến trường làng Elf, sau đó cô dẫn dắt lực lượng Quân đoàn 10 thực hiện cuộc tập kích đánh thọc sâu vào sở chỉ huy lâm thời của Giáo hoàng Dustin ở hậu phương. Tại đây, cô chạm trán và đối đầu với người tái sinh Kusama Shinobu, đề nghị tha mạng cho cậu nếu chịu khai ra vị trí của Giáo hoàng, nhưng bị từ chối và cả hai đã nổ ra trận giao chiến quyết liệt. Sau cuộc giao tranh ác liệt khiến cả hai kiệt sức, nhận thấy cậu kiên quyết không khai, cô đã quyết định ra lệnh rút lui và tha mạng cho cậu, vì cảm thấy không đành lòng giết một người tái sinh bị kéo vào những rắc rối của thế giới này mà không phải do lỗi của họ.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Chuẩn mực, trang trọng, lịch sự của một tiểu thư quý tộc cũ, nhưng mang đầy khí chất nghiêm khắc và chuyên nghiệp.

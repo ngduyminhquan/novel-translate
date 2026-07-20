@@ -2158,7 +2158,6 @@ graph TD
 | **Ghi chú** | Được làm rõ trong Volume 10 Epilogue. |
 
 ---
-
 ### QH-157: Tôi (White) ↔ Nữ thần Sariel
 
 | Thuộc tính | Chi tiết |
@@ -2619,5 +2618,5 @@ graph TD
 | **Kusama gọi Phelmina** | Cô / Quý cô / Cô nàng mặc áo choàng trắng |
 | **Phelmina xưng** | Tôi / Chúng tôi |
 | **Kusama xưng** | Tôi / Tớ |
-| **Trạng thái** | Trong trận tập kích vào sở chỉ huy lâm thời của Giáo hoàng Dustin, Phelmina đã đối đầu trực diện với Kusama Shinobu. Nhận ra cậu là một người tái sinh, cô đề xuất tha mạng cho cậu nếu cậu khai ra nơi ẩn náu của Giáo hoàng. Dù vậy, Kusama đã từ chối lời đề nghị vì không muốn quay lưng bỏ chạy khi bố mình đang dốc sức chiến đấu gần đó và muốn đền đáp ơn dưỡng dục của Thần Ngôn Giáo. Hai người chiến đấu ngang tài ngang sức, giao đấu kịch liệt giữa phi tiêu shuriken, nhẫn đao và hỏa thuật của Kusama với chakram và Hắc Ma pháp của Phelmina. |
-| **Ghi chú** | Xuất hiện trong Volume 16 Chương 6. |
+| **Trạng thái** | Trong trận tập kích vào sở chỉ huy lâm thời của Giáo hoàng Dustin, Phelmina đã đối đầu trực diện với Kusama Shinobu. Nhận ra cậu là một người tái sinh, cô đề xuất tha mạng cho cậu nếu cậu khai ra nơi ẩn náu của Giáo hoàng. Dù vậy, Kusama đã từ chối lời đề nghị vì không muốn quay lưng bỏ chạy khi bố mình đang dốc sức chiến đấu gần đó và muốn đền đáp ơn dưỡng dục của Thần Ngôn Giáo. Hai người chiến đấu ngang tài ngang sức, giao đấu kịch liệt giữa phi tiêu shuriken, nhẫn đao và hỏa thuật của Kusama với chakram và Hắc Ma pháp của Phelmina. Sau trận đấu khiến cả hai kiệt sức, Phelmina đã quyết định rút lui và tha mạng cho Kusama vì không đành lòng giết một người tái sinh vô tội bị cuốn vào cuộc chiến của thế giới này. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 6 và Chương 7. |
