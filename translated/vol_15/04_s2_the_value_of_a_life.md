@@ -235,7 +235,7 @@ Mỗi sinh mạng mà bạn tước đoạt là một cây thập giá mà bạn
 
 Tôi hiểu được nỗ lực giảm bớt gánh nặng bằng cách xem nhẹ mạng sống.
 
-But điều đó không có nghĩa là tôi sẵn sàng thay đổi quan điểm của mình một cách chóng vánh chỉ để xuôi theo dòng chảy.
+Nhưng điều đó không có nghĩa là tôi sẵn sàng thay đổi quan điểm của mình một cách chóng vánh chỉ để xuôi theo dòng chảy.
 
 Bởi vì tôi từng biết một người anh hùng đã theo đuổi lý tưởng của mình cho đến tận lúc lâm chung, dù biết rõ rằng chúng là bất khả thi.
 
