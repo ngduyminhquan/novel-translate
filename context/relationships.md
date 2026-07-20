@@ -2155,7 +2155,7 @@ graph TD
 | **Sariel gọi Ariel** | (Không giao tiếp trực tiếp) |
 | **Ariel xưng** | Con |
 | **Sariel xưng** | - |
-| **Trạng thái** | Ariel coi Sariel là "Mẹ" tối thượng và là lý do duy nhất khiến cô tiếp tục chiến đấu đơn độc suốt hàng trăm năm qua. Ariel sẵn sàng khởi xướng chiến tranh khốc liệt và gánh tiếng ác là kẻ thảm sát để thu thập năng lượng MA nhằm phá hủy hệ thống và giải cứu Sariel. Khi tận mắt chứng kiến thân xác tàn tạ của Sariel ở lõi hệ thống, Ariel khóc nức nở và hứa sẽ đưa cô thoát khỏi xiềng xích bằng mọi giá. |
+| **Trạng thái** | Ariel coi Sariel là "Mẹ" tối thượng và là lý do duy nhất khiến cô tiếp tục chiến đấu đơn độc suốt hàng trăm năm qua. Ariel sẵn sàng khởi xướng chiến tranh khốc liệt và gánh tiếng ác là kẻ thảm sát để thu thập năng lượng MA nhằm phá hủy hệ thống và giải cứu Sariel. Khi tận mắt chứng kiến thân xác tàn tạ của Sariel ở lõi hệ thống, Ariel khóc nức nở và hứa sẽ đưa cô thoát khỏi xiềng xích bằng mọi giá.<br><br>*Sự kiện Volume 14 (Chương 14):* Hồi tưởng lại thời kỳ ở cô nhi viện, Ariel nhận xét cô Sariel là một người kỳ quặc (weirdo), hơi lệch chuẩn so với người bình thường, có hiểu biết sâu rộng nhưng lại mù tịt về cảm xúc con người (thể hiện bản chất của một thiên thần lạc lối). Dẫu vậy, cô Sariel luôn hết lòng chăm sóc bọn trẻ chimera, khuyên răn chúng giải quyết tranh chấp bằng lý lẽ thay vì bạo lực để có thể trưởng thành. Tấm lòng đó đã cứu rỗi tâm hồn Ariel. |
 | **Ghi chú** | Được làm rõ trong Volume 10 Epilogue. |
 
 ---
