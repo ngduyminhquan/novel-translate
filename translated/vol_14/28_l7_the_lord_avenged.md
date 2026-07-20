@@ -37,7 +37,7 @@ Hắn nghĩ mình quá thượng đẳng để bị ảnh hưởng bởi bất k
 
 Tôi dám cá là hắn nghĩ việc để cảm xúc của mình bị lay động bởi những sinh vật như vậy là một sự sỉ nhục.
 
-But nay, hắn hoàn toàn mất kiểm soát.
+Nhưng nay, hắn hoàn toàn mất kiểm soát.
 
 Điều đó có nghĩa là một chuyện nằm ngoài sức tưởng tượng của Potimas chắc chắn đã xảy ra.
 
@@ -55,7 +55,7 @@ Tiếc thật đấy.
 
 Tôi không biết nữa, thực lòng tôi khá muốn chính mình là người khiến hắn phải thảm hại như vậy...
 
-But có vẻ White đã nhanh chân hơn tôi một bước rồi.
+Nhưng có vẻ White đã nhanh chân hơn tôi một bước rồi.
 
 “Ta chẳng biết chuyện gì đã xảy ra, nhưng nghe chừng ngươi bị White chơi một vố đau rồi nhỉ? Ôi, thật là đáng tiếc làm sao? Đáng đời ngươi lắm.”
 
@@ -83,7 +83,7 @@ Nhờ thế mà hắn mới có thể ngự trị trên đỉnh cao lâu đến 
 
 Và cũng là lý do hắn có thể phô trương sự tự tin của mình lâu như thế.
 
-But tôi biết sự thật.
+Nhưng tôi biết sự thật.
 
 Sâu thẳm bên trong, hắn yếu đuối hơn bất kỳ ai.
 
@@ -337,7 +337,7 @@ Và là một gã đê tiện nữa.
 
 Tôi không kỳ vọng nhiều vào câu trả lời từ Potimas, kẻ vẫn đang lảm nhảm vô nghĩa qua loa.
 
-But tôi vẫn không kìm được mà hỏi hắn.
+Nhưng tôi vẫn không kìm được mà hỏi hắn.
 
 Năng lượng được tích trữ bên trong linh hồn.
 
@@ -359,13 +359,13 @@ Tất cả những linh hồn sống đó, được tái cấu trúc vào bên t
 
 Tôi thực sự thương hại họ.
 
-But tôi sẽ không nương tay.
+Nhưng tôi sẽ không nương tay.
 
 Việc phá hủy những linh hồn đó bằng [Rend Soul] đồng nghĩa với việc đẩy họ vào cõi hư vô, vĩnh viễn không bao giờ có thể quay lại vòng luân hồi sinh tử.
 
 Đúng là một phép thuật tà ác, hệt như cái tên Dị giáo của nó vậy.
 
-But tôi vẫn sẽ không ngần ngại thực hiện điều đó.
+Nhưng tôi vẫn sẽ không ngần ngại thực hiện điều đó.
 
 Dù cho tôi có muốn, tôi cũng không thể nương tay cho họ vào lúc này.
 
@@ -627,7 +627,7 @@ Tôi chắc chắn D vĩ đại đã cố tình tạo ra nó như vậy.
 
 Ma pháp Dị giáo được thiết kế để chống lại các vị thần.
 
-But Ma pháp Vực sâu lại được tạo ra để cư dân thế giới này phán xét lẫn nhau.
+Nhưng Ma pháp Vực sâu lại được tạo ra để cư dân thế giới này phán xét lẫn nhau.
 
 Nó tước đi cơ hội luân hồi chuyển kiếp và phán quyết kẻ tội đồ phải bị trả lại cho hệ thống.
 
@@ -659,13 +659,13 @@ Vì lý do nào đó, tôi không hề già đi.
 
 Tôi không biết chuyện đó là do thí nghiệm của Potimas đã thành công, hay chịu ảnh hưởng từ hệ thống, hay vì lý do nào khác.
 
-But bất kể là gì, tôi bằng cách nào đó đã đạt được sự trẻ mãi không già, mục tiêu cốt lõi của cuộc sống vĩnh hằng mà Potimas luôn thèm khát.
+Nhưng bất kể là gì, tôi bằng cách nào đó đã đạt được sự trẻ mãi không già, mục tiêu cốt lõi của cuộc sống vĩnh hằng mà Potimas luôn thèm khát.
 
 Có lẽ đó là lý do vì sao hắn luôn đối xử đặc biệt tàn nhẫn với tôi.
 
 Có lẽ là do đố kỵ.
 
-But cơ thể có trẻ mãi không già đi chăng nữa thì cũng chẳng khác biệt là bao.
+Nhưng cơ thể có trẻ mãi không già đi chăng nữa thì cũng chẳng khác biệt là bao.
 
 Bởi vì tôi đang chạm đến giới hạn tuổi thọ của linh hồn, chứ không phải thể xác vật lý.
 
