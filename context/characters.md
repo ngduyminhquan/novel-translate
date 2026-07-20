@@ -1750,6 +1750,26 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 - **Ngôn ngữ**: Chuẩn mực, trang trọng, lịch sự của một tiểu thư quý tộc cũ, nhưng mang đầy khí chất nghiêm khắc và chuyên nghiệp.
 - **Cảm xúc chủ đạo**: Nghiêm túc, trung thành, đôi khi lạnh lùng.
 
+---
+
+### NV-088: Güliedistodiez (Quản trị viên Hắc)
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Tên gốc** | Güliedistodiez / Gyuriedistodiez / Black |
+| **Tên dịch** | Güliedistodiez / Quản trị viên Hắc / Güli-güli |
+| **Biệt danh** | Quản trị viên Hắc / Güli-güli |
+| **Giới tính** | Nam (Chân Long) |
+| **Vai trò** | Quản trị viên cấp cao của thế giới, thủ lĩnh của loài rồng (Chân Long), người bảo vệ Nữ thần Sariel và duy trì trật tự thế giới dưới thời đại Hệ thống W |
+| **Xuất hiện** | Volume 1 |
+
+**Tính cách tổng quát:**
+> Là một vị thần cổ xưa, một Chân Long hệ bóng tối, người đã đồng ý cùng Sariel bảo vệ hành tinh này. Ông là một người trầm lặng, nghiêm túc, luôn mang trong mình cảm giác tội lỗi và đau buồn vì không thể bảo vệ Sariel trọn vẹn và phải trơ mắt nhìn thế giới tàn lụi. Dù mang sức mạnh thần thánh áp đảo, ông chọn giữ vị thế trung lập như một quản trị viên của Hệ thống W, cố gắng duy trì sự ổn định của thế giới và hỗ trợ nhóm của Ariel một cách âm thầm, đồng thời luôn tìm cách đối đầu với Potimas để ngăn chặn các kế hoạch tàn độc của hắn. Trong độc thoại nội tâm (như Chương 8 và Chương 19), ông bộc lộ sự trầm tư chín chắn, hay tự hỏi về tương lai và số phận của thế giới, đồng thời dành sự kính trọng sâu sắc đối với Nữ thần Sariel và tiền kiếp đầu tiên của Dustin (Foduey).
+
+**Văn phong nói chuyện:**
+- **Ngôn ngữ**: Độc thoại xưng "tôi" và nói chuyện với người đọc/người nghe giả định xưng "bạn". Khi đối thoại trực tiếp, xưng "ta" và gọi đối phương là "ngươi" hoặc xưng hô trang trọng ("Ngài" với Sariel và Dustin). Tông giọng trầm lặng, chín chắn, nghiêm nghị nhưng đượm buồn và suy tư sâu sắc.
+- **Cảm xúc chủ đạo**: Trầm mặc, điềm đạm, mang gánh nặng trách nhiệm và sự hối hận khôn nguôi về quá khứ.
+
 
 
 
