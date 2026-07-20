@@ -182,6 +182,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là người bạn thân thiết lâu năm của Julius. Anh là một người thực tế, thẳng thắn, cởi mở, hay nói đùa để giảm bớt căng thẳng nhưng trong trận chiến là một người vô cùng đáng tin cậy. Mang gánh nặng tội lỗi của người duy nhất sống sót, anh quyết định bảo vệ Shun thay cho Julius.
+> *Sự kiện Volume 16:* Tại Mê cung Lớn Elroe, anh đại diện dẫn nhóm của Shun đi gặp Wrath và cưỡi Greater Taratect vượt mê cung. Trên đường đi, anh trò chuyện trấn an tinh thần cô Oka, thảo luận với Ronandt về phép dịch chuyển, kiểm tra sức khỏe của Dustin và Balto, đồng thời đối thoại riêng với Natsume (Hugo) để thấu hiểu sự bất lực và số phận của những người chuyển sinh.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, thoải mái, thân mật.

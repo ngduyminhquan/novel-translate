@@ -88,7 +88,7 @@ Nơi Sue đã mai phục sẵn từ trước...
 
 Tôi đã xoay xở thoát được nhờ có Trưởng lão Ronandt, dù vậy chúng tôi vẫn không biết nơi đó là chỗ nào, vì chúng tôi đã dùng dịch chuyển tức thời để rời đi.
 
-But tôi đoán chuyện đó cũng chẳng quan trọng, vì tôi chắc chắn rằng chúng tôi sẽ không bao giờ quay lại nơi đó nữa.
+Nhưng tôi đoán chuyện đó cũng chẳng quan trọng, vì tôi chắc chắn rằng chúng tôi sẽ không bao giờ quay lại nơi đó nữa.
 
 Tôi cất con nhện trắng bất động trở lại túi áo.
 
@@ -104,7 +104,7 @@ Tôi nghĩ việc Tagawa và Kushitani chọn chiến đấu cũng là điều d
 
 Còn về Kusama, vì cậu ta vốn làm việc cho Thần Ngôn Giáo ngay từ đầu, nên đó cũng là một kết quả hiển nhiên.
 
-But còn Ogi, người vốn cũng làm việc cho Thần Ngôn Giáo thì sao?
+Nhưng còn Ogi, người vốn cũng làm việc cho Thần Ngôn Giáo thì sao?
 
 “Ai cơ, tớ á? Tớ ở lại đây thôi. Tớ bị nhốt ở làng Elf lâu quá rồi nên giờ có tham chiến cũng chẳng giúp ích được gì đâu.”
 

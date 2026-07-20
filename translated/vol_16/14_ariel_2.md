@@ -356,7 +356,7 @@ Sẽ hợp lý hơn nếu giả định rằng Nguyen không rút lui vì biết
 
 Lựa chọn duy nhất còn lại của họ là Nguyen và Gohka phải phá vỡ phòng tuyến của Nữ Vương trong hố sâu.
 
-But chúng tôi không tốt bụng đến mức chỉ ngồi im nhìn họ làm điều đó.
+Nhưng chúng tôi không tốt bụng đến mức chỉ ngồi im nhìn họ làm điều đó.
 
 Các nhện rối tấn công Nguyen từ mọi phía, phối hợp với nhau một cách hoàn hảo.
 
