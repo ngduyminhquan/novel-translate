@@ -407,6 +407,7 @@
 | 270 | Chastity | [Trinh Tiết] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
 | 271 | Humility | [Khiêm Nhường] | Kỹ năng đặc biệt | Kỹ năng Ruler thuộc dòng Bảy Đức Tính |
 | 272 | Spatial Separation | [Phân tách Không gian] | Ma pháp | Kỹ năng/thuật thức hệ không gian dùng để cô lập hoặc cắt rời không gian |
+| 273 | Dimension Cutter | [Không Gian Trảm] | Ma pháp / Kỹ năng | Đòn tấn công cắt đứt không gian xung quanh mục tiêu, bỏ qua mọi thuộc tính phòng ngự thông thường |
 
 ---
 
@@ -667,6 +668,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 553
+- **Tổng thuật ngữ**: 554
 
 
