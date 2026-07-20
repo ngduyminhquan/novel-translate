@@ -629,6 +629,8 @@
 | 218 | pocket dimension / storage dimension | chiều không gian túi / chiều không gian lưu trữ | Thuật ngữ | Chiều không gian ảo do White tạo ra để cất trữ đồ đạc và năng lượng |
 | 219 | first Rulers | những Kẻ Thống Trị đời đầu / những Kẻ Thống Trị đầu tiên | Thuật ngữ | Các Kẻ thống trị đầu tiên trong hệ thống W |
 | 220 | original Ruler of Sloth | Kẻ Thống Trị Lười Biếng đời đầu / Kẻ Thống Trị Lười Biếng đầu tiên | Thuật ngữ | Người sở hữu kỹ năng Lười Biếng đầu tiên |
+| 221 | Sariella Foundation | Quỹ Sariella | Thuật ngữ / Tổ chức | Tổ chức từ thiện trung lập do Nữ thần Sariel dẫn dắt ở thời cổ đại |
+| 222 | Gloria Type Ω | Gloria Loại Ω | Vũ khí / Vật phẩm | Mẫu vũ khí cơ giới mạnh nhất của Potimas chế tạo để đối đầu với Güliedistodiez |
 
 ---
 
@@ -652,6 +654,6 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-14
-- **Tổng thuật ngữ**: 547
+- **Cập nhật lần cuối**: 2026-07-20
+- **Tổng thuật ngữ**: 549
 
