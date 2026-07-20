@@ -96,6 +96,7 @@
 | 75 | Bloe / Bloe Phthalo | Bloe | Thống lĩnh Quân đoàn 7 dưới quyền Ma Vương (đã tử trận) |
 | 76 | Wald | Wald | Phó chỉ huy Quân đoàn 10, cấp dưới phục vụ Sophia |
 | 77 | Phelmina | Phelmina | Phó chỉ huy Quân đoàn 10, phụ tá của White |
+| 78 | Foduey | Foduey | Tiền kiếp đầu tiên của Giáo hoàng Dustin thời kỳ cổ đại, một tỷ phú sở hữu biệt danh "Ma Vương giới kinh doanh" |
 
 ---
 
@@ -631,6 +632,8 @@
 | 220 | original Ruler of Sloth | Kẻ Thống Trị Lười Biếng đời đầu / Kẻ Thống Trị Lười Biếng đầu tiên | Thuật ngữ | Người sở hữu kỹ năng Lười Biếng đầu tiên |
 | 221 | Sariella Foundation | Quỹ Sariella | Thuật ngữ / Tổ chức | Tổ chức từ thiện trung lập do Nữ thần Sariel dẫn dắt ở thời cổ đại |
 | 222 | Gloria Type Ω | Gloria Loại Ω | Vũ khí / Vật phẩm | Mẫu vũ khí cơ giới mạnh nhất của Potimas chế tạo để đối đầu với Güliedistodiez |
+| 223 | angel | thiên sứ / thiên thần | Thuật ngữ / Chủng tộc | Chủng tộc chiến đấu chống lại các vị thần, hành động hoàn toàn vì sứ mệnh |
+| 224 | lost angel | thiên sứ lạc lối / thiên thần lạc lối | Thuật ngữ / Chủng tộc | Thiên sứ đi chệch khỏi đồng loại, hành động độc lập vì một sứ mệnh duy nhất |
 
 ---
 

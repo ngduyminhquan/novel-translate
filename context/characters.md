@@ -1234,18 +1234,19 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Tên gốc** | Dustin |
-| **Tên dịch** | Dustin / Giáo hoàng Dustin |
-| **Biệt danh** | Giáo hoàng / Người đứng đầu Thần Ngôn Giáo |
+| **Tên gốc** | Dustin / Foduey |
+| **Tên dịch** | Dustin / Giáo hoàng Dustin / Foduey |
+| **Biệt danh** | Giáo hoàng / Người đứng đầu Thần Ngôn Giáo / Lãnh chúa Foduey / Ma Vương giới kinh doanh (kiếp đầu tiên) |
 | **Tuổi** | Rất lớn tuổi (Sở hữu khả năng giữ lại ký ức các kiếp trước và liên tục chuyển sinh) |
 | **Giới tính** | Nam |
-| **Xuất hiện** | Được nhắc đến trong chương đặc biệt của Potimas (Tập 5), người kể chuyện trong Chương đặc biệt: Kẻ chủ mưu: Giáo hoàng của Thần Ngôn Giáo (Tập 5), Volume 6 Chương R1, V3, Đoạn phụ: Quyết định của Giáo hoàng, Volume 7 Chương 5, Volume 13 Đoạn phụ |
-| **Vai trò** | Giáo hoàng đương nhiệm của Thần Ngôn Giáo, một thế lực chính trị - tôn giáo lớn của nhân loại, đối thủ chính trị đáng gờm của Potimas |
+| **Xuất hiện** | Được nhắc đến trong chương đặc biệt của Potimas (Tập 5), người kể chuyện trong Chương đặc biệt: Kẻ chủ mưu: Giáo hoàng của Thần Ngôn Giáo (Tập 5), Volume 6 Chương R1, V3, Đoạn phụ: Quyết định của Giáo hoàng, Volume 7 Chương 5, Volume 13 Đoạn phụ, Volume 14 Chương 8 |
+| **Vai trò** | Giáo hoàng đương nhiệm của Thần Ngôn Giáo, một thế lực chính trị - tôn giáo lớn của nhân loại, đối thủ chính trị đáng gờm của Potimas. Trong quá khứ xa xưa (kiếp đầu tiên), ông là tỷ phú Foduey (Ma Vương giới kinh doanh). |
 
 **Tính cách tổng quát & Sự kiện:**
 > Là người đứng đầu Thần Ngôn Giáo, sở hữu trí tuệ uyên thâm, mưu sâu kế hiểm và có sức ảnh hưởng cực lớn lên các quốc gia loài người. Ông là một chính trị gia sừng sỏ, có lý tưởng cực kỳ thực tế là bảo vệ sự tồn tại của nhân loại bằng mọi giá. Để đạt được mục tiêu, ông không ngần ngại châm ngòi cho các cuộc chiến tranh và tiêu diệt các tôn giáo đối lập (mặc dù ông biết rõ Thần Ngôn Giáo và Nữ Thần Giáo vốn cùng chung một nguồn gốc). Ông coi cục diện thế giới như một ván cờ phức tạp và cố gắng dự đoán, vượt qua các nước cờ của Ariel và Potimas Harrifenas.
 > *Tóm tắt sự kiện trước (Vol 1 - Vol 12):* Ở Vol 6, Dustin đàm phán chính trị cùng Ariel và điều chỉnh chiến dịch Keren. Vol 7 ghi nhận ông ta đề xuất đình chiến tạm thời với Ariel để hợp tác chống lại mối hiểm họa bom GMA từ tàn tích cơ khí cổ đại, đồng thời phân tích mối quan hệ giữa Ariel, White và Potimas.
 > *Sự kiện Volume 13:* Trong Chương 4, ông đồng ý tiếp đón Ariel và White tại Thánh quốc Alleius. Mặc dù coi yêu cầu cho phép quân đội ma tộc hành quân qua lãnh thổ loài người để tiến đánh làng Elf là cực kỳ vô lý, ông đã âm thầm chuẩn bị sẵn các bước đệm chính trị hỗ trợ để thực hiện dứt điểm mục tiêu chung là tiêu diệt Potimas, đổi lại ông cảnh báo sẽ không chấp nhận bất kỳ kết quả thất bại nào từ phía phe Ma tộc. Trong Đoạn phụ: Giáo hoàng và Quản trị viên cùng uống rượu, ông có buổi uống rượu và đàm đạo xuyên đêm với ngài Hắc Long, bàn luận về sự hối hận của mỗi người trong quá khứ, thói quen lạc đề khi suy nghĩ sâu của ông, sự phi lý của Hệ thống, cách thức phá hủy Hệ thống của ngài White bằng quyền hạn Kẻ thống trị, và xác định sẽ biến Thần Ngôn Giáo thành kẻ phản diện để nhân loại đoàn kết lại.
+> *Sự kiện Volume 14:* Được tiết lộ chi tiết về tiền kiếp đầu tiên dưới thân phận tỷ phú Foduey, người được biết đến với biệt danh đáng sợ là "Ma Vương giới kinh doanh". Ông là nhà tài trợ lớn nhất của Quỹ Sariella nhờ đóng góp những khoản tiền khổng lồ, gián tiếp duy trì các hoạt động cứu trợ nhân đạo phi lợi nhuận của Sariel dành cho nhân loại thời cổ đại.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Độc thoại nội tâm xưng "ta", thể hiện sự điềm tĩnh, suy nghĩ thấu đáo và phong thái của một nhà thông thái già dặn, đôi khi tự trào về thói quen xấu của mình (để tâm trí đi lang thang giữa buổi báo cáo).
