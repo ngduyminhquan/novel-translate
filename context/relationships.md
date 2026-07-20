@@ -1089,7 +1089,8 @@ graph TD
 | **Asaka gọi Tagawa** | Kunihiko |
 | **Tagawa xưng** | Tớ |
 | **Asaka xưng** | Tớ |
-| **Trạng thái** | Cực kỳ gắn kết và nương tựa lẫn nhau. Lớn lên cùng nhau trong băng lính đánh thuê của cha mẹ. Sau khi gia đình bị ma tộc tiêu diệt, họ cùng nhau sinh tồn, phiêu lưu làm mạo hiểm giả tự do trước khi đến làng Elf. Asaka đóng vai trò điềm tĩnh hỗ trợ và kiềm chế tính khí bốc đồng, đam mê phiêu lưu của Tagawa. |
+| **Trạng thái** | Cực kỳ gắn kết và nương tựa lẫn nhau. Lớn lên cùng nhau trong băng lính đánh thuê của cha mẹ. Sau khi gia đình bị ma tộc tiêu diệt, họ cùng nhau sinh tồn, phiêu lưu làm mạo hiểm giả tự do trước khi đến làng Elf. Asaka đóng vai trò điềm tĩnh hỗ trợ và kiềm chế tính khí bốc đồng, đam mê phiêu lưu của Tagawa. Trong Volume 16, khi đối mặt với Merazophis tại Mê cung Lớn Elroe, Asaka đã đánh ngất Kunihiko rồi cõng cậu đến lánh nạn tại ngôi làng nhỏ Uppenbebetenia để bảo vệ tính mạng cho cả hai. Tại đây, Kunihiko quyết định buông bỏ lòng hận thù bi kịch và hứa sẽ ở bên Asaka trọn đời; Asaka cũng bày tỏ mong muốn hai người sẽ kết hôn, sinh con đẻ cái và sống một cuộc sống bình dị hạnh phúc cho đến già. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 9: Kunihiko. |
 
 ---
 

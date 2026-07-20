@@ -1169,8 +1169,9 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Vai trò** | Người tái sinh; cựu lính đánh thuê, mạo hiểm giả tự do, hiện sống tại khu bảo hộ của tộc Elf. |
 | **Xuất hiện** | Volume 4 Chương S10 |
 
-**Tính cách tổng quát:**
+**Tính cách tổng quát & Sự kiện:**
 > Bạn học cùng lớp kiếp trước của Shun. Sinh ra trong một gia đình lính đánh thuê ở thế giới mới và lớn lên cùng cô bạn thanh mai trúc mã Kushitani Asaka. Sau khi băng lính đánh thuê của cha mẹ họ bị ma tộc tiêu diệt hoàn toàn, hai người nương tựa vào nhau, chuyển sang làm mạo hiểm giả tự do phiêu lưu khắp nơi trước khi được tộc Elf liên lạc và đưa về đây. Cậu có tính cách bộc trực, đam mê phiêu lưu đúng chất thế giới giả tưởng, thực tế và khá chín chắn.
+> **Sự kiện Volume 16:** Quyết định gia nhập lực lượng của vị thần sắc mun để bảo vệ nhân loại. Tuy nhiên, khi đối mặt với Merazophis tại lối vào Mê cung Lớn Elroe, cậu bị Asaka đánh ngất từ phía sau để đầu hàng nhằm giữ mạng sống cho cả hai. Sau đó, cậu tỉnh dậy ở một ngôi làng nhỏ tên là Uppenbebetenia, chấp nhận từ bỏ con đường báo thù bi kịch và hứa sẽ dành trọn cuộc đời còn lại bên cạnh Asaka.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Khỏe khoắn, bộc trực, thực tế.
@@ -1190,8 +1191,9 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Vai trò** | Người tái sinh; cựu lính đánh thuê, mạo hiểm giả tự do, hiện sống tại khu bảo hộ của tộc Elf. |
 | **Xuất hiện** | Volume 4 Chương S10 |
 
-**Tính cách tổng quát:**
+**Tính cách tổng quát & Sự kiện:**
 > Bạn học cùng lớp kiếp trước của Shun, thanh mai trúc mã của Tagawa Kunihiko. Cùng lớn lên trong băng lính đánh thuê và cùng Tagawa trải qua biến cố gia đình bị ma tộc sát hại. Cô cùng Tagawa phiêu lưu làm mạo hiểm giả và có tính cách điềm tĩnh, thực tế, luôn ở bên cạnh hỗ trợ và kiềm chế tính cách bốc đồng của Tagawa khi cần thiết.
+> **Sự kiện Volume 16:** Đồng hành cùng Kunihiko tham gia chiến trường để ủng hộ vị thần sắc mun. Khi đối mặt với Merazophis tại lối vào Mê cung Lớn Elroe, nhận thấy sự chênh lệch chỉ số quá lớn và không muốn cả hai phải chết vô ích, cô đã chủ động đánh ngất Kunihiko rồi tuyên bố đầu hàng. Cô cõng cậu lánh nạn tại một ngôi làng nhỏ tên là Uppenbebetenia, và bày tỏ mong ước cùng cậu chung sống hạnh phúc bình dị đến già.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Điềm đạm, chín chắn, thẳng thắn.

@@ -137,6 +137,7 @@
 | 16 | Phthalo region | Vùng Phthalo | Địa danh | Vùng đất do Balto Phthalo cai quản |
 | 17 | Valley of Convenience | Thung lũng Tiện Lợi (Valley of Convenience) | Địa danh | Vùng bán đảo biệt lập được bảo vệ bởi Chân Long và Thủy Long, nơi lánh nạn cho các linh hồn sắp suy kiệt |
 | 18 | Fort Renxandt | Pháo đài Renxandt | Địa danh | Pháo đài lớn của loài người canh giữ biên giới phía Bắc, bị Quân đoàn 8 của Wrath tấn công |
+| 19 | Uppenbebetenia | Uppenbebetenia | Địa danh | Ngôi làng nhỏ nơi Asaka cõng Kunihiko đến lánh nạn |
 
 ---
 
@@ -701,6 +702,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 571
+- **Tổng thuật ngữ**: 572
 
 
