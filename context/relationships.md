@@ -2608,3 +2608,16 @@ graph TD
 | **Trạng thái** | Trong cuộc chạm trán tại Tầng Trên của Mê cung Lớn Elroe, Thủy Long Iena tìm cách dìm nước mê cung bằng việc đục trần kết nối với đại dương. Sophia đã sử dụng Băng Công Kích để chặn đứng dòng nước ngập và đối đầu với Iena. Iena tìm cách kéo dài thời gian và giữ khoảng cách bằng các đòn tấn công dạng rắn nước để 37 cổ thủy long khác đồng loạt đục trần mê cung ở các khu vực khác. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 5. |
 
+---
+
+### QH-189: Phelmina ↔ Kusama Shinobu
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đối thủ đối đầu trên chiến trường |
+| **Phelmina gọi Kusama** | Cậu / Người tái sinh / Cậu ta |
+| **Kusama gọi Phelmina** | Cô / Quý cô / Cô nàng mặc áo choàng trắng |
+| **Phelmina xưng** | Tôi / Chúng tôi |
+| **Kusama xưng** | Tôi / Tớ |
+| **Trạng thái** | Trong trận tập kích vào sở chỉ huy lâm thời của Giáo hoàng Dustin, Phelmina đã đối đầu trực diện với Kusama Shinobu. Nhận ra cậu là một người tái sinh, cô đề xuất tha mạng cho cậu nếu cậu khai ra nơi ẩn náu của Giáo hoàng. Dù vậy, Kusama đã từ chối lời đề nghị vì không muốn quay lưng bỏ chạy khi bố mình đang dốc sức chiến đấu gần đó và muốn đền đáp ơn dưỡng dục của Thần Ngôn Giáo. Hai người chiến đấu ngang tài ngang sức, giao đấu kịch liệt giữa phi tiêu shuriken, nhẫn đao và hỏa thuật của Kusama với chakram và Hắc Ma pháp của Phelmina. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 6. |
