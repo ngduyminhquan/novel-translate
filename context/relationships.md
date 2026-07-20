@@ -2621,3 +2621,18 @@ graph TD
 | **Kusama xưng** | Tôi / Tớ |
 | **Trạng thái** | Trong trận tập kích vào sở chỉ huy lâm thời của Giáo hoàng Dustin, Phelmina đã đối đầu trực diện với Kusama Shinobu. Nhận ra cậu là một người tái sinh, cô đề xuất tha mạng cho cậu nếu cậu khai ra nơi ẩn náu của Giáo hoàng. Dù vậy, Kusama đã từ chối lời đề nghị vì không muốn quay lưng bỏ chạy khi bố mình đang dốc sức chiến đấu gần đó và muốn đền đáp ơn dưỡng dục của Thần Ngôn Giáo. Hai người chiến đấu ngang tài ngang sức, giao đấu kịch liệt giữa phi tiêu shuriken, nhẫn đao và hỏa thuật của Kusama với chakram và Hắc Ma pháp của Phelmina. Sau trận đấu khiến cả hai kiệt sức, Phelmina đã quyết định rút lui và tha mạng cho Kusama vì không đành lòng giết một người tái sinh vô tội bị cuốn vào cuộc chiến của thế giới này. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 6 và Chương 7. |
+
+---
+
+### QH-190: Cô Oka ↔ Hyrince
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng hành bất đắc dĩ, đối thoại bí mật bằng Thần giao cách cảm |
+| **Cô Oka gọi Hyrince** | Anh Hyrince / Hyrince-san |
+| **Hyrince gọi Cô Oka** | Cô Oka / Cô |
+| **Cô Oka xưng** | Tôi |
+| **Hyrince xưng** | Tôi |
+| **Trạng thái** | Hyrince (phân thân của Hắc Thần Güliedistodiez) đã ra tay cứu cô Oka cùng các học sinh trên chiếc đĩa bay (UFO) khỏi sự tấn công của bầy quái vật và cất cánh thành công nhờ ký ức của Hắc Thần. Hyrince tiết lộ thân phận thực sự của mình cho cô Oka và Anna biết, đồng thời đề nghị đối thoại bí mật với cô Oka qua [Thần giao cách cảm] để tìm hiểu cột tương lai trong kỹ năng độc quyền [Danh Sách Học Sinh] của cô. Qua cuộc nói chuyện, cô Oka phát hiện một sự thật kinh hoàng: "Tà thần" thực sự muốn hiến tế một nửa nhân loại không phải là Thần sắc ngà, mà chính là Tà thần D - kẻ sáng tạo ra [Danh Sách Học Sinh]. Hyrince cũng bàng hoàng trước thông tin này và nhận ra D sẽ hiến tế một nửa nhân loại bất kể kết cục trận chiến giữa Hắc Thần và Thần sắc ngà thế nào. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 12. |
+
