@@ -111,6 +111,7 @@
 | 90 | Iena | Iena / Thủy Long Iena | Thủ lĩnh Thủy Long cổ xưa |
 | 91 | Gohka | Gohka / Lôi Long Gohka | Thủ lĩnh Lôi Long cổ xưa |
 | 92 | Darad | Darad | Thống lĩnh Quân đoàn 5 dưới quyền Ma Vương |
+| 93 | Ms. Meido | Cô Meido / Hầu gái Meido | Vị thần siêu cấp mạnh mẽ, người giám sát/hầu gái của D |
 
 ---
 

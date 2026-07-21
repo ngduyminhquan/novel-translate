@@ -2650,4 +2650,33 @@ graph TD
 | **Trạng thái** | Trong Chương 17 Volume 16, Ariel lôi Byaku ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu. Schlain vô cùng bàng hoàng và ngơ ngác khi đón nhận thanh kiếm cùng người bạn đồng hành thần thánh mới này. Trong Chương 19, nhận thấy quyết tâm chiến đấu của Shun, Byaku tháo khỏi tay Shun và quấn lấy tay Sue để cho cô mượn sức mạnh của mình, giúp cô tăng mạnh chỉ số lên mức hàng chục ngàn và hỗ trợ cô sử dụng ma pháp trị liệu. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 17 và Chương 19. |
 
+---
+
+### QH-192: Quản trị viên D ↔ Cô Meido
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Đồng nghiệp / Người giám sát (Meido) và Người trốn việc (D) |
+| **D gọi Meido** | Cô Meido / Meido |
+| **Meido gọi D** | D |
+| **D xưng** | Tôi / D |
+| **Meido xưng** | Tôi |
+| **Trạng thái** | Trong Vĩ thanh Volume 16, cả hai ngồi cùng nhau tận hưởng buổi tiệc trà. Cô Meido là một vị thần siêu cấp mạnh mẽ và đóng vai trò như người giám sát/hầu gái giữ chân D để bắt cô ta quay lại làm việc. Cô Meido tỏ ra ngao ngán trước thói quen đi đường vòng hoang phí và tính cách lười biếng của D, trong khi D thản nhiên đối đáp và giải thích về nguồn gốc năng lượng cứu thế giới. D dù tối cao vẫn e ngại trước sự quản thúc của cô Meido. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Vĩ thanh. |
+
+---
+
+### QH-193: Tôi (White) ↔ Cô Meido
+
+| Thuộc tính | Chi tiết |
+|------------|----------|
+| **Quan hệ** | Thần cấp cao (Meido) và Quyến thuộc mới / Đồ chơi (White) |
+| **White gọi Meido** | Cô Meido |
+| **Meido gọi White** | Đứa nhỏ này (this one) / Nó (she/her) |
+| **White xưng** | Tôi |
+| **Meido xưng** | Tôi |
+| **Trạng thái** | Trong Vĩ thanh Volume 16, White bị bắt mặc đồ hầu gái đứng phục vụ tiệc trà cho D và cô Meido. Cô Meido nhìn White với ánh mắt đầy thương cảm khi biết White sắp phải chịu khóa huấn luyện địa ngục do D đích thân bồi dưỡng, nhưng cô Meido cũng đồng tình xem White là món đồ chơi mới của D. White bất lực cầu cứu trong lòng nhưng vô vọng vì kế hoạch giả chết đã bị D bắt thóp từ trước. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Vĩ thanh. |
+
+
 
