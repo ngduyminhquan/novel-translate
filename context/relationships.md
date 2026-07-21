@@ -272,12 +272,12 @@ graph TD
 
 | Thuộc tính | Chi tiết |
 |------------|----------|
-| **Quan hệ** | Đối tượng giải trí và Người theo dõi/Quản trị viên |
+| **Quan hệ** | Đối tượng giải trí và Người theo dõi/Quản trị viên → Chủ nhân và Quyến thuộc chính thức (từ Vol 16) |
 | **Nhện gọi D** | Quản trị viên D / Kẻ rình mò / Admin / Tên khốn / Tà thần |
 | **D gọi Nhện** | Cá thể Zoa Ele (hoặc qua Thần ngôn) |
 | **Nhện xưng** | Tôi (Watashi) |
 | **D xưng** | D / Quản trị viên Thượng cấp D |
-| **Trạng thái** | Sau khi kỹ năng [Cấm kỵ] đạt LV 10 (Chương 7), Nhện biết được D chính là kẻ đã tái sinh mình vào thế giới sắp sụp đổ này để làm trò giải trí. Nhện cực kỳ tức giận (nhận kỹ năng [Phẫn Nộ LV 1]) và căm ghét tính cách vặn vẹo của D, nhưng đành phải tạm thời nương theo kế hoạch của D để sinh tồn và tìm cách tích lũy thực lực thoát khỏi thế giới này. Ở Volume 9 Chương 7, sau khi thần hóa, White đã tự dịch chuyển về Trái Đất (Nhật Bản) và đối mặt trực tiếp với D tại nhà riêng của cô ta. Tại đây, cô bàng hoàng đối diện với sự thật phũ phàng rằng mình không phải là Wakaba Hiiro tái sinh như cô hằng nghĩ, mà chỉ là một bản sao, một kẻ thế thân (substitute) được D ban cho ký ức giả mạo nhằm che giấu hành tung của cô ta. |
+| **Trạng thái** | Sau khi kỹ năng [Cấm kỵ] đạt LV 10 (Chương 7), Nhện biết được D chính là kẻ đã tái sinh mình vào thế giới sắp sụp đổ này để làm trò giải trí. Nhện cực kỳ tức giận (nhận kỹ năng [Phẫn Nộ LV 1]) và căm ghét tính cách vặn vẹo của D, nhưng đành phải tạm thời nương theo kế hoạch của D để sinh tồn và tìm cách tích lũy thực lực thoát khỏi thế giới này. Ở Volume 9 Chương 7, sau khi thần hóa, White đã tự dịch chuyển về Trái Đất (Nhật Bản) và đối mặt trực tiếp với D tại nhà riêng của cô ta. Tại đây, cô bàng hoàng đối diện với sự thật phũ phàng rằng mình không phải là Wakaba Hiiro tái sinh như cô hằng nghĩ, mà chỉ là một bản sao, một kẻ thế thân (substitute) được D ban cho ký ức giả mạo nhằm che giấu hành tung của cô ta. Ở Volume 16 Chương 22, sau khi Nhiệm vụ Thế giới hoàn thành, White chính thức bị D siết vai giữ lại và phải chấp nhận trở thành quyến thuộc chính thức dưới quyền D, chịu sự quản thúc trực tiếp của cô ta và chia tay với Ariel và mọi người. |
 | **Ghi chú** | Mối quan hệ chuyển từ đề phòng một chiều sang thù ghét/bực bội sâu sắc từ phía Nhện. Việc gặp mặt trực tiếp ở Volume 9 đã làm sáng tỏ nguồn gốc thực sự của White như một "kẻ thế thân" của Tà Thần D trên Trái Đất. |
 
 ---
