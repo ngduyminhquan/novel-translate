@@ -88,7 +88,7 @@ E3-20230520-JV-NF-ORI
 *   Kunihiko
 *   Asaka
 *   Wrath
-*   Filimés
+*   Filimõs
 *   Shun 2
 *   Ariel 2
 *   Dustin

@@ -112,6 +112,8 @@
 | 91 | Gohka | Gohka / Lôi Long Gohka | Thủ lĩnh Lôi Long cổ xưa |
 | 92 | Darad | Darad | Thống lĩnh Quân đoàn 5 dưới quyền Ma Vương |
 | 93 | Ms. Meido | Cô Meido / Hầu gái Meido | Vị thần siêu cấp mạnh mẽ, người giám sát/hầu gái của D |
+| 94 | Shin Itagaki / Director Itagaki | Shin Itagaki / Đạo diễn Itagaki | Đạo diễn anime | Đạo diễn của bản chuyển thể anime |
+| 95 | Yen Press / Yen On | Yen Press / Yen On | Nhà xuất bản | Nhà xuất bản tiếng Anh của light novel |
 
 ---
 
@@ -680,6 +682,10 @@
 | 243 | ebony god | vị thần sắc mun | Thuật ngữ / Hệ thống | Vị thần sắc gỗ mun (đại diện cho Güliedistodiez/Hắc) được nhắc tới trong Nhiệm vụ Thế giới |
 | 244 | MA energy | năng lượng MA | Thuật ngữ | Năng lượng đặc thù của thế giới, tích lũy bằng cách hiến tế sinh mạng hoặc vận hành hệ thống |
 | 245 | draconic merman | nhân ngư lai rồng | Chủng tộc quái vật | Thủy Long cổ xưa dạng người lai cá |
+| 246 | manga adaptation | bản chuyển thể manga / truyện tranh chuyển thể | Thuật ngữ | Tác phẩm truyện tranh dựa trên nguyên tác light novel |
+| 247 | spin-off manga | manga ngoại truyện / truyện tranh ngoại truyện | Thuật ngữ | Tác phẩm truyện tranh ăn theo (nhắc đến tác phẩm của Gratinbird-sensei) |
+| 248 | anime adaptation | bản chuyển thể anime / hoạt hình chuyển thể | Thuật ngữ | Tác phẩm hoạt hình dựa trên nguyên tác light novel |
+| 249 | web novel | tiểu thuyết mạng (web novel) | Thuật ngữ | Phiên bản tiểu thuyết phát hành trực tuyến trước bản sách giấy |
 
 ---
 
@@ -705,6 +711,6 @@
 
 - **Ngày tạo**: 2026-07-06
 - **Cập nhật lần cuối**: 2026-07-21
-- **Tổng thuật ngữ**: 574
+- **Tổng thuật ngữ**: 580
 
 
