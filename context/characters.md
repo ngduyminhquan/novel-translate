@@ -1675,8 +1675,9 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Vai trò** | Một trong những con rồng cổ xưa nhất thuộc hệ bóng tối, người chịu trách nhiệm canh giữ Ma Vương Kiếm (thanh kiếm thần sát thần) trong căn phòng không gian biệt lập ở tầng hầm Lâu đài Ma Vương. |
 | **Xuất hiện** | Volume 10 Chương 8 |
 
-**Tính cách tổng quát:**
+**Tính cách tổng quát & Sự kiện:**
 > Là một long nhân có đầu rồng nhưng thân người, ăn mặc kỳ lạ khi diện một bộ âu phục và đội chiếc mũ chóp cao. Có tính cách thoải mái, cợt nhả và thân thiện một cách bất ngờ. Trò chuyện bằng chất giọng ồm ồm khó khăn do dây thanh quản rồng chưa thích ứng hoàn hảo với tiếng người. Vui vẻ gọi Ariel là "chị hai" (chỉ mối liên kết di truyền giữa các thế hệ được tạo ra) dù Ariel phủ nhận điều này. Reise tôn trọng thỏa thuận và sẵn sàng liên lạc với chúa tể Güli-güli khi Ariel yêu cầu.
+> *Sự kiện Volume 16:* Trong Chương 19, Reise được Hyrince triệu hồi cùng với Hyuvan và Nia để trợ chiến chống lại Tà thần D. Trong Chương 20, Reise đóng vai trò là người kể chuyện và lực lượng tấn công chủ lực của nhóm, sử dụng võ thuật loài người kết hợp với thuộc tính Dị giáo và Hủ thực để đột phá sức phòng ngự khổng lồ của D. Cuối cùng, ông phối hợp cùng các đồng minh tạo ra sơ hở để Anh hùng Schlain thực hiện đòn tấn công bằng Thánh Kiếm Anh Hùng.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Nói năng khó khăn, giọng ồm ồm (văn bản được viết IN HOA toàn bộ trong tiếng Anh để biểu thị giọng nói lạ lùng). Khi đối thoại dùng từ ngữ tương đối thoải mái, suồng sã nhưng thẳng thắn.

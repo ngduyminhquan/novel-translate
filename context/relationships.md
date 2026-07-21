@@ -2141,7 +2141,7 @@ graph TD
 | **Reise gọi Ariel** | Chị hai (Sis) / cô / ngươi |
 | **Ariel xưng** | Ta |
 | **Reise xưng** | Ta / chúng ta |
-| **Trạng thái** | Xét về mặt di truyền học cơ bản, họ chia sẻ cùng nguồn gốc nhân tạo nên Reise coi Ariel là chị hai (đùa cợt di truyền học). Ariel phủ nhận gay gắt mối quan hệ anh chị em này và chỉ thừa nhận những đứa trẻ ở trại trẻ mồ côi Sariel là anh chị em duy nhất của mình. Dù vậy, họ vẫn có sự tin tưởng tương đối; Reise canh giữ Ma Vương Kiếm một cách trung thành và hỗ trợ Ariel liên lạc với Güli-güli. |
+| **Trạng thái** | Xét về mặt di truyền học cơ bản, họ chia sẻ cùng nguồn gốc nhân tạo nên Reise coi Ariel là chị hai (đùa cợt di truyền học). Ariel phủ nhận gay gắt mối quan hệ anh chị em này và chỉ thừa nhận những đứa trẻ ở trại trẻ mồ côi Sariel là anh chị em duy nhất của mình. Dù vậy, họ vẫn có sự tin tưởng tương đối; Reise canh giữ Ma Vương Kiếm một cách trung thành và hỗ trợ Ariel liên lạc với Güli-güli.<br><br>*Sự kiện Volume 16:* Reise tham gia cuộc gọi Thần giao cách cảm thảo luận về Tà thần D, sau đó đồng ý tiến vào lõi hệ thống cùng phe Giáo hoàng. Ở Chương 19, ông được Hyrince triệu hồi trợ chiến. Ở Chương 20, Reise cùng các thủ lĩnh rồng khác dốc toàn lực chiến đấu bảo vệ Ariel và phối hợp cùng phe cô chống lại Quản trị viên D. |
 | **Ghi chú** | Giới thiệu ở Volume 10 Chương 8. |
 
 ---
@@ -2551,7 +2551,7 @@ graph TD
 | **Rồng gọi Shun** | Cậu / Anh hùng / Nhóc con |
 | **Shun xưng** | Tôi |
 | **Rồng xưng** | Ta / Tôi |
-| **Trạng thái** | Trong cuộc họp tại Alleius, khi Shun tuyên bố từ chối hai phe và theo đuổi lý tưởng của Julius, ba thủ lĩnh rồng là Hyuvan, Nia và Reise đã quyết định tách khỏi phe Giáo hoàng để gia nhập phe của Shun. Hyuvan muốn báo đáp ân tình của White và thích đi theo lý tưởng điên rồ của Shun. Nia cũng nợ ân tình của vị thần sắc ngà và không muốn chiến đấu vô ích. Reise quyết định đặt cược vào nỗ lực quyết tâm của Shun, cảnh cáo Shun không được nuốt lời. |
+| **Trạng thái** | Trong cuộc họp tại Alleius, khi Shun tuyên bố từ chối hai phe và theo đuổi lý tưởng của Julius, ba thủ lĩnh rồng là Hyuvan, Nia và Reise đã quyết định tách khỏi phe Giáo hoàng để gia nhập phe của Shun. Hyuvan muốn báo đáp ân tình của White và thích đi theo lý tưởng điên rồ của Shun. Nia cũng nợ ân tình của vị thần sắc ngà và không muốn chiến đấu vô ích. Reise quyết định đặt cược vào nỗ lực quyết tâm của Shun, cảnh cáo Shun không được nuốt lời.<br><br>*Sự kiện Volume 16:* Tại lõi hệ thống, sau khi Hyrince bị D hạ sát và được Shun hồi sinh bằng [Từ Bi], Hyrince dùng khế ước triệu hồi Hyuvan, Nia và Reise trợ chiến. Cả ba lao vào trận chiến bảo vệ phe Shun chống lại Quản trị viên D. Trong Chương 20, Reise đóng vai trò chủ lực cùng các thủ lĩnh khác nỗ lực cầm chân D để phối hợp với Anh hùng Schlain thực hiện đòn tấn công bằng Thánh Kiếm Anh Hùng. |
 | **Ghi chú** | Xuất hiện trong Volume 16 Chương 3. |
 
 ---

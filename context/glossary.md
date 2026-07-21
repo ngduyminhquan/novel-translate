@@ -426,6 +426,7 @@
 | 278 | Heat Haze | [Ảo Ảnh Nhiệt] | Ma pháp | Phép tấn công thuộc Hỏa Ngục ma pháp cấp 4 |
 | 279 | Past-Vision Evil Eye | [Khứ Hồi Tà Nhãn] | Kỹ năng chủ động | Tà Nhãn cho phép xem các cảnh tượng từ quá khứ |
 | 280 | Freezing Attack | Băng Công Kích | Kỹ năng chủ động | Kỹ năng áp thuộc tính băng vào đòn tấn công |
+| 281 | Harmony | [Hài Hòa] | Kỹ năng đặc biệt | Kỹ năng độc quyền của Ruler of Temperance |
 
 ---
 
@@ -702,7 +703,7 @@
 ## Ghi Chú
 
 - **Ngày tạo**: 2026-07-06
-- **Cập nhật lần cuối**: 2026-07-20
-- **Tổng thuật ngữ**: 573
+- **Cập nhật lần cuối**: 2026-07-21
+- **Tổng thuật ngữ**: 574
 
 
