@@ -762,7 +762,7 @@ graph TD
 | **Balto gọi Sanatoria** | Sanatoria |
 | **Sanatoria xưng** | Tôi |
 | **Balto xưng** | Tôi |
-| **Trạng thái** | Sanatoria thuyết phục Balto tham gia đảo chính cùng cô và tộc Elf vì lợi ích của ma tộc; Balto từ chối thẳng thừng vì biết sự chênh lệch sức mạnh áp đảo của Ariel và không muốn đẩy ma tộc vào con đường diệt vong. |
+| **Trạng thái** | Sanatoria thuyết phục Balto tham gia đảo chính cùng cô và tộc Elf vì lợi ích của ma tộc; Balto từ chối thẳng thừng vì biết sự chênh lệch sức mạnh áp đảo của Ariel và không muốn đẩy ma tộc vào con đường diệt vong. <br><br>*Kết cục sau trận chiến:* Sau cuộc chiến, cô làm cánh tay phải đắc lực hỗ trợ Balto trong thời gian dài, sau đó hai người kết hôn và nâng đỡ nhau cả trong công việc lẫn đời sống vợ chồng suốt đời. |
 
 ---
 
