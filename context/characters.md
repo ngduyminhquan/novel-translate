@@ -99,7 +99,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Chapter S1 |
 
 **Tính cách tổng quát:**
-> Kiếp trước là bạn thân của Shun. Tái sinh dưới hình dạng tiểu thư quý tộc xinh đẹp nhưng ban đầu linh hồn vẫn mang bản sắc nam giới. Cô từng mâu thuẫn sâu sắc giữa bản sắc giới tính cũ và cơ thể mới. Rất thông minh, sắc sảo và thực tế. Sau biến cố đảo chính và trận chiến với Shun (Chương phụ K1), phần linh hồn nam tính của kiếp trước (Ooshima Kanata) đã hoàn toàn tan biến khi cô được Shun cứu mạng, khiến cô chính thức chấp nhận bản sắc nữ giới và tình cảm dành cho Shun dưới tư cách Karnatia Seri Anabald.
+> Kiếp trước là bạn thân của Shun. Tái sinh dưới hình dạng tiểu thư quý tộc xinh đẹp nhưng ban đầu linh hồn vẫn mang bản sắc nam giới. Cô từng mâu thuẫn sâu sắc giữa bản sắc giới tính cũ và cơ thể mới. Rất thông minh, sắc sảo và thực tế. Sau biến cố đảo chính và trận chiến với Shun (Chương phụ K1), phần linh hồn nam tính của kiếp trước (Ooshima Kanata) đã hoàn toàn tan biến khi cô được Shun cứu mạng, khiến cô chính thức chấp nhận bản sắc nữ giới và tình cảm dành cho Shun dưới tư cách Karnatia Seri Anabald.<br><br>*Sự kiện Volume 16:* Trong Chương 19, Katia quyết định dùng kỹ năng độc quyền `[Hoán Chuyển]` (Conversion) để đổi hầu hết các kỹ năng lấy điểm kỹ năng nhằm mua kỹ năng thống trị `[Trinh Tiết]` (Chastity) và nhận danh hiệu `[Kẻ Thống Trị Trinh Tiết]`. Cô chấp nhận việc giảm chỉ số để đóng vai trò người đỡ đòn ("tanker") bảo vệ Shun bằng kết giới của mình.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Khi ở nơi công cộng: thanh lịch, quý phái. Khi nói chuyện riêng với Shun: xuề xòa, thân mật như hai thằng con trai.
@@ -182,7 +182,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 
 **Tính cách tổng quát:**
 > Là người bạn thân thiết lâu năm của Julius. Anh là một người thực tế, thẳng thắn, cởi mở, hay nói đùa để giảm bớt căng thẳng nhưng trong trận chiến là một người vô cùng đáng tin cậy. Mang gánh nặng tội lỗi của người duy nhất sống sót, anh quyết định bảo vệ Shun thay cho Julius.
-> *Sự kiện Volume 16:* Tại Mê cung Lớn Elroe, anh đại diện dẫn nhóm của Shun đi gặp Wrath và cưỡi Greater Taratect vượt mê cung. Trên đường đi, anh trò chuyện trấn an tinh thần cô Oka, thảo luận với Ronandt về phép dịch chuyển, kiểm tra sức khỏe của Dustin và Balto, đồng thời đối thoại riêng với Natsume (Hugo) để thấu hiểu sự bất lực và số phận của những người chuyển sinh. Trong Chương 18, sau khi cùng cả nhóm dịch chuyển đến chỗ Tà thần D tại lõi hệ thống và chuẩn bị chiến đấu trong màn chơi phụ thử thách của D, Hyrince đã lao ra đẩy Shun tránh đòn tấn công bất ngờ của D và bị D đâm thủng tim, tử trận ngay tại chỗ.
+> *Sự kiện Volume 16:* Tại Mê cung Lớn Elroe, anh đại diện dẫn nhóm của Shun đi gặp Wrath và cưỡi Greater Taratect vượt mê cung. Trên đường đi, anh trò chuyện trấn an tinh thần cô Oka, thảo luận với Ronandt về phép dịch chuyển, kiểm tra sức khỏe của Dustin và Balto, đồng thời đối thoại riêng với Natsume (Hugo) để thấu hiểu sự bất lực và số phận của những người chuyển sinh. Trong Chương 18, sau khi cùng cả nhóm dịch chuyển đến chỗ Tà thần D tại lõi hệ thống và chuẩn bị chiến đấu trong màn chơi phụ thử thách của D, Hyrince đã lao ra đẩy Shun tránh đòn tấn công bất ngờ của D và bị D đâm thủng tim, tử trận ngay tại chỗ. Trong Chương 19, Hyrince được Shun hồi sinh bằng kỹ năng `[Từ Bi]` và nhanh chóng triệu hồi ba thủ lĩnh rồng: Phong Long Hyuvan, Băng Long Nia và Hắc Long Reise để trợ chiến trước khi cạn kiệt MP.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Bình dân, thoải mái, thân mật.
@@ -364,7 +364,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 **Tính cách tổng quát:**
 > Rất thông minh và có thiên phú ma pháp cao. Sở hữu tình cảm chiếm hữu mãnh liệt (yandere) đối với hoàng huynh (Shun) của mình, coi anh trai là tất cả và sẵn sàng thù địch hoặc ghen tị với bất kỳ ai tiếp cận anh. Trông có vẻ ngoan ngoãn dịu dàng trước mặt Shun, nhưng lại rất kiêu kỳ và lạnh lùng với người ngoài. Chấp nhận mang tiếng phản bội và làm tay sai cho Ma Vương để giữ mạng sống cho Shun.
 > *Sự kiện Volume 13:* Nhận lời đề nghị/đe dọa từ White, làm việc cho White để bảo vệ an toàn cho Shun. Đồng ý để Natsume tẩy não bằng kỹ năng `[Ái Dục]` nhằm tạo cớ hợp thức hóa hành động của mình, che giấu sự hợp tác và gián tiếp ám sát phụ hoàng theo kế hoạch của White.
-> *Sự kiện Volume 15:* Trong Chương S5, sau khi tỉnh lại từ Nhiệm vụ Thế giới, Sue bộc lộ trực tiếp tình cảm yandere muốn lột đồ và kết hôn với Shun trên giường. Khi bị Shun từ chối tình cảm nam nữ nhưng hứa sẽ luôn ở bên cô với tư cách người anh trai, Sue khóc nức nở (dù sau đó giả vờ khóc để tiếp tục được Shun xoa đầu dỗ dành), ngầm chấp nhận mối quan hệ anh em nhưng vẫn duy trì tính cách ám ảnh chiếm hữu đặc trưng.
+> *Sự kiện Volume 15:* Trong Chương S5, sau khi tỉnh lại từ Nhiệm vụ Thế giới, Sue bộc lộ trực tiếp tình cảm yandere muốn lột đồ và kết hôn với Shun trên giường. Khi bị Shun từ chối tình cảm nam nữ nhưng hứa sẽ luôn ở bên cô với tư cách người anh trai, Sue khóc nức nở (dù sau đó giả vờ khóc để tiếp tục được Shun xoa đầu dỗ dành), ngầm chấp nhận mối quan hệ anh em nhưng vẫn duy trì tính cách ám ảnh chiếm hữu đặc trưng.<br><br>*Sự kiện Volume 16:* Trong Chương 19, được Quang Long Byaku quấn lấy cánh tay truyền thêm sức mạnh gia tăng chỉ số lên mức hàng chục ngàn, cô lập tức thích ứng nhanh chóng và xông lên tấn công Wakaba để giảm bớt gánh nặng cho Shun.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: 
@@ -1718,7 +1718,7 @@ Khi mô tả văn phong một nhân vật, cần ghi rõ:
 | **Xuất hiện** | Volume 11 Chương J12 |
 
 **Tính cách tổng quát & Sự kiện:**
-> Là một con rồng nhỏ màu trắng tinh khiết bảo vệ Thánh Kiếm Anh Hùng dưới hầm lâu đài Analeit. Mặc dù nhỏ bé nhưng sở hữu sức mạnh vô cùng to lớn. Ông rất có hứng thú trước lý tưởng của Julius và tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và chờ đợi thời khắc Julius cần đến.<br>*Sự kiện Volume 16:* Trong Chương 17, Ariel gọi ông ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu.
+> Là một con rồng nhỏ màu trắng tinh khiết bảo vệ Thánh Kiếm Anh Hùng dưới hầm lâu đài Analeit. Mặc dù nhỏ bé nhưng sở hữu sức mạnh vô cùng to lớn. Ông rất có hứng thú trước lý tưởng của Julius và tự nguyện dung hợp vào thanh kiếm, phong ấn sức mạnh của mình và chờ đợi thời khắc Julius cần đến.<br>*Sự kiện Volume 16:* Trong Chương 17, Ariel gọi ông ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu. Trong Chương 19, nhận thấy quyết tâm chiến đấu của Shun, Byaku tháo khỏi tay Shun và quấn lấy tay Sue để cho cô mượn sức mạnh của mình, giúp cô tăng mạnh chỉ số lên mức hàng chục ngàn và hỗ trợ cô sử dụng ma pháp trị liệu.
 
 **Văn phong nói chuyện:**
 - **Ngôn ngữ**: Sử dụng [Thần giao cách cảm] để đối thoại. Tông giọng mang tính cổ xưa, trang trọng và tôn quý.

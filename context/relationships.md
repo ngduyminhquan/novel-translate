@@ -55,7 +55,7 @@ graph TD
 | **Katia gọi Shun** | Shun |
 | **Shun xưng** | Tôi / Tớ / Tao (khi nói chuyện thân mật riêng tư) |
 | **Katia xưng** | Tôi / Tớ / Tao (do kiếp trước là nam nên khi nói riêng tư vẫn xưng hô thô lỗ như bạn thân) |
-| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối; tình cảm nữ tính của Katia bắt đầu trỗi dậy và chấp nhận sâu sắc sau khi được Shun cứu mạng (đặc biệt là sau khi được cậu dùng [Từ Bi] hồi sinh khi cô tự sát bằng vụ nổ để thoát khỏi sự tẩy não trong Tập 13). |
+| **Trạng thái** | Thân thiết, tin tưởng tuyệt đối; tình cảm nữ tính của Katia bắt đầu trỗi dậy và chấp nhận sâu sắc sau khi được Shun cứu mạng (đặc biệt là sau khi được cậu dùng `[Từ Bi]` hồi sinh khi cô tự sát bằng vụ nổ để thoát khỏi sự tẩy não trong Tập 13). <br><br>*Sự kiện Volume 16:* Trong Chương 19, Katia quyết định sử dụng kỹ năng độc quyền `[Hoán Chuyển]` (Conversion) để đổi tất cả các kỹ năng lấy điểm kỹ năng nhằm mua kỹ năng thống trị `[Trinh Tiết]` (Chastity) và nhận danh hiệu `[Kẻ Thống Trị Trinh Tiết]`. Cô chấp nhận việc bị giảm chỉ số để đóng vai trò người đỡ đòn ("tanker") bảo vệ Shun bằng kết giới của mình. |
 | **Ghi chú** | Ở nơi công cộng, họ dùng lễ nghi quý tộc (Ta - Các hạ / Hoàng tử - Tiểu thư). Sau sự kiện ở chương phụ K1, phần linh hồn nam tính của Katia hoàn toàn biến mất, khiến cách xưng hô riêng tư và thái độ của cô đối với Shun dần trở nên nữ tính hơn. |
 
 ---
@@ -69,7 +69,7 @@ graph TD
 | **Sue gọi Shun** | Anh trai / Hoàng huynh (Nii-sama) / Anh |
 | **Shun xưng** | Anh / Tôi |
 | **Sue xưng** | Em |
-| **Trạng thái** | Shun yêu quý em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere), coi Shun là cả thế giới. <br><br>*Sự kiện Volume 13:* Để bảo vệ tính mạng cho Shun trước thế lực của Ma Vương, Sue chấp nhận hợp tác với White và để Natsume tẩy não bằng `[Ái Dục]`, giả vờ đóng vai phản diện phản bội anh trai. <br><br>*Sự kiện Volume 15:* Trong Chương S5, sau khi tỉnh lại từ Nhiệm vụ Thế giới, Sue bộc lộ hoàn toàn tình cảm nam nữ cực đoan của mình với Shun. Shun thẳng thắn từ chối tình cảm đó nhưng hứa sẽ luôn ở bên cô với tư cách là anh trai. Sue bật khóc (một phần giả vờ khóc để được Shun xoa đầu dỗ dành), ngầm thừa nhận mối quan hệ anh em nhưng vẫn giữ sự ám ảnh chiếm hữu đặc trưng. |
+| **Trạng thái** | Shun yêu quý em gái nhưng chịu áp lực lớn từ sự bám dính của cô; Sue yêu thương anh trai đến mức chiếm hữu cực đoan (Yandere), coi Shun là cả thế giới. <br><br>*Sự kiện Volume 13:* Để bảo vệ tính mạng cho Shun trước thế lực của Ma Vương, Sue chấp nhận hợp tác với White và để Natsume tẩy não bằng `[Ái Dục]`, giả vờ đóng vai phản diện phản bội anh trai. <br><br>*Sự kiện Volume 15:* Trong Chương S5, sau khi tỉnh lại từ Nhiệm vụ Thế giới, Sue bộc lộ trực tiếp tình cảm yandere muốn lột đồ và kết hôn với Shun trên giường. Khi bị Shun từ chối tình cảm nam nữ nhưng hứa sẽ luôn ở bên cô với tư cách người anh trai, Sue khóc nức nở (dù sau đó giả vờ khóc để tiếp tục được Shun xoa đầu dỗ dành), ngầm chấp nhận mối quan hệ anh em nhưng vẫn duy trì tính cách ám ảnh chiếm hữu đặc trưng. <br><br>*Sự kiện Volume 16:* Trong Chương 19, được Quang Long Byaku quấn lấy cánh tay truyền thêm sức mạnh gia tăng chỉ số lên mức hàng chục ngàn, cô lập tức thích ứng nhanh chóng và xông lên tấn công Wakaba để giảm bớt gánh nặng cho Shun. |
 | **Ghi chú** | Sue luôn tỏ ra ghen tị với bất kỳ ai tiếp cận Shun và cố gắng tỏ ra ngoan ngoãn dịu dàng nhất trước mặt Shun. |
 
 ---
@@ -399,7 +399,7 @@ graph TD
 | **Hyrince gọi Shun** | Shun / Nhị hoàng tử Schlain / Hoàng tử Schlain |
 | **Shun xưng** | Tôi |
 | **Hyrince xưng** | Tôi |
-| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới.<br><br>*Sự kiện Volume 16:* Hyrince cùng Anna hội ngộ Shun sau khi chiếc UFO được nhóm Shun giải cứu khỏi bầy quái vật. Tại đây, Hyrince đã tiết lộ cho Shun biết thân phận thực sự của mình là một phân thân của Hắc Thần, đồng thời chia sẻ thông tin chấn động rằng Tà thần thực sự là D chứ không phải Thần sắc ngà, và D sẽ tiêu diệt một nửa nhân loại bất kể kết cục thế nào. Trong Chương 18, khi D mở ra màn chơi phụ thử thách cả nhóm tại lõi hệ thống và bất ngờ ra tay, Hyrince đã lao ra chắn đòn tấn công của D cứu mạng cho Shun và bị D đâm thủng tim, hy sinh ngay tại chỗ. |
+| **Trạng thái** | Tuyệt đối tin cậy; Hyrince đã trở về vương quốc, kể lại tường tận trận chiến cuối cùng của Julius cho Shun nghe và trao lại di vật khăn quàng cổ. Hyrince nguyện làm tấm khiên bảo vệ cho vị Anh hùng mới.<br><br>*Sự kiện Volume 16:* Hyrince cùng Anna hội ngộ Shun sau khi chiếc UFO được nhóm Shun giải cứu khỏi bầy quái vật. Tại đây, Hyrince đã tiết lộ cho Shun biết thân phận thực sự của mình là một phân thân của Hắc Thần, đồng thời chia sẻ thông tin chấn động rằng Tà thần thực sự là D chứ không phải Thần sắc ngà, và D sẽ tiêu diệt một nửa nhân loại bất kể kết cục thế nào. Trong Chương 18, khi D mở ra màn chơi phụ thử thách cả nhóm tại lõi hệ thống và bất ngờ ra tay, Hyrince đã lao ra chắn đòn tấn công của D cứu mạng cho Shun và bị D đâm thủng tim, hy sinh ngay tại chỗ. Trong Chương 19, Hyrince được Shun hồi sinh bằng kỹ năng `[Từ Bi]` và nhanh chóng triệu hồi ba thủ lĩnh rồng: Phong Long Hyuvan, Băng Long Nia và Hắc Long Reise để trợ chiến trước khi cạn kiệt MP. |
 | **Ghi chú** | Quan hệ chuyển từ người quen cũ thành đồng đội chung chí hướng kế thừa ý chí của Julius. |
 
 ---
@@ -2647,7 +2647,7 @@ graph TD
 | **Byaku gọi Schlain** | Cậu / Dũng sĩ đương nhiệm |
 | **Schlain xưng** | Tôi |
 | **Byaku xưng** | Ta |
-| **Trạng thái** | Trong Chương 17 Volume 16, Ariel lôi Byaku ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu. Schlain vô cùng bàng hoàng và ngơ ngác khi đón nhận thanh kiếm cùng người bạn đồng hành thần thánh mới này. |
-| **Ghi chú** | Xuất hiện trong Volume 16 Chương 17. |
+| **Trạng thái** | Trong Chương 17 Volume 16, Ariel lôi Byaku ra khỏi thanh Kiếm Dũng Sĩ và yêu cầu ông bảo vệ dũng sĩ đương nhiệm (Schlain). Byaku tự nguyện quấn lấy cánh tay của Schlain để bảo hộ cậu. Schlain vô cùng bàng hoàng và ngơ ngác khi đón nhận thanh kiếm cùng người bạn đồng hành thần thánh mới này. Trong Chương 19, nhận thấy quyết tâm chiến đấu của Shun, Byaku tháo khỏi tay Shun và quấn lấy tay Sue để cho cô mượn sức mạnh của mình, giúp cô tăng mạnh chỉ số lên mức hàng chục ngàn và hỗ trợ cô sử dụng ma pháp trị liệu. |
+| **Ghi chú** | Xuất hiện trong Volume 16 Chương 17 và Chương 19. |
 
 
