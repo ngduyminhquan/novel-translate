@@ -23,3 +23,7 @@ Cuối cùng, gửi đến người đã tốn bao công sức để đưa cuố
 Nếu tôi vẫn còn sống đến lúc tập 2 ra mắt, hẹn gặp lại mọi người trong phần lời bạt của tập đó nhé.
 
 —Gamei Hitsuji
+
+---
+
+[◀ Chương trước: Epilogue II](06_epilogue_2.md) | [Chương tiếp theo: Ngoại Truyện - Phần 1 ▶](08_bonus_stories_part1.md)

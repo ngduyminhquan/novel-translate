@@ -35,3 +35,7 @@ Suimei biết mình nên cảm thấy biết ơn Quốc vương. Cậu xoay ngư
 "Lão cáo già xảo quyệt này."
 
 Nhưng cái lão già đó hẳn sẽ chẳng bao giờ quên được lời cảm ơn đầy gai góc của cậu.
+
+---
+
+[◀ Chương trước: Chương 4: Vì Mục Tiêu Ta Hướng Đến - Phần 4](04_chapter_4_part4.md) | [Chương tiếp theo: Epilogue II ▶](06_epilogue_2.md)

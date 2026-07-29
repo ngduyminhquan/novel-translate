@@ -40,20 +40,20 @@ Tiến độ: [9/9] phases █████████████████�
 | Phase | Chapter/Đoạn | Trạng thái | Ngày bắt đầu | Ngày hoàn thành | Ghi chú |
 |-------|-------------|------------|--------------|-----------------|---------|
 | 1 | `00_prologue` | ✅ Done | 2026-07-29 | 2026-07-29 | Prologue: The Magician Yakagi Suimei (~1,234 từ) |
-| 2 | `01_chapter_1` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 1: I'm Not Something You Just Summon! (~16,541 từ) |
-| 3 | `02_chapter_2` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 2: The Place I Must Return to Is So Far Away (~19,070 từ) |
-| 4 | `03_chapter_3` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 3: The One Who Seeks Mysteries (~20,913 từ) |
-| 5 | `04_chapter_4` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 4: For That Which I Aspire to Be (~13,433 từ) |
+| 2 | `01_chapter_1_part1` -> `_part5` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 1: I'm Not Something You Just Summon! (~16,541 từ) |
+| 3 | `02_chapter_2_part1` -> `_part5` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 2: The Place I Must Return to Is So Far Away (~19,070 từ) |
+| 4 | `03_chapter_3_part1` -> `_part5` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 3: The One Who Seeks Mysteries (~20,913 từ) |
+| 5 | `04_chapter_4_part1` -> `_part4` | ✅ Done | 2026-07-29 | 2026-07-29 | Chapter 4: For That Which I Aspire to Be (~13,433 từ) |
 | 6 | `05_epilogue_1` | ✅ Done | 2026-07-29 | 2026-07-29 | Epilogue I (~862 từ) |
 | 7 | `06_epilogue_2` | ✅ Done | 2026-07-29 | 2026-07-29 | Epilogue II (~652 từ) |
 | 8 | `07_afterword` | ✅ Done | 2026-07-29 | 2026-07-29 | Afterword (~586 từ) |
-| 9 | `08_bonus_stories` | ✅ Done | 2026-07-29 | 2026-07-29 | Bonus Short Stories (~8,331 từ) |
+| 9 | `08_bonus_stories_part1` -> `_part3` | ✅ Done | 2026-07-29 | 2026-07-29 | Bonus Short Stories (~8,331 từ) |
 
 ---
 
 ## Nhật Ký Dịch
 
-### 2026-07-29 - Phase 9: Bonus Short Stories (08_bonus_stories)
+### 2026-07-29 - Phase 9: Bonus Short Stories (08_bonus_stories_part1 -> part3)
 
 - **Đoạn dịch**: Bonus Short Stories (~8,331 từ)
 - **Thuật ngữ mới**: 4 (Liturgical reduction / Giảm lược thuật thức, White Flame Hyacinth / Bạch Hoả Huệ Lan, Blitz Shot / Bộc Lôi Thương, Dancing Lights / Vũ Hoàn Quang)
@@ -104,7 +104,7 @@ Tiến độ: [9/9] phases █████████████████�
   - Khắc họa tâm lý thực tế, tính toán đề phòng nhưng vẫn sâu sắc và thực tế của Suimei khi nhận tiền hỗ trợ cùng thư xin lỗi từ Quốc vương Almadious qua tay Tể tướng Gless.
   - Bổ sung `Adventurer's Guild` (Hiệp hội Phiêu lưu giả) vào `context/glossary.md`.
 
-### 2026-07-29 - Phase 5: Chapter 4 (04_chapter_4)
+### 2026-07-29 - Phase 5: Chapter 4 (04_chapter_4_part1 -> part4)
 
 - **Đoạn dịch**: Chapter 4: For That Which I Aspire to Be (~13,433 từ)
 - **Thuật ngữ mới**: 5 (Herbal Magicka / Ma thuật Thảo mộc, Apparition / Biến thể Hoàng hôn / Ma thú Khải huyền, Flight Magicka / Ma thuật Phi hành, Azure Engraved Beheading / Thương Không Trảm, Akashic Records / Hồ Sơ Akashic)
@@ -118,7 +118,7 @@ Tiến độ: [9/9] phases █████████████████�
   - Chèn 2 hình ảnh minh họa chương (`ch04_illustration_01.jpg` và `ch04_illustration_02.jpg`) chuẩn định dạng.
   - Đồng bộ hóa toàn bộ thuật ngữ, nhân vật và mối quan hệ mới vào `context/glossary.md`, `context/characters.md`, `context/relationships.md`.
 
-### 2026-07-29 - Phase 4: Chapter 3 (03_chapter_3)
+### 2026-07-29 - Phase 4: Chapter 3 (03_chapter_3_part1 -> part5)
 
 - **Đoạn dịch**: Chapter 3: The One Who Seeks Mysteries (~20,913 từ)
 - **Thuật ngữ mới**: 7 (Phantom Road / Con đường Ảo ảnh, Complex Number Space / Không gian số phức, Archiatius Overload, Starfall / Mưa Sao Băng, Truth Flare / Chân Lý Bộc Hỏa, Stone Raid / Nham Thạch Thối, Mercurial Arm / Katana Thủy Ngân / Roi Thủy Ngân)
@@ -132,7 +132,7 @@ Tiến độ: [9/9] phases █████████████████�
   - Chèn chính xác 2 hình ảnh minh họa chương (`ch03_illustration_01.jpg` và `ch03_illustration_02.jpg`).
   - Cập nhật đầy đủ thuật ngữ, danh mục địa danh và quan hệ mới vào `context/glossary.md`, `context/characters.md`, `context/relationships.md`.
 
-### 2026-07-29 - Phase 3: Chapter 2 (02_chapter_2)
+### 2026-07-29 - Phase 3: Chapter 2 (02_chapter_2_part1 -> part5)
 
 - **Đoạn dịch**: Chapter 2: The Place I Must Return to Is So Far Away (~19,070 từ)
 - **Thuật ngữ mới**: 5 (Burn Boost / Bộc Hỏa Gia Tốc, Attribute Master / Bậc Thầy Thuộc Tính, Elemental Emperor / Nguyên Tố Đế, Slamas Armor / Giáp Slamas, Renovato atque restituito, Nữ thần Alshuna)
@@ -145,7 +145,7 @@ Tiến độ: [9/9] phases █████████████████�
   - Thể hiện sự sâu sắc trong tâm mạt Suimei khi quyết tâm tự giải mã đại ma thuật để đưa bạn bè về Trái Đất.
   - Đồng bộ hóa toàn bộ thuật ngữ và thông tin mới vào `context/glossary.md`, `context/characters.md`, `context/relationships.md`.
 
-### 2026-07-29 - Phase 2: Chapter 1 (01_chapter_1)
+### 2026-07-29 - Phase 2: Chapter 1 (01_chapter_1_part1 -> part5)
 
 - **Đoạn dịch**: Chapter 1: I'm Not Something You Just Summon! (~16,541 từ)
 - **Thuật ngữ mới**: 4 (Vương quốc Noshias / Kingdom of Noshias, Giáo hội Cứu Thế / Church of Salvation, Rock Ridge, Flare)

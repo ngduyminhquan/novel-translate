@@ -55,3 +55,7 @@ Felmenia hỏi cậu ta câu đó bằng một giọng nói run rẩy. Chàng th
 "Ma đạo sĩ Suimei Yakagi."
 
 Đó là lần đầu tiên cậu ta giới thiệu bản thân một cách đàng hoàng.
+
+---
+
+[Chương tiếp theo: Chương 1: Ta Đâu Phải Thứ Muốn Triệu Hồi Là Triệu Hồi! - Phần 1 ▶](01_chapter_1_part1.md)

@@ -41,3 +41,7 @@ Và nếu điều đó xảy ra, cô biết phải làm sao với những cảm 
 "Ư-, không được! Đừng nghĩ vẩn ơ nữa, Felmenia! Ưu tiên hàng đầu của chúng ta là phải giúp đỡ ngài Suimei! Những chuyện khác tính sau đi!"
 
 Felmenia thừa hiểu bản thân lúc này chỉ đang cố tình trốn tránh suy nghĩ về điều đó. Dù trong lòng có cuộn sóng thế nào đi nữa, cô biết mình tuyệt đối không thể vứt bỏ đạo đức và lương tâm của mình.
+
+---
+
+[◀ Chương trước: Epilogue I](05_epilogue_1.md) | [Chương tiếp theo: Lời Bạt ▶](07_afterword.md)
