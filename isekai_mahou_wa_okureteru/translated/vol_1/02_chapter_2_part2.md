@@ -1,8 +1,8 @@
-"Chuyện đó và chuyện này là hai việc khác nhau. Ngoài ra, để cô đi lại với khuôn mặt như thế sẽ là một sự lãng phí đối với khuôn mặt dễ thương của cô đấy. Ít nhất tôi cũng phải lau sạch vết bẩn chứ."
+"Chuyện đó và chuyện này là hai việc khác nhau. Ngoài ra, để cô đi lại với khuôn mặt như thế sẽ là một sự lãng phí đối với khuôn mặt dễ thương của cô đấy. Ít nhất tôi cũng phải lau sạch vết nhọ chứ."
 
 "?!"
 
-Khoảnh khắc Suimei thản nhiên thốt ra những lời đó, Felmenia đột nhiên đứng thẳng tắp như thể có một cây cọc vừa đâm xuyên qua lưng cô và hoàn toàn đơ cứng.
+Khoảnh khắc Suimei thản nhiên thốt ra những lời đó, Felmenia đột nhiên đứng thẳng tắp như thể có một thanh cọc vừa đâm dọc sống lưng cô và hoàn toàn đơ cứng.
 
 "Hửm? Sao thế?"
 
@@ -14,23 +14,23 @@ Khoảnh khắc Suimei thản nhiên thốt ra những lời đó, Felmenia đ�
 
 "Nàyyyyy?"
 
-Trước khi Suimei kịp nhận ra, Felmenia đã thả hồn đi đâu mất. Cậu vẫy tay trước đôi mắt trống rỗng của cô, và phải mất vài khoảnh khắc cô mới giật mình trở lại thực tại.
+Trước khi Suimei kịp nhận ra, Felmenia đã thả hồn đi đâu mất. Cậu vẫy tay trước đôi mắt trống rỗng của cô, và phải mất vài giây cô mới bừng tỉnh trở lại thực tại.
 
-"Hả? Á! Th-Th-Thế là đủ rồi! Tôi có việc phải xử lý, nên xin phép...!"
+"Hả? Kya! Th-Th-Thế là quá đủ rồi! Tôi có việc phải xử lý, nên xin phép...!"
 
-Khuôn mặt Felmenia chuyển từ đỏ bừng sang đỏ gay gắt. Thật sự không quá lời khi so sánh mặt cô với một quả táo hoặc quả cà chua. Tuy nhiên, sau khi quay lưng bỏ đi một đoạn, cô dừng lại và quay đầu lại với sự cuồng nhiệt tột độ.
+Khuôn mặt Felmenia chuyển từ đỏ bừng sang đỏ gay. Thật sự không quá lời khi so sánh mặt cô với một quả táo hoặc quả cà chua. Tuy nhiên, sau khi quay lưng bỏ đi một đoạn, cô dừng lại và xoay phắt người lại một cách đầy quyết liệt.
 
 "T-Tôi xin rút lại những gì tôi đã nói trước đó!"
 
 "Gì cơ?"
 
-"Về việc gọi một tên khốn như ngài là ngu ngốc! V-V-V-Và ngài có thể đến cái phòng ngu ngốc của ngài bằng cách đi theo hành lang này qua khúc ngoặt, và... Áa, sau đó cứ bắt lấy ai đó mà hỏi! Nhưng hãy nhớ lấy điều này, Suimei Yakagi! Một ngày nào đó, tôi sẽ trả lại sự sỉ nhục này gấp hàng triệu lần, ngài nghe rõ chưa?! Đừng có quên đấy! Đừng có dám quên— Ái?!"
+"Về việc gọi một kẻ đáng khinh như ngài là ngu ngốc! V-V-V-Và ngài có thể đến cái phòng ngu ngốc của ngài bằng cách đi theo hành lang này qua khúc ngoặt, và... Áa, sau đó cứ bắt lấy ai đó mà hỏi! Nhưng hãy nhớ lấy điều này, Suimei Yakagi! Một ngày nào đó, tôi sẽ bắt ngài trả giá gấp hàng triệu lần cho mối nhục này, ngài nghe rõ chưa?! Đừng có quên đấy! Đừng có dám quên— Ối?!"
 
 Mặc dù đang đứng yên, cô lại vẫy tay dữ dội khi gào lên đến mức chới với về phía trước như một con cá mắc câu. Đúng vậy, Felmenia lại ngã nhào một lần nữa. Có vẻ như vấp ngã là tuyệt kỹ đặc trưng của cô.
 
 "Chuyện quái gì đang xảy ra thế...?"
 
-Trong khi nhìn cô lảo đảo đứng dậy và lao dồn dập xuống hành lang, Suimei rì rầm một mình. Tuy nhiên, Felmenia vẫn gào thét hết gân cổ ngay cả khi đã biến mất vào khoảng không xa xăm. Hình ảnh về một Felmenia Stingray, một cô gái lạnh lùng với trái tim công chính và kiên định, đã hoàn toàn vỡ vụn. Trong góc khuất tâm trí cậu, cậu giờ đây xếp cô vào danh mục "cô nàng đậu hũ vụng về".
+Trong khi nhìn cô lảo đảo đứng dậy và lao nhanh xuống hành lang, Suimei lầm bầm tự nhủ. Tuy nhiên, Felmenia vẫn gào thét vang trời ngay cả khi đã biến mất vào khoảng không xa xăm. Hình ảnh về một Felmenia Stingray, một cô gái lạnh lùng với trái tim công chính và kiên định, đã hoàn toàn vỡ vụn. Trong góc khuất tâm trí cậu, cậu giờ đây xếp cô vào danh mục "cô nàng hậu đậu".
 
 "...Kệ đi. Đến lúc mình phải đi rồi."
 
@@ -38,25 +38,25 @@ Và thế là, hành trình tìm phòng của Suimei lại tiếp tục.
 
 ***
 
-Ngoại trừ cuộc chạm trán bất ngờ với Felmenia, Suimei đã an toàn trở về phòng mình từ gian phòng nghi lễ mà không gặp thêm rắc rối nào. Nhưng cậu không có nhiều thời gian để xả hơi.
+Ngoại trừ cuộc chạm trán bất ngờ với Felmenia, Suimei đã an toàn trở về phòng mình từ gian phòng nghi lễ mà không gặp thêm rắc rối nào. Nhưng cậu không có nhiều thời gian để nghỉ ngơi.
 
 "Hừm..."
 
 Suimei phát hiện ra tiếng bước chân và sự hiện diện của ma lực đang tiến về phía phòng mình. Sau lần đụng độ vừa rồi, Suimei định bụng chỉ thư giãn trong phòng một lúc, nhưng điều này khiến cậu phải cảnh giác. Cậu tập trung tinh thần và chuyển sự chú ý đến sự hiện diện đang tiến lại gần.
 
-Đó có khả năng là khách đến thăm phòng cậu. Bất kể là ai, người đó đang đi thẳng tới cửa phòng cậu mà không chút do dự. Tập trung vào tần số ma lực của họ, Suimei có thể phân tích nó thành ba bước sóng mà cậu nhận ra. Đó là người bạn của cậu, người đang ngày càng trở nên mạnh mẽ hơn qua từng ngày, Reiji, cùng với hai người khác. Một trong số đó, người mê mẩn cậu ấy và làm cố vấn cho cậu ấy suốt ngày đêm, là Titania. Người còn lại là Mizuki, người bám lấy Reiji thậm chí còn nhiều hơn trước nhờ sự xuất hiện của Titania.
+Đó có khả năng là khách đến thăm phòng cậu. Bất kể là ai, người đó đang đi thẳng tới cửa phòng cậu mà không chút do dự. Tập trung vào luồng ma lực của họ, Suimei có thể phân tích nó thành ba bước sóng mà cậu nhận ra. Đó là người bạn của cậu, người đang ngày càng trở nên mạnh mẽ hơn qua từng ngày, Reiji, cùng với hai người khác. Một trong số đó là Titania, người đang say đắm Reiji và đóng vai trò cố vấn cho cậu ấy suốt ngày đêm. Người còn lại là Mizuki, người bám lấy Reiji thậm chí còn nhiều hơn trước nhờ sự xuất hiện của Titania.
 
 Khoảnh khắc cảm nhận được họ, Suimei gom tất cả sách vở và vật phẩm ma thuật trên bàn lại, dùng ma thuật ẩn giấu chúng mà không để lại một dấu vết nào.
 
-Sau sự cố ở phòng diện kiến, người trong lâu đài tin rằng Suimei đã tự nhốt mình trong phòng và chỉ đang hờn dỗi trên giường. Felmenia cũng đã thể hiện rằng cô có ấn tượng đó, và dĩ nhiên Reiji cùng những người khác cũng không ngoại lệ.
+Sau sự cố ở phòng diện kiến, mọi người trong lâu đài tin rằng Suimei đã tự nhốt mình trong phòng và chỉ đang hờn dỗi trên giường. Felmenia cũng thể hiện rằng cô có ấn tượng đó, và dĩ nhiên Reiji cùng những người khác cũng không ngoại lệ.
 
-Nếu Suimei tiếp xúc với mọi người, khả năng danh tính của cậu bị phát hiện sẽ chỉ tăng lên. Để ngăn chặn điều đó, cậu đã giả vờ tự cô lập bản thân và đảm bảo không tương tác với bất kỳ ai khi không thực sự cần thiết. Cậu đã đi đến những mức độ đó tất cả chỉ để che giấu thực tế rằng cậu là một ma đạo sĩ.
+Nếu Suimei tiếp xúc với mọi người, khả năng danh tính của cậu bị phát hiện sẽ chỉ tăng lên. Để ngăn chặn điều đó, cậu đã giả vờ tự cô lập bản thân và đảm bảo không tương tác với bất kỳ ai khi không thực sự cần thiết. Cậu đã tốn không ít công sức như vậy chỉ để che giấu thực tế rằng cậu là một ma đạo sĩ.
 
 Với tư cách là khách của lâu đài, tất cả các bữa ăn của cậu đều được mang đến tận phòng. Những lần duy nhất cậu rời khỏi phòng là để kiểm tra Reiji và Mizuki, đến thư viện của lâu đài, hoặc điều tra gian phòng nghi lễ, và những hoạt động đó đều được tiến hành bí mật. Ngoại trừ điều đó và việc đi vệ sinh, cậu đều ở trong phòng.
 
 Điều đó sẽ làm giảm cơ hội cậu bị phát hiện. Cậu không muốn bị lợi dụng bởi những kẻ nhắm vào sức mạnh của mình, và cậu vẫn kháng cự lại ý nghĩ để Reiji và Mizuki biết bí mật của mình. Thêm vào đó, việc trốn trong phòng cho cậu sự riêng tư và thời gian rảnh rỗi để nghiên cứu và điều tra mọi thứ.
 
-Nhưng đối với mỗi ngày cậu trải qua trong gian phòng nhốt kín của mình, người trong lâu đài lại càng coi thường cậu hơn. Dù là vì sự hèn nhát của cậu khi từ chối nhiệm vụ cùng Dũng sĩ, sự nhỏ mọn của cậu khi tự nhốt mình trong phòng, hay sự thô lỗ của cậu vì màn náo loạn gây ra ở phòng diện kiến, không ai có một từ ngữ tốt đẹp nào dành cho cậu. Ngoại trừ nhà vua và Titania, toàn bộ gia nhân trong lâu đài đều nhanh chóng thốt ra những lời độc địa về hành vi của cậu.
+Nhưng mỗi ngày trôi qua trong căn phòng khép kín của mình, mọi người trong lâu đài lại càng coi thường cậu hơn. Dù là vì sự hèn nhát của cậu khi từ chối nhiệm vụ cùng Dũng sĩ, sự nhỏ mọn của cậu khi tự nhốt mình trong phòng, hay sự vô lễ của cậu vì màn náo loạn gây ra ở phòng diện kiến, không ai có một từ ngữ tốt đẹp nào dành cho cậu. Ngoại trừ nhà vua và Titania, hầu hết gia nhân trong lâu đài đều nhanh chóng thốt ra những lời cay độc về hành vi của cậu.
 
 Đối với Suimei, đây chỉ là một lớp vỏ bọc, nên cậu không thực sự quan tâm đến những gì họ nghĩ. Trên thực tế, họ càng không muốn dính dáng đến cậu thì càng tốt.
 
@@ -70,7 +70,7 @@ Suy ngẫm về điều đó, Suimei chui vào giường như thể đang hờn 
 
 "Xin lỗi nhé. Tớ cũng vào đây."
 
-Chờ cho đến khi họ bước vào phòng, Suimei chậm rãi bước ra khỏi giường. Chờ mọi người ngồi vào chỗ như thường lệ, Suimei mở lời trò chuyện với Reiji.
+Đợi cho đến khi họ bước vào phòng, Suimei chậm rãi bước ra khỏi giường. Sau khi mọi người đã ổn định chỗ ngồi như thường lệ, Suimei mở lời trò chuyện với Reiji.
 
 "Sao rồi? Hôm nay có chuyện gì thế?"
 
@@ -88,9 +88,9 @@ Reiji cười như thể để giấu đi sự bối rối, và Suimei gật đ�
 
 "Thế sao? Cho tớ xem đi."
 
-Ra là vậy sao? Reiji chỉ đơn giản là hào hứng vì đã học được một ma pháp mới? Suimei có thể thấu hiểu điều đó khá rõ. Dệt nên một thuật thức ma thuật mới và sau đó đưa nó vào sử dụng lần đầu tiên là một cảm giác phấn khích không gì sánh bằng.
+Ra là vậy sao? Reiji chỉ đơn giản là hào hứng vì đã học được một ma pháp mới? Suimei có thể thấu hiểu điều đó khá rõ. Dệt nên một thuật thức ma pháp mới và sau đó đưa nó vào sử dụng lần đầu tiên là một cảm giác phấn khích không gì sánh bằng.
 
-Reiji bắt đầu xoay các khớp xương và thả lỏng cơ bắp. Đây là ma pháp tăng cường cơ thể. Nếu nó không được sử dụng cùng với ma pháp ổn định cơ thể, nó có thể nguy hiểm. Những sự chuẩn bị như vậy là một vấn đề nghiêm túc.
+Reiji bắt đầu xoay các khớp xương và thả lỏng cơ bắp. Đây là ma pháp cường hóa cơ thể. Nếu nó không được sử dụng cùng với ma pháp ổn định cơ thể, nó có thể nguy hiểm. Những sự chuẩn bị như vậy là một vấn đề nghiêm túc.
 
 "Tớ bắt đầu đây."
 
@@ -98,19 +98,19 @@ Nói rồi, Reiji lan tỏa ma lực ra khắp cơ thể mình. Phép thuật h�
 
 "Burn Boost!" (Bộc Hỏa Gia Tốc!)
 
-Reiji sau đó xướng tên phép thuật thực sự của mình, và những ngọn lửa sinh ra từ những từ ngữ đó cuộn chặt quanh cơ thể cậu. Nhờ sự kích hoạt của cậu, khả năng thể chất của Reiji đã được tăng cường. Ngay lúc này, cơ thể cậu đang tràn ngập một sức mạnh mãnh liệt trên cả sức mạnh mà cậu nhận được từ việc triệu hồi Dũng sĩ.
+Reiji sau đó xướng tên ma pháp thực sự của mình, và những ngọn lửa sinh ra từ những từ ngữ đó cuộn chặt quanh cơ thể cậu. Nhờ lời xướng của cậu, khả năng thể chất của Reiji đã được tăng cường. Ngay lúc này, cơ thể cậu đang tràn ngập một sức mạnh mãnh liệt trên cả sức mạnh mà cậu nhận được từ việc triệu hồi Dũng sĩ.
 
 "Ồốô!"
 
-Suimei Yakagi, một ma đạo sĩ từ trong bản chất, không thể không ngưỡng mộ màn trình diễn của Reiji. Việc cậu ấy sử dụng ma thuật vừa rồi thật tuyệt vời. Từ việc tối ưu hóa ma lực đến cách cậu ấy chuẩn bị phép thuật, cho đến từng chi tiết nhỏ nhặt trong việc kích hoạt nó, đó là một màn hiển thị tráng lệ. Để tóm tắt nó trong một từ, đó là bậc thầy. Dĩ nhiên, đó không phải là một phép thuật đặc biệt phức tạp hay cấp cao, nhưng đối với một người chỉ mới nghiên cứu ma pháp trong hai tuần, màn trình diễn mẫu mực của cậu ấy về các nguyên lý cơ bản thực sự đáng được khen ngợi. Suimei không tìm thấy bất kỳ lỗi sai nào trong đó.
+Suimei Yakagi, một ma đạo sĩ thực thụ trong tâm thức, không thể không ngưỡng mộ màn trình diễn của Reiji. Việc cậu ấy sử dụng ma pháp vừa rồi thật tuyệt vời. Từ việc tối ưu hóa ma lực đến cách cậu ấy chuẩn bị ma pháp, cho đến từng chi tiết nhỏ nhặt trong việc kích hoạt nó, đó là một màn hiển thị tráng lệ. Để tóm tắt nó trong một từ, đó là điêu luyện. Dĩ nhiên, đó không phải là một ma pháp đặc biệt phức tạp hay cấp cao, nhưng đối với một người chỉ mới nghiên cứu ma pháp trong hai tuần, màn trình diễn mẫu mực của cậu ấy về các nguyên lý cơ bản thực sự đáng được khen ngợi. Suimei không tìm thấy bất kỳ lỗi sai nào trong đó.
 
-Cậu ấy đã thi triển ma pháp tăng cường cơ thể thuộc tính Lửa, vì vậy ngoài việc cải thiện tổng thể khả năng thể chất, nó còn mang lại cho cậu ấy sự gia tăng sức mạnh bùng nổ. Theo cách tương tự, sử dụng thuộc tính Phong sẽ gia tăng đáng kể tốc độ, thuộc tính Thủy gia tăng sự linh hoạt, và thuộc tính Thổ gia tăng thể trạng. Trong khi Suimei suy nghĩ về sự tăng cường cơ thể của Reiji và bắt đầu phân tích các tác động tiềm năng của các thuộc tính khác, Titania tiến lại gần Reiji với ánh mắt say đắm.
+Cậu ấy đã thi triển ma pháp cường hóa cơ thể thuộc tính Lửa, vì vậy ngoài việc cải thiện tổng thể khả năng thể chất, nó còn mang lại cho cậu ấy sự gia tăng sức mạnh bùng nổ. Theo cách tương tự, sử dụng thuộc tính Phong sẽ gia tăng đáng kể tốc độ, thuộc tính Thủy gia tăng sự linh hoạt, và thuộc tính Thổ gia tăng thể trạng. Trong khi Suimei suy nghĩ về sự cường hóa cơ thể của Reiji và bắt đầu phân tích các hiệu ứng tiềm năng của các thuộc tính khác, Titania tiến lại gần Reiji với ánh mắt say đắm.
 
 "Đúng là Reiji-sama. Thật sự xuất sắc..."
 
 "Áhaha, cảm ơn cô, Tia."
 
-Reiji cảm ơn Titania, người đang mỉm cười rạng rỡ với cậu. Cậu dường như đã đủ thân thiết với cô ấy để gọi bằng biệt danh. Nghe vậy, Mizuki nhìn Titania với nét mặt có phần hờn dỗi.
+Reiji cảm ơn Titania, người đang mỉm cười rạng rỡ với cậu. Cậu dường như đã đủ thân thiết với cô ấy để gọi cô bằng tên thân mật. Nghe vậy, Mizuki nhìn Titania với nét mặt có phần hờn dỗi.
 
 "Này, Tia, không phải cô đang ở quá gần sao?"
 
@@ -120,25 +120,25 @@ Reiji cảm ơn Titania, người đang mỉm cười rạng rỡ với cậu. C
 
 "Điều đó hoàn toàn không đúng đâu, Mizuki. Cô luôn ở gần Reiji-sama một cách không cần thiết. Thật bất công."
 
-Mặc dù ma pháp tăng cường cơ thể của Reiji được cho là ngôi sao của buổi diễn, các cô gái dường như lại quan tâm hơn đến sự chú ý của cậu ấy. Những tia lửa điện đang bùng lên giữa họ khi họ lườm nhau. Suimei đã chịu đựng quá đủ rồi.
+Mặc dù ma pháp cường hóa cơ thể của Reiji được cho là ngôi sao của buổi diễn, các cô gái dường như lại quan tâm hơn đến việc tranh giành sự chú ý của cậu ấy. Những tia lửa vô hình đang tóe lên giữa hai người khi họ lườm nhau. Suimei đã chịu đựng quá đủ rồi.
 
-"Mấy tên như cậu thì nên... Ý tớ là... Phép thuật đó khá ngầu đấy, Reiji?"
+"Mấy tên như cậu... Mà thôi... Ma pháp đó khá ngầu đấy chứ, Reiji?"
 
 "Hửm? Ồ, ừ. Đúng vậy đúng không? Nó cũng khá dễ sử dụng nữa, nên tớ khá thích nó."
 
 "Ừ. Trông tốt đấy. Bất ngờ là nó không tỏa ra bất kỳ luồng khí tà ác hay u ám nào."
 
-Đó là những gì Suimei thực sự nghĩ. Nếu không có gì khác, nó đạt điểm cao về phong cách. Ngọn lửa quấn quanh cơ thể Reiji như một con rồng cuộn bóng. Nó khá ngầu. Nó có tác động thị giác, và điều đó có giá trị riêng. Nó có thể giúp ích rất nhiều trong việc đe dọa và áp đảo đối thủ. Với ma thuật, ngoại hình là một vấn đề quan trọng đến bất ngờ.
+Đó là những gì Suimei thực sự nghĩ. Nếu không có gì khác, nó đạt điểm cao về phong cách. Ngọn lửa quấn quanh cơ thể Reiji như rồng cuộn. Nó khá ngầu. Nó có hiệu ứng thị giác, và điều đó có giá trị riêng. Nó có thể giúp ích rất nhiều trong việc uy hiếp và áp đảo đối thủ. Trong ma pháp, vẻ ngoài là một yếu tố quan trọng đến đáng ngạc nhiên.
 
-Mizuki cuối cùng cũng xem vào phần của mình, nhưng cô quay sang Reiji thay vì Suimei, người bạn mà cô đến thăm.
+Mizuki cuối cùng cũng lên tiếng chen ngang, nhưng cô quay sang Reiji thay vì Suimei, cậu bạn cô đến thăm.
 
-"T-Tớ cũng có thể làm được nó rồi đấy!"
+"T-Tớ cũng có thể làm được rồi!"
 
-"Tớ hiểu rồi. Cậu cũng thực sự chăm chỉ luyện tập đấy nhỉ, Mizuki?"
+"Tớ thấy rồi. Cậu thực sự cũng đang nỗ lực chăm chỉ đúng không, Mizuki?"
 
 "Hả? Ồ, ừ..."
 
-Mizuki dường như giật mình khi Suimei lại là người trả lời cô. Vì cuộc tranh cãi với Titania, có vẻ như Mizuki chỉ duy nhất tập trung vào Reiji và hoàn toàn quên mất Suimei cũng đang ở đó. Thực sự, cô muốn Reiji khen ngợi mình, và dùng điều đó làm vũ khí để chọc tức Titania. Dù sao thì, người bạn đang đứng xem từ bên ngoài nửa như muốn đập Reiji một trận, nửa như lại bị cuốn vào sự buồn cười của tất cả chuyện này.
+Mizuki gần như tỏ ra giật mình khi Suimei là người trả lời cô. Vì cuộc tranh chấp với Titania, có vẻ như Mizuki chỉ tập trung vào Reiji và hoàn toàn quên mất Suimei cũng có mặt ở đó. Thực ra, cô muốn Reiji khen ngợi mình và dùng đó làm vũ khí để đối phó với Titania. Dù sao thì, người bạn đang quan sát họ từ bên lề cũng nửa như muốn tẩn Reiji một trận, nửa như lại thấy buồn cười trước sự hài hước của toàn bộ chuyện này.
 
 "Hừm..."
 
@@ -154,7 +154,7 @@ Chính xác thì cô ấy quyết tâm không thua ai vậy? Nếu có ai nghe l
 
 "Hả? Ồ, đủ thứ chuyện..."
 
-Reiji đưa ra một câu trả lời lảng tránh. Có điều gì đó rõ ràng đã xảy ra, nhưng cậu ấy có vẻ ngần ngại không muốn nói về nó. Bất kể đó là gì, nó có khả năng là nguyên nhân gây ra trạng thái hồi hộp kỳ lạ của cậu ấy hôm nay.
+Reiji đưa ra một câu trả lời lảng tránh. Có điều gì đó rõ ràng đã xảy ra, nhưng cậu ấy có vẻ ngần ngại không muốn nói về nó. Bất kể đó là gì, nó có khả năng là nguyên nhân gây ra trạng thái bồn chồn kỳ lạ của cậu ấy hôm nay.
 
 "Có chuyện gì vậy, Reiji-sama?"
 
@@ -192,7 +192,7 @@ Giáo hội Ma đạo sĩ. Đó là thứ Suimei vẫn chưa điều tra kỹ l�
 
 *Thật sao?*
 
-Từ "Emperor" (Đế) được cho là hàm ý một điều gì đó cực kỳ cao quý, vậy mà có tới tám người sao? Ngay cả ở Nhật Bản hiện đại, danh hiệu đó cũng chỉ dành riêng cho người được kính trọng nhất đất nước. Suimei thắc mắc liệu có điều gì đó bị bóp méo trong dịch thuật hay không vì ngôn ngữ Titania đang nói đang được ma thuật dịch tự động trong đầu cậu, nhưng dù sao đi nữa, nó vẫn khiến cậu có chút bối rối.
+Từ "Emperor" (Đế) được cho là hàm ý một điều gì đó cực kỳ cao quý, vậy mà có tới tám người sao? Ngay cả ở Nhật Bản hiện đại, danh hiệu đó cũng chỉ dành riêng cho người được kính trọng nhất đất nước. Suimei thắc mắc liệu có điều gì đó bị bóp méo trong dịch thuật hay không vì ngôn ngữ Titania đang nói đang được ma pháp dịch tự động trong đầu cậu, nhưng dù sao đi nữa, nó vẫn khiến cậu có chút bối rối.
 
 "Suimei-sama, có chuyện gì không ổn sao?"
 
@@ -240,7 +240,7 @@ Titania hoàn toàn sốc trước trận cười đột ngột của Suimei. C�
 
 Titania đơn giản là không thể hiểu được phản ứng của Suimei. Cô trông ngơ ngác, nhưng cô không có cách nào biết được tiêu chuẩn về những gì được coi là "ngầu" có thể khác nhau giữa các thế giới. Mizuki đã biết điều đó, nhưng đó chính xác là lý do tại sao Reiji muốn tránh đưa chuyện này ra trước mặt Suimei bằng mọi giá.
 
-"Nghiêm túc đấy? Attribute Master? Ôi chết mất các cậu ơi! Cẩn thận đấy, là Reiji Bậc Thầy Thuộc Tính kìa! Phụttt! Loại Giáo hội trưởng nào lại chọn một danh hiệu như thế chứ? Một kẻ hoàn toàn không có gu thời trang, chắc chắn là vậy! Hoàn toàn không có! Ôi trời ơi, cái bụng của tôi... Phụt! AHAHAHAHAHAHAHAHA!"
+"Nghiêm túc đấy? Attribute Master? Ôi chết mất các cậu ơi! Cẩn thận đấy, là Reiji Bậc Thầy Thuộc Tính kìa! Phụttt! Loại Giáo hội trưởng nào lại chọn một danh hiệu như thế chứ? Một kẻ hoàn toàn không có chút gu thẩm mỹ nào, chắc chắn là vậy! Hoàn toàn không có! Ôi trời ơi, bể bụng mất thôi... Phụt! AHAHAHAHAHAHAHAHA!"
 
 "Suimei, tớ xin cậu đấy... đừng nói nữa."
 

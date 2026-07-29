@@ -10,14 +10,14 @@
 - **Tính cách**: Lý trí, thông tuệ, thực tế, bình tĩnh và quyết đoán. Không muốn dính líu vào cuộc chiến của thế giới khác, chỉ muốn tìm cách quay về Trái Đất để hoàn thành lời hứa với cha. Khi biết dị giới không có phép quay về, cậu nổi giận điên cuồng và hạ quyết tâm tự tìm/tạo ra đại ma thuật dịch chuyển liên chiều không gian.
 - **Giọng văn & Khẩu khí**:
   - Khi nói chuyện với bạn bè (Reiji, Mizuki): Tự nhiên, bình dị, xưng "tớ - cậu" hoặc "tao - mày" (khi nổi giận/mắng Reiji).
-  - Khi nói chuyện với người dị giới/quý tộc: Lịch sự nhưng giữ khoảng cách, kiên quyết từ chối trở thành công cụ chiến tranh. Khi nổi giận giậm chân chửi bới ("Đừng có đùa mẹ nó với tao!").
+  - Khi nói chuyện với người dị giới/quý tộc: Lịch sự nhưng giữ khoảng cách, kiên quyết từ chối trở thành công cụ chiến tranh. Khi nổi giận giậm chân chửi bới ("Đừng có giỡn mặt với tao!").
   - Khi thi triển ma thuật/quyết đấu: Lạnh lùng, áp đảo, triết lý và uy nghiêm của một Ma đạo sĩ chân chính.
 
 ---
 
 ## 2. Felmenia Stingray (Phỉ Nhĩ Mễ Ni Á - フェルメニア・スティングレイ)
 
-- **Thân phận**: Cựu Cung đình ma đạo sĩ của Vương quốc Astel (đã xin từ chức để lên đường theo Suimei), biệt danh "Bạch Hoả" (White Flame). Ái nữ của Bá tước Stingray.
+- **Thân phận**: Cựu Ma đạo sư cung đình của Vương quốc Astel (đã xin từ chức để lên đường theo Suimei), biệt danh "Bạch Hoả" (White Flame). Ái nữ của Bá tước Stingray.
 - **Tính cách**: Kiêu hãnh với danh hiệu thiên tài, trung thành tuyệt đối với vương quốc Astel nhưng hiện tại đặt nguyện vọng hỗ trợ Suimei lên hàng đầu.
 - **Giọng văn & Khẩu khí**:
   - Ban đầu: Trang trọng, tự tin, có phần kiêu ngạo của giới quý tộc và thiên tài ma pháp.
@@ -66,9 +66,9 @@
 
 ---
 
-## 8. Sebastian Kran (Cung đình Ma đạo sĩ gian trá)
+## 8. Sebastian Kran (Ma đạo sư cung đình gian trá)
 
-- **Thân phận**: Cung đình ma đạo sĩ gầy còm của Astel.
+- **Thân phận**: Ma đạo sư cung đình gầy còm của Astel.
 - **Hành động & Kết cục**: Vì đố kỵ Felmenia được chọn dạy Dũng sĩ, y đã thao túng Golem và phao tin đồn Suimei mưu hại vua để giật dây Felmenia. Khi bị Suimei dùng Ma thuật Thảo mộc vạch trần, y đã điên cuồng kích hoạt vòng tròn triệu hồi biến cuồng gọi ra Ma thú Khải huyền Apparition cấp B. Y bị Apparition đè ngất và sau đó bị lính gác lâu đài bắt giữ vào ngục tối.
 
 ---

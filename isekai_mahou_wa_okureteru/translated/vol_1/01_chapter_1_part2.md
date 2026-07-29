@@ -1,50 +1,50 @@
 "Cái gì...?"
 
-Reiji tái mặt thấy rõ khi nghe giải thích của Mizuki. Cậu ngơ ngác. Thấy phản ứng của cậu, Mizuki cuống quýt giải thích thêm:
+Reiji ngẩn người ra khi nghe Mizuki giải thích, gương mặt thoáng chút bối rối. Thấy phản ứng của cậu, Mizuki cuống quýt giải thích thêm:
 
-"Nhưng, nhưng tớ sẽ không bao giờ làm thế đâu, Reiji-kun! Tớ không ghét cậu! Tớ th-th-th-thí..."
+"Nhưng... nhưng tớ không bao giờ làm chuyện đó đâu, Reiji-kun! Tớ làm sao ghét cậu được! Tớ th-th-th-thích..."
 
-Cô chắc hẳn đã quá xấu hổ nên không thể nói trực tiếp vào mặt cậu. Giọng cô nhỏ dần cho đến khi hoàn toàn không thể nghe thấy được nữa. Reiji sau đó ngượng ngùng quay đầu về phía Suimei.
+Cô nàng ngượng đỏ chín mặt, không dám nhìn thẳng vào cậu bạn. Giọng cô nhỏ dần rồi tắt ngấm. Reiji ngượng ngùng quay sang nhìn Suimei.
 
 "V-Vậy... là cậu sao, Suimei?"
 
-"Hế, nói thật thì, tớ vẫn luôn thầm nghĩ cậu là một kẻ khoác hoác thích làm màu nên biến đi cho rồi."
+"Hơ, nói thật thì, tớ vốn luôn nghĩ cậu là một tên khoác lác thích thể hiện, biến phắt đi cho rảnh nợ."
 
 "—!"
 
-Một luồng u tối có thể được nhìn thấy lấp đầy đôi mắt Suimei khi cậu nói, và Reiji không biết phải nói gì.
+Ánh mắt Suimei thoáng hiện lên vẻ u ám trêu chọc khi nói câu đó, khiến Reiji á khẩu không biết trả lời sao.
 
-"Tớ đùa đấy..."
+"Tớ đùa thôi..."
 
 "S-Suimei..."
 
-"Tớ đùa thật đấy. Nếu tớ ghét cậu, tại sao tớ lại cất công chơi chung với cậu suốt sáu năm qua chứ? Tự suy nghĩ đi."
+"Tớ đùa thật đấy. Ghét cậu thì tớ thèm chơi chung suốt sáu năm qua chắc? Nghĩ thử mà xem."
 
-"Đ-Đúng thế nhỉ. Th-Ơn trời..."
+"Đ-Đúng thế thật. May quá..."
 
-Nghe thấy Suimei và Mizuki đều ở phe mình, Reiji giờ đây mới trút một tiếng thở dài nhẹ nhõm. Và trong khi ba người họ có cuộc trao đổi đó, cô gái tóc xanh gọi họ với sự uy nghiêm của một công chúa kiều diễm.
+Biết cả Suimei lẫn Mizuki đều đứng về phía mình, Reiji mới thở phào nhẹ nhõm. Giữa lúc ba người họ đang trò chuyện, cô gái xanh cất tiếng gọi bằng giọng điệu trang nhã của một hoàng nữ.
 
-"Ừm, xin lỗi. Tôi xin lỗi vì đã ngắt lời, nhưng liệu các vị có phiền nói chuyện với chúng tôi không?"
+"Xin lỗi các vị. Tôi rất tiếc vì phải ngắt lời, nhưng liệu các vị có phiền trò chuyện với chúng tôi một lát không?"
 
 "Ồ, dĩ nhiên rồi."
 
-Reiji lịch sự đồng ý, và thiếu nữ với mái tóc xanh cùng chiếc trán nhô cao cúi chào duyên dáng trước khi tự giới thiệu bản thân.
+Reiji lịch sự gật đầu. Thiếu nữ tóc xanh cúi chào một cách trang nhã rồi tự giới thiệu bản thân.
 
-"Tôi thực sự xin lỗi vì đã gọi các vị đến đây một cách đột ngột như vậy. Tôi là con thứ hai của Đức vương Almadious Root Astel, quốc vương của Vương quốc Astel. Tên tôi là Titania Root Astel, và đây là người đã nỗ lực đưa các vị đến đây nhân dịp này..."
+"Tôi rất xin lỗi vì đã triệu hồi các vị đến đây một cách đột ngột. Tôi là Nhị công chúa của Vương quốc Astel, Titania Root Astel. Còn đây là người đã thực hiện nghi lễ triệu hồi..."
 
-Như để cho thấy cô có người khác cần giới thiệu, cô gái với chiếc trán rộng, Công chúa Titania, nhẹ nhàng quay sang bên cạnh. Cô gái mặc áo choàng mà cô vừa nói tới bước tiến một bước.
+Công chúa Titania khẽ nghiêng người giới thiệu cô gái đứng bên cạnh. Thiếu nữ khoác áo choàng lập tức bước lên một bước.
 
-"Tôi là Cung đình ma đạo sĩ Felmenia Stingray. Rất hân hạnh được gặp các vị."
+"Tôi là ma đạo sư cung đình Felmenia Stingray. Rất hân hạnh được gặp các vị."
 
-Đây chính là thiếu nữ mà công chúa đã gọi là "Bạch Hỏa" trong cuộc trò chuyện trước đó của họ. Cô sở hữu mái tóc bạc tuyệt đẹp dài đến thắt lưng với những lọn tóc tết gọn gàng rủ xuống hai bên tai. Đôi mắt hơi xếch của cô dường như truyền tải một sự tự hào. Cô tạo ra một ấn tượng mạnh mẽ, sâu sắc, nhưng cô cũng có một số đường nét khá duyên dáng, dễ mến. Đúng như một người tự gọi mình là cung đình ma đạo sĩ, ma lực đang chảy trôi mượt mà khắp cơ thể cô. Điều tương tự cũng đúng với công chúa, nhưng người phụ nữ này có vẻ thành thạo hơn nhiều trong việc kiểm soát nó.
+Đây chính là thiếu nữ mà công chúa đã gọi là "Bạch Hỏa" trong cuộc trò chuyện trước đó của họ. Cô sở hữu mái tóc bạc tuyệt đẹp dài đến thắt lưng, với hai lọn tóc tết gọn gàng rủ xuống bên tai. Đôi mắt hơi xếch toát lên vẻ tự tin và kiêu hãnh. Dù mang lại cảm giác nghiêm nghị và sắc sảo, cô vẫn có những nét duyên dáng, dễ mến. Đúng danh xưng ma đạo sư cung đình, luồng ma lực xung quanh cô dao động vô cùng ổn định và mạnh mẽ. Công chúa Titania cũng có ma lực, nhưng thiếu nữ tóc bạc này rõ ràng kiểm soát nó điêu luyện hơn nhiều.
 
-*Chờ đã, người phụ nữ này là kẻ đã triệu hồi chúng ta đến đây sao? Cái đồ...*
+*Hóa ra cô ta chính là kẻ đã kéo mình tới đây sao...*
 
 Trước mặt cậu giờ đây chính là kẻ chịu trách nhiệm cho tình cảnh hiện tại của họ. Cảm thấy chẳng có gì dễ chịu khi làm quen với cô ta, Suimei cằn nhằn trong lòng. Sau khi các cô gái hoàn thành phần giới thiệu, Reiji bước lên phía trước và lịch sự đáp lại.
 
-"Cảm ơn vì lời chào hỏi lịch sự như vậy. Tên tôi là Shodai Reiji. Nếu ở đây phổ biến việc đặt họ ở sau, xin cứ tự nhiên gọi tôi là Reiji Shodai. Hai người đi cùng tôi là những người bạn tốt của tôi. Bên phải tôi là Anoh Mizuki, và bên trái là Yakagi Suimei."
+"Cảm ơn vì lời chào hỏi lịch sự như vậy. Tên tôi là Shodai Reiji. Nếu ở đây gọi tên trước họ sau, xin cứ tự nhiên gọi tôi là Reiji Shodai. Hai người đi cùng tôi là bạn thân của tôi. Bên phải tôi là Anoh Mizuki, và bên trái là Yakagi Suimei."
 
-Cậu học được cách ăn nói trang trọng như thế từ bao giờ vậy? Công chúa Titania và Cung đình ma đạo sĩ Felmenia đáp lại với sự ngưỡng mộ dành cho Reiji. Bản thân họ cũng khá uy nghi, nhưng họ có vẻ hài lòng với lễ độ của Reiji. Khi có cơ hội, Mizuki bước lên tiếp theo.
+Cậu học được cách ăn nói trang trọng như thế từ bao giờ vậy? Công chúa Titania và ma đạo sư cung đình Felmenia đáp lại với sự ngưỡng mộ dành cho Reiji. Tuy mang phong thái hoàng tộc kiêu sa, họ vẫn tỏ ra hài lòng trước thái độ lịch sự của Reiji. Khi có cơ hội, Mizuki bước lên tiếp theo.
 
 "Cho phép tôi tự giới thiệu. Tên tôi là Anoh Mizuki..."
 
@@ -52,7 +52,7 @@ Khi cô xong, Suimei cũng bước tiến một bước.
 
 "Tôi là... Yakagi Suimei."
 
-Cậu giữ mọi thứ ngắn gọn và súc tích. Cậu thực sự chẳng có gì khác để nói, và cậu có thể nhận ra đây là loại tình huống mà cậu nên tránh nói bất cứ điều gì thiếu thận trọng. Titania sau đó đảo mắt nhìn qua ba người họ, và nhắm mắt lại như thể đang chìm sâu vào suy nghĩ. Và rồi...
+Suimei giới thiệu ngắn gọn. Cậu hiểu rằng trong tình cảnh xa lạ này, tốt nhất là nên hạn chế phát ngôn bừa bãi. Công chúa Titania nhìn lướt qua ba người họ rồi khẽ nhắm mắt suy nghĩ. Và rồi...
 
 "Reiji-sama, Mizuki-sama, và Suimei-sama, đúng không? Lý do mà chúng tôi triệu hồi các vị trong hoàn cảnh như thế này... Quý vị thấy đấy, có một điều mà chúng tôi phải nhờ cậy một trong ba người."
 
@@ -66,7 +66,7 @@ Khoảnh khắc Công chúa Titania nói ra những lời đó, cả ba người
 
 ![Titania nắm lấy tay Reiji](../../source/images/vol_1/ch01_illustration_01.jpg)
 
-Được triệu hồi sang thế giới khác, được đón tiếp bởi một công chúa và một cung đình ma đạo sĩ, sau đó được nhờ cứu thế giới. Đúng là chuẩn kịch bản sách giáo khoa. Ba người bạn có thể giữ được vẻ ngoài bình thản trên bề mặt, nhưng mỗi người trong số họ thực sự cảm thấy như thể chân mình vừa bị đốn ngã.
+Được triệu hồi sang thế giới khác, được đón tiếp bởi một công chúa và một ma đạo sư cung đình, sau đó được nhờ cứu thế giới. Đúng là một kịch bản rập khuôn. Dù cố giữ vẻ bình tĩnh, cả ba người họ đều cảm thấy như bị dội một gáo nước lạnh.
 
 "Trời ạ..."
 
@@ -74,7 +74,7 @@ Khoảnh khắc Công chúa Titania nói ra những lời đó, cả ba người
 
 "Ôi chúa ơi..."
 
-Rốt cuộc, họ không thể giữ được sự bình tĩnh nữa. Mỗi người trong số họ thốt ra một tiếng thở dài khác nhau. Giờ đây họ trông như đang ở cuối sức chịu đựng vì cú sốc của toàn bộ sự việc, và Titania bắt đầu hỏi họ bằng giọng điệu có phần hoang mang.
+Rốt cuộc, cả ba không thể kìm được tiếng thở dài ngao ngán trước thực tế phũ phàng. Nhìn bộ dạng uể oải của họ sau cú sốc vừa rồi, Titania bối rối hỏi:
 
 "Và vì vậy, tôi xin lỗi vì sự đột ngột của tất cả những chuyện này, nhưng ai trong số các vị là vị Dũng sĩ kính mến?"
 
@@ -82,7 +82,7 @@ Rốt cuộc, họ không thể giữ được sự bình tĩnh nữa. Mỗi ng�
 
 "Chuyện đó..."
 
-Đáp lại câu hỏi của cô, Reiji và Mizuki nhìn nhau với nét mặt bối rối. Làm sao họ có thể biết mình có phải là dũng sĩ hay không chứ? Làm sao họ biết được? Theo như họ biết, họ chỉ là những công dân bình thường. Nếu có ai hỏi họ có phải là dũng sĩ hay không, họ chắc chắn sẽ nói không. Do đó, dường như không có câu trả lời cho câu hỏi được đặt ra cho họ lúc này. Nhưng họ không thể cứ đứng trong bóng tối mãi; mọi chuyện sẽ không bao giờ tiến triển theo cách đó. Và thế là Suimei quyết định can thiệp.
+Nghe vậy, Reiji và Mizuki bối rối nhìn nhau. Họ vốn là những học sinh bình thường, làm sao biết được ai là Dũng sĩ? Nếu tự dưng bị hỏi câu đó, câu trả lời chắc chắn là "không biết". Cứ im lặng mãi thì câu chuyện cũng chẳng đi đến đâu, thế nên Suimei đành lên tiếng để phá vỡ bầu không khí bế tắc:
 
 "Tôi có thể hỏi một điều được không?"
 
@@ -94,25 +94,25 @@ Rốt cuộc, họ không thể giữ được sự bình tĩnh nữa. Mỗi ng�
 
 Suimei gật đầu, và Titania nhìn sang Felmenia. Felmenia đón nhận ánh mắt của cô và gật đầu, sau đó quay về phía Suimei để cho cậu câu trả lời.
 
-"Vâng, có một thứ như vậy. Vị dũng sĩ được triệu hồi bởi nghi lễ được ban cho sự bảo hộ thần thánh bởi các Yếu Tố (Elements) khi vượt qua các thế giới, và sẽ chứa đựng sức mạnh to lớn trong cơ thể mình. Nói cách khác, một người trong số các vị sẽ cảm nhận được sức mạnh chảy trôi bên trong mình không giống với bất kỳ điều gì từng trải nghiệm... Có ai trong số các vị phù hợp với mô tả đó không?"
+"Vâng, có một thứ như vậy. Vị dũng sĩ được triệu hồi bởi nghi lễ được ban cho sự bảo hộ thần thánh bởi các Nguyên tố (Elements) khi vượt qua các thế giới, và sẽ chứa đựng sức mạnh to lớn trong cơ thể mình. Nói cách khác, một người trong số các vị sẽ cảm nhận được sức mạnh chảy trôi bên trong mình không giống với bất kỳ điều gì từng trải nghiệm... Có ai trong số các vị phù hợp với mô tả đó không?"
 
 "Nếu là như vậy, tôi nghĩ đó là tôi. Kể từ khi đến đây, tôi cảm thấy mình trở nên mạnh mẽ hơn nhiều—mạnh hơn những gì tôi có thể hình dung."
 
 Những người lính trong phòng bắt đầu thì thầm với nhau và thốt ra một tiếng "Ồồồ" đồng loạt trước câu trả lời của Reiji. Đúng là Reiji dường như là người duy nhất nhận được sức mạnh khi họ được dịch chuyển, nhưng dù vậy...
 
-*Cô ta nói "bởi các Yếu Tố", đúng không nhỉ?*
+*Cô ta nói "bởi các Nguyên tố", đúng không nhỉ?*
 
-Suimei xem xét kỹ lưỡng những lời của cô gái trong lòng. Yếu tố (Elements), thuộc tính, cơ bản... Những từ như vậy ở thế giới mà Suimei đến được dùng để mô tả các nguyên tố hóa học, hoặc huyền học hơn là bốn hoặc năm yếu tố ma thuật cổ xưa. Đất, nước, lửa và khí tạo thành bốn yếu tố truyền thống, và bao gồm cả hư không tạo thành năm yếu tố mang tính khái niệm hơn. Những từ này và những thứ chúng đại diện đóng một vai trò cực kỳ quan trọng trong ma thuật.
+Suimei xem xét kỹ lưỡng những lời của cô gái trong lòng. Nguyên tố (Elements), thuộc tính, căn bản... Những từ như vậy ở thế giới của Suimei dùng để mô tả các nguyên tố hóa học, hoặc huyền học hơn là bốn hoặc năm nguyên tố ma thuật cổ xưa. Đất, nước, lửa và gió tạo thành bốn nguyên tố truyền thống, và thêm cả hư không tạo thành năm nguyên tố mang tính khái niệm. Những từ này và những thứ chúng đại diện đóng một vai trò cực kỳ quan trọng trong ma thuật.
 
 Tuy nhiên, cách Felmenia diễn đạt khiến nó nghe như thể cô đang đề cập đến một sinh vật sống. Mặc dù ma thuật có thể hoạt động sóng đôi với niềm tin tôn giáo tâm linh, và mặc dù cốt lõi của việc thực hành nó là kêu gọi các linh hồn để lấy sức mạnh, thì sắc thái này có chút kỳ lạ.
 
-Nhưng giờ họ đang ở một thế giới khác. Không có gì đảm bảo rằng mọi thứ hoạt động chính xác như những gì Suimei kỳ vọng. Nếu chúng giống hệt nhau, sẽ không cần phải phân chia giữa các thế giới ngay từ đầu. Phải có lý do nào đó khiến hai thế giới này bị chia cắt—điều gì đó khiến thế giới này khác biệt. Có lẽ sự khác biệt chính là Yếu Tố...
+Nhưng giờ họ đang ở một thế giới khác. Không có gì đảm bảo rằng mọi thứ hoạt động chính xác như những gì Suimei kỳ vọng. Nếu chúng giống hệt nhau, sẽ không cần phải phân chia giữa các thế giới ngay từ đầu. Phải có lý do nào đó khiến hai thế giới này bị chia cắt—điều gì đó khiến thế giới này khác biệt. Có lẽ sự khác biệt chính là Nguyên tố...
 
 "Vậy ngài chính là vị Dũng sĩ kính mến sao?"
 
 "Thì... Vâng, tôi nghĩ vậy."
 
-Trong khi Suimei đang ngẫm nghĩ về các Yếu Tố, đôi mắt ngập tràn cảm xúc của Titania dừng lại trên Reiji. Có vẻ như cô có những cảm xúc đặc biệt dành cho "Dũng sĩ" này. Dĩ nhiên, việc cậu ngẫu nhiên lại rất đẹp trai cũng không hại gì. Thấy cô nhìn mình như vậy, Reiji có chút bối rối. Càng bối rối hơn khi Titania đột nhiên nắm lấy tay cậu.
+Trong khi Suimei đang ngẫm nghĩ về các Nguyên tố, đôi mắt ngập tràn cảm xúc của Titania dừng lại trên Reiji. Có vẻ như cô có những cảm xúc đặc biệt dành cho "Dũng sĩ" này. Dĩ nhiên, việc cậu ngẫu nhiên lại rất đẹp trai cũng không hại gì. Thấy cô nhìn mình như vậy, Reiji có chút bối rối. Càng bối rối hơn khi Titania đột nhiên nắm lấy tay cậu.
 
 "Dũng sĩ-sama, dù thật là đường đột quá đỗi, nhưng xin ngài... Tôi xin giao phó mọi chuyện vào tay ngài!"
 
@@ -122,11 +122,11 @@ Trong khi Suimei đang ngẫm nghĩ về các Yếu Tố, đôi mắt ngập tr�
 
 Có vẻ như cô gái mặc áo choàng màu trắng, Felmenia, cũng bộc phát sự kinh ngạc trước hành động đột ngột này hệt như Reiji. Cô gọi Titania trong sự bối rối, và chỉ đến lúc đó công chúa mới dường như nhận ra những gì mình vừa nói. Công chúa sau đó buông tay cậu ra và đỏ mặt một chút.
 
-"Trời ạ... Tôi xin lỗi ngài sâu sắc, Dũng sĩ-sama. Tôi lại hành động thiếu thốn lễ độ như thế này trong một tình huống như thế này... Chà, giờ thì, tôi tin rằng Đức vương sẽ giải thích mọi chuyện trong phòng diện kiến, vì vậy xin hãy cho chúng tôi câu trả lời của ngài khi đó."
+"Trời ạ... Tôi xin lỗi ngài sâu sắc, Dũng sĩ-sama. Tôi lại hành động thất lễ trước mặt các vị khách quý như thế này... Chà, giờ thì, tôi tin rằng Đức vương sẽ giải thích mọi chuyện trong phòng diện kiến, vì vậy xin hãy cho chúng tôi câu trả lời của ngài khi đó."
 
 "H-Hiểu rồi."
 
-Vẫn bị cuốn vào vòng xoáy bối rối, Reiji bằng cách nào đó đã trấn tĩnh lại và đưa ra một câu trả lời có thể chấp nhận được. Felmenia sau đó tiến một bước về phía cậu.
+Vẫn bị cuốn vào vòng xoáy bối rối, Reiji cố gắng giữ bình tĩnh để đưa ra câu trả lời lịch sự. Felmenia sau đó tiến một bước về phía cậu.
 
 "D-Dũng sĩ-sama, cho phép tôi tự giới thiệu một lần nữa. Tên tôi là Felmenia Stingray."
 
@@ -136,7 +136,7 @@ Vẫn bị cuốn vào vòng xoáy bối rối, Reiji bằng cách nào đó đ�
 
 "Cái gì? Ồ, vâng, dĩ nhiên rồi..."
 
-Felmenia thản nhiên nhắc lại ý nguyện của công chúa khi cô cúi chào, và Reiji đáp lại lịch sự mặc dù không thực sự hiểu chuyện gì đang xảy ra. Titania, tuy nhiên, hắng giọng một cách khá gượng ép.
+Felmenia vừa cúi chào vừa lặp lại lời gửi gắm của công chúa. Reiji tuy chưa hiểu rõ sự tình nhưng vẫn lịch thiệp đáp lễ. Titania, tuy nhiên, khẽ hắng giọng để cắt ngang:
 
 "Khụ khụ, Bạch Hỏa-dono..."
 
@@ -146,43 +146,41 @@ Felmenia thản nhiên nhắc lại ý nguyện của công chúa khi cô cúi c
 
 Theo mệnh lệnh của Titania, những người lính một lần nữa xếp thành hàng và mở ra một con đường cho Suimei và những người khác.
 
-***
+---
 
-Sau khi đi theo những người lính xuống một hành lang lạ lẫm và u ám một đoạn, nhóm bước ra khỏi hành lang đá mờ ảo vào một hành lang đá hoa cương lộng lẫy và rực rỡ với những chân nến trang trí điểm xuyết dọc theo các bức tường. Không giống như nơi họ từng ở trước đó, khu vực này được trang trí tinh xảo và giữ gìn sạch sẽ. Đây đó là những tác phẩm nghệ thuật, tranh vẽ và những bộ giáp trang trí tạo cho nơi này một bầu không khí thực sự lộng lẫy. Nó không giống bất kỳ điều gì họ từng thấy trước đây.
+Sau khi đi theo những người lính dọc theo một hành lang đá u tối, họ bước ra một sảnh lớn lát đá hoa cương lộng lẫm, rực rỡ ánh nến. Trái ngược hoàn toàn với căn phòng triệu hồi ẩm thấp lúc nãy, hành lang này được trang trí vô cùng tinh xảo và sạch sẽ, điểm xuyết những bức họa nghệ thuật và những bộ giáp hiệp sĩ trưng bày dọc lối đi, toát lên phong thái hoàng gia sang trọng.
 
-Nhưng điều đó có lẽ là đáng kỳ vọng—đây là một thế giới khác. Nó thực sự có vẻ là một thế giới của kỳ ảo, kiếm thuật và ma pháp. Nhưng từ những gì cậu đã thấy về nó và con người nơi đây cho đến nay, Suimei đã hình thành một số ý kiến khá mạnh mẽ.
+Đi cùng họ hiện tại là hai thiếu nữ—công chúa Titania và ma đạo sư cung đình Felmenia. Titania tỏ ra đặc biệt hứng thú với Reiji, cô đi bên cạnh và không ngừng trò chuyện cùng cậu. Bắt đầu từ việc hỏi thăm về thế giới cũ, cô chuyển sang hỏi han tuổi tác, sở thích của Reiji. Sự cởi mở và nhiệt tình của nàng công chúa khiến cô trông không khác gì một thiếu nữ đang cố tiếp cận người trong mộng. Suimei nhìn mà có chút chạnh lòng.
 
-Ngoại trừ những người lính vô danh đang hộ tống họ, họ đã gặp hai thiếu nữ—một công chúa và một cung đình ma đạo sĩ. Titania, có lẽ vì ấn tượng quyến rũ mà cậu tạo ra cho cô, đang đi cùng Reiji và nói chuyện với cậu không ngừng. Cô bắt đầu bằng việc hỏi về thế giới cậu đến từ, và sau đó chuyển sang hỏi về tuổi tác và sở trường của cậu. Tinh thần cao độ và sự chuyện trò không ngớt của cô khiến cô trông giống như một cô gái đang đi cùng một chàng trai mà cô đã đem lòng yêu. Suimei có chút ghen tị.
+Mizuki đi bên cạnh cũng có tâm trạng tương tự, dù lý do có chút khác biệt. Tuy không phải bạn gái của Reiji, nhưng cô luôn là người bạn khác giới thân thiết nhất của cậu, và trong thâm tâm cô cũng hằng mong giữ vị trí đó. Giờ đây, một cô gái xinh đẹp, lại mang thân phận công chúa cao quý đột ngột xuất hiện và chiếm trọn sự chú ý của Reiji. Dù cố kìm nén không lộ ra ngoài, nhưng Mizuki rõ ràng đang có chút hụt hẫng.
 
-Mizuki cũng vậy, mặc dù vì những lý do khác nhau. Không phải là cô là bạn gái của Reiji, nhưng trong số tất cả những cô gái cậu biết, cô chắc chắn là người gần gũi nhất. Đó chắc chắn là những gì cô muốn trở thành. Và giờ một cô gái xinh đẹp—chẳng những thế lại còn là công chúa—đã đột nhiên nhảy vào đường và đang tranh giành sự chú ý của cậu. Điều đó không thực sự hiện rõ trên mặt cô, nhưng Mizuki khá buồn về điều đó.
-
-Nhưng rồi có cô gái thứ hai, Cung đình ma đạo sĩ Felmenia.
+Nhưng rồi có cô gái thứ hai, ma đạo sư cung đình Felmenia.
 
 "Cô cần gì sao?"
 
 "Không, không có gì đặc biệt."
 
-Từ nãy đến giờ, Felmenia liên tục liếc nhìn lại Suimei, nhìn đặc biệt vào vùng bụng của cậu. Suimei cuối cùng bật lại bằng một câu hỏi với giọng điệu hơi sắc bén, nhưng Felmenia đơn giản quay lại như không có gì và giữ nguyên như thế. Trong đầu, Suimei buông một tiếng thở dài.
+Nãy giờ, Felmenia cứ liên tục liếc nhìn Suimei, đặc biệt là tập trung vào vùng tay của cậu. Suimei liền quay sang hỏi với giọng điệu hơi sắc mỏng, nhưng Felmenia chỉ lạnh lùng quay đi như không có chuyện gì. Suimei thầm thở dài chán ngán.
 
-*Là do mình thất bại trong việc giữ ma thuật ở trạng thái chờ sao? Từ vẻ ngoài của cô ta, mình đoán cô ta đã nhìn thấu mình và biết mình có thể dùng ma thuật rồi...*
+*Chết tiệt, lúc nãy mình sơ hở khi duy trì ma thuật phòng thủ ở trạng thái chờ sao? Nhìn thái độ của cô ta, có lẽ cô ta đã phát hiện ra mình biết dùng phép thuật rồi...*
 
-Lại là một sai lầm chết người nối tiếp sai lầm chết người đối với Suimei, có vẻ là vậy. Lúc này, cậu chỉ muốn đào một cái lỗ để trốn đi, nhưng cậu biết mình sẽ không bao giờ thoát khỏi điều đó.
+Hết sai sót này đến sai sót khác, Suimei tự trách mình vô cùng. Cậu chỉ muốn tìm cái lỗ nẻ nào chui xuống cho đỡ xấu hổ, nhưng thực tế trước mắt không cho phép.
 
-Sự tồn tại của ma thuật và ma đạo sĩ là một bí mật ở thế giới Suimei đến từ. Nó phải là như vậy. Trong thời đại hiện đại nơi khoa học là vua, ma thuật bị coi là dị giáo. Tinh thần thời đại đảm bảo dập tắt bất kỳ điều gì có thể hạ bệ khoa học, và điều đó bao gồm cả ma thuật.
+Ở thế giới cũ của Suimei, sự tồn tại của ma đạo sĩ là một bí mật tuyệt đối. Trong thời đại khoa học lên ngôi, ma thuật bị coi là dị giáo và bị gạt ra ngoài lề xã hội.
 
-Nhưng ở thế giới này, những người sử dụng nó được coi trọng như thế nào? Cô gái tự gọi mình là cung đình ma đạo sĩ này đang đi bên cạnh một công chúa—người rõ ràng là cấp trên về mặt xã hội của cô—nhưng thật khó để nói vị thế của cô ấy như thế nào ngoài điều đó.
+Thế nhưng ở thế giới này, vị thế của những người sử dụng ma thuật ra sao? Cô gái tự xưng là ma đạo sư cung đình này tuy đi bên cạnh công chúa—người có địa vị cao hơn hẳn—nhưng vẫn toát lên phong thái rất đáng gờm.
 
-Sử dụng ma thuật một cách công khai sẽ là một cách nhanh chóng và dễ dàng để có được những câu trả lời Suimei muốn, nhưng đó là một ý tưởng tồi. Cậu không muốn tiết lộ bản thân với Reiji và Mizuki như thế. Và chính vì cậu muốn giữ họ trong bóng tối về tài năng của mình nên ưu tiên hàng đầu của cậu lúc này là tìm cách giữ cho Felmenia không nói ra. Cậu sẽ phải suy nghĩ về một số biện pháp đối phó.
+Dùng phép thuật công khai tuy là cách nhanh nhất để thăm dò thông tin, nhưng lại là một nước đi tồi tệ. Cậu không muốn Reiji và Mizuki phát hiện ra thân phận ma đạo sĩ của mình. Để giữ bí mật này, ưu tiên hàng đầu của cậu lúc này là làm sao để Felmenia im lặng. Cậu cần phải lên kế hoạch đối phó.
 
 "Chúng ta đến nơi rồi. Đây là phòng diện kiến. Đức vương đang chờ đợi, vì vậy hãy đi thôi."
 
-Titania chỉ vào cánh cửa họ đã đến. Nó trông đủ lớn để ngay cả những kẻ khổng lồ cũng có thể đi qua, chưa kể đến độ xa hoa và hùng vĩ của nó. Một trong những người lính đi theo họ gọi một người gác cổng khác đồn trú tại cánh cửa. Người gác cổng sau đó lẩm nhẩm điều gì đó, và chẳng mấy chạp, cánh cửa chậm rãi bắt đầu mở ra.
+Titania dừng chân trước một cánh cửa khổng lồ. Nó to lớn tới mức như dành cho người khổng lồ, được chạm khắc vô cùng xa hoa và lộng lẫy. Một người lính hộ tống ra hiệu cho lính canh cửa. Người lính canh nhẩm đọc chú văn, cánh cửa khổng lồ lập tức từ từ mở ra.
 
 "Ôi chao!"
 
 "Hả?!"
 
-Reiji và Mizuki đều há hốc miệng khi nhìn thấy nó. Đó nghi ngờ là một sự bất ngờ đối với họ khi thấy một cánh cửa tự mở ra không cần trợ giúp. Người gác cổng không chạm vào nó, và nó chắc chắn không giống một cánh cửa tự động. Không có ý tưởng gì về những gì đang diễn ra, Reiji hỏi Titania về điều đó.
+Reiji và Mizuki ngạc nhiên đến mức há hốc mồm. Nhìn một cánh cửa nặng nề tự mở ra mà không cần ai chạm tay vào, lại chẳng phải là cửa tự động hiện đại, Reiji tò mò hỏi Titania:
 
 "L-Làm sao nó mở được vậy?"
 
@@ -206,31 +204,31 @@ Có vẻ như rất hài lòng vì Reiji tỏ ra ấn tượng, Titania cười 
 
 "Thật sao?"
 
-"Dù tôi trông như thế này, tôi vẫn là một trong những cung đình ma đạo sĩ tự hào của Astel, sau tất cả."
+"Dù tôi trông như thế này, tôi vẫn là một trong những ma đạo sư cung đình kiêu hãnh của Astel, sau tất cả."
 
 "Chà, Felmenia-san cũng thật tuyệt vời nhỉ?"
 
 "Ờ-Thì... Hí hí..."
 
-Thật khó để nói liệu Reiji có thực sự ấn tượng hay cậu chỉ đang lịch sự, nhưng Felmenia đột nhiên trở nên ngượng ngùng. Cô ấy yếu đuối trước lời nịnh hót sao? Có lẽ bất kỳ ai cũng sẽ như vậy nếu vị dũng sĩ được triệu hồi khen ngợi kỹ năng của họ. Sự khác biệt giữa khí chất dữ dội thường ngày của cô và nụ cười thản nhiên trên mặt cô lúc này thật buồn cười, nếu không muốn nói là duyên dáng. Mặt khác, đôi mắt của Mizuki vẫn lấp lánh khi nhìn thấy cánh cửa khổng lồ mở ra.
+Không rõ Reiji khen thật lòng hay chỉ vì lịch sự, nhưng Felmenia đột nhiên đỏ mặt ngượng ngùng. Hóa ra cô nàng lại khá dễ lung lay trước những lời tán dương. Nhưng cũng phải thôi, được chính vị Dũng sĩ cứu thế khen ngợi thì ai mà chẳng phổng mũi. Sự đối lập giữa vẻ ngoài nghiêm nghị thường ngày và nụ cười ngượng ngùng lúc này của cô trông khá thú vị. Trong khi đó, Mizuki vẫn dán chặt mắt vào cánh cửa khổng lồ với vẻ đầy phấn khích.
 
 "Tuyệt vời... Vậy là ma thuật thực sự tồn tại..."
 
 Có vẻ như cô khá hứng thú với bức tranh toàn cảnh. Nhưng là một cô gái yêu thích tiểu thuyết kỳ ảo, điều đó hoàn toàn được kỳ vọng. Điều này đúng là phong cách của cô.
 
-Suimei cũng đang chú ý đến ma thuật, nhưng là một ma đạo sĩ, cậu tự nhiên đầu tư nhiều hơn vào các chi tiết so với Mizuki. Cậu không hoàn toàn nghe thấy lời xướng mà người gác cổng đã sử dụng, nhưng cậu dễ dàng nắm bắt được cấu trúc của phép thuật, sự triển khai công thức, sự hiển hiện sức mạnh của nó và hiệu ứng kích hoạt.
+Suimei cũng quan sát ma thuật vừa rồi, nhưng dưới con mắt chuyên môn của một ma đạo sĩ. Dù không nghe rõ chú văn người lính canh sử dụng, cậu vẫn dễ dàng nắm bắt được cấu trúc thuật thức, cách vận hành ma lực và quá trình kích hoạt của phép thuật đó.
 
 *Hệ Phong, đúng không?*
 
-Thứ mở cánh cửa là ma thuật đơn giản—một phép thuật thuộc tính Phong bao gồm ba câu chú, đã đẩy cánh cửa mở ra về mặt thể chất. Sự kiểm soát của người gác cổng đối với phép thuật rất lưu loát. Anh ta hẳn phải là một ma đạo sĩ kiệt xuất, nhưng...
+Đó thực ra là một thuật thức thuộc tính Phong đơn giản dài ba câu chú để dùng lực đẩy cánh cửa ra. Người lính canh kiểm soát ma lực khá mượt mà, chứng tỏ anh ta cũng là một người có tay nghề, thế nhưng...
 
-*Ừm, nhưng mình thắc mắc... Tại sao lại là thuộc tính Phong? Tại sao lại phải đi vòng vèo sử dụng một yếu tố làm trung gian và tăng khối lượng công việc chỉ để mở một cánh cửa? Dù nhìn thế nào đi nữa, việc sử dụng một lời xướng ba câu một cách không thực tế như vậy đơn giản là quá lố, phải không?*
+*Nhưng sao lại dùng thuộc tính Phong nhỉ? Chỉ để mở một cánh cửa mà phải mượn một nguyên tố trung gian rồi tốn công thi triển chú văn như vậy không phải là quá rườm rà sao? Dù nhìn thế nào thì việc dùng một câu chú dài ba câu chỉ để làm việc này đúng là lãng phí.*
 
-Thay vì bị sững sờ trước thực tế rằng ma thuật tồn tại, cậu lại bối rối trước cách nó đang được sử dụng một cách kém hiệu quả. Người gác cổng tài năng, chắc chắn rồi, nhưng Suimei chỉ có thể mô tả những gì anh ta đã làm là lãng phí. Tối ưu hóa ma lực có sẵn, anh ta có thể triệu hồi một phép di chuyển, và thế là xong.
+Thay vì kinh ngạc trước sự hiện diện của ma thuật, Suimei lại cảm thấy cạn lời trước sự kém hiệu quả trong cách sử dụng nó. Dù người gác cổng có kỹ năng tốt, nhưng Suimei chỉ thấy việc đó thật lãng phí ma lực. Nếu tối ưu hóa luồng ma lực, chỉ cần một phép tác động lực trực tiếp là đủ giải quyết.
 
-Suimei đơn giản là không thể hiểu nổi tại sao ai đó lại sử dụng một phép thuật thuộc tính Phong để đạt được hiệu ứng tương tự theo một cách vòng vèo. Nó sẽ làm tăng độ dài của lời xướng lên nhiều hơn nữa, và làm tăng ma lực cần thiết cho việc triệu hồi.
+Cậu không thể hiểu nổi tại sao người ta lại phải đi một đường vòng bằng thuộc tính Phong như vậy. Việc đó vừa làm kéo dài thời gian tụng chú, vừa tiêu tốn lượng ma lực không cần thiết.
 
-Và vì một phép thuật như vậy tốn nhiều thời gian và ma lực hơn mức cần thiết, Suimei không thể thấy bất kỳ ưu điểm nào của nó. Nói một cách thẳng thắn, một nhiệm vụ đơn giản như vậy không nên yêu cầu một lời xướng. Nếu Suimei làm điều đó—hoặc nếu bất kỳ ma đạo sĩ nào khác mà cậu biết làm điều đó—mở một cánh cửa bằng ma thuật không nên tốn nhiều sức lực hơn một cái búng tay. Cậu quyết định không suy nghĩ nhiều về nó, nhưng chỉ là bao nhiêu ma lực thừa đã bị lãng phí chỉ để mở một cánh cửa? Nói thật thì, Suimei đơn giản là không thể hiểu nổi.
+Một phép thuật tốn thời gian và lãng phí năng lượng như vậy hoàn toàn không có chút thực tiễn nào. Nói thẳng ra, việc vặt vãnh này chẳng cần đến một câu chú. Nếu là Suimei hay bất kỳ ma đạo sĩ Trái Đất nào khác, họ chỉ cần một cái búng tay nhẹ là xong. Thật không thể hiểu nổi tại sao người ở đây lại lãng phí ma lực đến thế.
 
 *Có lẽ người gác cổng chỉ thích làm màu thôi chăng?*
 
@@ -242,7 +240,7 @@ Thôi chết.
 
 "Ồ, tôi sao? Tôi chỉ là quá sốc không nói nên lời thôi... Hahaha."
 
-"Ôi chao, là vậy sao? Chỉ cần chờ cho đến khi ngài thấy các cung đình ma đạo sĩ huấn luyện ngay trước mắt—ngài có thể sẽ mất hết sức lực ở chân đấy."
+"Ôi, vậy sao? Lát nữa khi ngài được tận mắt chứng kiến các ma đạo sư cung đình tập luyện, khéo ngài sẽ đứng không vững vì kinh ngạc mất."
 
 "Nó tuyệt vời đến thế sao? Chà, tôi không thể chờ đợi để xem nó..."
 
@@ -264,9 +262,9 @@ Nói rồi, nhóm đi theo Titania khi cô đi qua cánh cửa mở. Ở phía b
 
 Ba người bạn không thể không thốt lên những tiếng ồ à ngưỡng mộ. Phòng diện kiến ấn tượng đến mức đó. Ngay cả Suimei, người đã không mấy ấn tượng bởi ma thuật trước đó, cũng hoàn toàn bị mê hoặc bởi điều này.
 
-Ngồi trên ngai vàng ở phần trung tâm được nâng cao của phần trong cùng của phòng diện kiến là một người đàn ông trông khá dữ dội, tỏa ra một khí chất quyền lực. Đây có khả năng là nhà vua, Almadious Root Astel. Ông có mái tóc vàng ngắn được chải chuốt gọn gàng và một bộ râu tuyệt đẹp. Bên cạnh ông là một người đàn ông cao tuổi có vẻ là cố vấn của ông. Ở hai bên ngai vàng là một hàng những người trông có vẻ quan trọng khác.
+Nổi bật ở vị trí trung tâm phía cuối sảnh điện là ngai vàng hoàng gia. Ngồi trên đó là một người đàn ông trung niên với gương mặt nghiêm nghị, toát ra uy thế của một bậc quân vương. Đó chính là nhà vua Almadious Root Astel. Ông sở hữu mái tóc vàng cắt ngắn gọn gàng cùng bộ râu quai nón được cắt tỉa tinh tế. Đứng bên cạnh ngai vàng là một vị đại thần lớn tuổi có vẻ là cố vấn hoàng gia, cùng hai hàng quý tộc quyền quý đứng dọc hai bên.
 
-Titania đi thẳng lên phía trước mà không thèm ban cho bất kỳ ai một ánh nhìn ngoại trừ người đàn ông ngồi trên ngai vàng. Sau đó, sau khi bước lên một bậc duy nhất của bục nâng cao, cô quỳ xuống trước đức vương. Theo gương cô, Felmenia cũng quỳ xuống. Quyết định học theo hành động của họ, Suimei và những người khác vội vã làm theo. Sau khi mọi người quỳ xuống trước đức vương, Titania cuối cùng cất lời với ông.
+Titania đi thẳng lên phía trước, mắt hướng về phía nhà vua mà không liếc nhìn ai khác. Cô bước lên thềm điện rồi quỳ xuống bái kiến. Felmenia cũng nhanh chóng quỳ theo. Thấy vậy, Suimei và những người khác cũng vội vàng làm theo. Khi tất cả đã yên vị, Titania cất tiếng kính cẩn bái kiến quốc vương:
 
 "Thần, Titania Root Astel, đã mang vị dũng sĩ được triệu hồi từ thế giới khác bởi đại ma thuật triệu hồi Dũng sĩ đến đây."
 
@@ -280,13 +278,13 @@ Titania đi thẳng lên phía trước mà không thèm ban cho bất kỳ ai m
 
 "Vâng, Bệ hạ. Nhiều khả năng là vậy."
 
-Nói rồi, nét mặt dữ dội của đức vương trở thành một sự kinh ngạc tột độ. Những tiếng xầm xì "Làm sao có thể như vậy được?" và "Tôi chưa từng nghe nói về chuyện này" ngày càng to hơn từ những người khác có mặt. Đức vương sau đó quay sang cất lời với Felmenia một cách đàng hoàng.
+Gương mặt nghiêm nghị của quốc vương thoáng hiện vẻ kinh ngạc. Phía bên dưới, tiếng xầm xì bàn tán của các quý tộc bắt đầu rộ lên. Nhà vua trầm ngâm quay sang hỏi Felmenia bằng giọng trầm ổn:
 
 "Một chuyện như vậy thực sự có thể xảy ra sao? Đại ma thuật triệu hồi Dũng sĩ đã được thực hiện bởi nhiều quốc gia trong hàng thế kỷ, nhưng ta chưa từng một lần nghe nói về một chuyện như vậy."
 
-"Chuyện đó... Thần chỉ là một người mới với kiến thức hạn hẹp, Bệ hạ, nhưng thần không thể phủ nhận sự hiện diện của những người đang đứng trước mặt Bệ hạ lúc này. Và như vậy..."
+"Tâu Bệ hạ, kiến thức của thần còn nông cạn, nhưng sự thật là họ đã xuất hiện ngay trước mắt chúng ta. Vì vậy..."
 
-"Cô đang gợi ý rằng chúng ta không có lựa chọn nào khác ngoài việc tin vào điều đó."
+"Nghĩa là chúng ta buộc phải tin vào mắt mình đúng không."
 
 "Vâng, Bệ hạ."
 

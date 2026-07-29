@@ -1,14 +1,14 @@
 # Chương 2: Nơi Tôi Phải Trở Về Là Nơi Thật Xa Xôi
 
-Hai tuần đã trôi qua kể từ khi Suimei và các bạn bị triệu hồi đến thế giới mới lạ lùng này và nhận được lời thỉnh cầu đánh bại Ma Vương. Thời điểm Reiji lên đường đang đến rất gần. Hai tuần để chuẩn bị cho việc chinh phạt một kẻ thù hùng mạnh như vậy dường như là ngắn ngủi đến đáng thương, nhưng dựa theo những câu chuyện về các Dũng sĩ đi trước, lịch sử cho thấy hai tuần chính là khoảng thời gian cần thiết để sức mạnh của Dũng sĩ bộc phát hoàn toàn. Do đó, Reiji đã dành trọn những ngày qua để nỗ lực học ma pháp và làm chủ kỹ năng chiến đấu.
+Hai tuần đã trôi qua kể từ khi nhóm Suimei bị triệu hồi đến thế giới mới lạ lùng này và nhận được lời thỉnh cầu đánh bại Ma Vương. Thời điểm lên đường của Reiji đang đến rất gần. Hai tuần để chuẩn bị cho việc chinh phạt một kẻ thù hùng mạnh như vậy dường như quá ngắn ngủi, nhưng theo những giai thoại về các Dũng sĩ đi trước, lịch sử chứng minh hai tuần là khoảng thời gian cần thiết để sức mạnh Dũng sĩ bộc phát hoàn toàn. Do đó, Reiji đã dành trọn những ngày qua để nỗ lực học ma pháp và làm chủ kỹ năng chiến đấu.
 
-Vì đã quyết định đồng hành cùng cậu trong chuyến hành trình, Mizuki cũng luyện tập bên cạnh Reiji. Họ thụ giáo từ cả Đội trưởng Đội Hộ vệ Hoàng gia lẫn Cung đình Ma đạo sĩ Felmenia. Lịch trình của họ bận rộn đến mức điên rồ để cố gắng nhồi nhét tất cả những gì cần học trong vỏn vẹn hai tuần. Tuy nhiên, về kết quả của quá trình huấn luyện khắc nghiệt đó... Suimei thậm chí còn chẳng muốn nghĩ tới.
+Vì quyết định đồng hành cùng cậu, Mizuki cũng luyện tập bên cạnh Reiji. Họ được chỉ dẫn bởi cả Đội trưởng Đội Hộ vệ Hoàng gia lẫn Ma đạo sư cung đình Felmenia. Lịch trình bận rộn đến điên cuồng nhằm nhồi nhét tất cả kiến thức trong vỏn vẹn hai tuần. Tuy nhiên, kết quả của quá trình huấn luyện khắc nghiệt đó ra sao... Suimei thậm chí còn chẳng buồn nghĩ tới.
 
 Haizz...
 
-Suimei đã quan sát Reiji và Mizuki luyện tập từ cửa sổ phòng mình, và mỗi ngày họ đều ghé qua để cho cậu biết tình hình tiến triển ra sao. Tất cả những gì cậu có thể làm là thở dài trước sự tiến bộ của họ. Cậu cảm thấy xót xa trước những gì họ đạt được trong một khoảng thời gian ngắn như vậy. Điều đó thực sự quá đỗi tàn nhẫn.
+Suimei đã quan sát Reiji và Mizuki luyện tập từ cửa sổ phòng mình, và mỗi ngày họ đều ghé qua để cho cậu biết tình hình tiến triển ra sao. Tất cả những gì cậu có thể làm là thở dài trước sự tiến bộ của họ. Cậu cảm thấy ấm ức trước những gì họ đạt được trong một khoảng thời gian ngắn như vậy. Điều đó thực sự quá đỗi tàn nhẫn.
 
-Vì Reiji chỉ là một học sinh bình thường trước tất cả chuyện này, nên không có gì ngạc nhiên khi cậu bị ăn hành tơi tả trong những buổi huấn luyện chiến đấu ban đầu. Cậu chưa từng học võ thuật và thậm chí còn không biết cách tự vệ — ít nhất là trong hai ngày đầu tiên. Thế nhưng cậu nắm bắt mọi thứ nhanh đến mức đến ngày thứ ba, cậu đã có thể thực sự đối đầu sòng phẳng với Đội trưởng Đội Hộ vệ Hoàng gia. Giờ đây không còn ai có thể làm đối thủ của cậu trong các trận đấu đơn nữa, vì vậy cậu đã chuyển sang chiến đấu với nhiều người cùng lúc để luyện tập.
+Vì Reiji chỉ là một học sinh bình thường trước tất cả chuyện này, nên không có gì ngạc nhiên khi cậu bị áp đảo hoàn toàn trong những buổi huấn luyện chiến đấu ban đầu. Cậu chưa từng học võ thuật và thậm chí còn không biết cách tự vệ — ít nhất là trong hai ngày đầu tiên. Thế nhưng cậu nắm bắt mọi thứ nhanh đến mức đến ngày thứ ba, cậu đã có thể thực sự đối đầu sòng phẳng với Đội trưởng Đội Hộ vệ Hoàng gia. Giờ đây không còn ai có thể làm đối thủ của cậu trong các trận đấu đơn nữa, vì vậy cậu đã chuyển sang chiến đấu với nhiều người cùng lúc để luyện tập.
 
 Và nếu điều đó không phải là tàn nhẫn thì còn là gì nữa? Suimei chẳng dám gọi đó là tuyệt vời. Cậu biết cách duy nhất để mô tả đúng đắn loại sức mạnh đó chính là "tàn nhẫn". Cậu không biết liệu đó là nhờ sự bảo hộ thần thánh từ đại ma thuật triệu hồi Dũng sĩ hay còn yếu tố nào khác tác động, nhưng bất kể lý do là gì, sự tiến bộ của Reiji quả thực quá đỗi phi lý.
 
@@ -16,9 +16,9 @@ Thay vì một miếng bọt biển hấp thu nước, cậu ấy đang nuốt t
 
 *Thế này thì gian lận quá rồi. Nghiêm túc đấy.*
 
-Ngay cả khi nói đến ma pháp, tài năng mới phát lộ của Reiji cũng thật đáng kinh ngạc. Suimei đã phải mất hai năm kể từ lần đầu tiếp xúc với ma lực mới có thể nắm bắt trọn vẹn khái niệm và rèn luyện giác quan đủ để nhìn thấy sức mạnh bên trong mình. Nhưng Reiji chỉ cần đúng một buổi chiều. Cậu ấy đã bộc phát được ngọn lửa ngay trong lần thử đầu tiên, và mọi chuyện kể từ đó chỉ tiến triển theo chiều hướng leo thang chóng mặt.
+Ngay cả về ma pháp, thiên phú bộc phát của Reiji cũng đáng kinh ngạc không kém. Suimei đã phải mất hai năm kể từ lần đầu tiếp xúc với ma lực mới có thể nắm bắt trọn vẹn khái niệm và rèn luyện giác quan đủ để cảm nhận được sức mạnh bên trong mình. Nhưng Reiji chỉ cần đúng một buổi chiều. Cậu ấy tạo ra lửa ngay trong lần thử đầu tiên, và mọi chuyện từ đó cứ thế thăng tiến chóng mặt.
 
-Điều đó thật khó tin, và cũng khiến Suimei cực kỳ nản lòng. Cuộc đời đúng là bất công. Không thể đối mặt với thực tế đó, Suimei tự nhốt mình trong phòng, trong khi Reiji chỉ ngày càng trở nên mạnh mẽ hơn.
+Thật khó tin và cũng thật nản lòng. Đời quả là bất công. Không muốn đối mặt với sự thật phũ phàng đó, Suimei tự giam mình trong phòng, trong khi Reiji ngày một mạnh mẽ hơn.
 
 Tuy nhiên, dù tự cô lập bản thân, cậu tuyệt nhiên không hề nhàn rỗi. Cậu dành phần lớn thời gian để đọc những cuốn sách của thế giới này. Suimei vẫn nhớ như in lời Vua Almadious nói rằng cậu không thể trở về nhà, cũng như cơn giận dữ bùng phát không giống ai của cậu sau đó. Thật tồi tệ, nhưng đó là thực tế. Suimei đang bị mắc kẹt ở đây.
 
@@ -40,211 +40,209 @@ Hiện tại, Suimei đang thu mình bên trong một phòng đá u ám. Nơi n�
 
 "..."
 
-Thứ mà Suimei đang im lặng tập trung quan sát không gì khác chính là ma pháp trận được vẽ trên sàn nhà. Nó kết nối thế giới của cậu với thế giới này, và với tư cách là tác nhân chính của đại ma thuật triệu hồi đã đưa cậu đến đây, nó là một vật thể khiến cậu cực kỳ chán ghét.
+Thứ mà Suimei đang im lặng tập trung quan sát không gì khác chính là ma pháp trận được vẽ trên sàn nhà. Nó kết nối thế giới của cậu với thế giới này, và với tư cách là tác nhân chính của đại ma pháp triệu hồi đã đưa cậu đến đây, nó là một thứ khiến cậu cực kỳ chán ghét.
 
-Nếu những gì Vua Almadious nói ở phòng diện kiến là đáng tin, thì phép thuật hoạt động bằng cách để một người triệu hồi ở thế giới này vươn tới một thế giới khác. Mục tiêu của cuộc triệu hồi — theo ngôn ngữ thế giới này dùng để mô tả ma pháp — được người triệu hồi kêu gọi. Đó chính là vấn đề, vì người triệu hồi không có cách nào đảo ngược quy trình để đưa mục tiêu trở lại thế giới ban đầu của họ. Cơ chế ma thuật đằng sau ma pháp trận triệu hồi về cơ bản là một tấm vé một chiều vô giá trị, điều mà Suimei coi là một sự phiền phức vô cùng lớn.
+Nếu những gì Vua Almadious nói ở phòng diện kiến là đáng tin, thì phép thuật hoạt động bằng cách để một người triệu hồi ở thế giới này vươn tới một thế giới khác. Mục tiêu của cuộc triệu hồi — theo ngôn ngữ thế giới này dùng để mô tả ma pháp — được người triệu hồi triệu gọi. Đó chính là vấn đề, vì người triệu hồi không có cách nào đảo ngược quy trình để đưa mục tiêu trở lại thế giới ban đầu của họ. Cơ chế ma thuật đằng sau ma pháp trận triệu hồi về cơ bản là một tấm vé một chiều vô giá trị, điều mà Suimei coi là một sự phiền phức vô cùng lớn.
 
 Nhưng chẳng thể làm gì khác được. Nếu không ai biết phép thuật để trở về, Suimei đơn giản sẽ phải tự mình sáng tạo ra nó. Và cậu đã sẵn sàng dốc toàn lực để làm điều đó. Để đạt được mục tiêu, việc phân tích ma pháp trận triệu hồi đã đưa cậu đến đây có vẻ là con đường nhanh nhất để tìm ra manh mối.
 
 "Chỉ còn một chút nữa là việc phân tích sẽ hoàn tất..."
 
-Đã bao nhiêu lần cậu phải lén lút cố gắng làm điều này rồi nhỉ? Trong hai tuần qua, cậu đã tận dụng mọi cơ hội có thể để lẻn ra khỏi phòng và đến gian phòng này nhằm nghiên cứu ma pháp trận mà không để ai phát hiện.
+Đã bao nhiêu lần cậu phải lén lút cố gắng làm điều này rồi nhỉ? Suốt hai tuần qua, cậu đã tận dụng mọi cơ hội lẻn khỏi phòng để đến đây nghiên cứu ma pháp trận mà không để ai phát hiện.
 
-Nhưng đây không phải là một phép thuật tiêu chuẩn, và việc phân tích nó cũng không hề có gì là tiêu chuẩn cả. Thông thường, phân tích ma thuật bắt đầu bằng việc kiểm tra nguồn gốc bản chất của nó, nhưng thông tin về đại ma thuật triệu hồi này được bảo mật nghiêm ngặt đến mức Suimei đã phải bỏ cuộc và quyết định thử một phương pháp khác. Thay vào đó, cậu áp dụng tiếp cận từ trên xuống, bắt đầu bằng việc khảo sát chính vòng tròn ma thuật.
+Thế nhưng đây không phải là một ma pháp thông thường, và việc phân tích nó cũng chẳng tuân theo bất kỳ quy chuẩn nào. Thông thường, việc phân tích ma thuật sẽ bắt đầu bằng cách truy nguyên bản chất của nó, nhưng thuật thức của đại ma pháp triệu hồi này được bảo mật nghiêm ngặt đến mức Suimei đành bỏ cuộc và chuyển hướng. Cậu quyết định phân tích ngược từ ngoài vào trong, bắt đầu bằng việc khảo sát chính vòng tròn ma thuật.
 
 "Được rồi, bắt đầu thôi..."
 
-Nói như thể để thuyết phục bản thân về những gì mình đang làm, Suimei kích hoạt ma thuật phân tích.
+Tự nhủ với bản thân, Suimei kích hoạt ma thuật phân tích.
 
 "Sự tương ứng của vạn vật..."
 
-Phối hợp với lời xướng của Suimei, một ánh sáng ma lực màu ngọc bích bốc lên từ dưới chân cậu. Đó là một thuật thức trận phân tích, và nó sẽ là thứ cậu dùng để giải mã ma pháp trận triệu hồi. Phép thuật thực sự đã được sử dụng để dịch chuyển họ đến đây vẫn chưa được cậu biết rõ. Vòng tròn bên ngoài cung cấp sự hỗ trợ và giữ cho mọi thứ cân bằng, nhưng hoàn toàn không có sự bảo vệ nào từ phía bên kia. Vòng tròn phụ dường như không đóng vai trò gì. Các hình tam giác của biểu đồ bị đảo ngược, gợi ý cách kiểm soát mục tiêu, và các vòng tròn trung gian nhỏ hơn thì...
+Hòa cùng lời xướng của Suimei, một luồng sáng ma lực màu ngọc bích bùng lên dưới chân cậu. Thuật thức trận phân tích này sẽ là công cụ giúp cậu giải mã ma pháp trận triệu hồi. Thuật thức thực sự dùng để dịch chuyển họ đến đây vẫn chưa được làm rõ. Vòng tròn ngoài cùng đóng vai trò hỗ trợ và duy trì sự cân bằng, nhưng hoàn toàn không có kết giới bảo vệ từ phía đối lập. Vòng tròn phụ dường như chỉ để trang trí. Các hình tam giác đảo ngược biểu thị cơ chế kiểm soát mục tiêu, còn các vòng tròn trung gian nhỏ hơn thì...
 
 ***
 
-Sau khi xong việc, Suimei quyết định trở về phòng và rời khỏi gian phòng nghi lễ. Dĩ nhiên là lén lút. Về con đường quay lại, cậu nhớ nó trong đầu. Cậu đã ghi nhớ con đường đi và về từ phòng mình từ lâu. Vừa đi, cậu vừa rì rầm một mình.
+Sau khi xong việc, Suimei lặng lẽ rời khỏi gian phòng nghi lễ. Cậu lần theo ký ức để quay lại phòng của mình. Đường đi lối về từ căn phòng của cậu đã được ghi nhớ kỹ lưỡng. Cậu vừa bước đi vừa lầm bầm suy nghĩ.
 
-"Dù sao thì, việc đến giờ vẫn chưa ai phát hiện ra mình... Về mặt thực tế mà nói, chẳng phải thế là hơi quan ngại sao?"
+"Mà này, đến tận giờ vẫn không có ai phát hiện ra mình... Xét theo tình hình thực tế, chẳng phải hệ thống an ninh này quá đáng ngại sao?"
 
-Đó là sự thật. Suimei đã có thể đi trọn vẹn đường đến và về từ gian phòng nghi lễ nhiều lần mà không bị ai bắt gặp. Vì không muốn bị nhìn thấy, cậu đã dùng ma thuật chiêm tinh để ẩn thân, nhưng ngay cả như vậy, không một ai nghi ngờ hay cảm nhận được có điều gì bất thường.
+Đúng là vậy. Suimei đã đi đi về về giữa gian phòng nghi lễ nhiều lần mà không hề bị bắt gặp. Dù cậu đã dùng phép ẩn thân của ma thuật chiêm tinh để tránh bị nhìn thấy, nhưng việc không một ai nhận ra điều gì bất thường vẫn thật kỳ lạ.
 
-Công tác an ninh có vẻ kém cỏi, nếu không muốn nói là quá lỏng lẻo. Trên đường đi, Suimei thậm chí còn đi lướt qua một người trông giống như cung đình ma đạo sĩ. Cậu thậm chí còn ghé sát vào để trêu ngươi và kiểm tra giới hạn của họ, một hành động trông khá buồn cười, nhưng đối phương hoàn toàn không có phản ứng gì.
+An ninh của hoàng thành này quá lỏng lẻo. Trên đường đi, Suimei thậm chí đã lướt qua một người trông giống như ma đạo sư cung đình. Cậu còn tiến sát lại gần để thử khả năng nhận biết của người đó — một hành động có phần ngốc nghếch — nhưng đối phương hoàn toàn không có chút phản ứng nào.
 
 "Hừm..."
 
-Suimei khoanh tay. Việc không có bất kỳ hệ thống báo động hay ma thuật phát hiện nào được thiết lập khiến Suimei cảm thấy họ khá liều lĩnh. Có lẽ lâu đài chỉ đơn giản là không có ma đạo sĩ tài năng nào trong đội ngũ nhân sự.
+Suimei khoanh tay. Việc không thiết lập bất kỳ hệ thống báo động hay ma pháp dò tìm nào khiến Suimei cảm thấy họ thật bất cẩn. Có lẽ lâu đài này chỉ đơn giản là không tuyển dụng được ma đạo sĩ nào thực sự tài năng.
 
-Nhưng việc Suimei suy ngẫm về các vấn đề an ninh của lâu đài cũng chẳng giải quyết được gì, nên cậu nhanh chóng gạt suy nghĩ đó ra khỏi đầu và tiếp tục bước đi. Thế nhưng chỉ trong khoảnh khắc, cậu nhận ra mình đã vướng vào một rắc rối khá bất ngờ.
+Nhưng lo lắng chuyện an ninh của hoàng cung cũng chẳng ích gì, cậu lắc đầu xua tan ý nghĩ đó và tiếp tục bước đi. Thế nhưng, chỉ trong chớp mắt, cậu nhận ra mình đã vướng vào một rắc rối dở khóc dở cười.
 
 "Thôi xong..."
 
-Tiếng thở dài ngơ ngác thốt ra từ miệng cậu hoàn toàn khớp với nét mặt bần thần lúc này. Suy nghĩ quá nhiều chắc chắn đã làm cậu xao nhãng đến mức đi sai một bước ngoặt nào đó, vì giờ đây cậu đang đứng ở một dãy hành lang hoàn toàn xa lạ. Làm thế nào để quay lại phòng mình từ đây? Câu hỏi đó giờ đây chiếm trọn tâm trí cậu. Cậu chỉ mới ghi nhớ đường đi từ phòng đến phòng nghi lễ, chứ chưa từng buồn học thuộc sơ đồ phần còn lại của lâu đài.
+Tiếng thở dài ngán ngẩm thoát ra từ miệng Suimei hoàn toàn ăn khớp với gương mặt thẫn thờ của cậu lúc này. Mải suy nghĩ đã khiến cậu đi nhầm ngã rẽ, giờ đây cậu đang đứng giữa một hành lang hoàn toàn xa lạ. Làm sao quay lại phòng mình bây giờ? Câu hỏi đó cứ luẩn quẩn trong đầu. Cậu vốn chỉ nhớ đường đi từ phòng đến phòng nghi lễ, chứ chưa từng bận tâm tìm hiểu sơ đồ cấu trúc của hoàng thành.
 
-*Trời ơi, mình đúng là đồ ngốc mà.*
+*Trời ạ, mình ngốc thật đấy.*
 
-Suimei đặt tay lên trán khi ngước nhìn lên trần nhà. Đây lại là một sai lầm ngớ ngẩn khác. Cậu tự trách bản thân về điều đó, nhưng cậu biết dằn vặt cũng chẳng giúp ích gì.
+Suimei vỗ trán ngán ngẩm nhìn lên trần nhà. Lại thêm một sơ suất ngớ ngẩn nữa. Cậu thầm tự trách bản thân, nhưng biết có dằn vặt cũng chẳng giải quyết được gì.
 
-"Thôi kệ vậy... Cứ đi ra chỗ nào đó rồi hỏi đường ai đó vậy."
+"Kệ đi... Cứ đi tìm ai đó để hỏi đường vậy."
 
-Suimei tạm thời giải trừ ma thuật chiêm tinh và đi tìm người. Chắc chắn nếu cậu nói mình bị lạc, ai đó sẽ chỉ đường cho cậu. Với một chút may mắn và đúng thời điểm, sau khi đi dọc hành lang một đoạn ngắn, cậu nhanh chóng phát hiện ra một bóng người.
+Suimei tạm thời giải trừ thuật ẩn thân và bắt đầu tìm xem có ai quanh đây không. Nếu bảo là bị lạc đường, chắc người ta sẽ chỉ lối cho cậu thôi. May mắn thay, chỉ sau khi đi dọc hành lang một đoạn ngắn, cậu đã phát hiện ra một bóng người.
 
 Tiến lại gần từ phía sau, cậu lên tiếng gọi:
 
 "Xin lỗi, cho tôi hỏi chút."
 
-Bóng người mặc áo choàng dừng lại và từ tốn xoay người lại.
+Bóng người mặc áo choàng dừng lại rồi khoan thai xoay người.
 
-"Có chuyện gì... Ôi chao, Suimei-dono."
+"Có chuyện gì... Ôi, Suimei-dono."
 
 "Hửm? À, nếu tôi nhớ không nhầm thì cô là..."
 
 "Tên tôi là Felmenia Stingray."
 
-Giọng nói và khuôn mặt ấy thật quen thuộc. Sau khi lịch sự xưng lại tên mình, cậu nhận ra đây chính là thiếu nữ tóc bạc đã tham gia vào đại ma thuật triệu hồi Dũng sĩ — Cung đình Ma đạo sĩ Felmenia Stingray. Cậu gật đầu thốt ra một tiếng "Àhh" nho nhỏ. Thấy vậy, Felmenia nhíu mày.
+Giọng nói và khuôn mặt ấy thật quen thuộc. Sau khi lịch sự xưng lại tên mình, cậu nhận ra đây chính là thiếu nữ sở hữu mái tóc màu bạc đã tham gia vào đại ma pháp triệu hồi Dũng sĩ — Ma đạo sư cung đình Felmenia Stingray. Cậu gật đầu thốt ra một tiếng "Àhh" nho nhỏ. Thấy vậy, Felmenia nhíu mày.
 
 "Suimei-dono đang làm gì ở đây vậy?"
 
-Đó là một câu hỏi hoàn toàn hợp lý. Sau sự cố ở phòng diện kiến, Suimei đã tự nhốt mình trong gian phòng được cấp. Nhưng giờ cậu lại đột ngột đi lại lang thang mà không có Reiji bên cạnh, việc cô có chút nghi ngờ là điều hoàn toàn tự nhiên.
+Đó là một câu hỏi hoàn toàn hợp lý. Sau sự cố ở phòng diện kiến, Suimei đã tự nhốt mình trong gian phòng được cấp. Nhưng giờ cậu lại đột ngột đi lại lang thang mà không có Reiji bên cạnh, việc cô nảy sinh chút nghi ngờ cũng là điều hoàn toàn dễ hiểu.
 
 "Ồ, tôi chỉ nghĩ mình nên đi dạo một chút để đổi không khí thôi."
 
 "Tôi hiểu. Tôi cũng nghĩ đổi không khí là một ý hay, nhưng ngài vẫn chưa quen thuộc với lâu đài để tự mình đi lại như thế này đâu. Những lúc ngài muốn ra ngoài, tốt hơn là nên gọi ai đó đến dẫn đường."
 
-"Chân thành cảm ơn lời khuyên của cô. Rất mong được giúp đỡ."
+"Tôi vô cùng cảm kích trước lời khuyên của cô. Rất cảm ơn cô."
 
-Mặc dù trông có vẻ cùng tuổi với cậu, thiếu nữ này lại dùng giọng điệu khá trang trọng và lạnh lùng với Suimei. Có lẽ vì vị thế cung đình ma đạo sĩ của mình, nhưng Suimei cũng bắt chước phong cách đó khi đáp lại.
+Mặc dù trông có vẻ cùng tuổi với cậu, thiếu nữ này lại dùng giọng điệu khá trang trọng và lạnh lùng với Suimei. Có lẽ vì vị thế ma đạo sư cung đình của mình, nhưng Suimei cũng bắt chước giọng điệu đó khi đáp lại.
 
-"Rất tiếc phải hỏi sau khi cô đã nhiệt tình giúp đỡ như vậy, nhưng liệu cô có thể giới thiệu cho tôi ai đó biết đường quay về phòng tôi không?"
+"Thật ngại khi phải hỏi sau khi cô đã nhiệt tình chỉ bảo như vậy, nhưng liệu cô có thể giới thiệu cho tôi ai đó biết đường quay về phòng mình không?"
 
-"...Ngài đã quên đường rồi sao?"
+"...Cậu đã quên đường rồi sao?"
 
 "Thật xấu hổ khi phải thừa nhận như vậy."
 
-"Đã hiểu. Tôi biết phòng ngài ở đâu, nhưng tôi có việc phải xử lý nên chỉ có thể đi cùng ngài một đoạn đường thôi. Nếu như vậy là đủ thì xin hãy đi theo tôi."
+"Đã hiểu. Tôi biết phòng cậu ở đâu, nhưng tôi có việc phải xử lý nên chỉ có thể đi cùng cậu một đoạn đường thôi. Nếu như vậy là đủ thì xin hãy đi theo tôi."
 
 "Xin lỗi vì đã làm phiền cô."
 
-Sau khi cúi đầu, Suimei đi theo sau Felmenia khi cô bước dọc hành lang. Vì hiện tại cô đang ở trong lâu đài, có lẽ cô vừa kết thúc buổi học ma pháp với Reiji và Mizuki trong ngày. Cô có thể đang trên đường đi báo cáo cho nhà vua hoặc điều gì đó tương tự. Trong khi Suimei tiếp tục thắc mắc cô đang làm gì, cô đột nhiên dừng bước. Sau đó cô xoay người lại và nói với cậu bằng giọng nhỏ nhẹ.
+Sau khi khẽ cúi đầu chào, Suimei đi theo Felmenia dọc hành lang. Nhìn cô lúc này, có lẽ cô vừa kết thúc buổi dạy ma pháp với Reiji và Mizuki trong ngày. Cô có thể đang trên đường đi báo cáo cho nhà vua hoặc làm việc gì đó tương tự. Trong lúc Suimei còn đang đoán xem cô định đi đâu, Felmenia đột nhiên dừng bước. Sau đó cô xoay người lại và nói với cậu bằng giọng trầm thấp.
 
-"Suimei-dono, tôi có thể hỏi ngài một điều được không?"
+"Cậu Suimei, tôi có thể hỏi cậu một điều được không?"
 
 "Chuyện gì vậy?"
 
-Suimei giục cô tiếp tục bằng một câu hỏi của riêng mình, nhưng thắc mắc tại sao cô lại phải giữ kẽ như vậy. Có lẽ cô định hỏi cậu về ma thuật cậu đã sử dụng trong phòng nghi lễ vào ngày họ gặp nhau. Có khả năng cô đã nhận ra. Trong khi Suimei đang đưa ra giả định u ám đó, Felmenia hỏi cậu bằng một giọng điệu có phần sắc bén.
+Suimei giục cô tiếp tục bằng một câu hỏi của riêng mình, nhưng thắc mắc tại sao cô lại phải giữ kẽ như vậy. Có lẽ cô định hỏi cậu về ma thuật cậu đã sử dụng trong phòng nghi lễ vào ngày họ gặp nhau. Có khả năng cô đã nhận ra. Trong lúc Suimei còn đang thầm đưa ra những phỏng đoán u ám như vậy, Felmenia hỏi cậu bằng một giọng điệu có phần sắc bén.
 
 "Suimei-dono, tại sao ngài lại từ chối tham gia vào cuộc chinh phạt Ma Vương?"
 
 "Dù cô có hỏi tại sao..."
 
-"Dũng sĩ là bạn tốt của ngài. Vậy tại sao ngài lại không bước tiếp và hỗ trợ cậu ấy? Tôi tin rằng ngài đang ở vị thế có thể làm điều đó."
+"Dũng sĩ là bạn tốt của cậu. Vậy tại sao cậu lại không lên đường hỗ trợ cậu ấy? Tôi tin rằng cậu đủ khả năng để làm việc đó."
 
-Đối với Suimei, những người này đã triệu hồi cậu vì sự lười biếng và tiện lợi của họ, nên việc nghe một trong số họ nói về nhiệm vụ và nghĩa vụ — đặc biệt là với cậu — thật buồn cười và vô nghĩa. Dĩ nhiên họ muốn cậu cứu họ, nhưng với cậu, ngay cả ý nghĩ phải làm điều đó cũng khiến cậu bực mình. Nhưng cậu biết mình sẽ chẳng đi đến đâu nếu cứ làm ầm lên mỗi khi chuyện này được nhắc lại, nên cậu quyết định trả lời một cách thẳng thắn nhất có thể.
+Đối với Suimei, những người này đã triệu hồi cậu vì sự lười biếng và tiện lợi của họ, nên việc nghe một trong số họ nói về trách nhiệm và nghĩa vụ — đặc biệt là với cậu — thật buồn cười và vô nghĩa. Dĩ nhiên họ muốn cậu cứu họ, nhưng với cậu, ngay cả ý nghĩ phải làm điều đó cũng khiến cậu bực mình. Nhưng cậu biết mình sẽ chẳng giải quyết được gì nếu cứ nổi đóa lên mỗi khi chuyện này được nhắc lại, nên cậu quyết định trả lời một cách thẳng thắn nhất có thể.
 
 "Câu trả lời của tôi dành cho cô cũng giống như những gì tôi đã nói với Bệ hạ ở phòng diện kiến. Tôi thẳng thừng từ chối làm một việc nguy hiểm như vậy. Đó là lý do tại sao tôi quyết định không đi cùng họ."
 
 Nét mặt Felmenia càng trở nên nghiêm nghị hơn.
 
-"Ngay cả Mizuki-dono yếu đuối cũng nói rằng cô ấy sẽ đi cùng Dũng sĩ, vậy mà ngài thì không?"
+"Ngay cả một người mỏng manh như Mizuki-dono cũng nói rằng cô ấy sẽ đi cùng Dũng sĩ, vậy mà ngài thì không?"
 
 "Tôi không có ý định đưa ra một quyết định cảm tính để rồi bị lôi kéo đi."
 
 "...Ngài đang ám chỉ đó là những gì Mizuki-dono đã làm sao?"
 
-"Chẳng lẽ không phải sao? Trong sự bồng bột của khoảnh khắc đó, cô ấy còn có thể đưa ra câu trả lời nào khác?"
+"Chẳng lẽ không phải sao? Trong lúc nhất thời bồng bột đó, cô ấy còn có thể đưa ra câu trả lời nào khác?"
 
-Suimei biết mình đang tỏ ra cay nghiệt, nhưng những gì cậu nói vẫn là sự thật. Mizuki đã phạm phải sai lầm tương tự như Reiji và đưa ra cam kết mà không hiểu rõ tình hình hoặc dành thời gian thảo luận với bạn bè. Tất cả họ đều bị đặt vào thế khó, nhưng Suimei cảm thấy Reiji và Mizuki đã hành động nông nổi.
+Suimei biết mình đang tỏ ra cay nghiệt, nhưng những gì cậu nói vẫn là sự thật. Mizuki đã phạm phải sai lầm tương tự Reiji khi chấp nhận lời đề nghị mà không hiểu rõ tình cảnh của mình hay thảo luận với bạn bè. Dù cả hai đều bị đặt vào thế khó, nhưng Suimei vẫn cảm thấy hành động của Reiji và Mizuki thật dại dột.
 
-Khi Suimei bỏ đi thái độ nói chuyện trang trọng, thái độ của Felmenia cũng thay đổi. Cô đã đối xử với cậu khá lịch sự cho đến tận bây giờ, nhưng giọng điệu của cô đột nhiên trở nên lạnh băng.
+Thấy Suimei rũ bỏ giọng điệu khách sáo, thái độ của Felmenia cũng lập tức thay đổi. Tuy vẫn đối xử lịch sự với cậu từ nãy đến giờ, nhưng giọng nói của cô bỗng chốc trở nên lạnh tanh.
 
-"Hừm, thật là một kẻ đê tiện."
+"Hừm, thật là một kẻ đáng khinh."
 
 "Cô nói cái gì?"
 
-Đáp lại, Suimei ngay lập tức trở nên khắt khe. Việc thấy Felmenia nhìn cậu một cách khinh bỉ khiến cậu bực bội. Nhưng mặc cho sự thay đổi trong tâm trạng của cậu, cô vẫn tiếp tục đổ thêm dầu vào lửa.
+"Tôi nói cậu là một kẻ đáng khinh, một tên hèn nhát. Cậu thực sự nghĩ mình thông minh khi coi thường sự dũng cảm mà bạn bè cậu đã thể hiện sao? Không, điều đó chỉ khiến cậu trở nên nhỏ mọn và ngu ngốc. Một kẻ hèn hạ như cậu không có quyền tự xưng là bạn của Dũng sĩ."
 
-"Tôi nói ngài là một kẻ đê tiện, đồ hèn nhát thô bỉ. Ngài thực sự nghĩ mình thông minh khi nhìn xuống sự dũng cảm mà bạn bè ngài đã gom góp được sao? Không, điều đó chỉ khiến ngài trở nên nhỏ mọn và ngu ngốc. Một tên khốn như ngài không có quyền tự xưng là bạn của Dũng sĩ."
+"Việc có đồng ý tham gia vào sự điên rồ này hay không, chẳng lẽ cô không nghĩ đó là lựa chọn mà tôi có quyền tự quyết định sao? Để tôi nhắc cho cô nhớ, chúng tôi bị bắt cóc bằng ma thuật — hay 'triệu hồi' như cách các người gọi — rồi bị ép đi chiến đấu để cứu chính những kẻ bắt cóc mình. Chưa nói đến tôi, chẳng lẽ cô không nghĩ bất kỳ người tỉnh táo nào cũng sẽ từ chối chuyện đó sao?"
 
-"Liệu việc đồng ý với sự điên rồ này có phải là điều đúng đắn hay không, ít nhất cô không nghĩ đó là lựa chọn mà tôi phải tự mình đưa ra sao? Để tôi nhắc cho cô nhớ rằng chúng tôi đã bị bắt cóc bằng ma thuật — 'triệu hồi', như các người gọi đấy — và được yêu cầu đi chiến đấu để cứu những kẻ đã bắt cóc chúng tôi. Quên tôi đi. Chẳng lẽ cô không nghĩ bất kỳ người tỉnh táo nào cũng sẽ nói KHÔNG với điều đó sao?"
+Đó là một thực tế phi lý đến không tưởng. Suimei cảm thấy khó hiểu khi có người lại thản nhiên chấp nhận yêu cầu đó. Tuy nhiên, Felmenia dường như hoàn toàn không bị lay chuyển bởi lập luận của cậu.
 
-Đó là một tình huống gần như không thể tưởng tượng nổi. Suimei cảm thấy khó tin rằng bất kỳ ai, ngay cả từ thế giới này, lại thực sự đồng ý với một yêu cầu như vậy. Tuy nhiên, Felmenia dường như hoàn toàn không bị lay chuyển bởi lập luận của cậu.
+"Cho dù cậu được đưa đến đây bởi đại ma pháp triệu hồi Dũng sĩ, và bất kể cậu có tầm thường đến đâu chăng nữa?"
 
-"Cho dù ngài đã được đưa đến đây bởi đại ma thuật triệu hồi Dũng sĩ, bất kể ngài có bất toàn đến đâu?"
-
-"Thì sao chứ? Đâu phải tôi đến đây để giúp các người. Tất cả những gì các người làm là tự ý triệu hồi tôi. Tôi bị lôi vào một tai nạn mà các người gây ra. Bắt cóc, nhớ không? Cô không thấy tôi cũng là nạn nhân ở đây sao? Tôi không biết cô giữ những lý tưởng gì về việc triệu hồi Dũng sĩ hay bất cứ thứ gì tương tự, nhưng tôi hoàn toàn không có nghĩa vụ gì với các người cả. Tôi không nợ các người bất cứ điều gì."
+"Thì sao chứ? Tôi đâu có tự nguyện đến đây để giúp các người. Tất cả những gì các người làm là tự tiện triệu hồi tôi. Tôi chỉ bị cuốn vào cái rắc rối do các người gây ra thôi. Bắt cóc, nhớ chứ? Bộ cô không thấy tôi cũng là nạn nhân ở đây à? Tôi không biết các người tôn sùng cái nghi lễ triệu hồi Dũng sĩ đó đến mức nào, nhưng tôi hoàn toàn không có nghĩa vụ gì với các người cả. Tôi chẳng nợ các người cái gì hết."
 
 Sau khi Suimei nhấn mạnh điều đó thêm nữa, Felmenia gượng gạo thừa nhận rằng cậu có lý.
 
-"...Tôi hiểu những gì ngài đang nói."
+"...Tôi hiểu những gì cậu nói."
 
 "Tốt."
 
-"Nhưng bất kể thế nào, Suimei Yakagi, chẳng lẽ những gì ngài đã làm không phải là vô liêm xỉ so với Dũng sĩ-dono và Mizuki-dono sao?"
+"Nhưng bất kể thế nào, Suimei Yakagi, chẳng lẽ việc cậu làm không phải là quá ích kỷ và hèn nhát khi so với Dũng sĩ-dono và Mizuki-dono sao?"
 
 "Ư..."
 
-Suimei không có ý định tranh cãi với cô ở điểm đó. Cậu không phải là nạn nhân duy nhất trong tất cả chuyện này. Cậu không có lý do gì để tốt với những người đã triệu hồi cậu, nhưng như Felmenia đang nói, họ không phải là những người duy nhất cậu nên suy nghĩ đến. Trong khi Reiji và Mizuki đã vị tha bước lên phía trước dẫu biết nguy hiểm đang chờ đón, Suimei vẫn đang giữ kín danh tính thực sự của mình vì lý do cá nhân. Điều đó thật vô liêm xỉ. Thậm chí là ích kỷ. Và cậu biết điều đó. Cậu sẽ không bào chữa.
+Suimei không định tranh cãi ở điểm này. Cậu không phải nạn nhân duy nhất của sự việc. Cậu chẳng việc gì phải tử tế với kẻ đã triệu hồi mình, nhưng đúng như Felmenia nói, họ không phải là những người duy nhất cậu cần bận tâm. Trong khi Reiji và Mizuki sẵn lòng dấn thân vào hiểm nguy vì người khác, Suimei vẫn giấu kín danh phận thực sự vì lý do cá nhân. Đó quả là việc làm ích kỷ, và cậu tự biết rõ điều đó. Cậu không muốn biện minh.
 
-"Ừ, được rồi... Cô bắt bài tôi rồi đấy. Việc tôi quan tâm đến bản thân mình hơn thế giới này rất có thể là vì tôi hoàn toàn không có liêm xỉ."
+"Ừ, được rồi... Cô bắt bài tôi rồi đấy. Việc tôi quan tâm đến bản thân mình hơn thế giới này có lẽ là vì tôi chẳng có chút tinh thần trượng nghĩa nào thật."
 
-"Ngài có thể thừa nhận điều đó, nhưng ngài vẫn không giúp họ sao? Thật là một tên khốn. Ngài hết thuốc chữa rồi."
+"Cậu có thể thừa nhận điều đó, nhưng vẫn quyết không giúp họ sao? Thật là hết thuốc chữa."
 
-Nghe Suimei thừa nhận mình vô liêm xỉ, Felmenia bùng nổ. Khi nói đến các vấn đề đạo đức, có vẻ như cô cảm thấy rất mạnh mẽ.
+Thấy Suimei thừa nhận mình ích kỷ, Felmenia lại càng tức giận. Xem ra cô nàng này có quan niệm đạo đức vô cùng mạnh mẽ.
 
-*Chẹp... Cái cô này...*
+*Chậc... Cái cô này...*
 
-Tuy nhiên, đối với Suimei, sự tức giận của Felmenia hoàn toàn nằm ngoài dự đoán. Cậu chẳng thích thú gì khi bị bảo là hết thuốc chữa, nhưng cô đang giận dữ vì Reiji và Mizuki. Sau khi chứng kiến họ làm việc chăm chỉ như vậy, cô đơn giản là không thể chịu nổi thái độ bỡn cợt của Suimei về vấn đề này. Khi nhận ra điều đó, mặc cho vai trò của cô trong cuộc triệu hồi khốn khổ đã đưa cậu đến đây, cậu bắt đầu nghĩ cô thực sự là một người tốt.
+Tuy nhiên, phản ứng giận dữ của Felmenia hoàn toàn nằm ngoài dự kiến của Suimei. Bị mắng là hết thuốc chữa thì chẳng vui vẻ gì, nhưng cô ấy giận là vì nghĩ cho Reiji và Mizuki. Chứng kiến hai người họ nỗ lực tập luyện mỗi ngày, cô không thể chịu nổi thái độ thờ ơ của Suimei. Nhận ra điều đó, dù cô có tham gia vào nghi lễ triệu hồi tai hại đã bắt cóc cậu, Suimei vẫn cảm thấy cô thực chất là một người tốt.
 
-Nhưng trong khi những gì cô mắng cậu là hoàn toàn có lý, cậu không có ý định cởi mở với cô và nói cho cô biết sự thật thực sự. Luận văn của cậu là thứ gì đó gần như lý do sống của cậu, nhưng nó là riêng tư. Và thay vào đó, cậu thản nhiên nhún vai và trả lời như thể cậu chẳng quan tâm dù chỉ một chút.
+Dù những lời mắng mỏ của cô hoàn toàn có lý, cậu vẫn không có ý định cởi mở và tiết lộ sự thật cho cô biết. Nghiên cứu của cậu gần như là lý tưởng sống, nhưng đó là chuyện riêng tư. Vì vậy, cậu chỉ thản nhiên nhún vai, đáp lại bằng vẻ mặt bất cần.
 
 "Rồi rồi. Cho tôi xin lỗi nhé."
 
-"Đồ khốn!"
+"Tên khốn!"
 
 Felmenia thấy rõ sự không hài lòng với thái độ xấc láo của Suimei, và lườm cậu như muốn phóng dao. Quan trọng hơn, Suimei có thể thấy ma lực bên trong cơ thể cô đang trở nên dao động dữ dội.
 
 "Này này... cô định làm gì ở một nơi như thế này thế?"
 
-Một làn sóng sát khí mạnh mẽ quét qua hành lang đá. Trong khi vẫn tập trung vào Felmenia khi sự giận dữ của cô chỉ ngày càng tăng lên, Suimei ôm lấy hai bên đầu. Đó trông như một cử chỉ ngán ngẩm, nhưng cậu đã sẵn sàng nếu tình huống tồi tệ nhất xảy ra. Ngay khoảnh khắc sau, Felmenia bắt đầu dệt nên một phép thuật một cách lưu khoát.
+Một luồng sát khí mạnh mẽ quét qua hành lang đá. Vẫn khóa chặt tầm mắt vào Felmenia khi cơn giận của cô chỉ ngày càng tăng lên, Suimei đưa tay ôm đầu. Đó trông có vẻ như một cử chỉ ngán ngẩm, nhưng thực chất cậu đã sẵn sàng đối phó nếu tình huống tồi tệ nhất xảy ra. Ngay giây tiếp theo, Felmenia bắt đầu thi triển một ma pháp một cách lưu loát.
 
-"Câm miệng đi, đồ ngu ngốc. Tôi, Felmenia Bạch Hỏa, sẽ đánh cho ngài sáng mắt ra!"
+"Im miệng đi, đồ ngốc! Tôi, Felmenia Bạch Hỏa, sẽ dạy cho cậu một bài học để cậu tỉnh ngộ ra!"
 
 "Thôi nào... Tại sao chuyện lại thành ra thế này chứ?"
 
-"Ngài nên soi gương và tự hỏi mình câu đó đi!"
+"Cậu nên tự soi gương mà hỏi chính mình câu đó đi!"
 
 "Ý tôi là, cô muốn nói gì thì nói, nhưng mà..."
 
-Nhận thấy Felmenia đã nổi giận quá mức vì tất cả chuyện này, Suimei phát ra một tiếng rên rỉ có phần bối rối. Việc cô ấy bốc hỏa không vì lý do chính đáng nào sẽ chỉ làm mọi chuyện trở nên khó khăn hơn cho cậu. Bản thân Suimei là người không hề hứng thú với một cuộc chiến, nhưng khi Felmenia nhận ra cậu không hề coi trọng cô, cô chỉ càng thêm tức giận.
+Nhận ra Felmenia đã nổi giận lôi đình, Suimei khẽ thở dài đầy bối rối. Bị cuốn vào trận chiến vô lý này chỉ khiến mọi chuyện thêm rắc rối. Bản thân Suimei vốn chẳng muốn đánh nhau, nhưng thái độ hờ hững của cậu chỉ càng khiến Felmenia phát điên.
 
-"Tên khốn... Ngài có đang nghe tôi nói không đấy?!"
+"Tên khốn... Cậu có đang nghe tôi nói không đấy?!"
 
-"Có, và tôi nghe cô rất rõ mà không cần phải hét lên đâu. Nếu cô cứ gào lên như thế, cô sẽ bắt đầu làm phiền người khác đấy, hiểu chưa?"
+"Có nghe chứ, tôi nghe rất rõ mà cô đâu cần phải hét lên. Cứ gào lên như thế sẽ làm phiền người khác đấy."
 
-"Thật... thật bất lịch sự... Không, đồ khốn! Ngài cần phải nghiêm túc chú ý khi—"
+"Thật... thật bất lịch sự... Không, tên khốn này! Cậu phải tập trung chú ý khi—"
 
 "Trời ơi, bình tĩnh lại chút đi... Hửm?"
 
-Khi Felmenia ngày càng trở nên phẫn nộ, Suimei gãi đầu với nét mặt phiền muộn. Bắt đầu nghĩ rằng không có cách nào ngăn cản chuyện này bùng nổ thành một cuộc ẩu đả, cậu dành một khoảnh khắc để đánh giá đối thủ của mình. Đôi mắt nheo lại của cậu nhìn cô từ trên xuống dưới, và chính lúc đó cậu nhận ra gấu áo choàng của cô đang bị kẹt giữa đế giày và sàn nhà. Nói cách khác, cô đang tự dẫm lên áo choàng của chính mình.
+Nhìn Felmenia ngày càng phẫn nộ, Suimei gãi đầu ngán ngẩm. Nhận ra không cách nào tránh khỏi trận đánh này, cậu dành vài giây để đánh giá đối thủ. Cậu nheo mắt quan sát cô từ đầu đến chân, và ngay lúc đó, cậu nhận ra vạt áo choàng của cô đang bị kẹt dưới đế giày. Nói cách khác, cô đang tự giẫm lên áo choàng của mình.
 
-"N-Này, chờ chút. Cô sắp..."
+"N-N-Này, chờ chút. Cô sắp..."
 
-Ngã. Và ngã một cách kịch tính. Cô sẽ tự làm mình vấp ngã một cách ngoạn mục bởi chính chiếc áo choàng của mình. Cậu có thể hình dung rõ ràng tương lai đó.
+Ngã. Một cú vấp ngã vô cùng kịch tính. Cô nàng chắc chắn sẽ tự vấp áo choàng của mình mà ngã nhào một cách ngoạn mục. Viễn cảnh đó hiện lên rõ mồn một trong đầu cậu.
 
 "Cái gì?! Tôi sắp cái gì?!"
 
 "Tôi chỉ muốn nói là nếu cô cứ tiếp tục như thế này, thì... Cô thấy đấy, chân cô..."
 
-"Ngài nghĩ tôi sẽ mắc bẫy một trò lừa dối lộ liễu như vậy sao, đồ khốn?! Đừng có xúc phạm tôi!"
+"Cậu nghĩ tôi sẽ mắc bẫy một mẹo lừa lộ liễu như vậy sao, tên khốn?! Đừng có coi thường tôi!"
 
-"Không, tôi không xúc phạm cô hay gì đâu. Nhưng trời ạ, bình tĩnh lại đi. Nghiêm túc đấy..."
+"Không, tôi không có coi thường cô. Nhưng trời ạ, bình tĩnh lại đi. Tôi nói nghiêm túc đấy..."
 
-Rốt cuộc, đó là một bi kịch. Bị sự tức giận nuốt chửng, Felmenia đã không chú ý đến lời cảnh báo của Suimei. Cô không hề nhìn xuống chân mình, và khoảnh khắc tiên đoán của Suimei đã trở thành hiện thực.
+Kết cục thật bi kịch. Bị cơn giận dữ nuốt chửng, Felmenia đã không chú ý đến lời cảnh báo của Suimei. Cô không hề nhìn xuống chân mình, và dự cảm của Suimei đã trở thành hiện thực.
 
 "Hả? ÁAAAA!"
 
-Cố gắng bước một bước về phía trước trong khi áo choàng vẫn bị dẫm dưới chân, Felmenia lao về phía trước một cách dữ dội đến mức áo choàng của cô bị lộn ngược ra phía sau. Không chỉ ngã nhào, trông cô như đang cố tình phơi vòng ba ra trước mặt người khác trong khi làm vậy.
+Cố gắng bước một bước về phía trước trong khi áo choàng vẫn bị dẫm dưới chân, Felmenia lao về phía trước một cách dữ dội đến mức vạt áo choàng của cô bị hất ngược ra sau. Không chỉ ngã nhào, trông cô cứ như đang cố tình phơi vòng ba vào mặt người khác vậy.
 
-"Cái...?! Ngài đã làm gì thế, đồ khốn?! Áo... áo choàng của tôi, áo choàng của tôi..."
+"Cái...?! Cậu đã làm gì thế, tên khốn kia?! Áo... áo choàng của tôi, áo choàng của tôi..."
 
 Với phần sau của chiếc áo choàng giờ đây lộn ngược trùm qua đầu, Felmenia không thể nhìn thấy gì cả.
 
@@ -252,33 +250,33 @@ Với phần sau của chiếc áo choàng giờ đây lộn ngược trùm qua 
 
 "Ngài nói cái gì...?! Hả? Hả?"
 
-Khi cô tức giận vùng vẫy, Felmenia rốt cuộc lại tự quấn mình vào chiếc áo choàng như một cái lưới. Việc cô có thể tự trói mình một cách gọn gàng như vậy thực sự là một kỳ tích đáng kinh ngạc theo cách riêng của nó. Suimei chờ cô đứng dậy, nhưng trái ngược với kỳ vọng của cậu, tất cả những gì bốc lên từ đống vải trên sàn chỉ là một tiếng khóc nheo nhóc đầy nước mắt.
+Trong lúc giãy giụa tức tối, Felmenia rốt cuộc tự quấn mình vào chiếc áo choàng như cá mắc lưới. Việc cô có thể tự trói mình một cách gọn gàng như thế quả thực là một kỳ tích đáng kinh ngạc theo nghĩa nào đó. Suimei đứng đợi cô đứng dậy, nhưng trái với mong đợi của cậu, từ đống vải lộn xộn trên sàn chỉ phát ra tiếng thút thít mếu máo đầy nước mắt.
 
 "Nó không ra... Nó không ra được áááá..."
 
-"Trời ạ. Bó tay thật sự..."
+"Trời ạ. Bó tay luôn..."
 
-Khuôn mặt hơi ửng đỏ, Suimei đặt tay lên trán ngán ngẩm. Cảnh tượng Felmenia với chiếc quần lót lộ ra hoàn toàn và vòng ba cong vút nhô ra khi cô ngọ ngoậy trên sàn nhà thật sự không gì khác ngoài hai từ "tội nghiệp".
+Khuôn mặt hơi đỏ lên, Suimei vỗ trán đầy ngán ngẩm. Cảnh tượng Felmenia lộ cả nội y, vòng ba cong vút nhô lên khi cô quằn quại trên sàn nhà thật sự quá đỗi đáng thương.
 
-Cậu không thể cứ để cô như vậy được. Cô chưa hẳn làm gì sai nghiêm trọng, nên cậu không thấy có hại gì khi giúp cô. Cố gắng tránh ánh mắt khỏi chiếc quần lót đang phơi ra hết mức có thể, Suimei gỡ chiếc áo choàng đã tự quấn chặt trong nỗ lực giải thoát bất thành của cô, rồi vòng tay qua người cô để kéo cô đứng dậy.
+Cậu không thể cứ để cô như vậy được. Cô chưa hẳn làm gì sai nghiêm trọng, nên cậu không thấy có hại gì khi giúp cô. Cố gắng tránh ánh mắt khỏi phần nội y đang phơi bày hết mức có thể, Suimei gỡ chiếc áo choàng đang quấn chặt lấy người cô, rồi vòng tay đỡ lấy người cô để kéo cô đứng dậy.
 
-"Á?! N-N-Ngài đang làm cái gì thế?!"
+"Kya?! N-N-Cậu đang làm cái gì thế?!"
 
-"Được rồi đấy. Đứng yên chút đi... Hợp lực nào."
+"Được rồi, đứng yên chút đi... Nào, lên nào."
 
-Suimei phớt lờ những lời phản đối của cô và giúp cô đứng vững trở lại. Khi cô đã đứng lên, cậu thậm chí còn chỉnh lại những phần áo choàng bị xộc xệch.
+Mặc kệ lời phản đối của cô, Suimei đỡ cô đứng dậy, thậm chí còn tốt bụng chỉnh lại vạt áo choàng xộc xệch cho cô.
 
 "Thế... Xong rồi. Cô có sao không?"
 
-Felmenia vẫn còn bần thần và không có câu trả lời cho cậu. Cô chỉ ngơ ngác nhìn, và Suimei không thể không chú ý đến vết bẩn trên mặt cô. Điều đó thật không giống một tiểu thư chút nào; cô hẳn đã dính nó khi lăn lộn trên sàn nhà. Mặc dù cô vừa mới tức giận với cậu vài phút trước, giờ đây cậu lại thấy thương hại cô. Cậu lấy chiếc khăn tay trong túi ra và bắt đầu lau vết bẩn trên mặt Felmenia.
+Felmenia vẫn chưa kịp hoàn hồn nên không biết trả lời sao. Cô chỉ biết ngơ ngác nhìn cậu, lúc này Suimei mới chú ý thấy một vết nhọ trên mặt cô. Vết nhọ trông thật không hợp với một tiểu thư khuê các; hẳn là cô đã dính phải lúc lăn lộn trên sàn. Dù mới vài phút trước cô còn đằng đằng sát khí với mình, giờ nhìn cô lấm lem cậu lại thấy tội nghiệp. Suimei rút chiếc khăn tay trong túi áo ra, nhẹ nhàng lau vết bẩn trên mặt Felmenia.
 
-*Nghiêm túc đấy, thật là phiền phức quá đi...*
+*Phiền phức thật đấy...*
 
 Và khi cậu làm vậy...
 
 "Á... Hả...?"
 
-Trông như vẫn chưa hiểu chuyện gì đang xảy ra, đôi mắt Felmenia đảo quanh như thể đang đánh giá tình hình.
+Vẫn chưa định thần được chuyện gì đang diễn ra, Felmenia chỉ biết bần thần chớp mắt.
 
 "ÁAAAAAAAAAAAAAAAA!"
 
@@ -288,15 +286,15 @@ Sau đó cô hét lên.
 
 Suimei giật nẩy mình nhảy lùi lại. Felmenia đang lườm cậu, mặt đỏ bừng.
 
-"N-N-N-Ngài đang làm cái gì thế, đồ khốn?!"
+"N-N-N-Cậu đang làm cái gì thế, tên khốn?!"
 
 "Tôi đang làm gì ư? Cô không hỏi cũng nhìn thấy rồi còn gì?"
 
-"Không phải cái đó! Ý tôi là, ý tôi là... Tại sao ngài lại làm cái kiểu..."
+"Không phải chuyện đó! Ý tôi là, ý tôi là... Tại sao cậu lại tự tiện làm thế..."
 
-"Trông cô như đang cần một bàn tay giúp đỡ."
+"Trông cô có vẻ như đang cần được giúp đỡ."
 
-"T-Tôi không hề cần sự giúp đỡ nào hết, đồ khốn! Tôi đã sẵn sàng hạ gục ngài rồi, cho ngài biết đấy! Nhưng rồi mặt tôi..."
+"T-Tôi không cần giúp đỡ gì hết, tên khốn! Tôi đã sẵn sàng để hạ đo ván cậu rồi đấy! Nhưng mặt tôi..."
 
 ---
 

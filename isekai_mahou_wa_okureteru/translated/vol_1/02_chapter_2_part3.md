@@ -1,24 +1,28 @@
-Và gia nhân trong lâu đài rất thích bàn tán về cậu. Cô đã nghe đủ loại chuyện. Phải chăng cậu trốn trong phòng vì khiếp sợ việc bị đưa đến một vùng đất xa lạ, hay cậu đang hờn dỗi như một đứa trẻ vì không đạt được những gì mình muốn. Tất cả đều có vẻ hợp lý, nhưng mọi thứ cô nghe được đều đến từ miệng của cùng những người quá dễ dàng nhạo báng cậu là một kẻ hèn nhát và thô bỉ. Nhưng dù thế nào đi nữa...
+Gia nhân trong lâu đài rất thích bàn tán về cậu. Cô đã nghe đủ loại tin đồn. Rằng cậu trốn trong phòng vì khiếp sợ việc bị đưa đến một thế giới xa lạ, hay cậu đang hờn dỗi như một đứa trẻ vì không có được những gì mình muốn. Tất cả nghe đều có vẻ hợp lý, nhưng mọi thứ cô nghe được đều phát ra từ miệng của những kẻ dễ dàng chế giễu cậu là một kẻ hèn nhát và thô bỉ. Nhưng dù thế nào đi nữa...
 
 "Rốt cuộc là..."
 
-Rốt cuộc cậu ấy đang làm gì ở khu vực phía bắc thưa thớt người của lâu đài này? Khoảnh khắc câu hỏi đó xẹt qua tâm trí cô, Felmenia không thể đè nén sự tò mò của mình trước một ẩn số như vậy. Cô dành một khoảnh khắc cân nhắc.
+Rốt cuộc cậu ta đang làm gì ở khu vực phía bắc thưa thớt người của lâu đài này? Khoảnh khắc câu hỏi đó xẹt qua tâm trí cô, Felmenia không thể đè nén sự tò mò trước một ẩn số như vậy. Cô dừng lại cân nhắc một lát.
 
-*Giờ học ma pháp của Dũng sĩ không phải là được sắp xếp chính xác từ trước. Mình vẫn còn chút thời gian trước khi cần có mặt ở đó, nên hãy xem chuyện này dẫn đến đâu một chút xem...*
+*Giờ học ma pháp của Dũng sĩ không được ấn định thời gian cụ thể từ trước. Mình vẫn còn chút thời gian trước khi phải có mặt ở đó, nên cứ đi theo xem thế nào vậy...*
 
-Và thế là Felmenia nhanh chóng đưa ra quyết định và đi theo Suimei. Và cô không chỉ được thúc đẩy bởi sự tò mò hay mong muốn xin lỗi. Với tư cách là một người phụng sự lâu đài, đây là nghĩa vụ của cô như một cung đình ma đạo sĩ. Nếu có bất kỳ khả năng nào cậu ấy đang tìm kiếm sự trả thù vì cuộc triệu hồi và dự định làm điều gì đó nguy hiểm, cô có nghĩa vụ phải ngăn chặn cậu ấy. Dù nói vậy, Felmenia vẫn muốn tin rằng đó không phải là trường hợp xảy ra.
+Nghĩ vậy, Felmenia lập tức quyết định bám theo Suimei. Nhưng hành động của cô không chỉ đơn thuần xuất phát từ sự tò mò hay mong muốn xin lỗi. Với tư cách là một người phụng sự hoàng gia, đây là nghĩa vụ của một ma đạo sư cung đình như cô. Nếu có bất kỳ khả năng nào cậu ta muốn trả thù vì bị triệu hồi và định làm điều gì đó nguy hiểm, cô có bổn phận phải ngăn chặn. Dẫu vậy, trong thâm tâm Felmenia vẫn hy vọng mọi chuyện không phải như thế.
 
-*Không...*
+Không...
 
-Nhưng đó không phải là thứ duy nhất trong tâm trí cô. Suimei biết về sự sắp xếp của cô với Dũng sĩ, bao gồm cả lịch trình của họ. Điều đó có nghĩa là cậu ấy hẳn phải biết rằng cậu ấy sẽ không gặp cô nếu lén lút đi lại vào giờ này.
+Nhưng đó không phải là điều duy nhất cô bận tâm. Suimei biết việc cô hướng dẫn cho Dũng sĩ, kể cả lịch trình của họ. Điều đó có nghĩa là cậu ta hẳn phải biết rằng mình sẽ không đụng mặt cô nếu lén lút đi lại vào giờ này.
 
-*Đúng vậy. Khi chúng ta đến chào đón họ vào ngày họ mới đến, Suimei-dono nhất định đã...*
+*Đúng vậy. Vào cái ngày họ mới đến, khi chúng tôi vào phòng chào đón họ, Suimei-dono nhất định đã...*
 
-Cậu ấy đã cố gắng sử dụng một loại ma thuật nào đó. Khi họ mở cửa gian phòng đặc biệt được dựng lên ở khu phía bắc hẻo lánh của lâu đài rõ ràng cho mục đích triệu hồi Dũng sĩ, họ đã bắt gặp cậu ấy đang chuẩn bị sử dụng một thuật thức. Felmenia là người duy nhất nhận ra điều đó. Công chúa sở hữu tài năng lớn của một ma đạo sĩ, nhưng ngay cả cô ấy cũng không nhận ra.
+Cậu ta đã định sử dụng một loại ma pháp nào đó. Khi họ mở cửa gian phòng đặc biệt được xây dựng ở khu phía bắc hẻo lánh của lâu đài dành riêng cho việc triệu hồi Dũng sĩ, họ đã bắt gặp cậu ta đang chuẩn bị kích hoạt một thuật thức. Felmenia là người duy nhất nhận ra điều đó. Công chúa sở hữu tài năng thiên phú của một pháp sư, nhưng ngay cả ngài ấy cũng không nhận ra.
 
-Tuy nhiên, cậu ấy đã giải trừ phép thuật ngay khi nhìn thấy họ, và cư xử như thể không có chuyện gì xảy ra kể từ đó. Nhưng không thể nhầm lẫn được. Felmenia hoàn toàn chắc chắn về những gì cô đã nhìn thấy và cảm nhận được. Đó không phải là ảo giác của cô. Không còn nghi ngờ gì nữa, chàng trai tên Suimei Yakagi chính là một ma đạo sĩ.
+Tuy nhiên, cậu ta đã giải trừ thuật thức ngay khi nhìn thấy họ, và từ đó đến nay luôn cư xử như thể không có chuyện gì xảy ra. Nhưng không thể nhầm lẫn được. Felmenia hoàn toàn chắc chắn về những gì mình đã nhìn thấy và cảm nhận được. Đó không phải là ảo giác. Không còn nghi ngờ gì nữa, chàng trai tên Suimei Yakagi chính là một ma đạo sĩ.
 
-Nhưng Reiji và Mizuki đã nói rằng không có ma thuật ở thế giới của họ. Họ đã mô tả thế giới họ đến một cách chi tiết, bao gồm cả khoa học và vô số mốc phát triển cùng thành tựu của nó. Họ có những cấu trúc lớn gấp nhiều lần ngay cả Hoàng thành Camellia có thể chiếu sáng đêm tối như ban ngày. Họ có những thiết bị cho phép con người bay lên không trung và vươn tới mặt trăng. Nhìn chung, chất lượng cuộc sống của họ nhờ khoa học cao đến mức thế giới này khó có thể xách dép được.
+Nhưng Reiji và Mizuki đều khẳng định rằng thế giới của họ không hề có ma pháp. Họ đã mô tả chi tiết về thế giới của mình, từ khoa học kỹ thuật cho đến vô số thành tựu phát triển. Họ có những công trình vĩ đại gấp nhiều lần Hoàng thành Camellia, có thể chiếu sáng đêm tối như ban ngày. Họ có những cỗ máy giúp con người bay lượn trên bầu trời và vươn tới cả mặt trăng. Nhìn chung, chất lượng cuộc sống nhờ khoa học kỹ thuật của họ cao tới mức thế giới này khó lòng sánh kịp.
+
+Và chắc chắn Reiji không hề nói dối. Ánh mắt thẳng thắn của cậu không chứa đựng chút gian dối nào, tính cách và hành vi của cậu cũng không có một vệt thiếu trung thực. Vậy làm thế nào mà Suimei lại có thể sử dụng ma pháp? Phải chăng ngay cả những người bạn thân thiết nhất cũng không biết cậu có thể làm được điều đó?
+
+Vừa đi vừa suy ngẫm về những câu hỏi đó, Felmenia lại bắt gặp bóng dáng của Suimei. Cô cuối cùng đã đuổi kịp cậu, nhưng có vẻ như Suimei vẫn chưa nhận ra cô. Cậu vẫn bước đi thong thả và không hề quay đầu lại, dường như không nhận ra có người bám theo. Nhìn bóng cậu rẽ vào một góc cua khác, cô vội vã đuổi theo. Nhưng ngay khi cô vừa rẽ vào góc cua ấy...��ng thiết bị cho phép con người bay lên không trung và vươn tới mặt trăng. Nhìn chung, chất lượng cuộc sống của họ nhờ khoa học cao đến mức thế giới này khó có thể xách dép được.
 
 Và chắc chắn không có vẻ gì là Reiji đang nói dối. Ánh mắt thẳng thắn của cậu ấy không chứa đựng một chút gian dối nào, và không có một vết gợn thiếu trung thực nào trong bản tính hay hành vi của cậu ấy. Vậy làm thế nào mà Suimei lại có thể sử dụng ma thuật? Phải chăng ngay cả những người bạn thân của cậu ấy cũng không nhận ra cậu ấy có thể làm điều đó?
 
@@ -28,115 +32,115 @@ Suy ngẫm về những câu hỏi đó khi bước đi, Felmenia lại bắt g�
 
 "Á!"
 
-Felmenia phản ứng theo bản năng khi nghe thấy một tiếng la lên. Ngay khi cô sắp va chạm với ai đó, cô bước né sang một bên. Khi lấy lại bình tĩnh và nhìn lại, cô thấy một nữ hầu của lâu đài đang đứng đó trong sự hoảng hốt. Cô ấy hẳn phải là người đã la lên.
+Felmenia phản ứng theo bản năng khi nghe thấy tiếng thét. Ngay trước khi sắp va chạm với đối phương, cô vội tránh sang một bên. Sau khi đứng vững lại và quan sát kỹ, cô thấy một nữ hầu của lâu đài đang đứng đó trong sự hoảng hốt. Cô ấy hẳn là người vừa la lên.
 
-"Tôi xin lỗi. Cô có sao không?"
+"Ta xin lỗi. Ngươi có sao không?"
 
-"K-Không, tôi mới là người nên xin lỗi! Stingray-sama, mặt ngài có bị thương không?"
+"K-Không, hạ nhân mới là người đáng trách! Stingray-sama, ngài không bị thương ở mặt chứ ạ?"
 
-"Hả? Không, tại sao? Trông nó giống vậy sao?"
+"Hả? Không, tại sao chứ? Trông giống như ta bị thương lắm sao?"
 
-"Th-Thế ngài có bị thương ở chỗ nào khác không?! Áaa! Tôi phải làm gì đây?!"
+"Th-Thế ngài có bị thương ở đâu khác không ạ?! Áaa! Hạ nhân biết phải làm sao đây?!"
 
-"Không, tôi hoàn toàn không bị thương. Vì tôi đã né sang một bên, tôi thậm chí không có một hạt bụi nào dính vào người để chứng minh cho tất cả chuyện này."
+"Không, ta hoàn toàn không sao. Nhờ tránh kịp lúc, ngay cả một vệt bụi cũng không dính lên người ta đâu."
 
-Có chuyện gì lớn lao đâu cơ chứ? Họ đã suýt soát né được nhau, nhưng cô hầu gái lại làm ầm lên một cách thái quá như thể cô ấy đã cá nhân xúc phạm Felmenia vậy. Không có một ai trong lâu đài sẽ phạt cô ấy vì một sơ suất nhỏ như vậy. Felmenia cố gắng trấn an cô ấy bằng một nụ cười nhẹ nhàng. Thấy vậy, cô hầu hít một hơi sâu và trông có vẻ nhẹ nhõm hơn một chút.
+Có chuyện gì to tát đâu cơ chứ? Họ đã tránh được nhau trong gang tấc, nhưng cô hầu gái lại làm ầm lên như thể vừa phạm phải tội tày đình với Felmenia vậy. Trong cái lâu đài này chẳng ai lại đi phạt một người hầu vì lỗi vô ý nhỏ nhặt như thế cả. Felmenia cố gắng trấn an cô ấy bằng một nụ cười nhẹ nhàng. Thấy vậy, cô hầu gái thở phào nhẹ nhõm.
 
-"Thật sao...? Tôi mừng quá..."
+"Thật vậy sao ạ...? Hạ nhân mừng quá..."
 
-"Xin lỗi vì sự náo động."
+"Xin lỗi vì hạ nhân đã gây ra náo động ạ."
 
-"K-Không có gì đâu ạ!"
+"D-Dạ không có gì đâu ạ!"
 
-"Rất tốt."
+"Được rồi."
 
-Felmenia gật đầu một cách uy nghiêm. Điều đó thật lịch sự, nhưng không theo phong cách nghiêm ngặt mà lễ nghi cung đình đôi khi đòi hỏi. Đó là một cử chỉ bắt chước hành vi của vị hiền giả từng là người hướng dẫn của cô. Cô tin rằng việc mang hình ảnh đó, mặc dù cô còn trẻ, sẽ truyền tải được sự uy nghiêm của cô mà không quá áp đặt lễ nghi.
+Felmenia gật đầu một cách uy nghiêm. Đó là một cử chỉ lịch thiệp nhưng không quá gò bó theo nghi thức cung đình nghiêm ngặt. Cử chỉ này được bắt chước từ người thầy quá cố của cô, một vị hiền giả. Cô tin rằng việc giữ phong thái này, dù tuổi đời còn trẻ, sẽ giúp cô toát lên vẻ uy nghiêm cần có mà không tạo cảm giác quá xa cách.
 
-Đáp lại, cô hầu gái chỉ nhìn cô với ánh mắt say đắm. Phải mất vài giây cô ấy mới nhận ra mình đang chằm chằm nhìn, và khi nhận ra, cô ấy xấu hổ cúi đầu.
+Đáp lại, cô hầu gái chỉ biết nhìn cô với ánh mắt ngưỡng mộ. Phải mất vài giây cô ấy mới nhận ra mình đang nhìn chằm chằm, cô ấy ngượng ngùng cúi gằm mặt xuống.
 
-"Tôi-Tôi xin lỗi!"
+"H-Hạ nhân xin lỗi!"
 
-"Không, không sao đâu."
+"Không sao đâu."
 
-Sau khi bảo cô ấy không cần lo lắng, và sau khi cô hầu cúi chào thêm một lần nữa, Felmenia sắp sửa cáo lui thì nhận ra một điều.
+Sau khi bảo cô hầu không cần bận tâm, nhìn cô ấy cúi chào một lần nữa, Felmenia định rời đi thì chợt nhận ra một điều.
 
-"Xin lỗi, nhưng tôi có thể phiền cô một chút được không?"
+"Cho ta hỏi một chút được không?"
 
-"Ồ? Á, dĩ nhiên rồi. Có chuyện gì sao ạ?"
+"Dạ? Ôi, dĩ nhiên là được ạ. Có chuyện gì sao ạ?"
 
-"Ngay trước khi chúng ta đụng phải nhau, cô hẳn phải đi qua một thanh niên. Cô có tình cờ thấy cậu ấy đi đâu không?"
+"Ngay trước khi ta và ngươi suýt va vào nhau, chắc ngươi đã đi lướt qua một chàng trai chứ? Ngươi có thấy cậu ta đi hướng nào không?"
 
-"...Không? Tôi e rằng cho đến khi tôi đụng phải ngài vừa rồi, Stingray-sama, tôi chưa từng thấy ai ở đây cả..."
+"...Dạ không? Hạ nhân xin lỗi, nhưng cho đến khi chạm mặt ngài vừa rồi, Stingray-sama, hạ nhân chưa từng thấy ai đi qua đây cả..."
 
 "Cái gì?!"
 
-Thật không giống với bản thân mình, Felmenia nâng cao giọng. Cô đơn giản là không thể tin những gì cô hầu gái vừa nói.
+Felmenia lỡ cao giọng, một hành động hoàn toàn đi ngược lại với phong thái thường ngày của cô. Cô không thể tin vào những gì mình vừa nghe.
 
-"Ư-Ừm, có chuyện gì tồi tệ xảy ra sao ạ...?"
+"D-Dạ, có chuyện gì nghiêm trọng lắm sao ạ...?"
 
-"Tôi hỏi lại cô một lần nữa: cô thực sự không gặp ai ở hành lang này sao?"
+"Ta hỏi lại ngươi một lần nữa: ngươi thực sự không gặp ai ở hành lang này sao?"
 
-"Th-Thật sự ạ."
+"D-Dạ, thực sự là vậy ạ."
 
-"Cô không nói dối đấy chứ?"
+"Ngươi không nói dối ta chứ?"
 
-"Không. Tôi thề nhân danh Nữ thần Alshuna. Tôi sẽ không bao giờ nói dối ngài, Stingray-sama."
+"Dạ không. Hạ nhân xin thề nhân danh Nữ thần Alshuna. Hạ nhân tuyệt đối không dám nói dối ngài, Stingray-sama."
 
-Co rúm lại dưới ánh mắt đe dọa của Felmenia, cô hầu gái đã thề nhân danh vị thần duy nhất mà Giáo hội Cứu Thế thờ phụng, Alshuna, rằng cô ấy đang nói sự thật. Nhưng điều đó không thể đúng được. Không đời nào hai người họ lại không đi lướt qua nhau. Trong khi điều đó đang xoay mòng mòng trong đầu Felmenia, cô bắt đầu đặt câu hỏi cho cô hầu gái một lần nữa.
+Sợ hãi trước ánh mắt sắc lẹm của Felmenia, cô hầu gái đã thề nhân danh vị thần duy nhất mà Giáo hội Cứu Thế thờ phụng, Alshuna, rằng mình đang nói thật. Nhưng điều đó vô lý hết sức. Không thể nào hai người họ lại không lướt qua nhau được. Đầu óc đang rối bời, Felmenia lại gặng hỏi tiếp:
 
-"Đơn giản là không thể có chuyện cô không nhìn thấy cậu ấy. Ngay trước khi tôi rẽ vào góc này, Suimei-dono, một người bạn của Dũng sĩ, lẽ ra phải đi qua đây."
+"Không thể có chuyện ngươi không nhìn thấy cậu ta được. Nguyệt trước khi ta rẽ vào đây, Suimei-dono — người bạn đi cùng Dũng sĩ — lẽ ra phải đi qua lối này chứ."
 
-"Một trong những người bạn của Dũng sĩ sao? Nhưng tôi không..."
+"Một người bạn của Dũng sĩ sao ạ? Nhưng hạ nhân quả thực..."
 
-Đôi mắt bối rối của cô hầu đảo quanh một cách hoảng hốt như thể đang tìm kiếm câu trả lời đúng. Việc nhìn thấy sự bối rối chân thật của cô ấy chỉ làm Felmenia thêm bối rối.
+Đôi mắt của cô hầu gái đảo liên hồi, trông sợ sệt như thể đang cố tìm ra câu trả lời vừa ý chủ nhân. Nhìn thấy sự bối rối chân thật đó, Felmenia chỉ càng thêm hoang mang.
 
-"Chuyện này rốt cuộc là..."
+"Rốt cuộc chuyện này là thế nào..."
 
-"Ư-Ừm, Stingray-sama, tôi được chờ đợi ở khu phía nam, nên... ừm..."
+"D-Dạ, Stingray-sama, hạ nhân đang có việc gấp ở khu phía nam, nên... ừm..."
 
-"Á-À, xin lỗi. Tôi xin lỗi vì đã giữ cô lại vì một chuyện kỳ lạ như vậy."
+"À-Ta xin lỗi. Ta lỡ giữ ngươi lại vì một chuyện kỳ lạ như vậy rồi."
 
-"Không có gì đâu ạ. Nếu vậy tôi xin phép..."
+"Dạ không sao ạ. Nếu không có gì nữa, hạ nhân xin phép..."
 
-Cô hầu cáo lui sau khi rụt rè cúi chào Felmenia.
+Cô hầu khom lưng cáo lui sau khi rụt rè cúi chào Felmenia.
 
-Sau đó...
+Sau khi cô hầu cúi đầu lui đi...
 
-Felmenia nhìn theo cô hầu gái, nhưng đôi mắt cô nheo lại khi cô xoay chuyển tình huống kỳ lạ này trong đầu. Chuyện gì vừa xảy ra vậy? Có vẻ như ngay sau khi cô nhìn thấy cậu ấy lần cuối, Suimei đã đơn giản biến mất.
+Felmenia nhìn theo bóng dáng cô hầu rời đi, đôi mắt cô nheo lại khi cô suy ngẫm về tình huống kỳ lạ này. Chuyện gì vừa xảy ra vậy? Có vẻ như ngay sau khi cô nhìn thấy cậu lần cuối, Suimei đã biến mất không một dấu vết.
 
-*Mình vẫn còn thời gian. Hãy quan sát xung quanh thêm chút nữa xem.*
+*Vẫn còn thời gian. Mình sẽ đi thám thính quanh đây thêm chút nữa xem sao.*
 
-Felmenia tiến sâu hơn vào khu phía bắc. Nhưng đúng như cô hầu đã nói, dường như không có ai khác xung quanh. Cuối cùng, cô đến gian phòng cuối cùng ở khu phía bắc, gian phòng nghi lễ. Và cô đã có một sự ngạc nhiên lớn.
+Felmenia tiến sâu hơn vào khu phía bắc. Đúng như cô hầu gái đã nói, xung quanh dường như không có một bóng người. Cuối cùng, cô đến gian phòng tận cùng ở khu phía bắc — căn phòng nghi lễ. Và cô vô cùng kinh ngạc.
 
-*Gì—?!*
+*Cái gì—?!*
 
-Những gì cô đang thấy là không thể xảy ra. Cô phải nhìn lại hai lần mới tin vào mắt mình, nhưng cánh cửa dẫn vào gian phòng nghi lễ, nơi không ai có thể mở ngoại trừ trong trường hợp khẩn cấp khi người đứng đầu các cung đình ma đạo sĩ ra lệnh, lại đang khép hờ.
+Điều cô đang thấy trước mắt là không thể nào. Cô phải dụi mắt nhìn lại lần nữa mới dám tin, cánh cửa dẫn vào gian phòng nghi lễ vốn nghiêm cấm bất cứ ai xâm nhập ngoại trừ trường hợp khẩn cấp có lệnh từ trưởng cung đình ma đạo sư, lúc này lại đang hé mở.
 
-Không chỉ có chỉ thị rằng cánh cửa không bao giờ được mở trừ khi cần thiết, nó còn phải được phong ấn bằng ma thuật đặc biệt để giữ cho nó đóng chặt. Trừ khi ai đó biết cách giải trừ nó, không ai có thể bước vào. Nhưng chắc chắn cánh cửa đang mở mặc dù chỉ có nhà vua và các cung đình ma đạo sĩ mới có khả năng làm điều đó.
+Nơi đây không chỉ có quy định nghiêm ngặt cấm mở cửa bừa bãi, nó còn được phong ấn bằng mật pháp đặc biệt để ngăn kẻ đột nhập. Nếu không biết cách giải trừ phong ấn, không ai có thể đặt chân vào. Vậy mà cánh cửa kia quả thực đang hé mở, dù chỉ có nhà vua và các ma đạo sư cung đình mới có khả năng hóa giải mật pháp.
 
-Nhưng nếu cả nhà vua lẫn các cung đình ma đạo sĩ khác đều không có mặt ngoại trừ Felmenia, thì chính xác thì ai đã làm điều này? Cô nuốt nước bọt và che giấu sự hiện diện của mình khi tiến lại gần. Thay vì cơ bắp, xương và da, chính sự căng thẳng thuần túy đang giữ cô lại lúc này.
+Nhưng nếu cả nhà vua lẫn các ma đạo sư cung đình khác đều không có mặt ngoại trừ Felmenia, thì kẻ nào đã làm việc này? Cô nuốt khan, ẩn đi hơi thở rồi nhẹ nhàng tiến lại gần. Cơ thể cô như đông cứng lại, không phải vì mỏi mệt mà bởi sự căng thẳng tột độ đang bao trùm.
 
-Ai có thể ở bên trong phòng? Cô có thể đoán dựa trên chuỗi sự kiện đã đưa cô đến đây, nhưng cô không thể ngăn trái tim mình đập liên hồi. Khi cô nhìn qua khe hở nhỏ của cánh cửa, cô có thể thấy một cuốn sổ tay màu trắng tinh khiết — một thứ thực sự hiếm có ở Astel — cũng như một ống hình trụ bằng thủy tinh dài, hẹp, và Suimei Yakagi, người đang cầm cả hai vật thể trong khi cau mày nhìn ma pháp trận triệu hồi. Có vẻ như cậu ấy đang rầm rầm một mình và tập trung khá chăm chú vào cuốn sổ và ống hình trụ mỏng.
+Kẻ nào đang ở bên trong phòng? Dù có thể đoán được dựa trên chuỗi sự kiện dẫn cô đến đây, cô vẫn không thể ngăn tim mình đập liên hồi. Khi nhìn qua khe hở nhỏ của cánh cửa, cô thấy một cuốn sổ tay màu trắng tinh khôi — thứ thực sự hiếm có ở Astel — cùng một ống thủy tinh dài, hẹp, và Suimei Yakagi, người đang cầm cả hai vật và cau mày nhìn ma pháp trận triệu hồi. Có vẻ cậu đang lẩm bẩm một mình, tập trung cao độ vào cuốn sổ cùng ống thủy tinh mảnh ấy.
 
-*Đúng như mình nghi ngờ...*
+*Quả nhiên đúng như mình nghi ngờ...*
 
-Loại ma thuật và mưu mẹo nào cậu ấy đã sử dụng để mở cánh cửa? Felmenia ngạc nhiên, nhưng cô không thể phủ nhận những gì đang ở ngay trước mắt. Cô giờ đây đã có bằng chứng không thể chối cãi rằng Suimei chính là một ma đạo sĩ.
+Cậu ta đã dùng loại ma pháp hay mánh khóe nào để mở được cánh cửa này? Felmenia không khỏi kinh ngạc, nhưng cô không thể phủ nhận thực tế hiển hiện trước mắt. Cô giờ đây đã có bằng chứng không thể chối cãi rằng Suimei chính là một ma đạo sĩ.
 
-*Nhưng... mình phải làm gì đây? Mình có nên lộ diện không?*
+*Nhưng... mình phải làm sao bây giờ? Có nên lộ diện không đây?*
 
-Felmenia bị giằng xé giữa bí ẩn trước mắt và luật pháp của đất nước khi cô vắt óc suy nghĩ về vấn đề này. Đây là khu vực cấm. Thông thường cô sẽ ngay lập tức xông vào để ngăn cản cậu ấy. Đó là những gì nghĩa vụ của cô như một cung đình ma đạo sĩ yêu cầu. Nhưng chàng trai này lại là bạn của Dũng sĩ. Không chỉ vậy, cậu ấy còn là một ma đạo sĩ.
+Felmenia vắt óc suy nghĩ, giằng xé giữa việc khám phá bí ẩn trước mắt và tuân thủ luật pháp quốc gia. Đây là khu vực cấm. Thông thường cô sẽ ngay lập tức xông vào để ngăn cản cậu ta. Đó là trách nhiệm của một ma đạo sư cung đình. Nhưng chàng trai này lại là bạn của Dũng sĩ. Hơn nữa, cậu ta lại là một ma đạo sĩ thực thụ.
 
-Chắc chắn, ngay cả khi đối thủ của cô cũng là một ma đạo sĩ, Felmenia vẫn hoàn toàn tự tin rằng cô có thể khuất phục cậu ấy. Mối quan tâm chính của cô là thân phận bạn của Dũng sĩ của cậu ấy. Nếu có một màn náo loạn khác liên quan đến Suimei, Dũng sĩ có thể bị lôi vào. Và Felmenia không thể mạo hiểm làm bất cứ điều gì cuối cùng có thể dẫn đến việc Dũng sĩ thay đổi ý định về việc chinh phạt Ma Vương. Điều đó sẽ là một cuộc khủng hoảng nghiêm trọng cho cả Astel lẫn thế giới.
+Dĩ nhiên, kể cả khi đối thủ cũng là một ma đạo sĩ, Felmenia vẫn tự tin có thể áp chế được cậu ta. Điều duy nhất khiến cô do dự là thân phận bạn của Dũng sĩ. Nếu lại xảy ra rắc rối liên quan đến Suimei, Dũng sĩ chắc chắn sẽ bị liên lụy. Mà Felmenia thì không thể mạo hiểm làm bất cứ điều gì khiến Dũng sĩ lung lay quyết ý đi tiêu diệt Ma Vương. Chuyện đó sẽ là một thảm họa khôn lường cho cả Astel lẫn toàn thế giới.
 
-*Nhưng người này... Cậu ấy đang làm gì thế? Cậu ấy có vẻ đang phân tích ma pháp trận triệu hồi, nhưng...*
+*Nhưng người này... Cậu ta đang làm gì thế? Cậu ta có vẻ đang phân tích ma pháp trận triệu hồi, nhưng...*
 
-Nhìn từ góc độ của một ma đạo sĩ, hành động của cậu ấy hoàn toàn khó hiểu. Cậu ấy có vẻ như đang điều tra ma pháp trận triệu hồi, nhưng theo cách nghiệp dư nhất có thể. Cậu ấy chỉ ngẫu nhiên đi lại theo vòng tròn với cuốn sổ và ống hình trụ trên tay. Rất khó để gọi đó là phân tích.
+Dưới góc nhìn của một ma đạo sĩ, hành động của cậu ta vô cùng kỳ lạ. Cậu ta trông có vẻ đang nghiên cứu ma pháp trận triệu hồi, nhưng cách làm lại cực kỳ nghiệp dư. Cậu ta chỉ đi quanh quẩn theo vòng tròn, trên tay cầm cuốn sổ và ống thủy tinh. Như thế thì sao gọi là phân tích cho được.
 
-Để phân tích một phép thuật, một vòng tròn ma thuật thứ hai phải được vẽ xung quanh vòng tròn ban đầu. Từ đó, bạn sẽ sử dụng nó để làm lộ diện phép thuật và đọc nó. Đó là thực hành tiêu chuẩn khi nói đến việc phân tích ma thuật, nhưng nó hoàn toàn không giống với những gì Suimei đang làm. Đối với Felmenia, cậu ấy trông ít giống một ma đạo sĩ hơn và giống một người bình thường không biết gì về ma thuật đang tự ý mò mẫm thử nghiệm và sai sót.
+Thông thường, để phân tích một thuật thức, người ta phải vẽ một vòng ma pháp thứ hai bao quanh vòng tròn ban đầu. Thông qua đó, người ta mới có thể hiển thị hóa và giải mã thuật thức. Đó là quy chuẩn bắt buộc của việc giải mã ma pháp, khác xa với những gì Suimei đang làm. Trong mắt Felmenia, cậu trông ít giống một ma đạo sĩ hơn là một người thường không biết gì về ma pháp đang tự mò mẫm thử sai.
 
-Dù sao đi nữa, ma pháp trận triệu hồi này là thứ đã được truyền lại mà không có kiến thức về các quy luật đằng sau bản thân phép thuật. Chưa ai từng thực sự có thể phân tích và hiểu thấu nó, nhưng...
+Hơn nữa, ma pháp trận triệu hồi này vốn là di sản được truyền lại từ xưa mà không hề kèm theo tài liệu giải thích nguyên lý hoạt động. Cho đến nay, chưa một ai có thể giải mã hay thấu hiểu được nó, vậy mà...
 
-Rốt cuộc, Felmenia đã không thể hành động hay lên tiếng gọi cậu ấy. Cô không làm gì ngoài việc quan sát những hành động kỳ lạ của Suimei cho đến khi đến lúc cô phải đi gặp Dũng sĩ.
+Cuối cùng, Felmenia vẫn không dám manh động hay lên tiếng gọi cậu ta. Cô chỉ biết im lặng quan sát những hành vi kỳ lạ của Suimei cho đến tận lúc phải đi gặp Dũng sĩ.
 
 ***
 
@@ -190,113 +194,113 @@ Nói rồi, vị cung đình ma đạo sĩ nhanh chóng thối lui. Felmenia đ�
 
 ***
 
-"Về người bạn tốt của Dũng sĩ, cô nói sao?"
+"Ngươi muốn báo cáo gì về người bạn của Dũng sĩ sao?"
 
-Hiện tại là một vài ngày sau khi Felmenia chứng kiến hành vi kỳ lạ của Suimei. Cô đang ở trong phòng diện kiến của Hoàng thành Camellia trước mặt nhà vua. Lý do cho cuộc gặp của họ, hoàn toàn tự nhiên, chính là Suimei. Sau khi thấy cậu ấy trong gian phòng nghi lễ, Felmenia đã quan sát kỹ lưỡng cậu ấy và giờ đây đang báo cáo những phát hiện của mình cho nhà vua. Cô quỳ một gối trước mặt ông, nhưng nhà vua trông có vẻ bối rối.
+Vài ngày sau khi chứng kiến hành vi kỳ lạ của Suimei, cô diện kiến đức vua tại phòng đại sảnh của Hoàng thành Camellia. Lý do cho buổi diện kiến này đương nhiên là về Suimei. Sau khi phát hiện cậu ta lén lút ở gian phòng nghi lễ, Felmenia đã âm thầm quan sát và giờ đây đang báo cáo những gì mình điều tra được cho đức vua. Cô quỳ một gối trước mặt ông, trong khi đức vua tỏ vẻ bối rối.
 
 "Vâng, tâu Bệ hạ."
 
-"Ý cô là Mizuki Anoh sao?"
+"Ý ngươi là Mizuki Anoh sao?"
 
-"Không, tâu Bệ hạ. Những gì thần muốn tâu với Bệ hạ liên quan đến người kia, Suimei Yakagi."
+"Không, tâu Bệ hạ. Điều hạ thần muốn báo cáo liên quan đến chàng trai còn lại, Suimei Yakagi."
 
 Khi Felmenia xướng tên cậu, nhà vua nhăn mặt.
 
-"Hừm. Theo như những gì ta được thông báo, cậu ta vẫn chưa rời khỏi phòng mình sau màn náo loạn mà cậu ta gây ra."
+"Hửm. Theo báo cáo ta nhận được, cậu ta vẫn chưa bước chân ra khỏi phòng từ sau vụ náo loạn hôm đó mà."
 
-"Thần e rằng không phải như vậy, tâu Bệ hạ. Trong thực tế, Suimei-dono đã được nhìn thấy đi lại quanh lâu đài trong nhiều dịp."
+"Hạ thần e rằng thực tế không phải như vậy, tâu Bệ hạ. Suimei-dono đã nhiều lần bị bắt gặp đi lại xung quanh lâu đài."
 
-Felmenia đã xác định điều này từ các cuộc điều tra của cô trong vài ngày qua. Sau khi chứng kiến cậu ấy lén lút cho chính mình, cô đã dùng tất cả thời gian rảnh rỗi của mình để đào sâu hơn vào những gì cậu ấy đang làm quanh lâu đài. Từ đó, cô phát hiện ra rằng việc tự cô lập bản thân là một sự giả tạo hoàn toàn. Trong thực tế, cậu ấy khá hoạt động và có khả năng đã như vậy suốt thời gian qua. Nghe tin này, nhà vua trao cho Felmenia một ánh nhìn thăm dò và giọng điệu của ông trở nên nghiêm khắc.
+Felmenia đã xác định điều này qua các cuộc điều tra trong vài ngày qua. Kể từ khi chính mắt nhìn thấy hành vi lén lút của cậu ta, cô dành toàn bộ thời gian rảnh để điều tra kỹ hơn. Qua đó, cô phát hiện chuyện cậu ta tự nhốt mình trong phòng chỉ là vỏ bọc. Thực chất, cậu ta hoạt động rất tích cực, và có lẽ đã làm vậy suốt thời gian qua. Nghe vậy, nhà vua nhìn Felmenia đầy nghi hoặc, giọng điệu ông cũng trầm xuống đầy nghiêm nghị.
 
-"Ta chưa từng nghe thấy bất kỳ báo cáo nào như vậy trước đây."
+"Ta chưa từng nhận được báo cáo nào như vậy trước đây cả."
 
-"Cậu ấy đang duy trì vỏ bọc rằng mình bị nhốt trong phòng, và di chuyển đằng sau hậu trường."
+"Cậu ta tạo vỏ bọc tự giam mình trong phòng để dễ dàng hành động trong bóng tối."
 
-"Mạch không bị ai phát hiện sao?"
+"Mà không bị ai phát hiện sao?"
 
-"Vâng, tâu Bệ hạ. Có vẻ như chỉ có một nắm người, bao gồm cả thần, thực sự biết về điều này."
+"Vâng, tâu Bệ hạ. Dường như chỉ có số ít người, bao gồm cả hạ thần, thực sự phát hiện ra chuyện này."
 
 Nhà vua chau mày bối rối trước lời giải thích của Felmenia.
 
-"Điều này hoàn toàn vô lý đối với ta. Làm sao cậu ta có thể đi lại quanh lâu đài, mà lại có quá ít người nhận ra?"
+"Ta thấy chuyện này thật vô lý. Sao cậu ta có thể đi lại tự do trong lâu đài mà lại có ít người nhận ra đến thế?"
 
-"Việc thần tình cờ gặp cậu ấy đi lại là sự trùng hợp hoàn toàn. Lý thuyết của thần là để tránh ánh mắt của người khác, cậu ấy đang sử dụng một loại ma thuật nào đó."
+"Việc hạ thần chạm trán cậu ta hoàn toàn là ngẫu nhiên. Hạ thần suy đoán rằng cậu ta đã dùng ma pháp để che mắt người khác."
 
-"Ma thuật, cô nói sao? Cô đã dạy cậu ta à?"
+"Ma pháp sao? Ngươi đã dạy cho cậu ta à?"
 
-"Không, tâu Bệ hạ. Thần không dạy cậu ta bất cứ điều gì."
+"Không, tâu Bệ hạ. Hạ thần không hề dạy cậu ta bất cứ điều gì."
 
-"Vậy thì sao? Một cung đình ma đạo sĩ khác đã làm điều đó?"
+"Vậy thì thế nào? Một ma đạo sư cung đình khác đã dạy sao?"
 
-"Không, tâu Bệ hạ. Thần tin rằng Suimei-dono đã có thể sử dụng ma thuật ngay từ ban đầu."
+"Không, tâu Bệ hạ. Hạ thần tin rằng Suimei-dono vốn đã có thể sử dụng ma pháp từ trước khi tới đây."
 
-Nhà vua đã do dự và bối rối cho đến tận lúc này, nhưng với những từ ngữ đó, ông giờ đây trông hoàn toàn bàng hoàng. Felmenia đã dự đoán trước điều đó.
+Nhà vua đã do dự và bối rối từ đầu, nhưng khi nghe những lời này, ông hoàn toàn kinh ngạc. Felmenia không ngoài dự đoán trước phản ứng này.
 
-"Felmenia, ta đã được bảo rằng ma thuật không tồn tại ở thế giới mà Dũng sĩ đến. Bản thân Dũng sĩ đã nói rằng họ có công nghệ thay thế cho nó, và rằng ma thuật chỉ là một sự tưởng tượng đối với họ."
+"Felmenia, ta từng nghe nói ma pháp không tồn tại ở thế giới của Dũng sĩ. Chính Dũng sĩ cũng khẳng định họ có nền khoa học kỹ thuật phát triển thay thế cho ma pháp, và ma pháp ở đó chỉ là sản phẩm của trí tưởng tượng."
 
-"Thần hiểu, tâu Bệ hạ. Bản thân thần đã cá nhân nói chuyện với Dũng sĩ về vấn đề đó, nhưng dẫu vậy, thần có thể nói với sự chắc chắn rằng Suimei-dono có thể sử dụng ma thuật."
+"Hạ thần hiểu, tâu Bệ hạ. Hạ thần cũng đã từng hỏi chuyện Dũng sĩ về điều đó, tuy nhiên hạ thần dám khẳng định chắc chắn rằng Suimei-dono biết dùng ma pháp."
 
-"Cô đang nói rằng Dũng sĩ đã nói dối sao?"
+"Ý ngươi là Dũng sĩ đang nói dối sao?"
 
-"Không, tuyệt đối không có gì gợi ý điều đó, tâu Bệ hạ."
+"Không, hoàn toàn không có bằng chứng nào cho thấy cậu ta nói dối, tâu Bệ hạ."
 
-Reiji không nói dối. Cô có thể nói điều đó một cách dứt khoát. Năng khiếu của Reiji như một ma đạo sĩ là khá cao, nhưng khi nói đến kiến thức căn bản về ma thuật, có thể nói rằng cậu ấy hoàn toàn không có một chút nào. Nhà vua dường như cũng sẵn sàng tin tưởng vào sự trung thực của Reiji.
+Reiji không nói dối. Cô có thể khẳng định điều đó. Năng khiếu ma pháp của Reiji khá cao, nhưng cậu ta hoàn toàn không có chút kiến thức cơ bản nào về ma pháp cả. Nhà vua dường như cũng tin tưởng vào sự trung thực của Reiji.
 
-"Đúng vậy, bản thân ta cũng tin tưởng ở cậu ấy. Tuy nhiên..."
+"Đúng vậy, ta cũng tin tưởng cậu ấy. Nhưng..."
 
-"Bệ hạ muốn biết tại sao lại có sự mâu thuẫn giữa tuyên bố của Reiji-dono và khả năng của Suimei-dono, đúng không ạ?"
+"Bệ hạ đang thắc mắc vì sao lại có sự mâu thuẫn giữa lời nói của Reiji-dono và thực lực của Suimei-dono đúng không ạ?"
 
-"Đúng vậy. Hoặc là chàng trai trẻ đó đã cá nhân yêu cầu che giấu sức mạnh của mình từ trước, hoặc là Dũng sĩ thậm chí còn không nhận thức được thực tế rằng ma thuật thực sự tồn tại ở thế giới mà cậu ấy đến. Thật là bí ẩn."
+"Đúng vậy. Hoặc là chàng trai đó đã chủ động che giấu thực lực từ trước, hoặc chính Dũng sĩ cũng không hề biết rằng ma pháp thực sự hiện hữu ở thế giới của họ. Thật là kỳ lạ."
 
-Ngay cả nhà vua cũng bối rối về điều này. Ma thuật là một loại công nghệ theo cách riêng của nó. Ngay cả ở thế giới này, nó có thể bảo vệ con người và cải thiện chất lượng cuộc sống của họ. Ma thuật là bản chất của vũ trụ, và do đó đối với tất cả đời sống có trí tuệ cư ngụ trong đó. Con người không thể cắt đứt mối liên kết của họ với nó bất kỳ nhiều hơn những gì họ có thể với lịch sử của chính họ.
+Ngay cả đức vua cũng bối rối về điều này. Ma pháp cũng là một dạng kỹ nghệ. Ở thế giới này, nó giúp bảo vệ con người và cải thiện đời sống. Ma pháp là cội nguồn của vũ trụ, gắn liền với mọi sinh linh có trí tuệ. Con người không thể cắt đứt sợi dây liên kết với ma pháp, cũng giống như không thể chối bỏ lịch sử của chính mình vậy.
 
-Vậy làm thế nào mà thế giới của Dũng sĩ — một thế giới có công nghệ tiên tiến như vậy — lại không có ma thuật? Bất kể khoa học của họ có phát triển và vượt trội đến đâu, nó cũng không phải là điều tương tự như ma thuật. Đơn giản là không thể để ma thuật trở nên hoàn toàn lỗi thời. Vậy thì làm thế nào Reiji có thể tuyên bố một cách trung thực như vậy rằng thế giới của cậu ấy nghĩ đó chỉ là chuyện tưởng tượng?
+Dù khoa học của họ có tiến bộ vượt bậc đến đâu, nó cũng không thể thay thế hoàn toàn cho ma pháp. Lẽ nào ma pháp lại có thể bị đào thải hoàn toàn sao? Vậy tại sao Reiji lại có thể khẳng định chắc nịch rằng thế giới của họ chỉ xem ma pháp là điều tưởng tượng?
 
-"Tâu Bệ hạ, thần chắc chắn thế giới Dũng sĩ đến là một thế giới phức tạp. Nhưng hiện tại, vấn đề cấp bách trước mắt..."
+"Tâu Bệ hạ, thế giới của Dũng sĩ có lẽ vô cùng phức tạp. Nhưng chuyện cấp bách lúc này..."
 
-"Chính là chàng trai trẻ đang lén lút quanh lâu đài, đúng không?"
+"Chính là chàng trai đang lén lút quanh lâu đài đúng không?"
 
 "Vâng, tâu Bệ hạ."
 
-"Mặc dù họ là người mới đến thế giới này và là những người ngoài cuộc, ta không đặt ra hạn chế nào cho sự di chuyển của họ trong lâu đài. Không có vấn đề gì với việc cậu ta tự do đi lại trong khuôn viên, nên cậu ta không có lý do gì để che giấu nó..."
+"Dù họ là người ngoài thế giới mới đến đây, ta cũng không hề hạn chế việc đi lại của họ trong hoàng cung. Việc cậu ta tự do đi lại trong khuôn viên lâu đài là hoàn toàn được phép, đáng lẽ cậu ta không cần phải giấu giếm..."
 
-Suimei là một vị khách, giống như Dũng sĩ. Liên quan đến sự ở lại của họ trong lâu đài, nhà vua đã sắc lệnh rằng họ được tự do đi lại và làm những gì họ muốn, và gia nhân lâu đài phải hỗ trợ họ nếu có bất kỳ điều gì họ cần hoặc muốn. Trong một màn thể hiện sự hiếu khách và cân nhắc của mình, nhà vua đã không đặt ra bất kỳ hạn chế nào cho họ. Và sau khi suy ngẫm về tình huống kỳ lạ này một khoảnh khắc, nhà vua đã đưa ra câu trả lời của mình liên quan đến sự di chuyển của Suimei.
+Suimei là khách quý giống như Dũng sĩ. Về việc cư trú của họ trong lâu đài, đức vua đã ban lệnh rằng họ được tự do đi lại và làm bất cứ điều gì mình thích, gia nhân trong lâu đài phải tận tình hỗ trợ khi họ cần. Để bày tỏ lòng hiếu khách và sự chu đáo, nhà vua đã trao cho họ đặc quyền này. Nghĩ ngợi một lát về tình huống kỳ lạ này, nhà vua đưa ra phán quyết về việc đi lại của Suimei.
 
-"Rốt cuộc, ta không tin rằng có vấn đề gì ở đây."
+"Xét cho cùng, ta nghĩ chuyện này cũng không có vấn đề gì lớn."
 
-"Thần e rằng, tâu Bệ hạ, những nơi mà Suimei-dono đã ghé thăm quả thực làm cho nó trở thành một vấn đề lớn."
+"Hạ thần e rằng những nơi Suimei-dono đặt chân tới lại là vấn đề rất nghiêm trọng, tâu Bệ hạ."
 
-"Những nơi cậu ta đã ghé thăm, cô nói sao? Rốt cuộc cậu ta đã đi đâu?"
+"Những nơi cậu ta đặt chân tới sao? Rốt cuộc cậu ta đã đi đâu?"
 
-"Đầu tiên là thư viện. Cậu ấy đến mỗi ngày để lấy nhiều cuốn sách và mang chúng về phòng mình."
+"Đầu tiên là thư viện. Cậu ta đến đó mỗi ngày để mượn rất nhiều sách về phòng đọc."
 
-"Cô không nói thế chứ... Ta cứ nghĩ cậu ta đã dành thời gian một cách nhàn rỗi, nhưng ta khá ấn tượng rằng cậu ta đã ghé thăm thư viện. Vì cậu ta không thể trở về thế giới của mình, cậu ta có lẽ đang cố gắng tích lũy kiến thức về thế giới của chúng ta."
+"Ta không ngờ đấy... Ta cứ nghĩ cậu ta chỉ lười biếng giết thời gian, không ngờ cậu ta lại chăm chỉ tới thư viện. Có lẽ vì không thể trở về, cậu ta đang cố gắng tìm hiểu thêm về thế giới này."
 
-Nhà vua có một nét mặt ngạc nhiên và một sự lấp lánh trong mắt khi ông lên tiếng chấp thuận mảnh tin tức này. Ông gật đầu liên tục, dường như bị cảm động bởi câu chuyện về chàng trai trẻ bị triệu hồi trái với ý muốn của mình, nhưng từ chối bị đánh bại bởi nó và chìm đắm vào việc nghiên cứu. Và ông không sai về phần đó, nhưng còn có nhiều điều hơn nữa đối với câu chuyện.
+Đức vua tỏ vẻ ngạc nhiên, ánh mắt hiện lên vẻ tán thưởng trước thông tin này. Ông liên tục gật đầu, có vẻ xúc động trước tinh thần của chàng trai trẻ — dù bị triệu hồi ngoài ý muốn nhưng không hề nản lòng mà vẫn nỗ lực nghiên cứu học hỏi. Nhà vua suy đoán không sai, nhưng câu chuyện không chỉ dừng lại ở đó.
 
-"Điều đó có thể đúng, tâu Bệ hạ, nhưng có bằng chứng cậu ấy cũng đã đi vào khu lưu trữ cấm nữa."
+"Chuyện đó quả thực không sai, tâu Bệ hạ, nhưng hạ thần đã tìm thấy bằng chứng cho thấy cậu ta còn đột nhập vào cả khu lưu trữ cấm."
 
-"C-Cô nói cái gì?! Không, không thể nào. Không phải ai cũng có thể tự do bước vào đó..."
+"Ngươi... ngươi nói cái gì?! Không thể nào. Nơi đó làm sao có thể tự tiện ra vào..."
 
-Đúng như tên gọi, khu lưu trữ cấm là nơi giới hạn đối với hầu hết mọi người. Vì các tài liệu lịch sử và quan trọng được lưu trữ ở đó, việc ra vào khu lưu trữ được quy định nghiêm ngặt bằng ma thuật. Nhà vua chính đáng giật mình khi nghe Suimei đã có được quyền truy cập bằng cách nào đó.
+Khu lưu trữ cấm là khu vực bất khả xâm phạm đối với hầu hết mọi người. Vì các tài liệu lịch sử quan trọng được lưu trữ ở đó, lối ra vào được canh phòng nghiêm ngặt bằng phong ấn ma pháp. Nên việc đức vua sửng sốt khi nghe tin Suimei bằng cách nào đó đã lọt được vào đây cũng là điều dễ hiểu.
 
-"Có vẻ như cậu ấy đã làm điều đó một cách dễ dàng, tâu Bệ hạ."
+"Nhưng dường như cậu ta đã vượt qua phong ấn một cách rất dễ dàng, tâu Bệ hạ."
 
-"Trời ạ... Vậy đó có phải là nơi duy nhất chàng trai trẻ đó đã ghé thăm không?"
+"Trời đất... Vậy đó có phải là nơi duy nhất cậu ta đột nhập không?"
 
-Khi nhà vua hỏi cô điều đó, Felmenia khựng lại một khoảnh khắc và lắc đầu. Nắm bắt được tình hình nghiêm trọng đến mức nào, cô ngần ngại đưa ra câu trả lời của mình.
+Trước câu hỏi của đức vua, Felmenia ngập ngừng một lát rồi lắc đầu. Hiểu rõ mức độ nghiêm trọng của vấn đề, cô ngần ngại báo cáo tiếp.
 
-"Suimei-dono cũng đã và đang đi vào và đi ra khỏi gian phòng nghi lễ, tâu Bệ hạ."
+"Suimei-dono còn tự ý ra vào cả gian phòng nghi lễ nữa, tâu Bệ hạ."
 
-"Vô lý... Những người duy nhất biết phép thuật để bước vào là bản thân ta, cô, và các cung đình ma đạo sĩ khác."
+"Vô lý... Bí pháp để vào đó chỉ có ta, ngươi, và các ma đạo sư cung đình khác biết mà thôi."
 
-"Thần hiểu, tâu Bệ hạ, nhưng thần tin rằng Suimei-dono đã có thể mở cửa thông qua một loại mưu mẹo nào đó."
+"Hạ thần hiểu rõ điều đó, tâu Bệ hạ. Nhưng hạ thần tin Suimei-dono đã mở được cửa nhờ một mánh khóa nào đó."
 
-Với những từ ngữ đó, một sự im lặng áp đảo rơi xuống phòng diện kiến. Không có gì ngạc nhiên. Gian phòng nghi lễ được thiết kế và xây dựng đặc biệt để ngăn chặn sự truy cập trái phép. Cánh cửa đó đã được phong ấn bằng ma thuật thuộc tính Đất phức tạp đến mức ngay cả một chuyên gia trong thuộc tính đó cũng khó có thể nắm bắt được. Ở một mức độ nào đó, bản thân điều đó cho họ một cái nhìn lướt qua về khả năng của Suimei như một ma đạo sĩ. Và trong trường hợp đó, nó không cần phải nói ý nghĩa của điều đó là gì.
+Bầu không khí trong phòng diện kiến lập tức chìm vào sự im lặng đáng sợ. Căn phòng nghi lễ vốn được thiết kế đặc biệt để ngăn chặn sự xâm nhập trái phép. Cánh cửa phòng được phong ấn bằng ma pháp thuộc tính Đất phức tạp đến mức ngay cả một đại sư chuyên về đất cũng khó lòng giải mã. Việc này phần nào hé lộ năng lực ma pháp đáng gờm của Suimei. Và nếu vậy, ai cũng hiểu rõ mức độ nguy hiểm của vấn đề.
 
-"Cậu ta đã làm gì... có lẽ là một câu hỏi ngu ngốc... Chàng trai trẻ đó đã điều tra ma pháp trận triệu hồi, đúng không?"
+"Cậu ta đã làm gì ở đó... Ta hỏi thật thừa thãi... Cậu ta đang điều tra ma pháp trận triệu hồi đúng không?"
 
-"Trông nó không giống như vậy đối với thần chút nào, nhưng cân nhắc các hoàn cảnh, thần tin rằng đó là mục tiêu của cậu ấy, tâu Bệ hạ."
+"Dù cách làm của cậu ta trông chẳng giống như đang điều tra, nhưng xâu chuỗi mọi việc lại, hạ thần tin đó chính là mục tiêu của cậu ta, tâu Bệ hạ."
 
 ---
 

@@ -20,7 +20,7 @@
 | # | Tiếng Anh | Tiếng Việt | Ghi chú |
 |---|-----------|------------|---------|
 | 1 | Suimei Yakagi / Yakagi Suimei | Suimei Yakagi / Bát Mộc Thủy Minh | Nam chính, Ma đạo sĩ hiện đại (Modern Thaumaturge/Magician) |
-| 2 | Felmenia Stingray / Menia | Felmenia Stingray / Phỉ Nhĩ Mễ Ni Á / Menia | Cung đình ma đạo sĩ Vương quốc Astel, biệt danh "Bạch Hoả" |
+| 2 | Felmenia Stingray / Menia | Felmenia Stingray / Phỉ Nhĩ Mễ Ni Á / Menia | Ma đạo sư cung đình Vương quốc Astel, biệt danh "Bạch Hoả" |
 | 3 | Reiji Shodai / Shodai Reiji | Reiji Shodai / Tiêu Đại Linh Nhị | Bạn thân Suimei, Dũng sĩ (Hero) được triệu hồi |
 | 4 | Mizuki Anoh / Anoh Mizuki | Mizuki Anoh / A Dã Thủy Cơ | Bạn cùng lớp Suimei & Reiji |
 | 5 | Titania Root Astel / Tia | Titania Root Astel / Đế Tháp Ni Á / Tia | Nhị công chúa Vương quốc Astel |
@@ -30,8 +30,8 @@
 | 9 | Gless Dillez | Tể tướng Gless Dillez | Tể tướng Vương quốc Astel |
 | 10 | Nakshatra | Ma Vương Nakshatra | Thủ lĩnh quân đoàn ma quỷ đe dọa dị giới |
 | 11 | Hydemary Alzbayne | Hydemary Alzbayne | Ma đạo sĩ Hội Ma Đạo Sĩ (Trái Đất), bạn chiến hữu của Suimei |
-| 12 | Lord Kran / Kran / Sebastian Kran | Sebastian Kran | Cung đình ma đạo sĩ gian trá thao túng Golem hãm hại Felmenia |
-| 13 | Lord Malfous / Malfous | Malfous | Cung đình ma đạo sĩ Vương quốc Astel |
+| 12 | Lord Kran / Kran / Sebastian Kran | Sebastian Kran | Ma đạo sư cung đình gian trá thao túng Golem hãm hại Felmenia |
+| 13 | Lord Malfous / Malfous | Malfous | Ma đạo sư cung đình Vương quốc Astel |
 | 14 | Gamei Hitsuji | Gamei Hitsuji | Tác giả nguyên tác |
 | 15 | himesuz | himesuz | Họa sĩ minh họa |
 | 16 | Hana kara Gyuniku | Hana kara Gyuniku / Thịt bò từ mũi | Bút danh cũ của tác giả trên Syosetsu |
@@ -74,7 +74,7 @@
 | # | Tiếng Anh | Tiếng Việt | Phân loại | Ghi chú |
 |---|-----------|------------|-----------|---------|
 | 1 | Modern Thaumaturgy / Modern Magic | Ma thuật Hiện đại / Ma đạo thuật | Hệ thống | Huyền học ma thuật khoa học & cổ xưa ở Trái Đất |
-| 2 | Otherworld Magic / Elemental Magic | Ma pháp Dị giới / Ma pháp Thuộc tính | Hệ thống | Ma pháp sơ khai dựa trên hệ thống thuộc tính ở dị giới |
+| 2 | Otherworld Magic / Elemental Magic | Ma pháp Dị giới / Ma pháp Nguyên tố | Hệ thống | Ma pháp sơ khai dựa trên hệ thống nguyên tố ở dị giới |
 | 3 | Magician / Thaumaturge | Ma đạo sĩ / Thuật sĩ | Thân phận | Người nghiên cứu và sử dụng Ma thuật Hiện đại |
 | 4 | Mage / Sorcerer | Pháp sư / Ma đạo sĩ dị giới | Thân phận | Người dùng ma pháp ở dị giới |
 | 5 | White Flame | Bạch Hoả (White Flame) | Chiêu thức | Ma pháp lửa nhiệt độ cao đỉnh cao của Felmenia |

@@ -15,7 +15,7 @@
 | **Suimei - Felmenia (Giai đoạn 1: Trước chiến đấu)** | Suimei -> Felmenia | Cô / Cô Felmenia | Xã giao, nghi vấn |
 | | Felmenia -> Suimei | Cậu / Cậu Suimei | Nghi ngờ, coi thường |
 | **Suimei - Felmenia (Giai đoạn 3: Sau vụ Sebastian & Apparition - Chương 4 & Epilogue II)** | Suimei -> Felmenia | Cô / Menia | Thân mật hơn, xưng Menia theo nguyện vọng của cô |
-| | Felmenia -> Suimei | Ngài Suimei / Suimei-dono (Thần / Tôi) | Tôn kính tuyệt đối, thẹn thùng, thừa nhận tình yêu dành cho Suimei, từ chức Cung đình Ma đạo sĩ để chuẩn bị lên đường đuổi theo cậu |
+| | Felmenia -> Suimei | Ngài Suimei / Suimei-dono (Thần / Tôi) | Tôn kính tuyệt đối, thẹn thùng, thừa nhận tình yêu dành cho Suimei, từ chức Ma đạo sư cung đình để chuẩn bị lên đường đuổi theo cậu |
 | **Suimei - Công chúa Titania (Từ Chương 4)** | Suimei -> Titania | Cô / Tia | Bạn thân, xưng hô thân mật |
 | | Titania -> Suimei | Cậu / Suimei / Tôi | Bạn thân thiết, đề nghị xưng hô Tia |
 | **Felmenia - Vua Almadious** | Felmenia -> Vua | Thần / Hạ thần / Bệ hạ | Cung đình / Quý tộc phụng sự |
@@ -24,8 +24,14 @@
 | | Titania -> Reiji | Ngài Reiji / Dũng sĩ-dono / Reiji-sama | Thành kính, mến mộ, gửi gắm hy vọng |
 | **Reiji - Felmenia** | Reiji -> Felmenia | Cô / Felmenia-sensei / Felmenia-san | Học trò đối với người hướng dẫn ma pháp |
 | | Felmenia -> Reiji | Dũng sĩ-dono / Hero-dono | Tôn trọng Dũng sĩ triệu hồi |
+| **Felmenia - Mizuki** | Felmenia -> Mizuki | Mizuki-dono | Tôn trọng bạn học của Dũng sĩ |
+| | Mizuki -> Felmenia | Cô | Tôn trọng người hướng dẫn |
+| **Titania - Felmenia** | Titania -> Felmenia | Bạch Hỏa-dono | Nhị công chúa đối với Ma đạo sư cung đình |
+| | Felmenia -> Titania | Điện hạ / Tâu Điện hạ (Thần) | Ma đạo sư cung đình đối với hoàng tộc |
 | **Suimei - Alexis (Ngoại truyện)** | Suimei -> Alexis | Cô / Alexis | Đối thủ phiền phức, bạn xấu |
 | | Alexis -> Suimei | Ngươi / Starlight (Ánh Sao) | Oan gia, đơn phương thầm thích, chèo kéo về Hiệp sĩ đoàn |
+| **Quý tộc / Ma đạo sư - Người hầu** | Quý tộc -> Người hầu | Ta / Ngươi (hoặc Cô) | Bề trên đối với gia nhân |
+| | Người hầu -> Quý tộc | Ngài / [Tên]-sama (Hạ nhân) | Gia nhân đối với bề trên |
 
 ---
 
