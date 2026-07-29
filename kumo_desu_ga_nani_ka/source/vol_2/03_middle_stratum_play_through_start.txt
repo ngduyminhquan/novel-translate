@@ -1,0 +1,498 @@
+--- PAGE 58 ---
+ MIDDLE STRATUM PLAY-THROUGH,
+START!
+I’m here in the Middle Stratum! Yay!
+Today I’m gonna start exploring it! Yay!
+I haven’t perfected my long-range attack or my anti-heat measures yet, but
+here I go anyway! Yay!
+Ugh… No way can I do this unless I hype myself up about it somehow.
+It’s been several days since I first discovered the Middle Stratum.
+In the meantime, I’ve been training my skills, and I’ve gotten pretty
+strong.
+This is what my status looks like now.
+<Small poison taratect LV 5 Nameless
+Status: HP: 57/83 (green) MP: 181/181 (blue)
+ SP: 51/82 (yellow) 
+2UP       : 82/82 (red) 2UP
+ Average Offensive Ability: 92 Average Defensive Ability: 92
+ Average Magical Ability: 135 Average Resistance Ability: 168
+ Average Speed Ability: 830 1UP
+Skills:    
+[HP Auto-Recovery LV
+5]
+[MP Recovery Speed
+LV 3]
+[MP Lessened
+Consumption LV 2]
+[SP Recovery Speed LV
+2]
+[SP Lessened
+Consumption LV 3
+1UP]
+[Destruction
+Enhancement LV 1]
+[Cutting Enhancement
+LV 1]
+[Poison Enhancement
+LV 1]
+[Mental Warfare LV 1] [Energy Conferment LV [Deadly Poison Attack [Poison Synthesis LV 7]
+
+--- PAGE 59 ---
+2] LV 3]
+[Threadsmanship LV 3] [Spider Thread LV 9] [Cutting Thread LV 6] [Thread Control LV 8]
+[Throw LV 6] [Hit LV 7] [Evasion LV 3] [Spatial Maneuvering
+LV 3]
+[Stealth LV 7] [Concentration LV 9] [Prediction LV 8] [Parallel Thinking LV 4]
+[Arithmetic Processing
+LV 6]
+[Appraisal LV 8] [Detection LV 6] [Heretic Magic LV 3]
+[Shadow Magic LV 2] [Poison Magic LV 2] [Abyss Magic LV 10] [Destruction Resistance
+LV 1]
+[Impact Resistance LV
+2]
+[Cutting Resistance LV
+3]
+[Fire Resistance LV 1] [Dark Resistance LV 1]
+[Deadly Poison
+Resistance LV 2]
+[Paralysis Resistance
+LV 3]
+[Petrification Resistance
+LV 3]
+[Acid Resistance LV 4]
+[Rot Resistance LV 3] [Faint Resistance LV 2] [Fear Resistance LV 7
+1UP]
+[Heresy Resistance LV
+3]
+[Pain Nullification] [Pain Mitigation LV 7] [Vision Enhancement
+LV 8]
+[Night Vision LV 10]
+[Vision Expansion LV
+2]
+[Auditory Enhancement
+LV 8]
+[Olfactory Enhancement
+LV 7]
+[Taste Enhancement LV
+4]
+[Tactile Enhancement
+LV 6]
+[Life LV 7] [Magic Mass LV 8] [Instantaneous LV 8
+1UP]
+[Persistent LV 8 1UP] [Herculean Strength LV
+3]
+[Sturdy LV 3] [Protection LV 3]
+[Skanda LV 3] [Pride] [Overeating LV 7] [Hades]
+[Taboo LV 4] [n% I = W]
+Skill Points: 180
+   >
+Man, I really have gotten pretty strong.
+I’ve got quite a few new skills, too.
+Since my beloved Appraisal has started displaying a list of skills I haven’t
+acquired yet, I’ve been setting my sights on anything that seems decent, then
+doing things related to that skill to earn proficiency and acquire it naturally.
+So now my repertoire has increased considerably, including some
+additions I’ve had my eye on for a long time.
+Though this is all probably thanks to the huge effect of Pride.
+I collected all the MP- and SP-related skills.
+Namely, Recovery Speed and Lessened Consumption.
+
+--- PAGE 60 ---
+Recovery Speed, of course, quickens natural recovery, and Lessened
+Consumption reduces the amount used.
+SP Lessened Consumption seems to work on both red and yellow stamina,
+too.
+Specifically, my red total stamina has gotten harder to reduce, and my
+yellow stamina decreases less when I’m running.
+I also randomly got a new skill called Spatial Maneuvering.
+I think because I built a home near the ceiling, I got the skill climbing up
+and down the wall.
+As a result, I can jump around and stuff now.
+I don’t need that, though. I was already able to do those things…
+I guess I’ll explain the rest of the skills as they come.
+Anyway, the little UP markers seem to indicate skills that have changed
+since the last time I looked at my Appraisal results.
+This time, SP Lessened Consumption, Fear Resistance, Instantaneous, and
+Persistent all improved.
+Instantaneous and Persistent are the SP version of Strength and that type
+of skill, with the former working on yellow SP and the latter on red SP.
+Looks like my speed and SP stats rose, too.
+In the past few days, I’ve figured out that, like skills, stats can actually
+increase outside of leveling up if I focus on training them.
+This discovery came to me when I was running around to increase my
+Skanda skill and saw that my speed stat had also gotten better.
+Why didn’t my stats make any progress before when I was being chased
+around by monsters and stuff? I probably didn’t run enough, or my growth
+rate has increased because of Pride.
+It’s too hard to tell which is responsible, but one thing I can say for sure is
+that Pride is definitely working.
+Since I constantly have Appraisal active, the display of an UP symbol
+must mean that the skill or stat in question increased very recently.
+The UP display automatically disappears a little while after I’ve seen it,
+which means the skills and stats that rose this time must be due to whatever
+decisive action I just took.
+Heh-heh-heh. It’s pretty amazing how much my skills and stats grew in
+one go, right?
+Well, yeah.
+
+--- PAGE 61 ---
+That’s ’cause I was running at top speed. For my life.
+<Earth dragon Kagna LV 26  
+Status: HP: 4,198/4,198 (green) MP: 3,339/3,654 (blue)
+SP: 2,798/2,798 (yellow)       : 2,995/3,112 (red)
+Status Appraisal Failed
+  >
+It’s a dragon.
+Compared with the one I saw before, earth dragon Araba, this one comes
+off as a bit short and stout. And apparently, it’s more powerful to match.
+Its wings are different from Araba’s.
+The guy totally appeared out of nowhere.
+Just as I was getting ready to go hunting like usual, my home was
+suddenly blown away behind me.
+The aftershock alone was enough to send me tumbling, and then I caught
+sight of the earth dragon on the edge of my vision.
+After that, I ran away at top speed, fleeing into the Middle Stratum, which
+is the real reason I’m here now.
+Ha-ha-ha. Yeah, I desperately ran for my life, all right.
+But at least that desperation was enough to raise my skills and stats!
+Anyway, damn, what is it with dragons and destroying my spiderwebs on
+sight?
+That’s so scary.
+Was the Lower Stratum actually an earth dragon den all along and I just
+never noticed?
+That’s even scarier.
+No, no, no. There’s no way there can be that many of those awful things
+just hanging around.
+Now I’m remembering the glimpse I got of the beast’s status Appraisal.
+It was all four-digit numbers. That’s just ridiculous. There’s no way I can
+beat that.
+On top of that, even after it used a powerful attack that destroyed my
+entire home, its MP and SP were barely even diminished.
+In other words, it could attack like that endlessly if it wanted to.
+
+--- PAGE 62 ---
+I can’t deal with that. What a horrifying monster. Earth dragons are scary.
+Still, though, that one was different from the earth dragon Araba that I
+saw before.
+While this one’s level was lower, I wasn’t able to Appraise Araba, so I
+don’t know which is stronger.
+But regardless, it’s not like I’d stand a chance against either of them, so I
+guess it doesn’t matter.
+I wonder if there’s some kind of connection between them, since they’re
+both called earth dragons?
+Maybe they started out as the same species and evolved apart or
+something?
+Ooh, that could be it.
+Dragons are like the definition of a superior race, so it wouldn’t be
+surprising if they had a wide variety of evolutionary options.
+Otherwise, maybe each earth dragon is its own unique species? That could
+be it, too.
+Like, there are only a few because of how elite they are, but each
+individual is hyper-strong? That kind of thing.
+I mean, “hyper-strong” doesn’t even begin to cover it.
+If that’s the case, then it’s likely my odds of running into more are pretty
+low, at least…
+No, wait a second.
+That would mean that I’ve now been attacked twice by creatures I should
+have an extremely low chance of ever meeting.
+Does that mean I just have ridiculously bad luck?
+Th…th-th-th-that can’t be it, r-r-r-right…?
+I’ve had plenty of near-death encounters before, but I always survive in
+the end, so that means I’m lucky, probably.
+Hold on a second. Wouldn’t someone lucky avoid flirting with death so
+many times in the first place?
+Hmm?
+…Forget it. I shouldn’t think about this anymore.
+Really, I escaped by the skin of my fangs that time. It’s a good thing I’d
+already been about to leave.
+I haven’t quite shaken this streak of bad luck yet.
+Yeah, let’s go with that.
+
+--- PAGE 63 ---
+Please, someone tell me I’m right.
+<Proficiency has reached the required level. Skill [Prediction LV 8] has become [Prediction
+LV 9].>
+Hey, nobody asked you!!
+What’s with the too-perfect timing?!
+Were you waiting for your chance to jump on me like that?!
+You think you’re some kind of comedian, do you, Divine Voice (temp.)?!
+Whew. Okay, I got a little worked up over nothing there.
+Yeah. I’m just gonna ignore the absurdly ominous beginning and start
+slowly working my way through the Middle Stratum.
+I definitely want to put as much distance between me and that earth
+dragon as possible.
+Anyway, let’s check in on the current situation.
+I’m surrounded on either side by boiling hot magma. The ratio of land to
+magma is more or less the same.
+Still, I kinda just charged ahead in a panic. I wonder if I’m going the right
+way?
+Well, I have no way of knowing, so I may as well just carry on like this.
+So thanks to the aftershock from the earth dragon’s attack and the fact that
+I kept running far past my limits, my HP’s been reduced a bit.
+Not by very much, but because the heat around here’s constantly causing
+enough damage to cancel out my HP recovery, I don’t think I can expect to
+rebound anytime soon.
+I was able to acquire Fire Resistance by traveling back and forth between
+the Middle and Lower Stratum, at least, but it’s still only level 1.
+As of now, with Fire Resistance at level 1 and HP Auto-Recovery at level
+5, I can break even with the heat’s drain on my HP.
+Which is great, but it also means that if I incur any additional injuries, it’ll
+be hard to patch myself up.
+My only options are either making a full recovery by leveling up or
+raising one of these skill levels so my healing outpaces the rate of damage I
+receive from environmental hazards.
+
+--- PAGE 64 ---
+But since the magma is so close by now, there’s also the dreaded
+possibility that the heat damage may get a leg up, instead.
+I’d like to avoid such hot places if possible, but what can I do?
+Judging by the stratums I’ve visited so far, it’s probably best to assume
+the Middle Stratum is also pretty massive.
+This is the biggest labyrinth in the world, after all.
+It connects two continents and everything, so it could easily take days to
+traverse the Middle Stratum.
+I’ve got a long ways ahead of me, but I was forced to start this journey in
+quite a rush. Not a good sign.
+Oh well, guess I better keep going.
+Whew. Sure is hot, though.
+Ever since I was reborn as a spider, I’ve lived in a pretty comfortable
+temperature. It was never too hot or too cold, y’know?
+Having the environment suddenly change on me like this is a huge
+downer.
+It’s not so bad that I can’t bear it, since I practiced coming here to get the
+Fire Resistance skill and all, but still…
+I can barely even stand the thought that the entire Middle Stratum is
+probably gonna be like this. Ugh.
+Especially for my poor feet.
+I mean, magma’s flowing right there!
+Of course the ground’s blazing hot.
+Asphalt heated by the summer sun doesn’t even compare.
+Forget frying an egg on the ground. In this place, it’d burn right up.
+And I’m walking barefoot out here!
+It’s so hot, it’s actually quite painful.
+I wouldn’t be able to do this without Pain Mitigation and HP Auto-
+Recovery.
+Oh, hey, a monster.
+<Elroe gunerush LV 5  
+Status: HP: 159/159 (green) MP: 145/148 (blue)
+ SP: 145/145 (yellow)       : 116/145 (red)
+ Average Offensive Ability: 83 Average Defensive Ability: 81
+
+--- PAGE 65 ---
+ Average Magical Ability: 79 Average Resistance Ability: 77
+ Average Speed Ability: 88  
+ Status Appraisal Failed  
+  >
+Heh-heh-heh. Now that Appraisal’s leveled up more, I can even see the
+enemy’s attack power and stuff!
+Ahhh, this rules!
+Although, the success rate still isn’t very high…
+That’s the same kind of monster I saw when I first arrived in the Middle
+Stratum.
+The sea-horse-looking thing.
+Just like the one I spotted on the first day, my quarry is swimming in
+magma. Unreal.
+It doesn’t seem to have noticed me yet, so I’m kinda tempted to just
+ignore it, but I have to pass right by it.
+What should I do? Hmm…
+Oh. While I was busy worrying about it, I guess it noticed me.
+Like last time, a fireball launches from the magma.
+Yaaah! I dodged it.
+Hmph. That isn’t fast enough to hit me.
+There was a time when I couldn’t even dodge those frogs’ spit attacks, but
+I’m way stronger now—my speed’s gotten much higher, and I have the
+Evasion skill and everything.
+Now I have godlike agility that would be the envy of any game character!
+Even if a single hit would reduce me to cinders with my paper-thin
+defense, that doesn’t matter if I never get hit!
+Still, though…
+Neither of us has the upper hand at this rate.
+I mean, those fireballs aren’t gonna hit me.
+But since I can’t use my threads here, I have no way of attacking him.
+It’s a stalemate.
+Oh, wait. The other guy’s about to run out of MP. Those fireballs
+apparently use a lot of it.
+So once its MP is exhausted, it won’t be able to shoot any more fireballs.
+Appraisal really is like cheating. I mean, I know all my opponent’s info
+
+--- PAGE 66 ---
+while we’re fighting.
+All right, avoided the last fireball. With that, he’s out of MP.
+The sea horse’s next move will change the course of this battle, but how?
+Oh, it crawled out of the magma.
+And it’s charging me.
+What an idiot. If I ran out of MP, I’d be making a strategic retreat right
+away.
+From my point of view, the rush is suuuper slow, so I slip by it easily.
+Then I attach myself to the sea horse’s back, piercing it with a poisoned
+claw.
+Now that I mention it, this thing’s body is crazy hot! My HP’s even gone
+down a little! My precious HP!
+Well at any rate, the deadly poison killed the sea horse in no time flat.
+Phew. I managed to win my first match.
+Fireballs streak past me, tracing arcs through the air.
+Two at once. But even then, dodging them is simple.
+Glancing ahead, I see two sea horses.
+Apparently, this place is just crawling with them.
+They don’t flock together—they just wander around individually doing as
+they please. Still, once in a while, they happen to end up close to one another
+and attack me simultaneously.
+Well, as long as they’re not gonna swarm me like those monkeys, it’s no
+problem.
+I evade another pair of flying fireballs.
+They don’t cooperate very well, probably because they’re normally pretty
+solitary. It’s like they’re launching fireballs at random.
+If they weren’t, this might actually be a hard fight.
+All I have to do is avoid getting hit, but on the flipside, if I do get
+tagged…
+I’m vulnerable to fire, so if one of those attacks lands, I doubt I’ll get off
+with minor scrapes and bruises.
+On top of that, shuffling around the missiles is simple on its own, but I’m
+doing it in the middle of a magma field.
+If I accidentally fall in, I’m sure my body wouldn’t even catch fire. It’d
+
+--- PAGE 67 ---
+just melt.
+So even as I avoid the fireballs, I have to keep a close eye on the ground
+beneath my feet.
+It feels like I’m down to my last heart in a bullet hell game.
+Except this is my real life on the line.
+It really sucks that I don’t have a way to fight back right now.
+As soon as I produce thread, it just burns up and disappears, especially
+now that I’m so close to the magma.
+So while they can attack me as much as they like, all I can do is dodge.
+Like a fish in a barrel.
+But that’s just until they run out of MP.
+Once that happens, the sea horses climb ashore.
+That’s right. They opt to abandon their advantageous position and put
+themselves on my level voluntarily.
+What gentlemen. What idiots. What meatheads.
+Even now, the first sea horse has run out of MP and is ambling toward
+me.
+I quickly pack a claw with poison and finish it off.
+It helps that I gained the new skills Destruction Enhancement and Cutting
+Enhancement in my earlier quest for knowledge.
+Destruction Enhancement, as the name implies, increases my destructive
+power. The meaning is a bit vague, but I’m assuming it’s a skill that
+generally increases my attack power.
+Cutting Enhancement is the same sort of thing, just limited to slashing
+attacks.
+The second sea horse crawls out of the magma with perfect timing, so I
+finish it off the same way.
+<Experience has reached the required level. Individual small poison taratect has increased
+from LV 5 to LV 6.>
+<All basic attributes have increased.>
+<Skill proficiency level-up bonus acquired.>
+<Proficiency has reached the required level. Skill [Poison Enhancement LV 2] has become
+[Poison Enhancement LV 3].>
+<Proficiency has reached the required level. Skill [Evasion LV 3] has become [Evasion LV
+4].>
+
+--- PAGE 68 ---
+<Skill points acquired.>
+Ooh! I leveled up!
+I’m extra-grateful for this, since my HP has gotten a bit low. After I finish
+molting, my HP is fully recovered.
+I can beat those sea horses pretty easily, but if I make contact with their
+bodies, I take damage.
+It’s not a big deal with one or two, but after I fight a bunch of them, it
+starts adding up dangerously.
+Since leveling up is my only way of healing right now, I’d rather not incur
+any other injuries, no matter how small.
+By the way, they cool down after a little while, so I wait for that to happen
+before eating them.
+It’d be great if my Fire Resistance or HP Auto-Recovery advanced with
+that last level-up, but of course, the world’s not so kind.
+Fire Resistance is still level 1, and HP Auto-Recovery hasn’t improved,
+either.
+Well, it’s no surprise that Fire Resistance isn’t making any progress. It
+seems like my species is naturally vulnerable to fire, so there’s no chance I
+overcome that in a single day.
+And HP Auto-Recovery is such a handy skill, it naturally takes a long
+time to grow.
+I mean, automatic recovery is an ability you wouldn’t normally have until
+near the end of a game anyway.
+I’m lucky I was able to get it without spending any skill points. It’s
+probably too much to ask for it to level up quickly, too.
+I have to remember that just having it at all is a godsend.
+In fact, without HP Auto-Recovery, I couldn’t have even considered a trip
+through the Middle Stratum.
+I mean, how could I?
+Entering an area where you constantly take damage without an auto-
+recovery skill would be a suicide mission.
+I’m not interested in committing suicide, so without HP Auto-Recovery,
+I’d probably still be puttering around in the Lower Stratum looking for
+another shaft to climb up.
+
+--- PAGE 69 ---
+In the Lower Stratum with those dragons? No waaay. I’d be dead in no
+time.
+I’m actually making fairly smooth progress in clearing the Middle
+Stratum.
+I’ve run into a few other kinds of monsters besides those sea horses, but
+none of them were a big deal.
+If I wasn’t at a disadvantage in this terrain, I could beat all of them easily.
+However, the handicap I have here is pretty inconvenient.
+First of all, the magma. What a pain.
+If I’m facing a monster that’s immersed in the magma, all I can do is
+throw rocks.
+Since I have the Throw skill and all, I thought I’d try imitating those
+monkeys, but it doesn’t do much damage at all.
+Ultimately, unless the enemy comes ashore, I basically can’t do a thing.
+It’d be fine if every monster acted like the sea horses and made landfall as
+soon as they ran out of MP, but some simply stay in the magma or run away.
+The worst are the ones that start out on land but duck into the magma
+when I have them where I want them.
+And not being able to use my silk is rather stressful.
+This is right after I got the Threadsmanship skill, too, which increases the
+power of any thread-related moves…
+I can at least pick up rocks and toss them with my silk, but if it’s out for
+too long, it catches fire even on relatively safe ground.
+The real problem’s the thread that I often produce unconsciously.
+Whenever I move, I automatically spin silk, but in the Middle Stratum, it
+ignites.
+The lit thread acts like a fuse, until even my backside starts getting hot.
+It definitely freaked me out the first time. There was literally a fire lit
+under my butt.
+My HP went down quite a few points from that, and using Poison
+Synthesis to put it out lowered my HP even more.
+I mean, that was the only thing I could think of to put out a fire.
+In the end, my only choice is to keep severing the thread as I produce it.
+I have to do something, or it’ll turn into a real pain in the ass. Literally.
+
+--- PAGE 70 ---
+Bedding is a problem, too.
+If I try to build a web here, it’ll undoubtedly go up in flames and take me
+with it.
+So I decide to make do and sleep in the shadows of some rocks.
+Not that I can really sleep anyway.
+Not in this hellscape, where I’m always passively taking damage and have
+to stay on the alert for monsters.
+I may be bold, but even I have my limits.
+Even so, I still have to sleep.
+I’m not sleeping very often, as you might imagine, but I’ve been trying to
+rest whenever I find an appropriate hiding place.
+But even though this area is worse than the Lower Stratum in a lot of
+ways, the one silver lining is that the monsters are much weaker.
+In terms of threat, they’re not far removed from those found in the Upper
+Stratum.
+There are probably some relatively strong monsters here, like the snakes
+that live in the regions above, but so far, all the creatures I’ve encountered
+have been no big deal.
+The largest difference between the threats here and in the Upper Stratum
+is the way they use their environment.
+That’s what makes these normally weak monsters dangerous.
+Since I don’t have much in the way of recovery options, just getting
+grazed by an attack could put me in serious trouble.
+Besides, they’ve all been rather manageable so far because they’re so
+puny, but it’s still possible that there could be some Lower Stratum–class big
+game here, too.
+The terrain alone is a challenge for me, so if that sort of opponent
+appears…
+Well, I just have to hope there aren’t any.
+Man, if only I could use magic, it’d turn this whole thing around.
+But to use magic, I have to quell Detection, which might be an even more
+formidable enemy than this god-awful terrain.
+In any event, I’m not likely to solve either problem anytime soon.
+Aaargh, I really wanna use magic!
+
